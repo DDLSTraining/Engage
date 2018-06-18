@@ -1,6 +1,6 @@
 # Classroom Setup
 
-## MIA-CL1 Virtual Machine
+## MIA-CL1 Virtual Machine 🖥️
 
 1. Open `Virtual Machine Settings` via `Hyper-V Manager`.
 1. Adjust the `Processor Count` to `4`.
@@ -8,7 +8,7 @@
 1. Set the `Network Adapter` to the `External` virtual switch.
 1. Click `OK`.
 
-## MIA-CL1 Network
+## MIA-CL1 Network 🖧
 
 1. Connect to the `MIA-CL1` virtual machine via `Hyper-V Manager`.
 1. Login with username `Student` and password `Pa55w.rd`.
@@ -24,7 +24,7 @@
 1. Write down the `IP address` of `MIA-CL1`.
 1. Close the `Connect` window.
 
-## MIA-CL1 Desktop
+## MIA-CL1 Desktop 🗔
 
 1. On the host desktop open `Remote Desktop Client` from the `Start Menu`
 1. Connect to `MIA-CL1` via its `IP address`.
@@ -41,13 +41,13 @@
    * E:\Labfiles
    * E:\Modules
 
-## Class Email Address
+## Class Email Address 📧
 
 1. Open [Outlook.com](https://outlook.live.com/owa/).
 1. Create a new `Outlook.com` account. Use your last name with the date eg: carthew20180618@outlook.com
 1. Use this email address to create your Azure account.
 
-## Azure Account
+## Azure Account ⚿
 
 1. Open one of the links below and create your Azure account:
    * Azure Pass: https://www.microsoftazurepass.com/
