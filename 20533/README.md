@@ -2,8 +2,10 @@
 
 ## Table of Contents
 
-* [Setup](/Setup.md)
-* [Resources](/Resources.md)
+* [Setup](/20533/Setup.md)
+* [Resources](/20533/Resources.md)
+
+## Lab Notes
 
 * Use `East US` region for all labs.
 * Use one of the following virtual machine sizes if prompted:
