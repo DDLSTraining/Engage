@@ -1,5 +1,9 @@
 # Course Notes for 20533
 
+## Table of Contents
+
+* [Setup](/Setup.md)
+* [Resources](/Resources.md)
 
 * Use `East US` region for all labs.
 * Use one of the following virtual machine sizes if prompted:
