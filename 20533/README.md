@@ -1,4 +1,4 @@
-# Course Notes for Azure 20533 ☁️
+# Course Notes for Azure 20533
 
 ## Table of Contents 📄
 
