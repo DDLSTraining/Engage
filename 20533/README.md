@@ -1,5 +1,7 @@
 # 20533 - Course Notes
 
+[Implementing Microsoft Azure Infrastructure Solutions](https://www.microsoft.com/en-au/learning/course.aspx?cid=20533)
+
 ## Table of Contents 📄
 
 * [Setup](/20533/Setup.md)
