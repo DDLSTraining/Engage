@@ -1,4 +1,4 @@
-# 20533 - Implementing Microsoft Azure Infrastructure Solutions
+# 20533 - Course Notes
 
 ## Table of Contents 📄
 
