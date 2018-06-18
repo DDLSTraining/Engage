@@ -1,2 +1,3 @@
-# notes-course
-Training course notes and files
+# Training Course Notes
+
+This repository holds course notes and files.
