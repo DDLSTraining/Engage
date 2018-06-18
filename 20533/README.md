@@ -1,11 +1,11 @@
 # Course Notes for Azure 20533 ☁️
 
-## 📄 Table of Contents
+## Table of Contents 📄
 
 * [Setup](/20533/Setup.md)
 * [Resources](/20533/Resources.md)
 
-## 🔬 Lab Notes
+## Lab Notes 🔬
 
 * [Microsoft 20533 GitHub Repository](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions)
 * Use `East US` region for all labs.
