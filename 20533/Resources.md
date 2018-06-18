@@ -4,7 +4,7 @@
 
 * [Azure on GitHub](https://github.com/Azure)
 * [Azure QuickStart Templates](https://github.com/Azure/azure-quickstart-templates)
-* [Azure Template Visualizer](https://github.com/Azure)
+* [Azure Template Visualizer](http://armviz.io/designer)
 
 ## Research
 
