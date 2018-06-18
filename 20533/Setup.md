@@ -51,7 +51,7 @@ The `MIA-CL1` desktop needs some final changes before we use it for labs:
    * E:\Labfiles
    * E:\Modules
 
-## Class Email Address 📧
+## Email Address 📧
 
 __Do not use your existing Microsoft accounts to work with the labs!__
 
