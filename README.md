@@ -2,6 +2,6 @@
 
 This repository holds course notes and files.
 
-## Table of Contents
+## Table of Contents 📄
 
-* Implementing Microsoft Azure Infrastructure Solutions
+* [Implementing Microsoft Azure Infrastructure Solutions 20533](/20533)
