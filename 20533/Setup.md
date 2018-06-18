@@ -43,7 +43,7 @@ The `MIA-CL1` desktop needs some final changes before we use it for labs:
 1. Set Firefox as the default browser.
 1. Open `PowerShell` as Administrator.
 1. Type `Update-Module -Name AzureRM -Force` and press enter.
-1. Obtain the [AllFiles](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions/tree/master/Allfiles) `ISO` file from the instructor.
+1. Obtain the [AllFiles](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions/tree/master/Allfiles) `ISO` file from the instructor. ([Free ISO Creator](http://www.minidvdsoft.com/download.html))
 1. On the host use Hyper-V `Connect` to mount the `ISO` file.
 1. Inside `MIA-CL1` copy the directories from the `ISO` file to the root of `E:` drive.
    * E:\Configfiles
