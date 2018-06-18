@@ -1,4 +1,4 @@
-# Azure Resources
+# 20533 Course Resources
 
 * [Microsoft 20533 GitHub Repository](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions)
 * [Gartner Hype Cycle](https://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
