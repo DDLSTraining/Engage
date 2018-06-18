@@ -4,9 +4,9 @@ Links to official and un-official documentation and news.
 
 ## Table of Contents 📄
 
-* [Azure Documentation](#azure-documentation)
-* [GitHub Resources](#github-resources)
-* [Research](#research)
+* [Azure Documentation](#azure-documentation-)
+* [GitHub Resources](#github-resources-)
+* [Research](#research-)
 
 ## Azure Documentation 📖
 
