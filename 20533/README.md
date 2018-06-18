@@ -7,6 +7,7 @@
 
 ## Lab Notes
 
+* [Microsoft 20533 GitHub Repository](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions)
 * Use `East US` region for all labs.
 * Use one of the following virtual machine sizes if prompted:
   * `Standard_D1_v2` - 1 Processor, 4GB RAM (Cheap)
