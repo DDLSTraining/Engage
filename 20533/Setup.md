@@ -1,14 +1,22 @@
-# Classroom Setup
+# Setup
+
+Configurations needed to work on the 20533 labs.
 
 ## MIA-CL1 Virtual Machine 🖥️
+
+Following are the steps to configure the `MIA-CL1` virtual machine:
 
 1. Open `Virtual Machine Settings` via `Hyper-V Manager`.
 1. Adjust the `Processor Count` to `4`.
 1. Adjust the `Memory` as needed (10240 MB).
 1. Set the `Network Adapter` to the `External` virtual switch.
 1. Click `OK`.
+1. Right Click `MIA-CL1` and select `Checkpoint`.
+1. Right Click `MIA-CL1` and select `Start`.
 
 ## MIA-CL1 Network 🖧
+
+Once `MIA-CL1` is running we need to configure the network:
 
 1. Connect to the `MIA-CL1` virtual machine via `Hyper-V Manager`.
 1. Login with username `Student` and password `Pa55w.rd`.
@@ -25,6 +33,8 @@
 1. Close the `Connect` window.
 
 ## MIA-CL1 Desktop 🗔
+
+The `MIA-CL1` desktop needs some final changes before we use it for labs:
 
 1. On the host desktop open `Remote Desktop Client` from the `Start Menu`
 1. Connect to `MIA-CL1` via its `IP address`.
@@ -43,11 +53,15 @@
 
 ## Class Email Address 📧
 
+__Do not use your existing Microsoft accounts to work with the labs!__
+
 1. Open [Outlook.com](https://outlook.live.com/owa/).
 1. Create a new `Outlook.com` account. Use your last name with the date eg: carthew20180618@outlook.com
 1. Use this email address to create your Azure account.
 
 ## Azure Account ⚿
+
+To create an Azure subscription you need to prove you are a person and an adult. This is done with a credit card. If you have been supplied with an Azure Pass you can avoid the need to use a credit card:
 
 1. Open one of the links below and create your Azure account:
    * Azure Pass: https://www.microsoftazurepass.com/
