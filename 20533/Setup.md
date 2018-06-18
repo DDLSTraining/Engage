@@ -33,6 +33,13 @@
 1. Set Firefox as the default browser.
 1. Open `PowerShell` as Administrator.
 1. Type `Update-Module -Name AzureRM -Force` and press enter.
+1. Obtain the [AllFiles](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions/tree/master/Allfiles) `ISO` file from the instructor.
+1. Using Hyper-V `Connect` on the host, mount the `ISO` file.
+1. Copy the directories from the `ISO` file to the root of E: drive.
+   * E:\Configfiles
+   * E:\Demofiles
+   * E:\Labfiles
+   * E:\Modules
 
 ## Class Email Address
 
