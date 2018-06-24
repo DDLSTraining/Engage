@@ -1,4 +1,4 @@
-# 20533 Course Resources
+# Azure Course Resources
 
 Links to official and un-official documentation and news.
 
