@@ -6,7 +6,7 @@ Configurations needed to work on the Azure labs.
 
 1. Go to [Skillpipe](https://skillpipe.com/en-GB/).
 1. Register or login with your account. If registering use a personal email address.
-1. Select `Add a book` and use the code given to you by the instructor.
+1. Select `Add a Course` and use the code given to you by the instructor.
 
 ## MIA-CL1 Virtual Machine 🖥️
 
