@@ -49,8 +49,9 @@ The `MIA-CL1` desktop needs some final changes before we use it for labs:
 1. Open Internet Explorer or Edge.
 1. Download and install Firefox.
 1. Set Firefox as the default browser.
-1. Open `PowerShell` as Administrator.
-1. Type `Update-Module -Name AzureRM -Force` and press enter.
+1. For the 20533 course only:
+   1. Open `PowerShell` as Administrator.
+   1. Type `Update-Module -Name AzureRM -Force` and press enter.
 1. Obtain the `AllFiles` ISO file from the instructor.
 1. On the host use `Hyper-V Manager` to connect to `MIA-CL1`.
 1. Use the `Media` menu in `Virtual Machine Connection` to mount the ISO file (insert disk).
