@@ -12,8 +12,8 @@ Notes and resources for the following Microsoft Azure official courses:
 
 ## Lab Notes 🔬
 
-* [20533 GitHub Repository](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions)
 * [10979 GitHub Repository](https://github.com/MicrosoftLearning/10979-MicrosoftAzureFundamentals)
+* [20533 GitHub Repository](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions)
 * Use `East US` region for all labs.
 * Use one of the following virtual machine sizes if prompted:
   * `Standard_D1_v2` - 1 Processor, 4GB RAM (Cheap)
