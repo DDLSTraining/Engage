@@ -52,7 +52,8 @@ The `MIA-CL1` desktop needs some final changes before we use it for labs:
 1. For the 20533 course only:
    1. Open `PowerShell` as Administrator.
    1. Type `Update-Module -Name AzureRM -Force` and press enter.
-1. Obtain the `AllFiles` ISO file from the instructor.
+1. Obtain the location of the `AllFiles` ISO file from the instructor.
+1. Copy the `AllFiles` ISO file to your `D:` drive.
 1. On the host use `Hyper-V Manager` to connect to `MIA-CL1`.
 1. Use the `Media` menu in `Virtual Machine Connection` to mount the ISO file (insert disk).
 1. Inside `MIA-CL1` copy the directories from the `ISO` file to the root of `E:` drive.
