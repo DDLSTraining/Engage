@@ -85,6 +85,16 @@ To create an Azure subscription you need to prove you are a person and an adult.
    * Trial Account (Credit Card Required): https://azure.microsoft.com/en-us/free/
 1. Follow the steps to create your Azure account.
 
+## Bookmarks
 
+Add the following bookmarks to your browser:
+
+* [Skillpipe](https://skillpipe.com/en-GB/)
+* [Azure Portal](https://portal.azure.com/)
+* [10979 GitHub Repository](https://github.com/MicrosoftLearning/10979-MicrosoftAzureFundamentals)
+* [20533 GitHub Repository](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions)
+* [This Repository](/Azure)
+
+_Note: Use private or incongnito browser window if you have issues with accounts being cached._ 
 
 
