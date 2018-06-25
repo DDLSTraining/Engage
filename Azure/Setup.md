@@ -25,6 +25,7 @@ Following are the steps to configure the `MIA-CL1` virtual machine:
 Once `MIA-CL1` is running we need to configure the network:
 
 1. Connect to the `MIA-CL1` virtual machine via `Hyper-V Manager`.
+1. Write down the user name for future reference.
 1. Login with the password `Pa55w.rd`
 1. Right Click the `Start Menu` and select `Network Connection`.
 1. Right Click the `Ethernet` network connection and select `Properties`.
@@ -44,8 +45,9 @@ Once `MIA-CL1` is running we need to configure the network:
 
 The `MIA-CL1` desktop needs some final changes before we use it for labs:
 
-1. On the host desktop open `Remote Desktop Client` from the `Start Menu`
+1. On the host desktop open `Remote Desktop Client` from the `Start Menu`.
 1. Connect to `MIA-CL1` via its `IP address`.
+1. Log in using the username noted previously and the password `Pa55w.rd`
 1. Open Internet Explorer or Edge.
 1. Download and install Firefox.
 1. Set Firefox as the default browser.
