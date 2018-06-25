@@ -95,6 +95,6 @@ Add the following bookmarks to your browser:
 * [20533 GitHub Repository](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions)
 * [This Repository](/Azure)
 
-_Note: Use private or incongnito browser window if you have issues with accounts being cached._ 
+_Note: Use a private or incongnito browser window if you have issues with accounts being cached._ 
 
 
