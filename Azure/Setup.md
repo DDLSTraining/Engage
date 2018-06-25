@@ -58,15 +58,15 @@ The `MIA-CL1` desktop needs some final changes before we use it for labs:
 1. Copy the `AllFiles` ISO file to your `D:` drive.
 1. On the host use `Hyper-V Manager` to connect to `MIA-CL1`.
 1. Use the `Media` menu in `Virtual Machine Connection` to mount the ISO file (insert disk).
-1. Inside `MIA-CL1` copy the directories from the `ISO` file to the root of `E:` drive.
+1. Inside `MIA-CL1` copy the directories from the `ISO` file to the root of `E:` drive replacing the existing files.
+   * 10979 should look like this:
+     * E:\Demofiles
+     * E:\Labfiles
    * 20533 should look like this:
      * E:\Configfiles
      * E:\Demofiles
      * E:\Labfiles
      * E:\Modules
-   * 10979 should look like this:
-     * E:\Demofiles
-     * E:\Labfiles
 
 ## Email Address 📧
 
