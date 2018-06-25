@@ -2,12 +2,6 @@
 
 Configurations needed to work on the Azure labs.
 
-## Courseware
-
-1. Go to [Skillpipe](https://skillpipe.com/en-GB/).
-1. Register or login with your account. If registering use a personal email address.
-1. Select `Add a Course` and use the code given to you by the instructor.
-
 ## MIA-CL1 Virtual Machine 🖥️
 
 Following are the steps to configure the `MIA-CL1` virtual machine:
@@ -67,6 +61,12 @@ The `MIA-CL1` desktop needs some final changes before we use it for labs:
      * E:\Demofiles
      * E:\Labfiles
      * E:\Modules
+     
+## Courseware
+
+1. Go to [Skillpipe](https://skillpipe.com/en-GB/).
+1. Register or login with your account. If registering use a personal email address.
+1. Select `Add a Course` and use the code given to you by the instructor.
 
 ## Email Address 📧
 
