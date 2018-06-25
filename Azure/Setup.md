@@ -25,7 +25,7 @@ Following are the steps to configure the `MIA-CL1` virtual machine:
 Once `MIA-CL1` is running we need to configure the network:
 
 1. Connect to the `MIA-CL1` virtual machine via `Hyper-V Manager`.
-1. Write down the user name for future reference.
+1. Write down the username for future reference.
 1. Login with the password `Pa55w.rd`
 1. Right Click the `Start Menu` and select `Network Connection`.
 1. Right Click the `Ethernet` network connection and select `Properties`.
