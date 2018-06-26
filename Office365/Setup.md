@@ -8,6 +8,10 @@ Office 365 Account and Tenant Setup.
 1. Register or login with your account. If registering use a personal email address.
 1. Select `Add a Course` and use the code given to you by the instructor.
 
+## Online Labs
+
+1. [Learn On Demand](https://ddls.learnondemand.net/)
+
 ## Email Address 📧
 
 __Do not use your existing Microsoft accounts to work with the labs!__
