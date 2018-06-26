@@ -4,7 +4,7 @@ Office 365 Account and Tenant Setup.
 
 ## Email Account
 
-Follow these steps to create your classroom email account.
+Follow these steps to create your course email account.
 
 __Do not use your work or personal email addresses for course labs.__
 
