@@ -2,15 +2,19 @@
 
 Office 365 Account and Tenant Setup.
 
-## Email Account
+## Courseware
 
-Follow these steps to create your course email account.
+1. Go to [Skillpipe](https://skillpipe.com/en-GB/).
+1. Register or login with your account. If registering use a personal email address.
+1. Select `Add a Course` and use the code given to you by the instructor.
 
-__Do not use your work or personal email addresses for course labs.__
+## Email Address 📧
 
-1. Go to [outlook.com](https://outlook.com/).
-1. Click `Create account`.
-1. Follow the steps to create a new Microsoft account. Use your last name with the date as the email address. Eg: carthew20180627@outlook.com.
+__Do not use your existing Microsoft accounts to work with the labs!__
+
+1. Open [Outlook.com](https://outlook.live.com/owa/).
+1. Create a new `Outlook.com` account. Use your last name with the date eg: carthew20180618@outlook.com
+1. Use this email address throughout the course.
 
 ## Office 365 Tenancy
 
