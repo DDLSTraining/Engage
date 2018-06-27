@@ -8,7 +8,7 @@ Notes and resources for Microsoft Office 365 official courses:
 
 * [Setup](#setup)
 * [References](#references)
-* [Resources](resources)
+* [Resources](#resources)
 
 ## Setup
 
