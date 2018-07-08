@@ -22,26 +22,32 @@ Once `MIA-CL1` is running we need to configure the network:
 1. Write down the username for future reference.
 1. Login with the password `Pa55w.rd`
 1. Right Click the `Start Menu` and select `Network Connection`.
-1. Right Click the `Ethernet` network connection and select `Properties`.
+1. Click `Ethernet` on the left menu.
+1. Click `Change adapter options` to access the network interface.
+1. Right Click the `Private Network` network connection and select `Properties`.
 1. Click on `Internet Protocol Version 4 (TCP/IPv4)` and then click `Properties`.
 1. Select the top option `Obtain an IP address automatically`.
 1. Select the middle option `Obtain DNS server address automatically`.
 1. Click `OK` and then `Close` (select `Yes` if the network side panel shows up).
 1. Right click the `Start Menu` and select `System`.
-1. Click `Remote Settings` on the left menu.
-1. Select the option `Allow remote connections to this computer`.
-1. Click `OK`.
+1. Click `Remote Desktop` on the left menu.
+1. Click the switch `Enable Remote Desktop` to turn on Remote Desktop.
+1. In the Remote Desktop Settings dialog box click `Confirm`.
+1. Close any open windows.
 1. Use the `Start Menu` to open PowerShell and run `ipconfig`.
 1. Write down the `IPv4 address` of `MIA-CL1`.
-1. Close the `Connect` window.
+1. Close the `Virtual Machine Connection` window.
 
 ## MIA-CL1 Desktop 🗔
 
 The `MIA-CL1` desktop needs some final changes before we use it for labs:
 
 1. On the host desktop open `Remote Desktop Client` from the `Start Menu`.
-1. Connect to `MIA-CL1` via its `IP address`.
-1. Log in using the username noted previously and the password `Pa55w.rd`
+1. In the Remote Desktop Client click `Show Options`.
+1. Set the `Computer` and `User name` to the IP address and user name values recorded previously.
+1. Select `Allow me to save credentials` and save the connection.
+1. Click `Connect`.
+1. Log in using the user name noted previously and the password `Pa55w.rd`
 1. Open Internet Explorer or Edge.
 1. Download and install Firefox.
 1. Set Firefox as the default browser.
