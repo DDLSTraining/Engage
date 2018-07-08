@@ -63,10 +63,10 @@ The `MIA-CL1` desktop needs some final changes before we use it for labs:
      * E:\Demofiles
      * E:\Labfiles
    * 20533 should look like this:
-     * E:\Configfiles
-     * E:\Demofiles
-     * E:\Labfiles
-     * E:\Modules
+     * F:\Configfiles
+     * F:\Demofiles
+     * F:\Labfiles
+     * F:\Modules
      
 ## Courseware
 
