@@ -59,7 +59,7 @@ The `MIA-CL1` desktop needs some final changes before we use it for labs:
 1. Copy the `AllFiles` ISO file to your `D:` drive.
 1. On the host use `Hyper-V Manager` to connect to `MIA-CL1`.
 1. Use the `Media` menu in `Virtual Machine Connection` to mount the ISO file (insert disk).
-1. Inside `MIA-CL1` copy the directories from the `ISO` file to the root of `F:` drive replacing the existing files.
+1. Inside `MIA-CL1` copy the directories from the `ISO` file to the root of your data partition replacing the existing files.
    * For course 10979 your drive should look like this:
      * E:\Demofiles
      * E:\Labfiles
@@ -98,8 +98,8 @@ Add the following bookmarks to your browser:
 
 * [Skillpipe](https://skillpipe.com/en-GB/)
 * [Azure Portal](https://portal.azure.com/)
-* [10979 GitHub Repository](https://github.com/MicrosoftLearning/10979-MicrosoftAzureFundamentals)
-* [20533 GitHub Repository](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions)
+* [Course 10979 GitHub Repository](https://github.com/MicrosoftLearning/10979-MicrosoftAzureFundamentals)
+* [Course 20533 GitHub Repository](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions)
 * [This Repository](/Azure)
 
 _Note: Use a private or incongnito browser window if you have issues with accounts being cached._ 
