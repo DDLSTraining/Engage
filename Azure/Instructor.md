@@ -10,5 +10,5 @@
 
 | Day | Start | Lunch | Finish |
 |-|-|-|-|
-| 1 | Intro / Setup | Module 1 | Module 1 Lab |
+| 1 | Intro / Setup | Module 1 | Lab 1 |
 | 2 | Module 2 | | |
