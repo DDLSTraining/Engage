@@ -6,7 +6,7 @@ Links to official and un-official documentation and news.
 
 * [Azure Documentation](#azure-documentation-)
 * [GitHub Resources](#github-resources-)
-* [Comparisons](#comparisons-)
+* [Comparisons](#comparisons-%EF%B8%8F)
 * [Research](#research-)
 
 ## Azure Documentation 📖
