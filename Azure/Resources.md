@@ -5,6 +5,7 @@ Links to official and un-official documentation and news.
 ## Table of Contents 📄
 
 * [Azure Documentation](#azure-documentation-)
+* [Azure News](#azure-news-)
 * [GitHub Resources](#github-resources-)
 * [Comparisons](#comparisons-%EF%B8%8F)
 * [Research](#research-)
@@ -16,6 +17,13 @@ Links to official and un-official documentation and news.
 * Virtual Machine Sizes - [Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes) / [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes)
 * [Azure subscription and service limits, quotas, and constraints](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits)
 * [Name resolution for resources in Azure virtual networks](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
+
+## Azure News 📰
+
+* [Azure Blog](https://azure.microsoft.com/en-au/blog/)
+* [Azure Announcements](https://azure.microsoft.com/en-au/blog/topics/announcements/)
+* [Azure Updates](https://azure.microsoft.com/en-au/updates/)
+* [Azure on Twitter](https://twitter.com/azure)
 
 ## GitHub Resources 👐
 
