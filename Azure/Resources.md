@@ -29,7 +29,7 @@ Links to official and un-official documentation and news.
 
 * [Azure on GitHub](https://github.com/Azure)
 * [Azure QuickStart Templates](https://github.com/Azure/azure-quickstart-templates)
-* [Azure Template Visualizer](http://armviz.io/designer)
+* [Azure Template Visualizer](http://armviz.io/)
 
 ## Comparisons 🏷️
 
