@@ -6,6 +6,7 @@ Links to official and un-official documentation and news.
 
 * [Azure Documentation](#azure-documentation-)
 * [GitHub Resources](#github-resources-)
+* [Comparisons](#comparisons-)
 * [Research](#research-)
 
 ## Azure Documentation 📖
@@ -21,7 +22,7 @@ Links to official and un-official documentation and news.
 * [Azure QuickStart Templates](https://github.com/Azure/azure-quickstart-templates)
 * [Azure Template Visualizer](http://armviz.io/designer)
 
-## Comparisons
+## Comparisons 🏷️
 
 * [Cloud Comparison Tool](https://www.rightscale.com/cloud-comparison-tool/)
 * [Azure VM Comparison](https://azureprice.net/)
