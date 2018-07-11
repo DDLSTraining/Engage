@@ -5,6 +5,7 @@ Links to official and un-official documentation and news.
 ## Table of Contents 📄
 
 * [Azure Documentation](#azure-documentation-)
+* [Azure Services](#azure-services-)
 * [Azure News](#azure-news-)
 * [GitHub Resources](#github-resources-)
 * [Downloads](#downloads-)
@@ -14,10 +15,26 @@ Links to official and un-official documentation and news.
 ## Azure Documentation 📖
 
 * [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
-* [Directory of Azure Cloud Services](https://azure.microsoft.com/en-au/services/)
 * Virtual Machine Sizes - [Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes) / [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes)
 * [Azure subscription and service limits, quotas, and constraints](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits)
 * [Name resolution for resources in Azure virtual networks](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
+* [App Service Plans](https://azure.microsoft.com/en-gb/pricing/details/app-service/plans/)
+* [Azure Storage Replication](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy)
+
+## Azure Services ⚙️
+
+* [Directory of Azure Services](https://azure.microsoft.com/en-au/services/)
+* [Virtual Network](https://azure.microsoft.com/en-au/services/virtual-network/)
+* [Virtual Machines](https://azure.microsoft.com/en-au/services/virtual-machines/)
+* [App Service](https://azure.microsoft.com/en-au/services/app-service/)
+* [Storage](https://azure.microsoft.com/en-au/services/storage/)
+* [Container Instances](https://azure.microsoft.com/en-au/services/container-instances/)
+* [Kubernetes](https://azure.microsoft.com/en-au/services/kubernetes-service/)
+* [Backup](https://azure.microsoft.com/en-au/services/backup/)
+* [Site Recovery](https://azure.microsoft.com/en-au/services/site-recovery/)
+* [Azure Active Directory](https://azure.microsoft.com/en-au/services/active-directory/)
+* [Azure Active Directory Domain Services](https://azure.microsoft.com/en-au/services/active-directory-ds/)
+* [Operations Management Suite](https://www.microsoft.com/en-au/cloud-platform/operations-management-suite)
 
 ## Azure News 📰
 
