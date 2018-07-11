@@ -31,6 +31,10 @@ Links to official and un-official documentation and news.
 * [Azure QuickStart Templates](https://github.com/Azure/azure-quickstart-templates)
 * [Azure Template Visualizer](http://armviz.io/)
 
+## Downloads
+
+* [Storage Explorer](https://azure.microsoft.com/en-au/features/storage-explorer/)
+
 ## Comparisons 🏷️
 
 * [Cloud Comparison Tool](https://www.rightscale.com/cloud-comparison-tool/)
