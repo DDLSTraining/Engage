@@ -5,7 +5,7 @@ Links to official and un-official documentation and news.
 ## Table of Contents 📄
 
 * [Azure Documentation](#azure-documentation-)
-* [Azure Services](#azure-services-)
+* [Azure Services](#azure-services-%EF%B8%8F)
 * [Azure News](#azure-news-)
 * [GitHub Resources](#github-resources-)
 * [Downloads](#downloads-)
