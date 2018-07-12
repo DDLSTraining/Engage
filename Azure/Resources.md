@@ -62,6 +62,7 @@ Links to official and un-official documentation and news.
 ## Research 📔
 
 * [Cloud Computing - Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)
+* [Cattle vs Pets](http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle/)
 * [Hype Cycle - Gartner](https://www.gartner.com/technology/research/methodologies/hype-cycle.jsp)
 * [Hype Cycle Cloud Images](https://www.google.com/search?client=firefox-b-ab&biw=1704&bih=943&tbs=isz%3Al&tbm=isch&sa=1&ei=sUYnW7GgDcua8QWKxJzIAg&q=gartner+hype+cycle+cloud&oq=gartner+hype+cycle+cloud&gs_l=img.3..0l2j0i30k1j0i24k1.27457.28371.0.28550.6.3.0.3.3.0.188.372.0j2.2.0....0...1c.1.64.img..1.5.388...0i67k1.0.P3SEUmUceMM)
 * [High Availability - Wikipedia](https://en.wikipedia.org/wiki/High_availability)
