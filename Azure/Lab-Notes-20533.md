@@ -1,4 +1,4 @@
-# 20533 Lab Notes 🔬
+# Lab Notes 20533 🔬
 
 [20533 GitHub Repository](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions)
 
