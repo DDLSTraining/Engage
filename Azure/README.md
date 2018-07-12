@@ -10,4 +10,4 @@ Notes and resources for the following Microsoft Azure official courses:
 * [Setup](/Azure/Setup.md)
 * [Resources](/Azure/Resources.md)
 * [Containers](/Azure/Containers.md)
-* [20533 Lab Notes](/Azure/20533-Lab-Notes.md)
+* [Lab Notes 20533](/Azure/Lab-Notes-20533.md)
