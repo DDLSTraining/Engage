@@ -85,7 +85,7 @@ Alternatively use [Git](https://git-scm.com/) to clone the repository and work w
 
 ## Octotree
 
-This is not required however the browser extension called [Octotree] will make it easy for you to navigate the contents of any repository on GitHub.
+This is not required however the browser extension called [Octotree](https://github.com/buunguyen/octotree) will make it easy for you to navigate the contents of any repository on GitHub.
 
 Click one of the links below to add to your browser:
 
