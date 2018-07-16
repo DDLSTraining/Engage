@@ -11,7 +11,7 @@ This page contains information on how to add or update content within the Engage
 
 ## Page Content Format
 
-GitHub uses [Markdown](https://en.wikipedia.org/wiki/Markdown) for authoring content. After updating a page with Markdown the page is rendered via GitHub to an easily readable page.
+GitHub uses [Markdown](https://en.wikipedia.org/wiki/Markdown) for authoring content. After updating a page with Markdown the page is rendered via GitHub to an easily readable format.
 
 See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) for further details.
 
