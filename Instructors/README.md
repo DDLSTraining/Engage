@@ -1,6 +1,6 @@
 # Instructors GitHub Help
 
-This directory contains information on how to add or update content in the Engage repository.
+This page contains information on how to add or update content within the Engage repository.
 
 * [Page Content Format](#page-content-format)
 * [Edit Page Content](#edit-page-content)
