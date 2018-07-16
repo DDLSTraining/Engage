@@ -2,11 +2,22 @@
 
 This page contains information on how to add or update content within the Engage repository.
 
+* [Octotree](#octotree)
 * [Page Content Format](#page-content-format)
 * [Edit Page Content](#edit-page-content)
 * [Create New Page](#create-new-page)
 * [Create New Directory](#create-new-directory)
 * [Delete Page](#delete-page)
+
+## Octotree
+
+This is not required however the browser extension called [Octotree] will make it easy for you to navigate the contents of any repository on GitHub.
+
+Click one of the links below to add to your browser:
+
+* [FireFox](https://addons.mozilla.org/en-US/firefox/addon/octotree/)
+* [Chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+* [Opera](https://addons.opera.com/en/extensions/details/octotree/)
 
 ## Page Content Format
 
