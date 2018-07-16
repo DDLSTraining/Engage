@@ -2,22 +2,12 @@
 
 This page contains information on how to add or update content within the Engage repository.
 
-* [Octotree](#octotree)
 * [Page Content Format](#page-content-format)
 * [Edit Page Content](#edit-page-content)
 * [Create New Page](#create-new-page)
 * [Create New Directory](#create-new-directory)
 * [Delete Page](#delete-page)
-
-## Octotree
-
-This is not required however the browser extension called [Octotree] will make it easy for you to navigate the contents of any repository on GitHub.
-
-Click one of the links below to add to your browser:
-
-* [FireFox](https://addons.mozilla.org/en-US/firefox/addon/octotree/)
-* [Chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
-* [Opera](https://addons.opera.com/en/extensions/details/octotree/)
+* [Octotree](#octotree)
 
 ## Page Content Format
 
@@ -86,4 +76,15 @@ Block code with three back ticks to open the block and three to close the block.
 1. Ensure you have selected the page and not a directory.
 1. Click the `Delete this file` button that looks like a little bin 🗑️.
 1. Click `Commit changes` at the bottom of the browser window.
+
+## Octotree
+
+This is not required however the browser extension called [Octotree] will make it easy for you to navigate the contents of any repository on GitHub.
+
+Click one of the links below to add to your browser:
+
+* [FireFox](https://addons.mozilla.org/en-US/firefox/addon/octotree/)
+* [Chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+* [Opera](https://addons.opera.com/en/extensions/details/octotree/)
+
 
