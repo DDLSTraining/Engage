@@ -15,7 +15,7 @@ GitHub uses [Markdown](https://en.wikipedia.org/wiki/Markdown) for authoring con
 
 See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) for further details.
 
-Quick Referernce:
+Quick Reference:
 
 ```
 
