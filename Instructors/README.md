@@ -55,10 +55,10 @@ Block code with three back ticks to open the block and three to close the block.
 
 ## Create New Page
 
-1. Go to the parent directory.
+1. Go to the parent directory within the repository.
 1. Click the `Create new file` button.
-1. Type the page name with the extension `.md`.
-1. Click in content section and add content.
+1. Type the page name with the extension `.md` eg: `notes.md`.
+1. Click in the content section and add content using [Markdown format](https://guides.github.com/features/mastering-markdown/).
 1. Click `Commit new file` at the bottom of the browser window.
 
 ## Create New Directory
@@ -68,7 +68,7 @@ Block code with three back ticks to open the block and three to close the block.
 1. Type in the directory name.
 1. Type a forward slash `/`.
 1. Type `README.md`.
-1. Click in the new README page and add content.
+1. Click in the new README page and add content using [Markdown format](https://guides.github.com/features/mastering-markdown/).
 1. Click `Commit new file` at the bottom of the browser window.
 
 ## Delete Page
@@ -76,6 +76,12 @@ Block code with three back ticks to open the block and three to close the block.
 1. Ensure you have selected the page and not a directory.
 1. Click the `Delete this file` button that looks like a little bin 🗑️.
 1. Click `Commit changes` at the bottom of the browser window.
+
+## Delete Directory
+
+To delete a directory delete all the files contained within the directory. Directories don't technically exist within Git, only file paths.
+
+Alternatively use [Git](https://git-scm.com/) to clone the repository and work with it locally.
 
 ## Octotree
 
