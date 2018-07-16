@@ -9,4 +9,6 @@ Notes and resources for the following Google Cloud Platform courses:
 
 ## Lab Notes
 
-* [Qwiklab](https://ddls.qwiklab.com)
+* [Qwiklab (DDLS)](https://ddls.qwiklab.com)
+* [Qwiklab (Google)](https://google.qwiklabs.com)
+* [Qwiklab (GoogleCloud)](https://googlecloud.qwiklab.com)
