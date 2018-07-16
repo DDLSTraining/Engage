@@ -18,6 +18,15 @@ If an error occurs when using the `az aks create` command related to `<VM size>`
 * `Standard_D1`
 * `Standard_D4_v2`
 
+## Module 8 Lab Exercise 2 Task 1
+
+When creating the `Recovery Services Vault` select the following regions:
+
+* Subscription: `East US` as usual.
+* Location: `West US 2`
+
+Reference: https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions/issues/349
+
 ## Module 9 Lab Exercise 4 Task 2
 
 Use the Hyper-V console connection to test the sign in. The user has not been added to the RDP group.
