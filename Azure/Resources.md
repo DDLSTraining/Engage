@@ -2,7 +2,7 @@
 
 Links to official and un-official documentation and news.
 
-## Table of Contents 📄
+## Contents 📄
 
 * [Azure Documentation](#azure-documentation-)
 * [Azure Services](#azure-services-%EF%B8%8F)
