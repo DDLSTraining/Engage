@@ -8,7 +8,7 @@
 
 * [Products & Services](https://cloud.google.com/products/)
 * [Pricing](https://cloud.google.com/pricing/)
-* [Data Centres](https://www.google.com/about/datacenters/)
+* [Data Centres](https://www.google.com/about/datacenters/) - [Video](https://www.youtube.com/watch?v=XZmGGAbHqa0)
 
 ## Research
 
