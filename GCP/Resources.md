@@ -15,3 +15,8 @@
 
 * [GCP Ping](http://www.gcping.com/)
 * [U2F - Universal 2nd Factor](https://en.wikipedia.org/wiki/Universal_2nd_Factor)
+
+## Fun
+
+* [Google Actual Cloud](https://cloud.google.com/actual-cloud/)
+
