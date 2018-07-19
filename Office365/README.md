@@ -60,6 +60,7 @@ Bookmark the URLs in [References](#references) below.
 
 ### Major Changes
 
+* [Introducing a free version of Microsoft Teams](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Introducing-a-free-version-of-Microsoft-Teams/ba-p/214592)
 * [Skype for Business to Microsoft Teams upgrade](https://docs.microsoft.com/en-us/MicrosoftTeams/journey-skypeforbusiness-teams)
 
 
