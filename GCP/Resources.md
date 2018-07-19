@@ -7,6 +7,7 @@
 ## GCP Services
 
 * [Products & Services](https://cloud.google.com/products/)
+* [Pricing](https://cloud.google.com/pricing/)
 
 ## Research
 
