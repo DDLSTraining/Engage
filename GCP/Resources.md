@@ -12,3 +12,4 @@
 ## Research
 
 * [GCP Ping](http://www.gcping.com/)
+* [U2F](https://en.wikipedia.org/wiki/Universal_2nd_Factor)
