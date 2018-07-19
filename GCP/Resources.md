@@ -8,6 +8,7 @@
 
 * [Products & Services](https://cloud.google.com/products/)
 * [Pricing](https://cloud.google.com/pricing/)
+* [Data Centres](https://www.google.com/about/datacenters/)
 
 ## Research
 
