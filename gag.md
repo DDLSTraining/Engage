@@ -2,7 +2,7 @@
 
 * [One Liners](#one-liners)
 * [Simple](#simple)
-* [Longer](#Longer)
+* [Longer](#longer)
 
 ## One Liners
 
