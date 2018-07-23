@@ -6,6 +6,11 @@
 * [Pricing](https://cloud.google.com/pricing/)
 * [Solutions](https://cloud.google.com/solutions/)
 
+## Tools
+
+* [Cloud Console](https://console.cloud.google.com/)
+* [Initializing Cloud SDK](https://cloud.google.com/sdk/cloudplatform )
+
 ## GCP Services
 
 * [Products & Services](https://cloud.google.com/products/)
