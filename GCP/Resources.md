@@ -9,7 +9,7 @@
 ## Tools
 
 * [Cloud Console](https://console.cloud.google.com/)
-* [Initializing Cloud SDK](https://cloud.google.com/sdk/cloudplatform )
+* [Cloud SDK](https://cloud.google.com/sdk/cloudplatform )
 
 ## GCP Services
 
