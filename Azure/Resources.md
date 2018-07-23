@@ -15,6 +15,7 @@ Links to official and un-official documentation and news.
 ## Azure Documentation 📖
 
 * [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
+* [Naming Conventions](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions)
 * Virtual Machine Sizes - [Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes) / [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes)
 * [Azure subscription and service limits, quotas, and constraints](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits)
 * [Name resolution for resources in Azure virtual networks](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
