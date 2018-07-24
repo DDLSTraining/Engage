@@ -17,3 +17,7 @@ July 2018
 **Google Cloud Runtime Configuration API** now just **Cloud Runtime Configuration API**
 
 You may have to create a Chart in StackDriver - Click +Chart and choose Resource type **GCE VM Instances** then Metric **CPU usage**
+
+**Lab 7**
+
+The Lab instructions are for the BigQuery Classic UI but the console defaults to the new Beta one
