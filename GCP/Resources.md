@@ -33,7 +33,7 @@
 * [Quizlet Tests Cloud Spanner](https://quizlet.com/blog/quizlet-cloud-spanner)
 * [Site Reliability Engineering](https://landing.google.com/sre/book.html)
 * [12 Factor App](https://12factor.net/)
-
+* [Basic Git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 ## Fun
 
 * [Google Actual Cloud](https://cloud.google.com/actual-cloud/)
