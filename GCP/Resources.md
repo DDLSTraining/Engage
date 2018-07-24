@@ -5,6 +5,8 @@
 * [Google Cloud Platform Documentation](https://cloud.google.com/docs/)
 * [Pricing](https://cloud.google.com/pricing/)
 * [Solutions](https://cloud.google.com/solutions/)
+* [Blog](https://cloudplatform.googleblog.com/)
+* [YouTube](https://www.youtube.com/user/googlecloudplatform/videos)
 
 ## Tools
 
@@ -27,6 +29,10 @@
 * [The Illustrated Children's Guide to Kubernetes (Video)](https://www.youtube.com/watch?v=4ht22ReBjno)
 * [Learn Docker in 12 Minutes 🐳](https://www.youtube.com/watch?v=YFl2mCHdv24)
 * [Cloud Vision API Demo](http://vision-explorer.reactive.ai/#/?_k=rrxt2t)
+* [Google Research](https://research.google.com/)
+* [Quizlet Tests Cloud Spanner](https://quizlet.com/blog/quizlet-cloud-spanner)
+* [Site Reliability Engineering](https://landing.google.com/sre/book.html)
+* [12 Factor App](https://12factor.net/)
 
 ## Fun
 
