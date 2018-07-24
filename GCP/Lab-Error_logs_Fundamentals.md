@@ -20,4 +20,4 @@ You may have to create a Chart in StackDriver - Click +Chart and choose Resource
 
 **Lab 7**
 
-The Lab instructions are for the BigQuery Classic UI but the console defaults to the new Beta one
+The Lab instructions are for the **BigQuery** Classic UI but the console defaults to the new Beta one.
