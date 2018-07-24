@@ -15,3 +15,5 @@ July 2018
 **Lab 6**
 
 **Google Cloud Runtime Configuration API** now just **Cloud Runtime Configuration API**
+
+You may have to create a Chart in StackDriver - Click +Chart and choose Resource type **GCE VM Instances** then Metric **CPU usage**
