@@ -11,3 +11,7 @@ July 2018
 **Google Kubernetes Engine API** now just **Kubernetes Engine API** 
 
 **Google Container Registry API** now just **Container Registry API** 
+
+**Lab 6**
+
+**Google Cloud Runtime Configuration API** now just **Cloud Runtime Configuration API**
