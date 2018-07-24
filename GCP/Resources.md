@@ -34,6 +34,8 @@
 * [Site Reliability Engineering](https://landing.google.com/sre/book.html)
 * [12 Factor App](https://12factor.net/)
 * [Basic Git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+* [gcloud Reference Guide](https://cloud.google.com/sdk/gcloud/reference/)
+
 ## Fun
 
 * [Google Actual Cloud](https://cloud.google.com/actual-cloud/)
