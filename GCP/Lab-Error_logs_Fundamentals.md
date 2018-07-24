@@ -1,4 +1,4 @@
-#**GCP Fundamentals_ Core Infrastructure 4.0 – Lab Changes** 
+# **GCP Fundamentals_ Core Infrastructure 4.0 – Lab Changes** 
 
 July 2018
 
