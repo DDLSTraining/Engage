@@ -14,6 +14,6 @@ They are (from left to right):
 *  Open in New Window
 *  Close all tabs
   
-**Lab 2**
+**Lab 2 - Infrastructure Preview**
 
 **Google Cloud Launcher** is now **Google Cloud Platform Marketplace**
