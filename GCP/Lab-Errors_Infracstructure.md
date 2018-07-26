@@ -16,18 +16,18 @@ They are (from left to right):
   
 **Lab 2 - Infrastructure Preview**
 
-**Google Cloud Launcher** is now **Google Cloud Platform Marketplace**
+* **Google Cloud Launcher** is now **Google Cloud Platform Marketplace**
 
 **Lab 5 - Working with VMs**
 
 Task 1 point 6 
 
-  **Add item** is now **Add New Disk**
+*  **Add item** is now **Add New Disk**
   
   Task 1 point 8
 
-  **Encryption Automatic (recommended)** is now **Google-managed key**  
+ * **Encryption Automatic (recommended)** is now **Google-managed key**  
 
   Task 1 Point 9
 
-  Click **DONE** not **Create**
+ * Click **DONE** not **Create**
