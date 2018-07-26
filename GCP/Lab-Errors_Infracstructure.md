@@ -23,3 +23,7 @@ They are (from left to right):
 Task 1 point 6 
 
   **Add item** is now **Add New Disk**
+  
+Task 1 point 8
+
+**Encryption Automatic (recommended)** is now **Google-managed key**  then click **DONE**
