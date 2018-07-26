@@ -19,5 +19,7 @@ They are (from left to right):
 **Google Cloud Launcher** is now **Google Cloud Platform Marketplace**
 
 **Lab 5 - Working with VMs**
+
 Task 1 point 6 
-    **Add item** is now **Add New Disk**
+
+  **Add item** is now **Add New Disk**
