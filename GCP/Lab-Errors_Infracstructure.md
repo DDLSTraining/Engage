@@ -18,7 +18,7 @@ They are (from left to right):
 
 * **Google Cloud Launcher** is now **Google Cloud Platform Marketplace**
 
-**Lab 5 - Working with VMs**
+**Lab 6 - Working with VMs**
 
 Task 1 point 6 
 
@@ -31,3 +31,7 @@ Task 1 point 6
   Task 1 Point 9
 
  * Click **DONE** not **Create**
+ 
+ **Lab 7 IAM**
+ 
+ * General changes to GUI when assigning permissions 
