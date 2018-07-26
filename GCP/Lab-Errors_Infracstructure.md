@@ -26,4 +26,8 @@ Task 1 point 6
   
 Task 1 point 8
 
-**Encryption Automatic (recommended)** is now **Google-managed key**  then click **DONE**
+**Encryption Automatic (recommended)** is now **Google-managed key**  
+
+Task 1 Point 9
+
+Click **DONE** not **Create**
