@@ -4,9 +4,9 @@ The [Kubernetes](https://github.com/kubernetes) organization on GitHub manages a
 
 > Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a single-node Kubernetes cluster inside a VM on your laptop for users looking to try out Kubernetes or develop with it day-to-day.
 
-Follow the [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) tutorial to play with Kubernetes on your desktop or laptop machine.
+Follow the [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) tutorial to play with Kubernetes in the browser, or [install Minikube](https://github.com/kubernetes/minikube#installation) to test it out on your desktop or laptop.
 
-## Tutorial Issues
+## Tutorial Issues (Minikube install only)
 
 ### Windows Desktop Issues
 
