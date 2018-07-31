@@ -19,5 +19,6 @@ Microservices can be hosted on either or all of the following cloud technologies
 
 * [serverless](https://serverless.com/framework/) - The easy, open way to build Serverless applications with Node.js. 
 * [Istio](https://istio.io/) - An open platform to connect, manage, and secure microservices.
+* [Knative](https://github.com/knative/) - Kubernetes-based platform to build, deploy, and manage modern serverless workloads.
 
 
