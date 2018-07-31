@@ -4,4 +4,5 @@ This directory contains resources common to any cloud provider.
 
 ## Contents
 
-* [Kubernetes Tutorial - Kubernetes cluster management hands-on](/Cloud/Kubernetes-Tutorial.md)
+* [Kubernetes Tutorial](/Cloud/Kubernetes-Tutorial.md) - Kubernetes cluster management hands-on.
+* [Architecture](/Cloud/Architecture.md) - Cloud Application Design and Architecture.
