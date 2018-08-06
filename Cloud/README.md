@@ -6,6 +6,7 @@ This directory contains resources common to any cloud provider.
 
 * [Kubernetes Tutorial](/Cloud/Kubernetes-Tutorial.md) - Kubernetes cluster management hands-on.
 * [Architecture](/Cloud/Architecture.md) - Cloud Application Design and Architecture.
+* [Stream](/Cloud/Stream.md) - Cloud streaming technologies.
 
 ## Containers
 
