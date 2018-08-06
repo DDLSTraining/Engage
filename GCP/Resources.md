@@ -19,6 +19,10 @@
   * [GCP products described in 4 words or less](https://medium.com/google-cloud/gcp-products-described-in-4-words-or-less-f3056550e595)
 * [Data Centres](https://www.google.com/about/datacenters/) - [Video](https://www.youtube.com/watch?v=XZmGGAbHqa0)
 
+## Streaming Technologies
+
+* [Apache Storm](http://storm.apache.org/) - Free and open source distributed realtime computation system.
+
 ## Research
 
 * Network Tests:
