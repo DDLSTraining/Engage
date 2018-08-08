@@ -21,3 +21,5 @@ You may have to create a Chart in StackDriver - Click +Chart and choose Resource
 **Lab 7**
 
 The Lab instructions are for the **BigQuery** Classic UI but the console defaults to the new Beta one.
+
+If you wish to use the new interface click `Transfers` on the left menu and work your way from there.
