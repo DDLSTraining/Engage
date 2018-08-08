@@ -1,6 +1,6 @@
 # Course Timing Guide
 
-## Google Cloud Platform Fundamentals - Core Infrastructure
+## Google Cloud Platform Fundamentals: Core Infrastructure
 
 ## Day One
 
@@ -27,7 +27,7 @@
 |16:25|16:40|0:15||Lab 8 BigQuery|
 |16:40|17:00|0:20|09|Summary and Review|
 
-## Architecting with Google Cloud Platform - Infrastructure
+## Architecting with Google Cloud Platform: Infrastructure
 
 START TIME	END TIME		Total Slides	Content Slides		
 		Duration			Module	Lab/Demo
@@ -90,7 +90,7 @@ DAY THREE
 17:00	18:00	1:00				16-1 Kubernetes Load Balancing
 END OF DAY THREE						
 
-## Architecting Google Cloud Platform - Design and Process
+## Architecting Google Cloud Platform: Design and Process
 
 START	END	Based on Alpha and Beta deliveries		Minutes	Slides/Pages	MODULE	
 							
