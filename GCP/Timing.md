@@ -2,7 +2,7 @@
 
 ## Google Cloud Platform Fundamentals: Core Infrastructure
 
-## Day One
+### Day One
 
 |Start|End|Duration|Module|Activity|
 |-----|---|--------|------|--------|
@@ -29,7 +29,7 @@
 
 ## Architecting with Google Cloud Platform: Infrastructure
 
-DAY ONE
+### Day One
 
 |Start|End|Duration|Module|Activity|
 |-----|---|--------|------|--------|
@@ -38,8 +38,7 @@ DAY ONE
 |9:25|9:45|0:20|01-1|Console and Cloudshell|
 |9:45|9:55|0:10||Demo: Projects|
 |9:55|10:10|0:15|01-2|Infrastructure Preview|
-
-10:10	10:25	0:15			15 MINUTE BREAK	
+|10:10|10:25|0:15||15 MINUTE BREAK|
 10:25	10:55	0:30	52	39	02 Virtual Networking	
 10:55	11:40	0:45				02-1 Virtual Networking
 11:40	12:00	0:20				02-2 Bastion Host
