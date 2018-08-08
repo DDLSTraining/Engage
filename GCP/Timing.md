@@ -1,5 +1,9 @@
 # Course Timing Guide
 
+## Google Cloud Platform Fundamentals - Core Infrastructure
+
+## Day One
+
 |Start|End|Duration|Activity|
 |-----|---|--------|--------|
 |9:00|9:15|0:15|00 Course Intro|		
