@@ -1,7 +1,7 @@
 # Course Timing Guide
 
 |Start|End|Duration|Activity|
-|-|-|-|-|-|
+|-----|---|--------|--------|
 |9:00|9:15|0:15|00 Course Intro|		
 |9:15|9:30|0:15|01 Introduction to GCP|
 |9:30|10:00|0:30|02 Getting Started with GCP|
