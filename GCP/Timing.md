@@ -1,7 +1,5 @@
 # Course Timing Guide
 
-Courses:
-
 * [Google Cloud Platform Fundamentals: Core Infrastructure](#funinf)
 * [Architecting with Google Cloud Platform: Infrastructure](#archinf)
   * [Day One](#archinf-one)
