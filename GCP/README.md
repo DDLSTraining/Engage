@@ -11,6 +11,7 @@ Notes and resources for the following Google Cloud Platform courses:
 * [Resources](/GCP/Resources.md)
 * [News](/GCP/News.md)
 * [Exam](/GCP/Exam.md)
+* [Course Timing](/GCP/Timing.md)
 
 ## Lab Notes
 
