@@ -4,7 +4,12 @@ Courses:
 
 * [Google Cloud Platform Fundamentals: Core Infrastructure](#funinf)
 * [Architecting with Google Cloud Platform: Infrastructure](#archinf)
+  * [Day One](#archinf-one)
+  * [Day Two](#archinf-two)
+  * [Day Three](#archinf-three)
 * [Architecting Google Cloud Platform: Design and Process](#archdp)
+  * [Day One](#archdp-one)
+  * [Day Two](#archdp-two)
 
 ## Google Cloud Platform Fundamentals: Core Infrastructure<a name="funinf"></a>
 
@@ -35,7 +40,7 @@ Courses:
 
 ## Architecting with Google Cloud Platform: Infrastructure<a name="archinf"></a>
 
-### Day One
+### Day One<a name="archinf-one"></a>
 
 |Start|End|Duration|Module|Activity|
 |-----|---|--------|------|--------|
@@ -57,7 +62,7 @@ Courses:
 |16:10|16:40|0:30|04-1|Cloud IAM|
 |16:40|17:25|0:45|05|Data Storage Services|
 
-### Day Two
+### Day Two<a name="archinf-two"></a>
 
 |Start|End|Duration|Module|Activity|
 |-----|---|--------|------|--------|
@@ -76,7 +81,7 @@ Courses:
 |16:20|16:50|0:30|08|Interconnecting Networks|
 |16:50|17:50|1:00|08-1|Virtual Private Networks (VPN)|
 
-### Day Three
+### Day Three<a name="archinf-three"></a>
 
 |Start|End|Duration|Module|Activity|
 |-----|---|--------|------|--------|
@@ -99,7 +104,7 @@ Courses:
 
 ## Architecting Google Cloud Platform: Design and Process<a name="archdp"></a>
 
-### Day One
+### Day One<a name="archdp-one"></a>
 
 |Start|End|Duration|Module|Activity|
 |-----|---|--------|------|--------|
@@ -122,7 +127,7 @@ Courses:
 |16:45|17:00|0:15||Photo service: Periodic slowdown|
 |17:00|17:10|0:10||Design Challenge #3 - Growth|
 
-### Day Two
+### Day Two<a name="archdp-two"></a>
 
 |Start|End|Duration|Module|Activity|
 |-----|---|--------|------|--------|
