@@ -1,6 +1,12 @@
 # Course Timing Guide
 
-## Google Cloud Platform Fundamentals: Core Infrastructure
+Courses:
+
+* [Google Cloud Platform Fundamentals: Core Infrastructure](#funinf)
+* [Architecting with Google Cloud Platform: Infrastructure](#archinf)
+* [Architecting Google Cloud Platform: Design and Process](#archdp)
+
+## Google Cloud Platform Fundamentals: Core Infrastructure<a name="funinf"></a>
 
 ### Day One
 
@@ -27,7 +33,7 @@
 |16:25|16:40|0:15||Lab 8 BigQuery|
 |16:40|17:00|0:20|09|Summary and Review|
 
-## Architecting with Google Cloud Platform: Infrastructure
+## Architecting with Google Cloud Platform: Infrastructure<a name="archinf"></a>
 
 ### Day One
 
@@ -91,7 +97,7 @@
 |16:35|17:00|0:25|16|Containers|
 |17:00|18:00|1:00|16-1|Kubernetes Load Balancing|
 
-## Architecting Google Cloud Platform: Design and Process
+## Architecting Google Cloud Platform: Design and Process<a name="archdp"></a>
 
 ### Day One
 
