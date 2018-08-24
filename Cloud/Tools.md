@@ -8,3 +8,4 @@
 * [GitLab](https://www.hashicorp.com/) - SCM with CI/CD.
 * [PRTG](https://www.paessler.com/prtg) - Monitoring based on [RRDtool](https://oss.oetiker.ch/rrdtool/).
 * [Cacti](https://www.cacti.net/) - Monitoring.
+* [Elastic Stack](https://www.elastic.co/products) - Monitoring and pipeline tools.
