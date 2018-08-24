@@ -9,3 +9,5 @@
 * [PRTG](https://www.paessler.com/prtg) - Monitoring based on [RRDtool](https://oss.oetiker.ch/rrdtool/).
 * [Cacti](https://www.cacti.net/) - Monitoring.
 * [Elastic Stack](https://www.elastic.co/products) - Monitoring and pipeline tools.
+* [BitBucket - Atlassian](https://www.atlassian.com/software/bitbucket) - SCM.
+* [Bamboo - Atlassian](https://www.atlassian.com/software/bamboo) - CI/CD.
