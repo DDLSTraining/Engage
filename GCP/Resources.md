@@ -35,6 +35,7 @@
 * [12 Factor App](https://12factor.net/)
 * [Basic Git commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
 * [gcloud Reference Guide](https://cloud.google.com/sdk/gcloud/reference/)
+* [GCP Available Free Services and their Quota limits](https://cloud.google.com/free/docs/always-free-usage-limits/)
 
 ## Fun
 
