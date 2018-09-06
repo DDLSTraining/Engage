@@ -1,6 +1,6 @@
 # Internet of Things
 
-## Hareware Platforms
+## Hardware Platforms
 
 * [List](https://www.postscapes.com/internet-of-things-hardware/)
 
