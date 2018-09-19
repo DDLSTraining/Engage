@@ -2,6 +2,10 @@
 
 This document contains references and resources for modern cloud base application design and architecture.
 
+## Methodologies
+
+* [12-Factor App](https://12factor.net/)
+
 ## Microservices
 
 The modern microservices application architecture structures an application as a collection of loosely coupled services.
