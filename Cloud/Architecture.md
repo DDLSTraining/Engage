@@ -6,6 +6,9 @@ This document contains references and resources for modern cloud base applicatio
 
 * [12-Factor App](https://12factor.net/)
 * [5 Whys (Iterative Interrogative Technique)](https://en.wikipedia.org/wiki/5_Whys)
+* [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+* [ACID Consistency](https://en.wikipedia.org/wiki/Consistency_(database_systems))
+* [BASE Consistency](https://en.wikipedia.org/wiki/Eventual_consistency)
 
 ## Microservices
 
