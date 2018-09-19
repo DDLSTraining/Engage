@@ -5,6 +5,7 @@ This document contains references and resources for modern cloud base applicatio
 ## Methodologies
 
 * [12-Factor App](https://12factor.net/)
+* [5 Whys (Iterative Interrogative Technique)](https://en.wikipedia.org/wiki/5_Whys)
 
 ## Microservices
 
