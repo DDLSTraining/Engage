@@ -42,6 +42,8 @@ __Do not use your existing Microsoft accounts to work with the labs!__
 
 The following steps will create a new trial Office 365 tenancy.
 
+_Note: Use your mobile phone to prevent the need to supply a credit card._
+
 1. Go to [Microsoft Office 365 Enterprise](https://products.office.com/en-au/business/office-365-enterprise-e3-business-software).
 1. Click `Free trial`.
 1. Using your new `outlook.com` email address, register for the free trial.
