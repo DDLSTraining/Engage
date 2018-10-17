@@ -11,6 +11,7 @@
 * [Elastic Stack](https://www.elastic.co/products) - Monitoring and pipeline tools.
 * [BitBucket - Atlassian](https://www.atlassian.com/software/bitbucket) - SCM.
 * [Bamboo - Atlassian](https://www.atlassian.com/software/bamboo) - CI/CD.
+* [JAMS](http://www.jamsscheduler.com/) - IT Automation Solutions.
 
 ## Benchmarking
 
