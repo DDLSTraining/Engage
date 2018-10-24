@@ -6,7 +6,8 @@ Configurations needed to work on the Azure labs.
 
 Following are the steps to configure the `MIA-CL1` virtual machine:
 
-1. Open `Virtual Machine Settings` via `Hyper-V Manager`.
+1. Open `Hyper-V Manager` on the host machine (shortcut on the desktop).
+1. Right Click on the virtual machine named `MIA-CL1` and select `Settings...`.
 1. Adjust the `Processor Count` to `4`.
 1. Adjust the `Memory` as needed (10240 MB).
 1. Set the `Network Adapter` to the `External Network` virtual switch.
