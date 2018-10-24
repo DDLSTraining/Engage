@@ -50,7 +50,7 @@ The `MIA-CL1` desktop needs some final changes before we use it for labs:
 1. Click `Connect`.
 1. Log in using the user name noted previously and the password `Pa55w.rd`
 1. Open Internet Explorer or Edge.
-1. Download and install Firefox.
+1. Download and install Firefox ([why Firefox and not Chrome?](https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/)).
 1. Set Firefox as the default browser.
 1. For the 20533 course only:
    1. Open `PowerShell` as Administrator.
