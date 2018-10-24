@@ -23,7 +23,7 @@ Once `MIA-CL1` is running we need to configure the network:
 1. Login with the password `Pa55w.rd`
 1. Right Click the `Start Menu` and select `Network Connection`.
 1. Depending on the Windows version you may need to do the following:
-   1. If needed click `Ethernet` on the left menu.
+   1. Click `Ethernet` on the left menu.
    1. Click `Change adapter options` to access the network interface.
 1. Right Click the network connection called either `Ethernet` or `Private Network` and select `Properties`.
 1. Click on `Internet Protocol Version 4 (TCP/IPv4)` and then click `Properties`.
