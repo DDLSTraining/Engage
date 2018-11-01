@@ -4,6 +4,12 @@ This document contains simple comparisons between AWS, Azure, and GCP.
 
 Most of the comparisons will be from the vendors documentation and are not guaranteed to be accurate.
 
+## Comparison Resources
+
+[AWS - Google - Azure Cloud Comparison](https://caylent.com/aws-google-azure-cloud-comparison/)
+
+[AWS - Azure - Google Cloud - IBM Cloud (Right Scale)](https://www.rightscale.com/cloud-comparison-tool/)
+
 ## Regions
 
 Last updated: 2018-09-17
