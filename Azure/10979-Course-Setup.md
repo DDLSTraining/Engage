@@ -1,4 +1,4 @@
-# Setup
+# 10979 Course Setup
 
 Configurations needed to work on the Azure labs.
 
