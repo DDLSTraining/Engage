@@ -7,7 +7,8 @@ Notes and resources for the following Microsoft Azure official courses:
 
 ## Table of Contents 📄
 
-* [Setup](/Azure/Setup.md)
+* [10979 Course Setup](/Azure/10979-Course-Setup.md)
+* [20533 Course Setup](/Azure/20553-Course-Setup.md)
 * [Resources](/Azure/Resources.md)
 * [Containers](/Azure/Containers.md)
 * [Lab Notes 20533](/Azure/Lab-Notes-20533.md)
