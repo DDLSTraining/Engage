@@ -1,4 +1,4 @@
-# Setup
+# 20533 Course Setup
 
 Configurations needed to work on the Azure labs.
 
@@ -53,23 +53,18 @@ The `MIA-CL1` desktop needs some final changes before we use it for labs:
 1. Open Internet Explorer or Edge.
 1. Download and install Firefox ([why Firefox and not Chrome?](https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/)).
 1. Set Firefox as the default browser.
-1. For the 20533 course only:
-   1. Open `PowerShell` as Administrator.
-   1. Type `Update-Module -Name AzureRM -Force` and press enter.
+1. Open `PowerShell` as Administrator.
+1. Type `Update-Module -Name AzureRM -Force` and press enter.
 1. Minimize the Remote Desktop connection window and view your local desktop.
 1. Obtain the location of the `AllFiles` ISO file from the instructor.
 1. Copy the `AllFiles` ISO file to your `D:` drive.
 1. On the host use `Hyper-V Manager` to connect to `MIA-CL1`.
 1. Use the `Media` menu in `Virtual Machine Connection` to mount the ISO file (insert disk).
 1. Inside `MIA-CL1` copy the directories from the `ISO` file to the root of your data partition replacing the existing files.
-   * For course 10979 your drive should look like this:
-     * E:\Demofiles
-     * E:\Labfiles
-   * For course 20533 your drive should look like this:
-     * F:\Configfiles
-     * F:\Demofiles
-     * F:\Labfiles
-     * F:\Modules
+   * F:\Configfiles
+   * F:\Demofiles
+   * F:\Labfiles
+   * F:\Modules
      
 ## Courseware
 
