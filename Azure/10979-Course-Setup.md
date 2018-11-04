@@ -8,7 +8,7 @@ Following are the steps to configure the `MIA-CL1` virtual machine:
 
 1. Open `Hyper-V Manager` on the host machine (shortcut on the desktop).
 1. Right Click on the virtual machine named `MIA-CL1` and select `Settings...`.
-1. Adjust the `Processor Count` to `4`.
+1. Adjust the `Processor` to `4`.
 1. Adjust the `Memory` as needed (10240 MB).
 1. Set the `Network Adapter` to the `External Network` virtual switch.
 1. Click `OK`.
@@ -22,18 +22,18 @@ Once `MIA-CL1` is running we need to configure the network:
 1. Connect to the `MIA-CL1` virtual machine via `Hyper-V Manager`.
 1. Write down the username for future reference.
 1. Login with the password `Pa55w.rd`
-1. Right Click the `Start Menu` and select `Network Connection`.
+1. Right Click the `Start Menu` and select `Network Connections`.
 1. Depending on the Windows version you may need to do the following:
    1. Click `Ethernet` on the left menu.
-   1. Click `Change adapter options` to access the network interface.
+   1. Click `Change settings of this connection` to access the network interface.
 1. Right Click the network connection called either `Ethernet` or `Private Network` and select `Properties`.
 1. Click on `Internet Protocol Version 4 (TCP/IPv4)` and then click `Properties`.
 1. Select the top option `Obtain an IP address automatically`.
 1. Select the middle option `Obtain DNS server address automatically`.
 1. Click `OK` and then `Close` (select `Yes` if the network side panel shows up).
 1. Right click the `Start Menu` and select `System`.
-1. Click `Remote Desktop` on the left menu.
-1. Click the switch `Enable Remote Desktop` to turn on Remote Desktop.
+1. Click `Remote Settings` on the left menu.
+1. Click the switch `Allow remote connections to this computer` to turn on Remote Desktop.
 1. In the Remote Desktop Settings dialog box click `Confirm`.
 1. Close any open windows.
 1. Use the `Start Menu` to open PowerShell and run `ipconfig`.
@@ -64,6 +64,7 @@ The `MIA-CL1` desktop needs some final changes before we use it for labs:
 
 __Do not use your existing Microsoft accounts to work with the labs!__
 
+1. In case you didn't read the above warning: DO NOT USE ANY EXISTING ACCOUNTS IN YOUR COURSE!
 1. Open [Outlook.com](https://outlook.live.com/owa/).
 1. Create a new `Outlook.com` account. Use your last name with the date eg: lastname20180618@outlook.com
 1. Use this email address to create your Azure account.
