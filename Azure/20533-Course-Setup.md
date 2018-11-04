@@ -76,6 +76,7 @@ The `MIA-CL1` desktop needs some final changes before we use it for labs:
 
 __Do not use your existing Microsoft accounts to work with the labs!__
 
+1. In case you didn't read the above warning: DO NOT USE ANY EXISTING ACCOUNTS IN YOUR COURSE!
 1. Open [Outlook.com](https://outlook.live.com/owa/).
 1. Create a new `Outlook.com` account. Use your last name with the date eg: lastname20180618@outlook.com
 1. Use this email address to create your Azure account.
