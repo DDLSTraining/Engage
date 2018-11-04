@@ -15,3 +15,16 @@
 | 3 | Lab 4 | Module 5 | Lab 6 | 4:45pm |
 | 4 | Module 7 | Lab 7 | Lab 9 | 4:30pm |
 | 5 | Module 10 | Module 11 | Lab 11 | 3:00pm |
+
+## Instructor Machine Setup
+
+If not using the client virtual machine `MIA-CL1` you will need the following:
+
+* [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)
+* [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+* [Azure Storage Explorer](https://azure.microsoft.com/en-au/features/storage-explorer/)
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download) - Optional
+* [Vistual Studio Code](https://code.visualstudio.com/) - Optional
+* [MOC Companion Content](https://www.microsoft.com/en-au/learning/companion-moc.aspx)
+* [MOC PowerPoint Slides](https://learningdownloadcenter.microsoft.com/)
+
