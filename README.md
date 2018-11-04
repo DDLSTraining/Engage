@@ -11,5 +11,5 @@ Please use it during your course and as a reference after completing the course.
 * [Common Cloud Resources](/Cloud)
 * [Google Cloud Platform](/GCP)
 * [Microsoft Office 365](/Office365)
-* [Microsoft Power BI](/Power BI)
+* [Microsoft Power BI](/Power%20BI)
 
