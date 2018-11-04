@@ -1,6 +1,6 @@
 # 10979 Course Setup
 
-Configurations needed to work on the Azure labs.
+Configurations needed to complete the Azure labs.
 
 ## MIA-CL1 Virtual Machine 🖥️
 
