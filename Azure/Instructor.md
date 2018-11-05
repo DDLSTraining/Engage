@@ -28,4 +28,5 @@ If not using the client virtual machine `MIA-CL1` you will need the following:
 * [GitHub Lab Files](https://github.com/MicrosoftLearning)
 * [MOC Companion Content](https://www.microsoft.com/en-au/learning/companion-moc.aspx) - Optional
 * [MOC PowerPoint Slides](https://learningdownloadcenter.microsoft.com/)
-
+* `Install-Module -Name AzureRM -Force`
+* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows)
