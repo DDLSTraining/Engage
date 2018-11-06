@@ -35,7 +35,7 @@ If using online labs follow these steps:
 __Do not use your existing Microsoft accounts to work with the labs!__
 
 1. Open [Outlook.com](https://outlook.live.com/owa/).
-1. Create a new `outlook.com` account. Use your last name with the date eg: carthew20180618@outlook.com
+1. Create a new `outlook.com` account. Use your last name with the date eg: lastname20180618@outlook.com
 1. Use this email address throughout the course.
 
 ### Office 365 Tenancy
