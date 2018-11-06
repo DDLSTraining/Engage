@@ -51,6 +51,7 @@ Get-VM | Start-VM
 Your lab environment is now ready for use.
 
 User: `adatum\Administrator`
+
 Pass: `Pa55w.rd`
 
 ### Courseware
