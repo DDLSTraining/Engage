@@ -30,11 +30,13 @@ If using online labs follow these steps:
 
 If using Hyper-V labs follow these steps:
 
-1. To monitor the virtual machines open `Hyper-V Manager` using the shortcut on the Desktop.
+1. To monitor the virtual machines using the shortcut on the Desktop launch `Hyper-V Manager`.
 1. Open `PowerShell` using the icon on the Start Menu.
 1. Type the following commands (use TAB autocomplete):
 
 ```powershell
+
+# Only run these commands once each.
 
 Get-VM | Remove-VMSnapshot
 Get-VM | Set-VMProcessor -Count 2
