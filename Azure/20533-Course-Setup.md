@@ -96,7 +96,6 @@ Add the following bookmarks to your browser:
 
 * [Skillpipe](https://skillpipe.com/en-GB/)
 * [Azure Portal](https://portal.azure.com/)
-* [Course 10979 GitHub Repository](https://github.com/MicrosoftLearning/10979-MicrosoftAzureFundamentals)
 * [Course 20533 GitHub Repository](https://github.com/MicrosoftLearning/20533-ImplementingMicrosoftAzureInfrastructureSolutions)
 * [This Repository](/Azure)
 
