@@ -16,6 +16,8 @@ Office 365 Account and Tenant Setup.
 
 ### Lab Environment
 
+The instructor will inform you about the lab environment you will be using. Only complete the following section for online labs if you are using online labs. If you are using Hyper-V labs then skip the online labs section.
+
 #### Online Labs
 
 If using online labs follow these steps:
@@ -23,6 +25,33 @@ If using online labs follow these steps:
 1. Go to [Learn On Demand](https://ddls.learnondemand.net/).
 1. Click on `Register with Training Key`.
 1. Enter the course training code provided by the instructor.
+
+#### Hyper-V Labs
+
+If using Hyper-V labs follow these steps:
+
+1. To monitor the virtual machines open `Hyper-V Manager` using the shortcut on the Desktop.
+1. Open `PowerShell` using the icon on the Start Menu.
+1. Type the following commands (use TAB autocomplete):
+
+```powershell
+
+Get-VM | Remove-VMSnapshot
+Get-VM | Set-VMProcessor -Count 2
+Get-VM -Name *LON* | Set-VMMemory -StartupBytes 4GB
+Get-VM | Checkpoint-VM
+Get-VM | Where { $_.Name -match 'NAT|DC1' } | Start-VM
+
+# Wait for the NAT and DC1 virtual machines to start.
+
+Get-VM | Start-VM
+
+```
+
+Your lab environment is now ready for use.
+
+User: `adatum\Administrator`
+Pass: `Pa55w.rd`
 
 ### Courseware
 
