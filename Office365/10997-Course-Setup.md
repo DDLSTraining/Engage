@@ -88,6 +88,15 @@ Bookmark the URLs in [References](#references) below.
 * [Office 365 Admin Portal](https://admin.microsoft.com/)
 * [10997 GitHub Repository](https://github.com/MicrosoftLearning/10997-O365AdministrationandTroubleshooting)
 
+Download FireFox with the following PowerShell command:
+```powershell
+
+Invoke-WebRequest -Uri 'https://stubdownloader.cdn.mozilla.net/builds/firefox-stub/en
+-US/win/c866d87d15747e8ed5f39e54863fc559b0ec9957b88b2e2df263f973b7ecc94b/Firefox%20Installer.
+exe' -OutFile 'C:\ffinstall.exe'
+
+```
+
 ## Resources
 
 ### Major Changes
