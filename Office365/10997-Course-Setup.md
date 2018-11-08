@@ -91,9 +91,7 @@ Bookmark the URLs in [References](#references) below.
 Download FireFox with the following PowerShell command:
 ```powershell
 
-Invoke-WebRequest -Uri 'https://stubdownloader.cdn.mozilla.net/builds/firefox-stub/en
--US/win/c866d87d15747e8ed5f39e54863fc559b0ec9957b88b2e2df263f973b7ecc94b/Firefox%20Installer.
-exe' -OutFile 'C:\ffinstall.exe'
+Invoke-WebRequest -Uri 'https://tinyurl.com/y9gtx35t' -OutFile 'C:\ffinstall.exe'
 
 ```
 
