@@ -22,3 +22,4 @@ Default output format [None]: ENTER
 ## Training Resources
 
 * [AWS Training](https://aws.amazon.com/training/)
+* [AWS Architecture Centre](https://aws.amazon.com/architecture/)
