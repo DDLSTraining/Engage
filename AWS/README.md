@@ -1,6 +1,7 @@
 # Amazon Web Services
 
 * [AWS Management Console](https://console.aws.amazon.com/)
+* [What's New with AWS](https://aws.amazon.com/new/)
 
 ## AWS Command Line Interface
 
