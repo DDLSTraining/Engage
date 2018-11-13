@@ -18,3 +18,7 @@ Default region name [None]: us-west-2
 Default output format [None]: ENTER
 
 ```
+
+## Training Resources
+
+* [AWS Training](https://aws.amazon.com/training/)
