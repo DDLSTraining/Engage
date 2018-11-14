@@ -1,7 +1,9 @@
 # Amazon Web Services
 
 * [AWS Management Console](https://console.aws.amazon.com/)
+* [AWS News Blog](https://aws.amazon.com/blogs/aws/)
 * [What's New with AWS](https://aws.amazon.com/new/)
+* [AWS Application Architecture](https://aws.amazon.com/architecture/)
 
 ## AWS Command Line Interface
 
@@ -24,3 +26,4 @@ Default output format [None]: ENTER
 
 * [AWS Training](https://aws.amazon.com/training/)
 * [AWS Architecture Centre](https://aws.amazon.com/architecture/)
+* [AWS This is My Architecture](https://aws.amazon.com/this-is-my-architecture/)
