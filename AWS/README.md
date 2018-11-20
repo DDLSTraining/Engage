@@ -9,7 +9,7 @@
 ## AWS Command Line Interface
 
 * [What is the AWS Command Line Interface?](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
-* [InstallAWS Command Line Interface](https://aws.amazon.com/cli/)
+* [Install the CLI](https://aws.amazon.com/cli/)
 
 To configure access:
 
