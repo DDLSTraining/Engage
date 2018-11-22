@@ -5,9 +5,15 @@
 
 ### Amazon Elastic Compute Cloud (EC2)
 
-### Amazon Elastic Container Registry
+[Amazon EC2](https://aws.amazon.com/ec2/) presents a true virtual computing environment, allowing you to use web service interfaces to launch instances with a variety of operating systems, load them with your custom application environment, manage your network’s access permissions, and run your image using as many or few systems as you desire.
 
-### Amazon Elastic Container Service
+### Amazon Elastic Container Registry (ECR)
+
+[Amazon Elastic Container Registry](https://aws.amazon.com/ecr/) (ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images. Amazon ECR is integrated with Amazon Elastic Container Service (ECS), simplifying your development to production workflow.
+
+### Amazon Elastic Container Service (ECS)
+
+[Amazon Elastic Container Service](https://aws.amazon.com/ecs/) (Amazon ECS) is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS.
 
 ### Amazon Lightsail
 
