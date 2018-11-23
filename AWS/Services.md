@@ -96,47 +96,100 @@ A local file server that synchronises to AWS storeage services such as S3, Glaci
 
 ### Amazon DynamoDB
 
+[Amazon DynamoDB](https://aws.amazon.com/dynamodb/) is a nonrelational database that delivers reliable performance at any scale. It's a fully managed, multi-region, multi-master database that provides consistent single-digit millisecond latency, and offers built-in security, backup and restore, and in-memory caching.
+
+The single-digit millisecond latency makes DynamoDB an extremely versatile NoSQL database.
+
 ### Amazon Relational Database Service (RDS)
 
+[Amazon RDS](https://aws.amazon.com/rds/) makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups.
+
+Supported database engines include: Amazon Aurora (MySQL on steroids), PostgreSQL, MySQL, MariaDB, Oracle, and Microsoft SQL Server.
+
+Consider DynamoDB which is far more cost effective and vastly more scalable.
 
 ## Security & Identity
 
 ### Amazon Inspector
 
+[Amazon Inspector](https://aws.amazon.com/inspector/) is an automated security assessment service that helps improve the security and compliance of applications deployed on AWS. Amazon Inspector automatically assesses applications for exposure, vulnerabilities, and deviations from best practices.
+
 ### AWS Artifact
+
+[AWS Artifact](https://aws.amazon.com/artifact/) is your go-to, central resource for compliance-related information that matters to you. It provides on-demand access to AWS’ security and compliance reports and select online agreements. Reports available in AWS Artifact include our Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls. Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).
 
 ### AWS Certificate Manager
 
-### AWS CloudHMS
+[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/) is a service that lets you easily provision, manage, and deploy public and private Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates for use with AWS services and your internal connected resources.
+
+### AWS CloudHSM
+
+[AWS CloudHSM](https://aws.amazon.com/cloudhsm/) is a cloud-based __hardware security module__ (HSM) that enables you to easily generate and use your own encryption keys on the AWS Cloud. With CloudHSM, you can manage your own encryption keys using FIPS 140-2 Level 3 validated HSMs. CloudHSM offers you the flexibility to integrate with your applications using industry-standard APIs, such as PKCS#11, Java Cryptography Extensions (JCE), and Microsoft CryptoNG (CNG) libraries.
 
 ### AWS Directory Service
 
+[AWS Directory Service](https://aws.amazon.com/directoryservice/) for Microsoft Active Directory, also known as AWS Managed Microsoft AD, enables your directory-aware workloads and AWS resources to use managed Active Directory in the AWS Cloud. AWS Managed Microsoft AD is built on actual Microsoft Active Directory and does not require you to synchronize or replicate data from your existing Active Directory to the cloud.
+
+Either connect your on-premises Active Directory to the cloud or deploy a stand-alone Active Directory in the cloud.
+
 ### AWS Identity and Access Management (IAM)
 
-### AWS KMS
+[AWS Identity and Access Management](https://aws.amazon.com/iam/) (IAM) enables you to manage access to AWS services and resources securely. Using IAM, you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.
+
+IAM gives you fine-grained access control, multi-factor authentication, secure client application access, and integrates with your corporate directory.
+
+### AWS Key Management Service (KMS)
+
+[AWS Key Management Service](https://aws.amazon.com/kms/) (KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data, and uses FIPS 140-2 validated hardware security modules to protect the security of your keys. AWS Key Management Service is also integrated with AWS CloudTrail to provide you with logs of all key usage to help meet your regulatory and compliance needs.
 
 ### AWS Organizations
 
+[AWS Organizations](https://aws.amazon.com/organizations/) offers policy-based management for multiple AWS accounts. With Organizations, you can create groups of accounts, automate account creation, apply and manage policies for those groups. Organizations enables you to centrally manage policies across multiple accounts, without requiring custom scripts and manual processes.
+
 ### AWS Shield
 
-### AWS WAF
+[AWS Shield](https://aws.amazon.com/shield/) is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS. AWS Shield provides always-on detection and automatic inline mitigations that minimize application downtime and latency, so there is no need to engage AWS Support to benefit from DDoS protection.
 
+### AWS Web Application Firewall (WAF)
+
+[AWS WAF](https://aws.amazon.com/waf/) is a web application firewall that helps protect your web applications from common web exploits that could affect application availability, compromise security, or consume excessive resources. You can use AWS WAF to create custom rules that block common attack patterns, such as SQL injection or cross-site scripting, and rules that are designed for your specific application.
 
 ## Applications
 
 ### Amazon WorkDocs
 
+[Amazon WorkDocs](https://aws.amazon.com/workdocs/) enables you to store all of your files on one service. Users can create content, share files, provide rich feedback, and access their files on WorkDocs from any device.
+
+Think of a collaboration site or team site to work and share documents.
+
 ### Amazon WorkMail
+
+[Amazon WorkMail](https://aws.amazon.com/workmail/) is a secure, managed business email and calendar service with support for existing desktop and mobile email client applications. You can integrate Amazon WorkMail with your existing corporate directory, use email journaling to meet compliance requirements, and control both the keys that encrypt your data and the location in which your data is stored. You can also set up interoperability with Microsoft Exchange Server, and programmatically manage users, groups, and resources using the Amazon WorkMail SDK.
 
 ### Amazon AppStream
 
+[Amazon AppStream](https://aws.amazon.com/appstream2/) 2.0 is a fully managed application streaming service. You centrally manage your desktop applications on AppStream 2.0 and securely deliver them to any computer. You can easily scale to any number of users across the globe without acquiring, provisioning, and operating hardware or infrastructure.
+
+Think Terminal Services or Citrix.
+
 ### Amazon WorkSpaces
 
+[Amazon WorkSpaces](https://aws.amazon.com/workspaces/) is a managed, secure cloud desktop service. You can use Amazon WorkSpaces to provision either Windows or Linux desktops in just a few minutes and quickly scale to provide thousands of desktops to workers across the globe.
+
+Think Virtual Desktop Infrastructure without the fuss.
 
 ## Management Tools
 
 ### Auto Scaling
 
+[AWS Auto Scaling](https://aws.amazon.com/autoscaling/) monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost. The service provides a simple, powerful user interface that lets you build scaling plans for resources including Amazon EC2 instances and Spot Fleets, Amazon ECS tasks, Amazon DynamoDB tables and indexes, and Amazon Aurora Replicas.
+
+Think centralised control of automatic scaling for your AWS resources.
+
 ### Amazon CloudWatch
 
+[Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) is a monitoring and management service built for developers, system operators, site reliability engineers (SRE), and IT managers. CloudWatch collects monitoring and operational data in the form of logs, metrics, and events, providing you with a unified view of AWS resources, applications and services that run on AWS, and on-premises servers.
+
 ### AWS Trusted Advisor
+
+[AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/trustedadvisor/) is an online resource to help you reduce cost, increase performance, and improve security by optimizing your AWS environment. Trusted Advisor provides real time guidance to help you provision your resources following AWS best practices.
