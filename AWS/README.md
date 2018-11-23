@@ -5,6 +5,7 @@
 * [What's New with AWS](https://aws.amazon.com/new/)
 * [AWS Application Architecture](https://aws.amazon.com/architecture/)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+* [10-Minute Tutorials](https://aws.amazon.com/getting-started/tutorials/)
 
 ## AWS Command Line Interface
 
