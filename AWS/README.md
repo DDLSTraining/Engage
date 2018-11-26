@@ -7,6 +7,11 @@
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [10-Minute Tutorials](https://aws.amazon.com/getting-started/tutorials/)
 
+## Content
+
+* [Services](/AWS/Services.md) - A summary of the foundational and platform services offered by AWS.
+* [Training Resources](#training-resources) - Links to educational resources.
+
 ## AWS Command Line Interface
 
 * [What is the AWS Command Line Interface?](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
