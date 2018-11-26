@@ -15,6 +15,7 @@ Service Categories:
 * [Application Services](#application-services)
 * [Applications](#Applications)
 * [Management Tools](#management-tools)
+* [Developer Tools](#developer-tools)
 
 ## Compute
 
@@ -333,20 +334,93 @@ If you require external signals to intervene in your processes, or you would lik
 
 ## Management Tools
 
-### Auto Scaling
-
-[AWS Auto Scaling](https://aws.amazon.com/autoscaling/) monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost. The service provides a simple, powerful user interface that lets you build scaling plans for resources including Amazon EC2 instances and Spot Fleets, Amazon ECS tasks, Amazon DynamoDB tables and indexes, and Amazon Aurora Replicas.
-
-🤔 Think centralised control of automatic scaling for your AWS resources.
-
 ### Amazon CloudWatch
 
 [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) is a monitoring and management service built for developers, system operators, site reliability engineers (SRE), and IT managers. CloudWatch collects monitoring and operational data in the form of logs, metrics, and events, providing you with a unified view of AWS resources, applications and services that run on AWS, and on-premises servers.
 
 🤔 Think logging and monitoring dashboard and so much more.
 
+### AWS CloudFormation
+
+AWS CloudFormation provides a common language for you to describe and provision all the infrastructure resources in your cloud environment. CloudFormation allows you to use a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts. This file serves as the single source of truth for your cloud environment.
+
+🤔 Think of CloudFormation as complete application infrastructure design in simple text documents. It is used by AWS for boxed application deployment like Wordpress or Django deployments from the AWS Marketplace.
+
+### AWS CloudTrail
+
+[AWS CloudTrail](https://aws.amazon.com/cloudtrail/) is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account. With CloudTrail, you can log, continuously monitor, and retain account activity related to actions across your AWS infrastructure. CloudTrail provides event history of your AWS account activity, including actions taken through the AWS Management Console, AWS SDKs, command line tools, and other AWS services. This event history simplifies security analysis, resource change tracking, and troubleshooting.
+
+🤔 Think of CloudTrail as security analysis around user and resource activity (auditing).
+
+### AWS Config
+
+[AWS Config](https://aws.amazon.com/config/) is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources. Config continuously monitors and records your AWS resource configurations and allows you to automate the evaluation of recorded configurations against desired configurations. With Config, you can review changes in configurations and relationships between AWS resources, dive into detailed resource configuration histories, and determine your overall compliance against the configurations specified in your internal guidelines.
+
+🤔 Think of AWS Config as deployment comparisons between what you have deployed in the cloud and what you defined your deployment to be. Helps you spot changes and review history.
+
+### AWS Managed Services
+
+[AWS Managed Services](https://aws.amazon.com/managed-services/) automates common activities such as change requests, monitoring, patch management, security, and backup services, and provides full-lifecycle services to provision, run, and support your infrastructure.
+
+🤔 Think of AWS Managed Services as the application of ITIL in the cloud. Mostly for large enterprise.
+
+### AWS OpsWorks
+
+[AWS OpsWorks](https://aws.amazon.com/opsworks/) is a configuration management service that provides managed instances of Chef and Puppet. Chef and Puppet are automation platforms that allow you to use code to automate the configurations of your servers. OpsWorks lets you use Chef and Puppet to automate how servers are configured, deployed, and managed across your Amazon EC2 instances or on-premises compute environments. OpsWorks has three offerings, AWS Opsworks for Chef Automate, AWS OpsWorks for Puppet Enterprise, and AWS OpsWorks Stacks.
+
+🤔 Think of OpsWorks as Chef or Puppet in the cloud. Use if you are already heavily invested in Chef or Puppet.
+
+### AWS Service Catalog
+
+[AWS Service Catalog](https://aws.amazon.com/servicecatalog/) allows organizations to create and manage catalogs of IT services that are approved for use on AWS. These IT services can include everything from virtual machine images, servers, software, and databases to complete multi-tier application architectures. AWS Service Catalog allows you to centrally manage commonly deployed IT services, and helps you achieve consistent governance and meet your compliance requirements, while enabling users to quickly deploy only the approved IT services they need.
+
+🤔 Think of Service Catalog as a group of defined AWS resources (CloudFormation templates) deployable by non-admin staff. I'm a developer and I need a web server, log in as the developer and deploy a web server.
+
+### Auto Scaling
+
+[AWS Auto Scaling](https://aws.amazon.com/autoscaling/) monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost. The service provides a simple, powerful user interface that lets you build scaling plans for resources including Amazon EC2 instances and Spot Fleets, Amazon ECS tasks, Amazon DynamoDB tables and indexes, and Amazon Aurora Replicas.
+
+🤔 Think centralised control of automatic scaling for your AWS resources.
+
 ### AWS Trusted Advisor
 
 [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/trustedadvisor/) is an online resource to help you reduce cost, increase performance, and improve security by optimizing your AWS environment. Trusted Advisor provides real time guidance to help you provision your resources following AWS best practices.
 
 🤔 Think cost and price optimizing support.
+
+## Developer Tools
+
+### AWS CodeBuild
+
+[AWS CodeBuild](https://aws.amazon.com/codebuild/) is a fully managed continuous integration service that compiles source code, runs tests, and produces software packages that are ready to deploy. With CodeBuild, you don’t need to provision, manage, and scale your own build servers. CodeBuild scales continuously and processes multiple builds concurrently, so your builds are not left waiting in a queue.
+
+🤔 Think of CodeBuild as automated source code analysis, testing, and compiling.
+
+### AWS CodeCommit
+
+[AWS CodeCommit](https://aws.amazon.com/codecommit/) is a fully-managed source control service that hosts secure Git-based repositiories. It makes it easy for teams to collaborate on code in a secure and highly scalable ecosystem. CodeCommit eliminates the need to operate your own source control system or worry about scaling its infrastructure. You can use CodeCommit to securely store anything from source code to binaries, and it works seamlessly with your existing Git tools.
+
+🤔 Think of CodeCommit as central access to application source code. Similar to GitHub and BitBucket only managed within your AWS account.
+
+### AWS CodeDeploy
+
+[AWS CodeDeploy](https://aws.amazon.com/codedeploy/) is a fully managed deployment service that automates software deployments to a variety of compute services such as Amazon EC2, AWS Lambda, and your on-premises servers. AWS CodeDeploy makes it easier for you to rapidly release new features, helps you avoid downtime during application deployment, and handles the complexity of updating your applications.
+
+🤔 Think of CodeDeploy as automating your application updates and changes to testing or production environments.
+
+### AWS CodePipeline
+
+AWS CodePipeline is a fully managed continuous delivery service that helps you automate your release pipelines for fast and reliable application and infrastructure updates. CodePipeline automates the build, test, and deploy phases of your release process every time there is a code change, based on the release model you define. This enables you to rapidly and reliably deliver features and updates. You can easily integrate AWS CodePipeline with third-party services such as GitHub or with your own custom plugin.
+
+🤔 Think of CodePipeline as automating your application source code build, test, and deployment processes (continuous deployment).
+
+### AWS X-Ray
+
+[AWS X-Ray](https://aws.amazon.com/xray/) helps developers analyze and debug production, distributed applications, such as those built using a microservices architecture. With X-Ray, you can understand how your application and its underlying services are performing to identify and troubleshoot the root cause of performance issues and errors. X-Ray provides an end-to-end view of requests as they travel through your application, and shows a map of your application’s underlying components. You can use X-Ray to analyze both applications in development and in production, from simple three-tier applications to complex microservices applications consisting of thousands of services.
+
+🤔 Think of X-Ray as debugging for cloud native applications.
+
+### AWS CodeStar
+
+[AWS CodeStar](https://aws.amazon.com/codestar/) enables you to quickly develop, build, and deploy applications on AWS. AWS CodeStar provides a unified user interface, enabling you to easily manage your software development activities in one place. With AWS CodeStar, you can set up your entire continuous delivery toolchain in minutes, allowing you to start releasing code faster. AWS CodeStar makes it easy for your whole team to work together securely, allowing you to easily manage access and add owners, contributors, and viewers to your projects. Each AWS CodeStar project comes with a project management dashboard, including an integrated issue tracking capability powered by Atlassian JIRA Software.
+
