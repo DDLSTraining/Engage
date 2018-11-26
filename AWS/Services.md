@@ -12,6 +12,7 @@ Service Categories:
 * [Database](#database)
 * [Analytics](#analytics)
 * [Security & Identity](#security--identity)
+* [Application Services](#application-services)
 * [Applications](#Applications)
 * [Management Tools](#management-tools)
 
@@ -41,7 +42,7 @@ Service Categories:
 
 [Kubernetes](https://kubernetes.io/) is an open source container orchestration service that has become the default choice for cross platform management and deployment.
 
-ECS is only on AWS, Kubernetes is anywhere. EKS is a managed Kubernetes cluster.
+🤔 Think of EKS as a managed Kubernetes cluster. As a comparison ECS is a custom Amazon container orchestration service. Kubernetese is cross platform.
 
 ### Amazon Lightsail
 
@@ -276,6 +277,40 @@ accessed from any browser or mobile device.
 
 🤔 Think of the bouncers that wonder through the club protecting your application.
 
+## Application Services
+
+### Amazon API Gateway
+
+[Amazon API Gateway](https://aws.amazon.com/api-gateway/) is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. With a few clicks in the AWS Management Console, you can create an API that acts as a “front door” for applications to access data, business logic, or functionality from your back-end services, such as workloads running on Amazon Elastic Compute Cloud (Amazon EC2), code running on AWS Lambda, or any web application.
+
+🤔 Think of API Gateway as a front door to your browser or mobile application backend data.
+
+### Amazon AppStream
+
+[Amazon AppStream](https://aws.amazon.com/appstream2/) 2.0 is a fully managed application streaming service. You centrally manage your desktop applications on AppStream 2.0 and securely deliver them to any computer. You can easily scale to any number of users across the globe without acquiring, provisioning, and operating hardware or infrastructure.
+
+🤔 Think Terminal Services or Citrix application streaming.
+
+### Amazon Elastic Transcoder
+
+[Amazon Elastic Transcoder](https://aws.amazon.com/elastictranscoder/) is media transcoding in the cloud. It is designed to be a highly scalable, easy to use and a cost effective way for developers and businesses to convert (or “transcode”) media files from their source format into versions that will playback on devices like smartphones, tablets and PCs.
+
+🤔 Think of Elastic Transcoder as a tool to help you convert high quality media to low quality media to reduce client bandwidth use or support mobile devices.
+
+### Amazon Simple Workflow Service (SWF)
+
+Amazon SWF helps developers build, run, and scale background jobs that have parallel or sequential steps. It is a fully managed workflow service for building scalable, resilient applications. Amazon SWF provides simple API calls that can be executed from code written in any language and run on your EC2 instances, or any of your machines located anywhere in the world that can access the Internet.
+
+🤔 Think of Amazon SWF as a fully-managed state tracker and task coordinator in the cloud. Lots of control over workflow steps.
+
+### AWS Step Functions
+
+AWS Step Functions lets you coordinate multiple AWS services into serverless workflows so you can build and update apps quickly. Using Step Functions, you can design and run workflows that stitch together services such as AWS Lambda and Amazon ECS into feature-rich applications. Workflows are made up of a series of steps, with the output of one step acting as input into the next. Application development is simpler and more intuitive using Step Functions, because it translates your workflow into a state machine diagram that is easy to understand, easy to explain to others, and easy to change.
+
+If you require external signals to intervene in your processes, or you would like to launch child processes that return a result to a parent, then you should consider Amazon SWF.
+
+🤔 Think of Step Functions as visual workflow design for AWS services. Prefer Step Function over SWF unless you need the extra control and/or external signals.
+
 ## Applications
 
 ### Amazon WorkDocs
@@ -289,12 +324,6 @@ accessed from any browser or mobile device.
 [Amazon WorkMail](https://aws.amazon.com/workmail/) is a secure, managed business email and calendar service with support for existing desktop and mobile email client applications. You can integrate Amazon WorkMail with your existing corporate directory, use email journaling to meet compliance requirements, and control both the keys that encrypt your data and the location in which your data is stored. You can also set up interoperability with Microsoft Exchange Server, and programmatically manage users, groups, and resources using the Amazon WorkMail SDK.
 
 🤔 Think cloud based email and personal management software, calendar etc.
-
-### Amazon AppStream
-
-[Amazon AppStream](https://aws.amazon.com/appstream2/) 2.0 is a fully managed application streaming service. You centrally manage your desktop applications on AppStream 2.0 and securely deliver them to any computer. You can easily scale to any number of users across the globe without acquiring, provisioning, and operating hardware or infrastructure.
-
-🤔 Think Terminal Services or Citrix application streaming.
 
 ### Amazon WorkSpaces
 
