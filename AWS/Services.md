@@ -171,7 +171,7 @@ Consider DynamoDB which is far more cost effective and vastly more scalable.
 
 [Amazon ElastiCache](https://aws.amazon.com/elasticache/) offers fully managed Redis and Memcached. Seamlessly deploy, run, and scale popular open source compatible in-memory data stores. Build data-intensive apps or improve the performance of your existing apps by retrieving data from high throughput and low latency in-memory data stores. Amazon ElastiCache is a popular choice for Gaming, Ad-Tech, Financial Services, Healthcare, and IoT apps.
 
-🤔 Think of ElasticCache as a browser session state management for stateless front-end services.
+🤔 Think of ElasticCache as a browser session state management store for stateless front-end services.
 
 ## Analytics
 
