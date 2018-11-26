@@ -1,8 +1,17 @@
-# AWS Foundational Services Overview
+# AWS Services Overview
 
 One of the hardest things to learn when starting out with AWS is the vast array of products offered. This pages gives you a summary of the most commonly used services. Just to get you started.
 
 For a more complete coverage of modern application development and the AWS products available, read the excellent document titled [Architecting for the Cloud - AWS Best Practices](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf).
+
+* [Compute](#compute)
+* [Network](#network)
+* [Storage](#storeage)
+* [Database](#database)
+* [Analytics](#analytics)
+* [Security & Identity](#security-&-identity)
+* [Application](#Application)
+* [Management Tools](#management-tools)
 
 ## Compute
 
@@ -128,7 +137,7 @@ Think of getting a storage device from AWS, copying lots to it, and sending it b
 
 Think of a local file server that synchronises to AWS storeage services such as S3, Glacier, and EBS.
 
-## Database Services
+## Database
 
 ### Amazon DynamoDB
 
@@ -145,6 +154,63 @@ Think of a ANSI standard SQL database server without the complexity.
 Supported database engines include: Amazon Aurora (MySQL on steroids), PostgreSQL, MySQL, MariaDB, Oracle, and Microsoft SQL Server.
 
 Consider DynamoDB which is far more cost effective and vastly more scalable.
+
+### Amazon Redshift
+
+[Amazon Redshift](https://aws.amazon.com/redshift/) is a fast, scalable data warehouse that makes it simple and cost-effective to analyze all your data across your data warehouse and data lake. Redshift delivers ten times faster performance than other data warehouses by using machine learning, massively parallel query execution, and columnar storage on high-performance disk.
+
+Think fully managed business intelligence on big data.
+
+### Amazon ElasticCache
+
+[Amazon ElastiCache](https://aws.amazon.com/elasticache/) offers fully managed Redis and Memcached. Seamlessly deploy, run, and scale popular open source compatible in-memory data stores. Build data-intensive apps or improve the performance of your existing apps by retrieving data from high throughput and low latency in-memory data stores. Amazon ElastiCache is a popular choice for Gaming, Ad-Tech, Financial Services, Healthcare, and IoT apps.
+
+Think browser session state management for stateless front end services.
+
+## Analytics
+
+### Amazon Athena
+
+Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the queries that you run.
+
+Athena is easy to use. Simply point to your data in Amazon S3, define the schema, and start querying using standard SQL. Most results are delivered within seconds. With Athena, there’s no need for complex ETL jobs to prepare your data for analysis. This makes it easy for anyone with SQL skills to quickly analyze large-scale datasets.
+
+Think SQL queries against your IoT logs or other data.
+
+### Amazon CloudSearch
+
+[Amazon CloudSearch](https://aws.amazon.com/cloudsearch/) is a managed service in the AWS Cloud that makes it simple and cost-effective to set up, manage, and scale a search solution for your website or application. It supports 34 languages and popular search features such as highlighting, autocomplete, and geospatial search.
+
+Think web search across all your content.
+
+### Amazon Elastic Map Reduce (EMR)
+
+Amazon EMR provides a managed Hadoop framework that makes it easy, fast, and cost-effective to process vast amounts of data across dynamically scalable Amazon EC2 instances. You can also run other popular distributed frameworks such as Apache Spark, HBase, Presto, and Flink in EMR, and interact with data in other AWS data stores such as Amazon S3 and Amazon DynamoDB. EMR Notebooks, based on the popular Jupyter Notebook, provide a development and collaboration environment for ad hoc querying and exploratory analysis.
+
+Think [Apache Hadoop](https://hadoop.apache.org/) and its applications in the cloud. Hadoop enables distributed processing of large data sets across clusters of computers using simple programming models. This service is handy if you have invested heavily in Hadoop and are moving to the cloud.
+
+### Amazon Elasticsearch Service
+
+[Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/) is a fully managed service that makes it easy for you to deploy, secure, operate, and scale Elasticsearch to search, analyze, and visualize data in real-time. With Amazon Elasticsearch Service you get easy-to-use APIs and real-time analytics capabilities to power use-cases such as log analytics, full-text search, application monitoring, and clickstream analytics, with enterprise-grade availability, scalability, and security.
+
+[Elasticsearch](https://www.elastic.co/products/elasticsearch) is not an Amazon product. It is a search engine based on the [Lucene library](https://en.wikipedia.org/wiki/Apache_Lucene). It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents.
+
+Think web search across all your content using an open-source product (cross platform).
+
+### Amazon Kinesis
+
+[Amazon Kinesis](https://aws.amazon.com/kinesis/) makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information.
+
+With Amazon Kinesis, you can ingest real-time data such as video, audio, application logs, website clickstreams, and IoT telemetry data for machine learning, analytics, and other applications. Amazon Kinesis enables you to process and analyze data as it arrives and respond instantly instead of having to wait until all your data is collected before the processing can begin.
+
+Think data transformation prior to storage for large data feeds.
+
+### Amazon QuickSight
+
+[Amazon QuickSight](https://aws.amazon.com/quicksight/) is a fast, cloud-powered BI service that makes it easy to build visualizations, perform ad-hoc analysis, and quickly get business insights from your data. Using our cloud-based service you can easily connect to your data, perform advanced analysis, and create stunning visualizations and rich dashboards that can be
+accessed from any browser or mobile device.
+
+Think of a visualization or graphing dashboard in the browser that can connect to your data.
 
 ## Security & Identity
 
