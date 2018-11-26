@@ -13,11 +13,11 @@ Service Categories:
 * [Analytics](#analytics)
 * [Security & Identity](#security--identity)
 * [Application Services](#application-services)
+* [Mobile Services](#mobile-services)
+* [Internet of Things](#internet-of-things)
 * [Applications](#Applications)
 * [Management Tools](#management-tools)
 * [Developer Tools](#developer-tools)
-* [Mobile Services](#mobile-services)
-* [Internet of Things](#internet-of-things)
 
 ## Compute
 
@@ -314,6 +314,46 @@ If you require external signals to intervene in your processes, or you would lik
 
 🤔 Think of Step Functions as visual workflow design for AWS services. Prefer Step Function over SWF unless you need the extra control and/or external signals.
 
+## Mobile Services
+
+### AWS Mobile
+
+[AWS Mobile](https://aws.amazon.com/mobile/) is a console that provides an integrated experience for discovering, configuring, and accessing AWS cloud services for building, testing, and monitoring usage of mobile apps. Features provided within the AWS Mobile Hub include Secure Authentication, Storage, Serverless Functions, Database, and Bots.
+
+🤔 Think of AWS Mobile as a starting point for mobile application development including step-by-step wizards for front and backend components.
+
+### Amazon Cognito
+
+Amazon Cognito lets you add user sign-up, sign-in, and access control to your web and mobile apps quickly and easily. Amazon Cognito scales to millions of users and supports sign-in with social identity providers, such as Facebook, Google, and Amazon, and enterprise identity providers via SAML 2.0.
+
+🤔 Think of Cognito as application authentication, authorization, and access made easy.
+
+### Amazon Pinpoint
+
+[Amazon Pinpoint](https://aws.amazon.com/pinpoint/) enables you to engage your customers by sending them targeted and transactional email, SMS, push notifications, and voice messages. Examples of targeted campaigns are promotional alerts and customer retention campaigns, and transactional messages are messages such as order confirmations and password reset messages.
+
+🤔 Think of Pinpoint as your application customer or client engagement though contant annoyance.
+
+### AWS Device Farm
+
+[AWS Device Farm](https://aws.amazon.com/device-farm/) is an app testing service that lets you test and interact with your Android, iOS, and web apps on many devices at once, or reproduce issues on a device in real time. View video, screenshots, logs, and performance data to pinpoint and fix issues and increase quality before shipping your app.
+
+🤔 Think of Device Farm as Devices as a Service (DaaS). Automatically test your app on a bunch of devices without having to go and buy hardware.
+
+## Internet of Things
+
+### AWS IoT
+
+[AWS IoT](https://aws.amazon.com/iot/) enables you can easily and securely manage billions of devices, run analytics and machine learning, and take actions to make better, faster decisions.
+
+🤔 Think of AWS IoT as your storage, management, and analysis of the billions of log entries being produced by your millions of sensor devices.
+
+### AWS Greengrass
+
+[AWS Greengrass](https://aws.amazon.com/greengrass/) is software that lets you run local compute, messaging, data caching, sync, and ML inference capabilities for connected devices in a secure way. With AWS Greengrass, connected devices can run AWS Lambda functions, keep device data in sync, and communicate with other devices securely – even when not connected to the Internet. Using AWS Lambda, Greengrass ensures your IoT devices can respond quickly to local events, use Lambda functions running on Greengrass Core to interact with local resources, operate with intermittent connections, stay updated with over the air updates, and minimize the cost of transmitting IoT data to the cloud.
+
+🤔 Think of Greengrass as a grouping and management tool for your IoT devices. It is a child service under AWS IoT.
+
 ## Applications
 
 ### Amazon WorkDocs
@@ -427,43 +467,3 @@ AWS CodePipeline is a fully managed continuous delivery service that helps you a
 [AWS CodeStar](https://aws.amazon.com/codestar/) enables you to quickly develop, build, and deploy applications on AWS. AWS CodeStar provides a unified user interface, enabling you to easily manage your software development activities in one place. With AWS CodeStar, you can set up your entire continuous delivery toolchain in minutes, allowing you to start releasing code faster. AWS CodeStar makes it easy for your whole team to work together securely, allowing you to easily manage access and add owners, contributors, and viewers to your projects. Each AWS CodeStar project comes with a project management dashboard, including an integrated issue tracking capability powered by Atlassian JIRA Software.
 
 🤔 Think of CodeStar as an easily deployed fully managed developer team environment.
-
-## Mobile Services
-
-### AWS Mobile
-
-[AWS Mobile](https://aws.amazon.com/mobile/) is a console that provides an integrated experience for discovering, configuring, and accessing AWS cloud services for building, testing, and monitoring usage of mobile apps. Features provided within the AWS Mobile Hub include Secure Authentication, Storage, Serverless Functions, Database, and Bots.
-
-🤔 Think of AWS Mobile as a starting point for mobile application development including step-by-step wizards for front and backend components.
-
-### Amazon Cognito
-
-Amazon Cognito lets you add user sign-up, sign-in, and access control to your web and mobile apps quickly and easily. Amazon Cognito scales to millions of users and supports sign-in with social identity providers, such as Facebook, Google, and Amazon, and enterprise identity providers via SAML 2.0.
-
-🤔 Think of Cognito as application authentication, authorization, and access made easy.
-
-### Amazon Pinpoint
-
-[Amazon Pinpoint](https://aws.amazon.com/pinpoint/) enables you to engage your customers by sending them targeted and transactional email, SMS, push notifications, and voice messages. Examples of targeted campaigns are promotional alerts and customer retention campaigns, and transactional messages are messages such as order confirmations and password reset messages.
-
-🤔 Think of Pinpoint as your application customer or client engagement though contant annoyance.
-
-### AWS Device Farm
-
-[AWS Device Farm](https://aws.amazon.com/device-farm/) is an app testing service that lets you test and interact with your Android, iOS, and web apps on many devices at once, or reproduce issues on a device in real time. View video, screenshots, logs, and performance data to pinpoint and fix issues and increase quality before shipping your app.
-
-🤔 Think of Device Farm as Devices as a Service (DaaS). Automatically test your app on a bunch of devices without having to go and buy hardware.
-
-## Internet of Things
-
-### AWS IoT
-
-[AWS IoT](https://aws.amazon.com/iot/) enables you can easily and securely manage billions of devices, run analytics and machine learning, and take actions to make better, faster decisions.
-
-🤔 Think of AWS IoT as your storage, management, and analysis of the billions of log entries being produced by your millions of sensor devices.
-
-### AWS Greengrass
-
-[AWS Greengrass](https://aws.amazon.com/greengrass/) is software that lets you run local compute, messaging, data caching, sync, and ML inference capabilities for connected devices in a secure way. With AWS Greengrass, connected devices can run AWS Lambda functions, keep device data in sync, and communicate with other devices securely – even when not connected to the Internet. Using AWS Lambda, Greengrass ensures your IoT devices can respond quickly to local events, use Lambda functions running on Greengrass Core to interact with local resources, operate with intermittent connections, stay updated with over the air updates, and minimize the cost of transmitting IoT data to the cloud.
-
-🤔 Think of Greengrass as a grouping and management tool for your IoT devices. It is a child service under AWS IoT.
