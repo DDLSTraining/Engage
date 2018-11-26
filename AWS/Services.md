@@ -19,6 +19,8 @@ Service Categories:
 * [Management Tools](#management-tools)
 * [Developer Tools](#developer-tools)
 
+_Note: To undo a bold you can use a spanner, a rachet, an adjustable spanner, vice grips, pliers, or a hammer. Each tool has its advantages and disadvantages. Some tools are better for a specific task. You will find a lot of overlap in the AWS services listed below. If you find you need a service to achieve a task, research the different options and choose the best for your workload._
+
 ## Compute
 
 ### Amazon Elastic Compute Cloud (EC2)
