@@ -113,7 +113,7 @@ As an alternative take a look at [AWS CodeStar](https://aws.amazon.com/codestar/
 
 [Amazon S3](https://aws.amazon.com/s3/) is object storage built to store and retrieve any amount of data from anywhere – web sites and mobile apps, corporate applications, and data from IoT sensors or devices. It is designed to deliver 99.999999999% durability, and stores data for millions of applications used by market leaders in every industry.
 
-🤔 Think of S3 as a database for objects. _It is not a file system._
+🤔 Think of S3 as a database for objects. _It is not a file system._ Checkout [AWS Transfer for SFTP](https://aws.amazon.com/sftp/) for one solution built on top of S3 for file access.
 
 ### Amazon Elastic Block Store (EBS)
 
