@@ -1,6 +1,9 @@
 # Online Datasets
 
+## Dataset Search Sites
+
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+* [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
 ## Dataset References
 
