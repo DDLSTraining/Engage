@@ -29,17 +29,23 @@ _Note: To undo a bolt you can use a spanner, a rachet, an adjustable spanner, vi
 
 🤔 Think of EC2 as virtual machines in the cloud.
 
+🌏 Scope: Availability Zone
+
 ### Amazon Elastic Container Registry (ECR)
 
 [Amazon Elastic Container Registry](https://aws.amazon.com/ecr/) (ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images. Amazon ECR is integrated with Amazon Elastic Container Service (ECS), simplifying your development to production workflow.
 
 🤔 Think of ECR as your own private [Docker Hub](https://hub.docker.com/) (container store).
 
+🌏 Scope: Region
+
 ### Amazon Elastic Container Service (ECS)
 
 [Amazon Elastic Container Service](https://aws.amazon.com/ecs/) (ECS) is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS.
 
 🤔 Think of ECS as virtualized applications without managing the virtual machine instances.
+
+🌏 Scope: Region
 
 ### Amazon Elastic Container Services for Kubernetes (EKS)
 
@@ -89,11 +95,15 @@ As an alternative take a look at [AWS CodeStar](https://aws.amazon.com/codestar/
 
 🤔 Think of Route 53 as name resolution with a 'load balancing' service that operates at layer 7 using DNS.
 
+🌏 Scope: Global
+
 ### Amazon Virtual Private Cloud (VPC)
 
 [Amazon VPC](https://aws.amazon.com/vpc/) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways.
 
 🤔 Think of VPC as virtual routers and switches in the cloud (and so much more).
+
+🌏 Scope: Region
 
 ### AWS Direct Connect
 
@@ -120,6 +130,8 @@ Some S3 file access protocols include:
 * [HTTP](https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html#access-bucket-intro)
 * [AWS Transfer for SFTP](https://aws.amazon.com/sftp/)
 * [BitTorrent Publishing](https://docs.aws.amazon.com/AmazonS3/latest/dev/S3TorrentPublish.html)
+
+🌏 Scope: Region
 
 ### Amazon Elastic Block Store (EBS)
 
@@ -158,6 +170,8 @@ Some S3 file access protocols include:
 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) is a nonrelational database that delivers reliable performance at any scale. It's a fully managed, multi-region, multi-master database that provides consistent single-digit millisecond latency, and offers built-in security, backup and restore, and in-memory caching.
 
 🤔 Think of DynamoDB as a fast application data storage. The single-digit millisecond latency makes DynamoDB an extremely versatile NoSQL database.
+
+🌏 Scope: Region and Global
 
 ### Amazon Relational Database Service (RDS)
 
