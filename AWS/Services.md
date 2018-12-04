@@ -87,7 +87,7 @@ As an alternative take a look at [AWS CodeStar](https://aws.amazon.com/codestar/
 
 [Amazon Route 53](https://aws.amazon.com/route53/) is a highly available and scalable cloud Domain Name System (DNS) web service. You can use Amazon Route 53 to configure DNS health checks to route traffic to healthy endpoints or to independently monitor the health of your application and its endpoints. Amazon Route 53 Traffic Flow makes it easy for you to manage traffic globally through a variety of routing types, including Latency Based Routing, Geo DNS, Geoproximity, and Weighted Round Robin—all of which can be combined with DNS Failover in order to enable a variety of low-latency, fault-tolerant architectures.
 
-🤔 Think of Route 53 as a plain old DNS on steroids. You might also like to think of it as a 'load balancing' service that operates at layer 7 using DNS.
+🤔 Think of Route 53 as name resolution with a 'load balancing' service that operates at layer 7 using DNS.
 
 ### Amazon Virtual Private Cloud (VPC)
 
