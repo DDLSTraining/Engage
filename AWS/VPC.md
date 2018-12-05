@@ -33,3 +33,9 @@ Privately connect your EC2 instances to services outside your VPC without leavin
 
 There are two types of VPC Endpoints; Interface Endpoint and Gateway Endpoint.
 
+### Elastic Load Balancer (ELB)
+
+* Scope: Region
+* Elastic
+* Highly Available
+* Fault Tolerant
