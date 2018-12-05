@@ -21,6 +21,13 @@ Service Categories:
 
 _Note: To undo a bolt you can use a spanner, a rachet, an adjustable spanner, vice grips, pliers, or a hammer. Each tool has its advantages and disadvantages. Some tools are better for a specific task. You will find a lot of overlap in the AWS services listed below. If you find you need a service to achieve a task, research the different options and choose the best for your workload._
 
+Other service references:
+
+* [AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/Welcome.html)
+* [AWS Regions and Endpoints](https://docs.aws.amazon.com/general/latest/gr/rande.html)
+* [AWS Service Limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
+* [AWS Glossary](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
+
 ## Compute
 
 ### Amazon Elastic Compute Cloud (EC2)
