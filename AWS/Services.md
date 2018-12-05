@@ -181,13 +181,15 @@ Some S3 file access protocols include:
 
 🤔 Think of DynamoDB as a fast application data storage. The single-digit millisecond latency makes DynamoDB an extremely versatile NoSQL database.
 
-🌏 Scope: Region and Global
+🌏 Scope: Region with Global Table option
 
 ### Amazon Relational Database Service (RDS)
 
 [Amazon RDS](https://aws.amazon.com/rds/) makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups.
 
 🤔 Think of RDS as an ANSI standard SQL database server without the complexity.
+
+🌏 Scope: Region or Availability Zone
 
 Supported database engines include: Amazon Aurora (MySQL on steroids), PostgreSQL, MySQL, MariaDB, Oracle, and Microsoft SQL Server.
 
