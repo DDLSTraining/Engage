@@ -89,6 +89,8 @@ As an alternative take a look at [AWS CodeStar](https://aws.amazon.com/codestar/
 
 🤔 Think of CloudFront as a reverse proxy on steroids.
 
+🌏 Scope: Global
+
 ### Amazon Route 53
 
 [Amazon Route 53](https://aws.amazon.com/route53/) is a highly available and scalable cloud Domain Name System (DNS) web service. You can use Amazon Route 53 to configure DNS health checks to route traffic to healthy endpoints or to independently monitor the health of your application and its endpoints. Amazon Route 53 Traffic Flow makes it easy for you to manage traffic globally through a variety of routing types, including Latency Based Routing, Geo DNS, Geoproximity, and Weighted Round Robin—all of which can be combined with DNS Failover in order to enable a variety of low-latency, fault-tolerant architectures.
@@ -125,6 +127,8 @@ As an alternative take a look at [AWS CodeStar](https://aws.amazon.com/codestar/
 
 🤔 Think of S3 as a database for objects. _It is not a file system._
 
+🌏 Scope: Region
+
 Some S3 file access protocols include:
 
 * [HTTP](https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html#access-bucket-intro)
@@ -139,17 +143,23 @@ Some S3 file access protocols include:
 
 🤔 Think of EBS as an unformatted volume within a single virtual machine instance. Pay for what you provision.
 
+🌏 Scope: Availability Zone
+
 ### Amazon Elastic File Service (EFS)
 
 [Amazon EFS](https://aws.amazon.com/efs/) provides simple, scalable, elastic file storage for use with AWS Cloud services and on-premises resources. It is easy to use and offers a simple interface that allows you to create and configure file systems quickly and easily.
 
 🤔 Think of EFS as a network share like you would get from a file server. Mountable on __multiple systems__. Not very cost effective.
 
+🌏 Scope: Region
+
 ### Amazon Glacier
 
 [Amazon Glacier](https://aws.amazon.com/glacier/) is a secure, durable, and extremely low-cost cloud storage service for data archiving and long-term backup. It is designed to deliver 99.999999999% durability and provides comprehensive security and compliance capabilities that can help meet even the most stringent regulatory requirements.
 
 🤔 Think of Glacier as an offsite archive storage service. Single or multipart uploading to archive content. Extremely cost effective if not retrieving content often.
+
+🌏 Scope: Region
 
 ### AWS Snowball
 
