@@ -16,3 +16,7 @@
 ## Benchmarking
 
 * [PerfKit Benchmarker](http://googlecloudplatform.github.io/PerfKitBenchmarker/)
+
+## Storage
+
+* [rclone](https://rclone.org/) - Rsync for cloud storage.
