@@ -126,6 +126,8 @@ As an alternative take a look at [AWS CodeStar](https://aws.amazon.com/codestar/
 
 🤔 Think of ELB as a standard network load balancing on steroids.
 
+🌏 Scope: Region
+
 ## Storage
 
 ### Amazon Simple Storage Service (S3)
