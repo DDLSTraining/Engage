@@ -1,4 +1,4 @@
-# Amazon EC2 Instance Comparison
+# Amazon EC2 Details
 
 * [AWS EC2 Instance Types](https://www.top500.org/news/aws-adds-new-instances-network-enhancements-for-hpc/)
 * [EC2 Instances Info](https://www.ec2instances.info/) - Easy Amazon EC2 Instance Comparison
