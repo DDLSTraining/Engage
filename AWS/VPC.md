@@ -24,3 +24,12 @@ IPSec tunnel endpoint located in AWS connected to the VPC.
 ### Direct Connect (DX)
 
 Dedicated network connection over private lines.
+
+Typically enabled from within a hosting company to AWS.
+
+### VPC Endpoints
+
+Privately connect your EC2 instances to services outside your VPC without leaving AWS.
+
+There are two types of VPC Endpoints; Interface Endpoint and Gateway Endpoint.
+
