@@ -35,6 +35,8 @@ There are two types of VPC Endpoints; Interface Endpoint and Gateway Endpoint.
 
 ### Elastic Load Balancer (ELB)
 
+Three types; Application, Network, and Classic Load Balancer.
+
 * Scope: Region
 * Elastic
 * Highly Available
