@@ -256,6 +256,12 @@ Because she had no arms.
 
 Knock knock. Who's there? Not Sarah.
 
+___
+
+If A is for Apple and B is for Banana then what is C for?
+
+Plastic Explosives
+
 ## Longer
 
 A guy walks into a bar and asks for a pie and a pint and the bartender hands them over. He downs the pint, puts the pie on his head and walks out.
