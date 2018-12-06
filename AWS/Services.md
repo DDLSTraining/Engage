@@ -299,6 +299,8 @@ accessed from any browser or mobile device.
 
 🤔 Think of IAM as fine-grained access control, multi-factor authentication, secure client application access, that can integrate with your corporate directory.
 
+🌏 Scope: Global
+
 ### AWS Key Management Service (KMS)
 
 [AWS Key Management Service](https://aws.amazon.com/kms/) (KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data, and uses FIPS 140-2 validated hardware security modules to protect the security of your keys. AWS Key Management Service is also integrated with AWS CloudTrail to provide you with logs of all key usage to help meet your regulatory and compliance needs.
