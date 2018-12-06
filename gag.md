@@ -36,6 +36,62 @@ ___
 
 I can't tell a good Batman joke to save my parents' lives.
 
+___
+
+To be frank, I'd have to change my name.
+
+___
+
+I bought the world's worst thesaurus today. Not only was it terrible, but it was also terrible.
+
+___
+
+Statistically, 6 out of 7 dwarves are not happy.
+
+___
+
+The guy in front of me at 7-11 left his Breathsavers on the counter. The cashier said I could have them, but I have abandoned mint issues.
+
+___
+
+You can’t _run_ through a camp site. You can only _ran_ because it’s past tents.
+
+___
+
+I have many jokes about unemployed people. Sadly none of them work.
+
+___
+
+I don't have a girlfriend, but I do know a woman who would be mad at me for saying that.
+
+___
+
+A priest, a pastor, and a rabbi walk into a bar. The bartender says, "What is this, some kind of joke?"
+
+___
+
+I told my mum that when I'm older I was going to build a car out of spaghetti, you should've seen her face when I drove pasta.
+
+___
+
+Three conspiracy theorists walk into a bar. OR DO THEY!
+
+___
+
+Why can't hedgehogs just share the hedge?
+
+___
+
+Two fish are in a tank. One looks at the other and says, "you man the gun, I'll drive."
+
+___
+
+Being told I was deaf was really hard to hear.
+
+___
+
+A plateau is the highest form of flattery.
+
 ## Simple
 
 What do you do if you are attacked by a group of clowns?
@@ -126,6 +182,80 @@ Why can’t dinosaurs clap?
 
 Because they’re dead!
 
+___
+
+How did Darth Vader know what Luke got him for Christmas?
+
+He could feel his presents.
+
+___
+
+What’s so bad about Russian dolls?
+
+They’re all so full of themselves.
+
+___
+
+Why was six afraid of seven?
+
+Because seven was a well known six offender.
+
+___
+
+What’s the difference between a dirty bus stop and a lobster with breast implants?
+
+One’s a crusty bus station, the other is a busty crustacean.
+
+___
+
+Why can’t the pope be cremated?
+
+Cause he’s alive.
+
+___
+
+What do you call an alligator in a vest?
+
+An investigator.
+
+___
+
+Two cows are standing in a field. The first cow says to the second “ have you heard about this mad cow disease? It makes cows go crazy and then they die”. The second cow replies “ good thing I‘m a helicopter”.
+
+___
+
+What's red and bad for your teeth?
+
+A brick.
+
+___
+
+Hey, guess what!
+
+What?
+
+Good guess.
+
+___
+
+What's the dumbest animal in the jungle?
+
+A polar bear.
+
+___
+
+What's green and has wheels?
+
+Grass! I lied about the wheels.
+
+___
+
+Why did Sarah fall off the swing?
+
+Because she had no arms.
+
+Knock knock. Who's there? Not Sarah.
+
 ## Longer
 
 A guy walks into a bar and asks for a pie and a pint and the bartender hands them over. He downs the pint, puts the pie on his head and walks out.
@@ -191,4 +321,36 @@ After the line of people to get into prom they finally get in and have an amazin
 They're dancing, gnoshing on h'ordeuvres, talking and getting closer. His dates getting parched from the food and asks him to get her something to drink. Him, being a gentleman, says "Of course." He heads up to get her some punch.
 
 Lucky for him, there's no punch line.
+
+___
+
+A blonde and a lawyer are seated next to each other on a flight from Los Angeles to New York.
+
+The lawyer asks if she would like to play a fun game. The blonde, tired, just wants to take a nap, so she politely declines and rolls over to the window to catch a few winks. The lawyer persists and explains that the game is easy and a lot of fun.
+
+He says, "I ask you a question, and if you don't know the answer, you pay me five dollars, and vice versa."
+
+Again, she declines and tries to get some sleep.
+
+The lawyer, now agitated, says, "Okay, if you don't know the answer, you pay me $5, and if I don't know the answer, I will pay you $500."
+
+This catches the blonde's attention and, figuring there will be no end to this torment, agrees to the game.
+
+The lawyer asks the first question: "What's the distance from the earth to the moon?"
+
+The blonde doesn't say a word, reaches into her purse, pulls out a $5.00 bill, and hands it to the lawyer.
+
+"Okay," says the lawyer, "your turn."
+
+She asks, "What goes up a hill with three legs and comes down with four legs?"
+
+The lawyer, puzzled, takes out his laptop computer and searches all his references ... no answer. He taps into the air phone with his modem and searches the Internet and the Library of Congress ... no answer. Frustrated, he sends e-mails to all his friends and coworkers but to no avail.
+
+After an hour, he wakes the blonde and hands her $500.
+
+The blonde thanks him and turns back to get some more sleep.
+
+The lawyer, who is more than a little miffed, stirs the blonde and asks, "Well, what's the answer?"
+
+Without a word, the blonde reaches into her purse, hands the lawyer $5, and goes back to sleep.
 
