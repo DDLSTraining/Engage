@@ -1,8 +1,13 @@
 # Jokes and Ice Breakers
 
+* [Videos](#videos) - Must be less than 5 minutes.
 * [One Liners](#one-liners)
 * [Simple](#simple)
 * [Longer](#longer)
+
+## Videos
+
+[Get Staffed](https://www.youtube.com/watch?v=O2wo2U0b0kA)
 
 ## One Liners
 
