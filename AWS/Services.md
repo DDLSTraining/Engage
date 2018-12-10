@@ -94,7 +94,7 @@ As an alternative take a look at [AWS CodeStar](https://aws.amazon.com/codestar/
 
 [Amazon CloudFront](https://aws.amazon.com/cloudfront/) is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds, all within a developer-friendly environment.
 
-🤔 Think of CloudFront as a reverse proxy on steroids.
+🤔 Think of CloudFront as a globally distributed reverse proxy.
 
 🌏 Scope: Global
 
