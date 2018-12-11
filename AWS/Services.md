@@ -144,8 +144,6 @@ Some S3 file access protocols include:
 * [AWS Transfer for SFTP](https://aws.amazon.com/sftp/)
 * [BitTorrent Publishing](https://docs.aws.amazon.com/AmazonS3/latest/dev/S3TorrentPublish.html)
 
-🌏 Scope: Region
-
 ### Amazon Elastic Block Store (EBS)
 
 [Amazon EBS](https://aws.amazon.com/ebs/) provides persistent block storage volumes (mounts or drives) for use with Amazon EC2 instances in the AWS Cloud. Each Amazon EBS volume is automatically replicated within its Availability Zone to protect you from component failure, offering high availability and durability.
