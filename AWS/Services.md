@@ -124,7 +124,7 @@ As an alternative take a look at [AWS CodeStar](https://aws.amazon.com/codestar/
 
 [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, and IP addresses. It can handle the varying load of your application traffic in a single Availability Zone or across multiple Availability Zones. Elastic Load Balancing offers three types of load balancers, Application, Network, and Classic, that all feature the high availability, automatic scaling, and robust security necessary to make your applications fault tolerant.
 
-🤔 Think of ELB as a standard network load balancing on steroids.
+🤔 Think of ELB as a highly available network load balancing supporting multiple backend services.
 
 🌏 Scope: Region
 
