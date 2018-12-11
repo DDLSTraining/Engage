@@ -188,7 +188,15 @@ Some S3 file access protocols include:
 
 🤔 Think of DynamoDB as a fast application data storage. The single-digit millisecond latency makes DynamoDB an extremely versatile NoSQL database.
 
-🌏 Scope: Region with Global Table option
+🌏 Scope: Region with [Global Tables](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GlobalTables.html) option
+
+### Amazon DynamoDB Accelerator (DAX)
+
+[Amazon DynamoDB Accelerator (DAX)](https://aws.amazon.com/dynamodb/dax/) is a fully managed, highly available, in-memory cache for DynamoDB that delivers up to a 10x performance improvement – from milliseconds to microseconds – even at millions of requests per second. DAX does all the heavy lifting required to add in-memory acceleration to your DynamoDB tables, without requiring developers to manage cache invalidation, data population, or cluster management.
+
+🤔 Think of DAX as a massive performance boot to your application data layer without changing code.
+
+🌏 Scope: Region
 
 ### Amazon Relational Database Service (RDS)
 
