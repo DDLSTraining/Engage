@@ -11,5 +11,5 @@ Please use it during your course and as a reference after completing the course.
 * [Cloud](/Cloud) - Cross-platform Cloud Links and Resources
 * [GCP](/GCP) - Google Cloud Platform
 * [Office365](/Office365) - Microsoft Office 365
-* [Microsoft Power BI](/PowerBI) - Microsoft Power BI
+* [PowerBI](/PowerBI) - Microsoft Power BI
 * [Skype](/Skype) - Microsoft Skype for Business
