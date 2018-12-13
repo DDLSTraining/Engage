@@ -9,28 +9,21 @@
 
 ## Content
 
-* [Services](/AWS/Services.md) - A summary of the foundational and platform services offered by AWS.
+* [Services](/AWS/Services.md) - A summary of the services offered by AWS.
 * [Training Resources](#training-resources) - Links to educational resources.
+* [Media](/AWS/Media.md) - Educational videos and podcasts.
+* [Tools](/AWS/Tools.md) - Supporting tools and code resources.
 
-## AWS Command Line Interface
+Service Specific Content:
 
-* [What is the AWS Command Line Interface?](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
-* [Install the CLI](https://aws.amazon.com/cli/)
-
-To configure access:
-
-```
-
-$ aws configure
-AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
-AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
-Default region name [None]: us-west-2
-Default output format [None]: ENTER
-
-```
+* [CloudFormation](/AWS/CloudFormation.md)
+* [EC2](/AWS/EC2.md)
+* [IAM](/AWS/IAM.md)
+* [VPC](/AWS/VPC.md)
 
 ## Training Resources
 
 * [AWS Training](https://aws.amazon.com/training/)
 * [AWS Architecture Centre](https://aws.amazon.com/architecture/)
 * [AWS This is My Architecture](https://aws.amazon.com/this-is-my-architecture/)
+* [AWS FAQs](https://aws.amazon.com/faqs/)
