@@ -331,6 +331,12 @@ accessed from any browser or mobile device.
 
 🤔 Think of WAF as the bouncers that wonder through the club protecting your application.
 
+### Amazon Macie
+
+[Amazon Macie](https://aws.amazon.com/macie/) is a security service that uses machine learning to automatically discover, classify, and protect sensitive data in AWS. Amazon Macie recognizes sensitive data such as personally identifiable information (PII) or intellectual property, and provides you with dashboards and alerts that give visibility into how this data is being accessed or moved. The fully managed service continuously monitors data access activity for anomalies, and generates detailed alerts when it detects risk of unauthorized access or inadvertent data leaks.
+
+🤔 Think of Macie as a warning system to alert you to sensitive data being stored in AWS.
+
 ## Application Services
 
 ### Amazon API Gateway
