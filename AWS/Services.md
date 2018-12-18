@@ -144,9 +144,7 @@ Some S3 file access protocols include:
 
 🌏 Scope: Region
 
-⚙️ Related:
-
-* [Amazon S3 Transfer Acceleration](https://docs.aws.amazon.com/AmazonS3/latest/dev/transfer-acceleration.html)
+⚙️ [More Detail](S3.md)
 
 ### Amazon Elastic Block Store (EBS)
 
