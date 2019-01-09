@@ -182,6 +182,12 @@ Some S3 file access protocols include:
 
 🤔 Think of Storage Gateway as a local file server that synchronises to AWS storage services such as S3, Glacier, and EBS.
 
+### AWS DataSync
+
+[AWS DataSync](https://aws.amazon.com/datasync/) is a data transfer service that makes it easy for you to automate moving data between on-premises storage and Amazon S3 or Amazon Elastic File System (Amazon EFS). DataSync uses an on-premises software agent to connect to your existing storage or file systems using the Network File System (NFS) protocol, so you don’t have write scripts or modify your applications to work with AWS APIs.
+
+🤔 Think of DataSync as an On-Prem service to sync files to or from the cloud. Use for migration in conjunction with Storage Gateway or disaster recovery.
+
 ## Database
 
 ### Amazon DynamoDB
