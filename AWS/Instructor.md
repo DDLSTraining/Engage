@@ -4,6 +4,8 @@
 
 ### Architecting on AWS
 
+#### Day One
+
 |Module|Activity|Duration|
 |-|-|-|
 |0|Welcome to Architecting on AWS|30|
@@ -15,4 +17,14 @@
 |4|Adding a Database Layer|50|
 |Break||15|
 |5|Networking in AWS Part 1|50|
+
+#### Day Two
+
+|Module|Activity|Duration|
+|-|-|-|
+
+#### Day Three
+
+|Module|Activity|Duration|
+|-|-|-|
 
