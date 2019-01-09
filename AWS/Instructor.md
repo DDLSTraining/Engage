@@ -13,6 +13,6 @@
 |3|Adding a Compute Layer|60|
 |Lunch||60|
 |4|Adding a Database Layer|50|
+|Break||15|
 |5|Networking in AWS Part 1|50|
-|
 
