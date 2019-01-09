@@ -35,8 +35,11 @@
 |Module|Activity|Duration|
 |-|-|-|
 |10|Caching|40|
+|Break||15|
 |11|Building Decoupled Architectures|40|
+|Lunch||60|
 |12|Microservices and Serverless Architectures|50|
 |13|RTO/RPO and Backup Recovery Setup|40|
+|Break||15|
 |14|Optimizations and Review|50|
 
