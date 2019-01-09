@@ -22,6 +22,13 @@
 
 |Module|Activity|Duration|
 |-|-|-|
+|6|Networking in AWS Part 2|55|
+|Break||15|
+|7|AWS Identity and Access Management (IAM)|50|
+|Lunch||60|
+|8|Elasticity, High Availability, and Monitoring|50|
+|Break||15|
+|9|Automation|35|
 
 #### Day Three
 
