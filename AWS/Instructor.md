@@ -6,7 +6,7 @@
 
 #### Day One
 
-|Module|                        Activity                         |Duration|
+|Module|Activity|Duration|
 |-|-|-|
 |0|Welcome to Architecting on AWS|30|
 |1|Introduction|35|
