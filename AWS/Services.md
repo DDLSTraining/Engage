@@ -158,7 +158,15 @@ Some S3 file access protocols include:
 
 [Amazon EFS](https://aws.amazon.com/efs/) provides simple, scalable, elastic file storage for use with AWS Cloud services and on-premises resources. It is easy to use and offers a simple interface that allows you to create and configure file systems quickly and easily.
 
-🤔 Think of EFS as a network share like you would get from a file server. Mountable on __multiple systems__. Not very cost effective.
+🤔 Think of EFS as a network share ([NFS](https://en.wikipedia.org/wiki/Network_File_System)) like you would get from a file server. Mountable on __multiple systems__. Not very cost effective.
+
+🌏 Scope: Region
+
+### Amazon FSx
+
+[Amazon FSx](https://aws.amazon.com/fsx/) provides fully managed third-party file systems. Amazon FSx provides you with the native compatibility of third-party file systems with feature sets for workloads such as Windows-based storage, high-performance computing (HPC), machine learning, and electronic design automation (EDA).
+
+🤔 Think of FSx as similar to EFS only it supports Windows ([SMB](https://en.wikipedia.org/wiki/Server_Message_Block)) or [Lustre](http://lustre.org/).
 
 🌏 Scope: Region
 
