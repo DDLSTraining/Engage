@@ -206,6 +206,14 @@ Some S3 file access protocols include:
 
 🌏 Scope: Region
 
+### Amazon DocumentDB
+
+[Amazon DocumentDB](https://aws.amazon.com/documentdb/) (with [MongoDB](https://www.mongodb.com/) compatibility) is a fast, scalable, highly available, and fully managed document database service that supports MongoDB workloads. It implements the Apache 2.0 open source MongoDB 3.6 API by emulating the responses that a MongoDB client expects from a MongoDB server, allowing you to use your existing MongoDB drivers and tools with Amazon DocumentDB.
+
+🤔 Think of DocumentDB as a fully managed MongoDB compatible document database.
+
+🌏 Scope: Region
+
 ### Amazon Relational Database Service (RDS)
 
 [Amazon RDS](https://aws.amazon.com/rds/) makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups.
