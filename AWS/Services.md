@@ -162,11 +162,11 @@ Some S3 file access protocols include:
 
 🌏 Scope: Region
 
-### Amazon Glacier
+### Amazon S3 Glacier
 
-[Amazon Glacier](https://aws.amazon.com/glacier/) is a secure, durable, and extremely low-cost cloud storage service for data archiving and long-term backup. It is designed to deliver 99.999999999% durability and provides comprehensive security and compliance capabilities that can help meet even the most stringent regulatory requirements.
+[Amazon S3 Glacier](https://aws.amazon.com/glacier/) is a secure, durable, and extremely low-cost cloud storage service for data archiving and long-term backup. It is designed to deliver 99.999999999% durability and provides comprehensive security and compliance capabilities that can help meet even the most stringent regulatory requirements.
 
-🤔 Think of Glacier as an offsite archive storage service. Single or multipart uploading to archive content. Extremely cost effective if not retrieving content often.
+🤔 Think of S3 Glacier as an offsite archive storage service. Single or multipart uploading to archive content. Extremely cost effective if not retrieving content often.
 
 🌏 Scope: Region
 
