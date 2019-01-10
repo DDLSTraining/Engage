@@ -1,6 +1,8 @@
 # AWS Services Overview
 
-One of the hardest things to learn when starting out with AWS is the vast array of products offered. This page gives you a summary of the most commonly used services. Just to get you started.
+One of the hardest things to learn when starting out with AWS is the vast array of products offered. This page gives you a summary of the services. Just to get you started.
+
+Under each service summary you will find a `🤔 Think of` and in some cases a `🌏 Scope` point. Use these as a quick reminder of the service function and its scope (Availability Zone, Region, or Global).
 
 For a more complete coverage of modern application development and the AWS products available, read the excellent document titled [Architecting for the Cloud - AWS Best Practices](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf).
 
