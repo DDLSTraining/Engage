@@ -245,6 +245,12 @@ Consider DynamoDB which is far more cost effective and vastly more scalable.
 
 🤔 Think of Neptune as fully managed database of connected data.
 
+### AWS Database Migration Service (DMS)
+
+[AWS Database Migration Service](https://aws.amazon.com/dms/) helps you migrate databases to AWS quickly and securely. The source database remains fully operational during the migration, minimizing downtime to applications that rely on the database. The AWS Database Migration Service can migrate your data to and from most widely used commercial and open-source databases.
+
+🤔 Think of DMS as database migration or continuous replication (disaster recovery) made easy.
+
 ## Developer Tools
 
 ### AWS CodeBuild
