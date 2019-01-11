@@ -411,6 +411,14 @@ Amazon Cognito lets you add user sign-up, sign-in, and access control to your we
 
 🌏 Scope: Region
 
+### AWS Global Accelerator
+
+[AWS Global Accelerator](https://aws.amazon.com/global-accelerator/) is a networking service that improves the availability and performance of the applications that you offer to your global users. AWS Global Accelerator improves application availability by continuously monitoring the health of your application endpoints and routing traffic to the closest healthy endpoints. It also makes it easier to manage your global applications by providing static IP addresses that act as a fixed entry point to your application hosted on AWS which eliminates the complexity of managing specific IP addresses for different AWS Regions and Availability Zones.
+
+🤔 Think of Global Accelerator as a globally available Anycast IP Address infront of your AWS application. It enables seemless region failover.
+
+🌏 Scope: Global
+
 ### AWS Direct Connect
 
 [AWS Direct Connect](https://aws.amazon.com/directconnect/) lets you establish a dedicated network connection between your network and one of the AWS Direct Connect locations. Using industry standard 802.1q VLANs, this dedicated connection can be partitioned into multiple virtual interfaces.
