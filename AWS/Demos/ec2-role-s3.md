@@ -7,9 +7,9 @@ This demonstrations shows the use of IAM Roles to enable an EC2 instance to have
 1. Create a new `key-pair` for SSH access if one does not already exist.
 1. Create an S3 Bucket:
    * Use the default configuration with no public access and only owner permissions.
-   * Remember the Bucket name, directory name if created, and the file name.
 1. Upload a file to the new Bucket:
    * Again, use the default permissions with only owner access.
+   * Remember the Bucket name, directory name if created, and the file name.
 1. Create a new IAM Role:
    * Type: `AWS Service`
    * Service: `EC2`
