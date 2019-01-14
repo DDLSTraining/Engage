@@ -1,5 +1,12 @@
 # Instructor Reference
 
+## Links
+
+* [VSTBridge](https://awsinstructors.vstbridge.com/#/collection)
+* [AWS Lab Release Versions](http://releases.awstc.com/) - Use to find the Qwiklab template to apply.
+* [AWS Training](https://www.aws.training/)
+* [Gilmore Global](https://www.gilmoreglobal.com/)
+
 ## Course Timing
 
 ### Architecting on AWS
