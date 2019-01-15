@@ -317,6 +317,12 @@ AWS CloudFormation provides a common language for you to describe and provision 
 
 🤔 Think of CloudFormation as complete application infrastructure design in simple text documents. It is used by AWS for boxed application deployment like Wordpress or Django deployments from the AWS Marketplace.
 
+### AWS Systems Manager
+
+[AWS Systems Manager](https://aws.amazon.com/systems-manager/) allows you to centralize operational data from multiple AWS services and automate tasks across your AWS resources. You can create logical groups of resources such as applications, different layers of an application stack, or production versus development environments. With Systems Manager, you can select a resource group and view its recent API activity, resource configuration changes, related notifications, operational alerts, software inventory, and patch compliance status. You can also take action on each resource group depending on your operational needs.
+
+🤔 Think of System Manager as a central service to manage your cloud and on-prem systems.
+
 ### AWS CloudTrail
 
 [AWS CloudTrail](https://aws.amazon.com/cloudtrail/) is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account. With CloudTrail, you can log, continuously monitor, and retain account activity related to actions across your AWS infrastructure. CloudTrail provides event history of your AWS account activity, including actions taken through the AWS Management Console, AWS SDKs, command line tools, and other AWS services. This event history simplifies security analysis, resource change tracking, and troubleshooting.
