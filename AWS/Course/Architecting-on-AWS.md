@@ -12,3 +12,7 @@
   * [Example IAM Identity-Based Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html)
   * [Managed Policies and Inline Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html)
 * [Temporary Security Credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp.html)  
+
+### Module 8: Elasticity, High Availability, and Monitoring
+
+* [EC2 Auto Scaling](https://aws.amazon.com/ec2/autoscaling/)
