@@ -321,7 +321,7 @@ AWS CloudFormation provides a common language for you to describe and provision 
 
 [AWS Systems Manager](https://aws.amazon.com/systems-manager/) allows you to centralize operational data from multiple AWS services and automate tasks across your AWS resources. You can create logical groups of resources such as applications, different layers of an application stack, or production versus development environments. With Systems Manager, you can select a resource group and view its recent API activity, resource configuration changes, related notifications, operational alerts, software inventory, and patch compliance status. You can also take action on each resource group depending on your operational needs.
 
-🤔 Think of System Manager as a central service to manage your cloud and on-prem systems.
+🤔 Think of System Manager as a free fully-managed service with the ability to manage and configure systems using an installed agent for both cloud and on-prem services.
 
 ### AWS CloudTrail
 
