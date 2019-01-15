@@ -26,6 +26,7 @@ _Note: To undo a bolt you can use a spanner, a rachet, an adjustable spanner, vi
 Other service references:
 
 * [AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/Welcome.html)
+* [AWS Support - Knowledge Center](https://aws.amazon.com/premiumsupport/knowledge-center/)
 * [AWS Regions and Endpoints](https://docs.aws.amazon.com/general/latest/gr/rande.html)
 * [AWS Service Limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
 * [AWS Glossary](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
