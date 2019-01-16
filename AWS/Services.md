@@ -110,6 +110,18 @@ If you require external signals to intervene in your processes, or you would lik
 
 🤔 Think of Step Functions as visual workflow design for AWS services. Prefer Step Function over SWF unless you need the extra control and/or external signals.
 
+### AWS Cloud Map
+
+[AWS Cloud Map](https://aws.amazon.com/cloud-map/) is a cloud resource discovery service. With Cloud Map, you can define custom names for your application resources, and it maintains the updated location of these dynamically changing resources. This increases your application availability because your web service always discovers the most up-to-date locations of its resources. Cloud Map allows you to register any application resources, such as databases, queues, microservices, and other cloud resources, with custom names. Cloud Map then constantly checks the health of resources to make sure the location is up-to-date. The application can then query the registry for the location of the resources needed based on the application version and deployment environment.
+
+🤔 Think of Cloud Map as application microservice registration and discovery.
+
+### AWS App Mesh
+
+[AWS App Mesh](https://aws.amazon.com/app-mesh/) makes it easy to monitor and control microservices running on AWS. App Mesh standardizes how your microservices communicate, giving you end-to-end visibility and helping to ensure high-availability for your applications. App Mesh removes the need to update application code to change how monitoring data is collected or traffic is routed between microservices. App Mesh configures each microservice to export monitoring data and implements consistent communications control logic across your application. This makes it easy to quickly pinpoint the exact location of errors and automatically re-route network traffic when there are failures or when code changes need to be deployed.
+
+🤔 Think of App Mesh as container monitoring and communications management.
+
 ## Applications
 
 ### Amazon WorkDocs
