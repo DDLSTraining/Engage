@@ -2,7 +2,7 @@
 
 One of the hardest things to learn when starting out with AWS is the vast array of products offered. This page gives you a summary of the services. Just to get you started.
 
-Under each service summary you will find a `🤔 Think of` and in some cases a `🌏 Scope` point. Use these as a quick reminder of the service function and its scope (Availability Zone, Region, or Global).
+Under each service summary you will find a `🤔 Think of` point. You may also find a `🌏 Scope` or `🗺️ Related` or both points. Use these points as a quick reminder of the service function, its scope (Availability Zone, Region, or Global), and related technologies.
 
 For a more complete coverage of modern application development and the AWS products available, read the excellent document titled [Architecting for the Cloud - AWS Best Practices](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf).
 
@@ -151,6 +151,8 @@ If you require external signals to intervene in your processes, or you would lik
 🤔 Think of EC2 as virtual machines in the cloud.
 
 🌏 Scope: Availability Zone
+
+🗺️ Related: [AWS Fargate](https://aws.amazon.com/fargate/)
 
 ### Amazon Elastic Container Registry (ECR)
 
