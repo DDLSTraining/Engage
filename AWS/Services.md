@@ -204,6 +204,8 @@ As an alternative take a look at [AWS CodeStar](https://aws.amazon.com/codestar/
 
 🤔 Think of Lambda as a single purpose function running in the cloud. Many such functions would be required to build a cloud native application.
 
+🗺️ Related: [Lambda@Edge](https://aws.amazon.com/lambda/edge/)
+
 ## Database
 
 ### Amazon DynamoDB
@@ -415,6 +417,8 @@ Amazon Cognito lets you add user sign-up, sign-in, and access control to your we
 🤔 Think of CloudFront as a globally distributed reverse proxy.
 
 🌏 Scope: Global
+
+🗺️ Related: [Lambda@Edge](https://aws.amazon.com/lambda/edge/)
 
 ### Amazon Route 53
 
