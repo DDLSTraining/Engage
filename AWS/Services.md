@@ -204,7 +204,10 @@ As an alternative take a look at [AWS CodeStar](https://aws.amazon.com/codestar/
 
 🤔 Think of Lambda as a single purpose function running in the cloud. Many such functions would be required to build a cloud native application.
 
-🗺️ Related: [Lambda@Edge](https://aws.amazon.com/lambda/edge/)
+🗺️ Related:
+
+* [Lambda@Edge](https://aws.amazon.com/lambda/edge/)
+* [AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
 
 ## Database
 
