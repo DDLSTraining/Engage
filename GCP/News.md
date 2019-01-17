@@ -7,7 +7,7 @@
 
 ## News Articles
 
-
+* 2019-01-18: [Get Go-ing with Cloud Functions: Go 1.11 is now a supported language](https://cloud.google.com/blog/products/application-development/cloud-functions-go-1-11-is-now-a-supported-language)
 * 2018-07-27: [What a week! 105 announcements from Google Cloud Next '18](https://www.blog.google/products/google-cloud/100-plus-announcements-from-google-cloud-next-18/)
 * 2018-07-25: [Announcing resource-based pricing for Google Compute Engine](https://cloudplatform.googleblog.com/2018/07/announcing-resource-based-pricing-for-google-compute-engine.html)
 * 2018-07-18: [Introducing commercial Kubernetes applications in GCP Marketplace](https://cloudplatform.googleblog.com/2018/07/introducing-commercial-kubernetes-applications-in-gcp-marketplace.html)
