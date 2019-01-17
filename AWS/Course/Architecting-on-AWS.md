@@ -5,6 +5,7 @@
 ### Module 1: Introduction
 
 * [Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/):
+  * [AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)
 
 ### Module 2:The Simplest Architectures
 
