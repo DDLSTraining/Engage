@@ -265,6 +265,12 @@ Consider DynamoDB which is far more cost effective and vastly more scalable.
 
 🤔 Think of Neptune as fully managed database of connected data.
 
+### Amazon Timestream
+
+[Amazon Timestream](https://aws.amazon.com/timestream/) is a fast, scalable, fully managed time series database service for IoT and operational applications that makes it easy to store and analyze trillions of events per day at 1/10th the cost of relational databases. Time-series data has specific characteristics such as typically arriving in time order form, data is append-only, and queries are always over a time interval. While relational databases can store this data, they are inefficient at processing this data as they lack optimizations such as storing and retrieving data by time intervals. Timestream is a purpose-built time series database that efficiently stores and processes this data by time intervals.
+
+🤔 Think of Timestream as a fully managed time sequential log data storage and analysis service.
+
 ### AWS Database Migration Service (DMS)
 
 [AWS Database Migration Service](https://aws.amazon.com/dms/) helps you migrate databases to AWS quickly and securely. The source database remains fully operational during the migration, minimizing downtime to applications that rely on the database. The AWS Database Migration Service can migrate your data to and from most widely used commercial and open-source databases.
