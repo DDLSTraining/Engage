@@ -6,3 +6,4 @@ Infrastructure as code (IaC) is the process of managing and provisioning compute
 * [Ansible (Python)](https://www.ansible.com/) - Automates software provisioning, configuration management, and application deployment.
 * [Puppet (Custom)](https://puppet.com/) - Systems management tool for centralizing and automating configuration management.
 * [Chef (Ruby)](https://www.chef.io/) - Configuration management for physical, virtual, and cloud based machines.
+* [Packer](https://www.packer.io/) - An open source tool for creating identical machine images for multiple platforms.
