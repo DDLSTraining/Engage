@@ -22,6 +22,8 @@ Whatever you decide to do, the most important thing to keep in mind when naming 
 * [Azure Naming Conventions](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions)
 * [AWS Tagging Strategies](https://aws.amazon.com/answers/account-management/aws-tagging-strategies/)
 * [RightScale - Tagging Best Practices for Cloud Governance and Cost Management](https://www.rightscale.com/blog/enterprise-cloud-strategies/tagging-best-practices-cloud-governance-and-cost-management)
+* [A guide to tagging resources in AWS](https://medium.com/stax-blog/a-guide-to-tagging-resources-in-aws-8f4311afeb46)
 * Reddit:
   * [Cloud Resource Naming Conventions](https://www.reddit.com/r/aws/comments/6rkczi/best_practices_for_naming_conventions/)
   * [Best Practices for Naming Conventions](https://www.reddit.com/r/aws/comments/6rkczi/best_practices_for_naming_conventions/)
+  * [How do you decide on your server naming convention?](https://www.reddit.com/r/sysadmin/comments/6r00ko/how_do_you_decide_on_your_server_naming_convention/)
