@@ -519,6 +519,8 @@ Amazon Cognito lets you add user sign-up, sign-in, and access control to your we
 
 🤔 Think of Organizations as high level organization management and control.
 
+🗺️ Related: [AWS Landing Zone](https://aws.amazon.com/answers/aws-landing-zone/)
+
 ### AWS Shield
 
 [AWS Shield](https://aws.amazon.com/shield/) is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS. AWS Shield provides always-on detection and automatic inline mitigations that minimize application downtime and latency, so there is no need to engage AWS Support to benefit from DDoS protection.
