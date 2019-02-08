@@ -28,7 +28,7 @@ Whatever you decide to do, the most important thing to keep in mind when naming 
   * [Best Practices for Naming Conventions](https://www.reddit.com/r/aws/comments/6rkczi/best_practices_for_naming_conventions/)
   * [How do you decide on your server naming convention?](https://www.reddit.com/r/sysadmin/comments/6r00ko/how_do_you_decide_on_your_server_naming_convention/)
 
-## Cross-Cloud Naming Standard
+## Cross-Cloud Naming Standard (BETA)
 
 Following is a naming convention used by Grant Carthew. Grant works in AWS, Azure, and GCP and as such has adopted this naming standard to be cross-cloud compatible.
 
@@ -52,6 +52,31 @@ Only ever use lower kebab case names. In most cases the names used for resources
 
 This doesn't always work. For example the standard `Name` tag in AWS starts with a capitol letter. That doesn't mean you can't use lower kebab case for the resource name however the tag key will be `Name`.
 
+### Name Part Ranking
+
+All names should have multiple parts such as `instance-linux-debian-au-se-web-shop-nginx-orders`. These parts should be in order from the largest object or system down to the smallest.
+
+This is the hardest part to manage because it is so easy to have people in different teams rank the parts differently.
+
+What you concider to be a large system is up to you. For example you may want to start your names with the type of resource:
+
+`instance-linux-debian-au-se-web-shop-nginx-orders`
+
+Or you may want the application name at the start:
+
+`shop-instance-linux-debian-au-se-web-nginx-orders`
+
+Or even the application and function at the start:
+
+`show-web-orders-instance-linux-debian-au-se` (no dependency of nginx)
+
+Lastly, you may consider the region details to be of upmost importance:
+
+`au-se-instance-linux-debian-shop-web-orders` (again, no dependency of nginx)
+
+### Tagging
+
+All cloud providers support some sort of resource taxonomy or classification. You should be liberal with tags however stick with lower kebab case keys and values where possible.
 
 
 
