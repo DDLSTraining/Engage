@@ -27,3 +27,32 @@ Whatever you decide to do, the most important thing to keep in mind when naming 
   * [Cloud Resource Naming Conventions](https://www.reddit.com/r/aws/comments/6rkczi/best_practices_for_naming_conventions/)
   * [Best Practices for Naming Conventions](https://www.reddit.com/r/aws/comments/6rkczi/best_practices_for_naming_conventions/)
   * [How do you decide on your server naming convention?](https://www.reddit.com/r/sysadmin/comments/6r00ko/how_do_you_decide_on_your_server_naming_convention/)
+
+## Cross-Cloud Naming Standard
+
+Following is a naming convention used by Grant Carthew. Grant works in AWS, Azure, and GCP and as such has adopted this naming standard to be cross-cloud compatible.
+
+### Descriptive Names
+
+Ensure you make your resource names as long as you can with as much detail in the name. Consider a virtual machine instance with these properties:
+
+* Region: `australia-southeast`
+* OS: `Debian GNU/Linux`
+* Installed dependencies: `nginx`
+* Application: `shop`
+* Function: `orders web endpoint`
+
+A good name for this instance would be:
+
+`instance-linux-debian-au-se-web-shop-nginx-orders`
+
+### Lower Kebab Case
+
+Only ever use lower kebab case names. In most cases the names used for resources are case sensitive. By using a convention of lower kebab case names your resource management will be simplified.
+
+This doesn't always work. For example the standard `Name` tag in AWS starts with a capitol letter. That doesn't mean you can't use lower kebab case for the resource name however the tag key will be `Name`.
+
+
+
+
+
