@@ -8,16 +8,14 @@ For a more complete coverage of the GCP products available, checkout the [Produc
 
 Service Categories:
 
-* [Analytics](#analytics)
-* [Application Services](#application-services)
-* [Applications](#Applications)
-* [Compute](#compute)
-* [Database](#database)
-* [Developer Tools](#developer-tools)
-* [Internet of Things](#internet-of-things)
-* [Management Tools](#management-tools)
-* [Mobile Services](#mobile-services)
-* [Network](#network)
-* [Security & Identity](#security--identity)
-* [Storage](#storage)
+* [Data Analytics](#data-analytics)
 
+## Data Analytics
+
+### Cloud Pub/Sub
+
+[Cloud Pub/Sub](https://cloud.google.com/pubsub/) brings the flexibility and reliability of enterprise message-oriented middleware to the cloud. At the same time, Cloud Pub/Sub is a scalable, durable event ingestion and delivery system that serves as a foundation for modern stream analytics pipelines. By providing many-to-many, asynchronous messaging that decouples senders and receivers, it allows for secure and highly available communication among independently written applications. Cloud Pub/Sub delivers low-latency, durable messaging that helps developers quickly integrate systems hosted on the Google Cloud Platform and externally.
+
+🤔 Think of Pub/Sub as event message passing from one application microservice to the next.
+
+🌏 Scope: Global
