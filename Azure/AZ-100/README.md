@@ -1,8 +1,10 @@
-# AZ-100 Course Notes
+# AZ-100 Azure Infrastructure and Deployment
 
 ## Resources
 
-* [GitHub Repository](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment)
+* [DDLS: Microsoft AZ-100 – Azure Infrastructure and Deployment](https://www.ddls.com.au/courses/microsoft/azure/microsoft-az-100-azure-infrastructure-and-deployment/)
+* [AZ-100 GitHub Repository (Lab files and instructions)](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment)
+* [Exam AZ-100: Microsoft Azure Infrastructure and Deployment](Microsoft Azure Infrastructure and Deployment)
 
 ## Suggested Order and Timing
 
@@ -11,8 +13,8 @@
 Notes:
 
 * Introduce cloud environments and concepts.
-* Module 6 is first to teach the Portal and tools.
-* Module 5 is second to understand resource groups.
+* Module 6 first to understand the Portal and tools.
+* Module 5 second to understand resource groups.
 * The remaining order is not as important.
 
 |Module|Activity|Duration|
