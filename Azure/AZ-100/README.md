@@ -45,4 +45,4 @@ Notes:
 |3|Securing and Managing Storage|0|
 |Break||15|
 |4|Storing and Accessing Data|0|
-|Lab||30|
+|Lab|Implement and Manage Storage|0|
