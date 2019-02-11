@@ -4,7 +4,7 @@
 
 * [DDLS: Microsoft AZ-100 – Azure Infrastructure and Deployment](https://www.ddls.com.au/courses/microsoft/azure/microsoft-az-100-azure-infrastructure-and-deployment/)
 * [AZ-100 GitHub Repository (Lab files and instructions)](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment)
-* [Exam AZ-100: Microsoft Azure Infrastructure and Deployment](Microsoft Azure Infrastructure and Deployment)
+* [Exam AZ-100: Microsoft Azure Infrastructure and Deployment](https://www.microsoft.com/en-us/learning/exam-az-100.aspx)
 
 ## Suggested Order and Timing
 
