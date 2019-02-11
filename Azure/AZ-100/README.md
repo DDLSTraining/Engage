@@ -38,11 +38,11 @@ Notes:
 
 |Module|Activity|Duration|
 |-|-|-|
-|0||1:30|
+|1|Overview of Azure Storage|0|
 |Break||15|
-|0||1:30|
+|2|Storage Services|0|
 |Lunch||60|
-|0||1:30|
+|3|Securing and Managing Storage|0|
 |Break||15|
-|0||1:30|
+|4|Storing and Accessing Data|0|
 |Lab||30|
