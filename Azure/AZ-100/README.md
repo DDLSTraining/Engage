@@ -13,9 +13,7 @@
 Notes:
 
 * Introduce cloud environments and concepts.
-* Module 6 first to understand the portal and tools.
-* Module 5 second to understand resource groups.
-* The remaining order is not as important.
+* Module order starts with understanding the portal and tools, then subscriptions, then resource groups.
 
 |Module|Activity|Duration|
 |-|-|-|
