@@ -44,8 +44,11 @@ Notes:
 |2|Storage Services - Lesson 1|60|
 |Lunch||60|
 |Practice|Virtual Machine Storage|30|
-|2|Storage Services|0|
-|3|Securing and Managing Storage|0|
+|2|Storage Services|45|
 |Break||15|
-|4|Storing and Accessing Data|0|
-|Lab|Implement and Manage Storage|0|
+|3|Securing and Managing Storage|60|
+|4|Storing and Accessing Data|30|
+|Lab|Implement and Manage Storage|60|
+
+
+
