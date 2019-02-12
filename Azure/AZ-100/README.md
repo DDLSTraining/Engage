@@ -38,6 +38,7 @@ Notes:
 
 |Module|Activity|Duration|
 |-|-|-|
+|0|Review|15|
 |1|Overview of Azure Storage - Lesson 1|1:30|
 |Break||15|
 |1|Overview of Azure Storage|20|
@@ -50,5 +51,68 @@ Notes:
 |4|Storing and Accessing Data|30|
 |Lab|Implement and Manage Storage|60|
 
+### AZ-100T03 Day 3 - Deploying and Managing Virtual Machines
+
+Notes:
+
+* Module 4 Lesson 3 Virtual Machine Storage is a duplicate of Day 2 Module 2 Lesson 1.
+* Module 6 Lesson 1 Backup and Restore is covered in Day 2 Module 3 Lesson 2.
+
+|Module|Activity|Duration|
+|-|-|-|
+|0|Review|15|
+|1|Introduction to Virtual Machines||0|
+|Break||15|
+|2|Creating Virtual Machines|0|
+|Lunch||60|
+|Practice||0|
+|3|Deploying Virtual Machines|0|
+|Break||15|
+|4|Configuring Virtual Machines|0|
+|5|Configuring Availability and Extensibility|0|
+|6|Managing and Monitoring Virtual Machines|0|
+|Lab|Deploy and Manage Virtual Machines|75|
+
+### AZ-100T03 Day 4 - 
+
+Notes:
+
+* 
+
+|Module|Activity|Duration|
+|-|-|-|
+|0|Review|15|
+|1|Introduction to Virtual Machines||0|
+|Break||15|
+|2|Creating Virtual Machines|0|
+|Lunch||60|
+|Practice||0|
+|3|Deploying Virtual Machines|0|
+|Break||15|
+|4|Configuring Virtual Machines|0|
+|5|Configuring Availability and Extensibility|0|
+|6|Managing and Monitoring Virtual Machines|0|
+|Lab|Deploy and Manage Virtual Machines|75|
+
+### AZ-100T03 Day 5 - 
+
+Notes:
+
+* 
+
+|Module|Activity|Duration|
+|-|-|-|
+|0|Review|15|
+|1|Introduction to Virtual Machines||0|
+|Break||15|
+|2|Creating Virtual Machines|0|
+|Lunch||60|
+|Practice||0|
+|3|Deploying Virtual Machines|0|
+|Break||15|
+|4|Configuring Virtual Machines|0|
+|5|Configuring Availability and Extensibility|0|
+|6|Managing and Monitoring Virtual Machines|0|
+|Lab|Deploy and Manage Virtual Machines|75|
 
 
