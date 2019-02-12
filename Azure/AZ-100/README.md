@@ -38,10 +38,13 @@ Notes:
 
 |Module|Activity|Duration|
 |-|-|-|
-|1|Overview of Azure Storage|0|
+|1|Overview of Azure Storage - Lesson 1|1:30|
 |Break||15|
-|2|Storage Services|0|
+|1|Overview of Azure Storage|20|
+|2|Storage Services - Lesson 1|60|
 |Lunch||60|
+|Practice|Virtual Machine Storage|30|
+|2|Storage Services|0|
 |3|Securing and Managing Storage|0|
 |Break||15|
 |4|Storing and Accessing Data|0|
