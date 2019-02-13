@@ -79,11 +79,12 @@ Notes:
 |Practice|Additional Practice: Create Virtual Machines (Template)|15|
 |3|Deploying Virtual Machines - Lesson 1|20|
 |Practice|Additional Practice: Create a Custom Image|15|
-|3|Deploying Virtual Machines - Lesson 2|0|
+|3|Deploying Virtual Machines - Lesson 2|30|
 |Lunch||60|
+|4|Configuring Virtual Machines|0|
 |Practice||0|
 |Break||15|
-|4|Configuring Virtual Machines|0|
+
 |5|Configuring Availability and Extensibility|0|
 |6|Managing and Monitoring Virtual Machines|0|
 |Lab|Deploy and Manage Virtual Machines|75|
