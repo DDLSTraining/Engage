@@ -75,10 +75,12 @@ Notes:
 |Practice|Additional Practice: Create a Windows Virtual Machine|15|
 |2|Creating Virtual Machines|30|
 |Break||15|
-|Practice|Additional Practice: Create Virtual Machines (Template)|0|
+|Practice|Additional Practice: Create Virtual Machines (Template)|15|
+|3|Deploying Virtual Machines - Lesson 1|20|
+|Practice|Additional Practice: Create a Custom Image|15|
+|3|Deploying Virtual Machines - Lesson 2|0|
 |Lunch||60|
 |Practice||0|
-|3|Deploying Virtual Machines|0|
 |Break||15|
 |4|Configuring Virtual Machines|0|
 |5|Configuring Availability and Extensibility|0|
