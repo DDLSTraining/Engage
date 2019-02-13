@@ -83,10 +83,10 @@ Notes:
 |Lunch||60|
 |4|Configuring Virtual Machines|30|
 |5|Configuring Availability and Extensibility - Lesson 1 & 2|45|
-|Practice|Scale Sets|0|
-|Practice|Autoscale|0|
+|Practice|Scale Sets|15|
+|Practice|Autoscale|30|
 |Break||15|
-|5|Configuring Availability and Extensibility - Lesson 3|45|
+|5|Configuring Availability and Extensibility - Lesson 3|0|
 |6|Managing and Monitoring Virtual Machines|0|
 |Lab|Deploy and Manage Virtual Machines|75|
 
