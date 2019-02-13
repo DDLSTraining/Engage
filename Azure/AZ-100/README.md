@@ -63,10 +63,10 @@ Notes:
 |0|Review|15|
 |1|Introduction to Virtual Machines|30|
 |2|Creating Virtual Machines - Lesson 1 & 2|15|
-|Practice|Additional Practice: Create a Windows Virtual Machine|0|
+|Practice|Additional Practice: Create a Windows Virtual Machine|15|
 |2|Creating Virtual Machines|30|
-|Practice|Additional Practice: Create Virtual Machines (Template)|0|
 |Break||15|
+|Practice|Additional Practice: Create Virtual Machines (Template)|0|
 |Lunch||60|
 |Practice||0|
 |3|Deploying Virtual Machines|0|
