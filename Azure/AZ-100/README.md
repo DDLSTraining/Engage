@@ -101,38 +101,31 @@ Notes:
 |Module|Activity|Duration|
 |-|-|-|
 |0|Review|15|
-|1|Introduction to Virtual Machines||0|
+|1|Azure Virtual Networks|0|
 |Break||15|
-|2|Creating Virtual Machines|0|
+|4|Connecting Virtual Networks|0|
 |Lunch||60|
 |Practice||0|
-|3|Deploying Virtual Machines|0|
+|3|Securing Virtual Network Resources|0|
 |Break||15|
-|4|Configuring Virtual Machines|0|
-|5|Configuring Availability and Extensibility|0|
-|6|Managing and Monitoring Virtual Machines|0|
-|Lab|Deploy and Manage Virtual Machines|75|
+|2|Azure DNS|0|
+|Lab|Configure and Manage Virtual Networks|75|
 
 <a id="day5"></a>
 ### AZ-100T03 Day 5 - Manage Identities
 
 Notes:
 
-* Last few steps in lab -- Import-Module "C:\Program Files\Microsoft Azure AD Sync\Bin\ADSync\ADSync.psd1"
+* Last few steps in lab `Import-Module "C:\Program Files\Microsoft Azure AD Sync\Bin\ADSync\ADSync.psd1"`
 
 |Module|Activity|Duration|
 |-|-|-|
 |0|Review|15|
-|1|Introduction to Virtual Machines||0|
+|1|Managing Azure Active Directory|0|
 |Break||15|
-|2|Creating Virtual Machines|0|
+|2|Managing Azure Active Directory Objects|0|
 |Lunch||60|
-|Practice||0|
-|3|Deploying Virtual Machines|0|
-|Break||15|
-|4|Configuring Virtual Machines|0|
-|5|Configuring Availability and Extensibility|0|
-|6|Managing and Monitoring Virtual Machines|0|
-|Lab|Deploy and Manage Virtual Machines|75|
+|3|Implementing and Managing Hybrid Identities|0|
+|Lab|Implement and Manage Hybrid Identities|75|
 
 
