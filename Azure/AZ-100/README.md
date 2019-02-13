@@ -8,11 +8,11 @@
 
 ## Suggested Order and Timing
 
-* [Day 1](#day1)
-* [Day 2](#day2)
-* [Day 3](#day3)
-* [Day 4](#day4)
-* [Day 5](#day5)
+* [Day 1 - Managing Azure Subscriptions and Resources](#day1)
+* [Day 2 - Implementing and Managing Storage](#day2)
+* [Day 3 - Deploying and Managing Virtual Machines](#day3)
+* [Day 4 - Configure and Manage Virtual Networks](#day4)
+* [Day 5 - Manage Identities](#day5)
 
 <a id="day1"></a>
 ### AZ-100T01 Day 1 - Managing Azure Subscriptions and Resources
@@ -86,7 +86,7 @@ Notes:
 |Lab|Deploy and Manage Virtual Machines|75|
 
 <a id="day4"></a>
-### AZ-100T03 Day 4 - 
+### AZ-100T03 Day 4 - Configure and Manage Virtual Networks
 
 Notes:
 
@@ -108,7 +108,7 @@ Notes:
 |Lab|Deploy and Manage Virtual Machines|75|
 
 <a id="day5"></a>
-### AZ-100T03 Day 5 - 
+### AZ-100T03 Day 5 - Manage Identities
 
 Notes:
 
