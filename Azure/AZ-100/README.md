@@ -86,7 +86,8 @@ Notes:
 |Practice|Scale Sets|15|
 |Practice|Autoscale|30|
 |Break||15|
-|5|Configuring Availability and Extensibility - Lesson 3|0|
+|5|Configuring Availability and Extensibility - Lesson 3|15|
+|Practice|Custom Script Extensions|30|
 |6|Managing and Monitoring Virtual Machines|0|
 |Lab|Deploy and Manage Virtual Machines|75|
 
