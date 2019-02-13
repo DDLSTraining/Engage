@@ -8,6 +8,13 @@
 
 ## Suggested Order and Timing
 
+* [Day 1](#day1)
+* [Day 2](#day2)
+* [Day 3](#day3)
+* [Day 4](#day4)
+* [Day 5](#day5)
+
+<a id="day1"></a>
 ### AZ-100T01 Day 1 - Managing Azure Subscriptions and Resources
 
 Notes:
@@ -30,6 +37,7 @@ Notes:
 |4|Log Analytics|20|
 |Lab|Manage Azure Subscriptions and Resources|30|
 
+<a id="day2"></a>
 ### AZ-100T02 Day 2 - Implementing and Managing Storage
 
 Notes:
@@ -51,6 +59,7 @@ Notes:
 |4|Storing and Accessing Data|30|
 |Lab|Implement and Manage Storage|60|
 
+<a id="day3"></a>
 ### AZ-100T03 Day 3 - Deploying and Managing Virtual Machines
 
 Notes:
@@ -76,6 +85,7 @@ Notes:
 |6|Managing and Monitoring Virtual Machines|0|
 |Lab|Deploy and Manage Virtual Machines|75|
 
+<a id="day4"></a>
 ### AZ-100T03 Day 4 - 
 
 Notes:
@@ -97,6 +107,7 @@ Notes:
 |6|Managing and Monitoring Virtual Machines|0|
 |Lab|Deploy and Manage Virtual Machines|75|
 
+<a id="day5"></a>
 ### AZ-100T03 Day 5 - 
 
 Notes:
