@@ -8,11 +8,11 @@
 
 ## Suggested Order and Timing
 
-* [Day 1 - Managing Azure Subscriptions and Resources](#day1)
-* [Day 2 - Implementing and Managing Storage](#day2)
-* [Day 3 - Deploying and Managing Virtual Machines](#day3)
-* [Day 4 - Configure and Manage Virtual Networks](#day4)
-* [Day 5 - Manage Identities](#day5)
+* [AZ-100T01 Day 1 - Managing Azure Subscriptions and Resources](#day1)
+* [AZ-100T02 Day 2 - Implementing and Managing Storage](#day2)
+* [AZ-100T03 Day 3 - Deploying and Managing Virtual Machines](#day3)
+* [AZ-100T04 Day 4 - Configure and Manage Virtual Networks](#day4)
+* [AZ-100T05 Day 5 - Manage Identities](#day5)
 
 <a id="day1"></a>
 ### AZ-100T01 Day 1 - Managing Azure Subscriptions and Resources
