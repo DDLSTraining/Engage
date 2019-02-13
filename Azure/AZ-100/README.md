@@ -66,6 +66,7 @@ Notes:
 
 * Module 4 Lesson 3 Virtual Machine Storage is a duplicate of Day 2 Module 2 Lesson 1.
 * Module 6 Lesson 1 Backup and Restore is covered in Day 2 Module 3 Lesson 2.
+* Lab Exercise 3 Task 2: Use DS2 v3 instance size.
 
 |Module|Activity|Duration|
 |-|-|-|
@@ -114,7 +115,7 @@ Notes:
 
 Notes:
 
-* 
+* Last few steps in lab -- Import-Module "C:\Program Files\Microsoft Azure AD Sync\Bin\ADSync\ADSync.psd1"
 
 |Module|Activity|Duration|
 |-|-|-|
