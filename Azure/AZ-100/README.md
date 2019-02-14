@@ -112,10 +112,12 @@ Notes:
 |Practice|VNet-to-VNet Connections|20|
 |Practice|VPN Gateways|20|
 |3|Securing Virtual Network Resources - Lesson 1|25|
-|Practice|Filter Network Traffic|0|
-|Practice|NSG Logging|0|
+|Practice|Filter Network Traffic|15|
+|Practice|NSG Logging|15|
 |Break||15|
-|2|Azure DNS|0|
+|3|Securing Virtual Network Resources - Lesson 3|25|
+|2|Azure DNS|40|
+|Practice|All DNS practices|60|
 |Lab|Configure and Manage Virtual Networks|75|
 
 <a id="day5"></a>
