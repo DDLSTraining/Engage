@@ -125,7 +125,7 @@ Notes:
 
 Notes:
 
-* Module 2 Lesson 2 is a repeat of Day 1 Module 2.
+* Module 2 Lesson 2 and 3 are a repeat of Day 1 Module 2.
 * Last few steps in lab `Import-Module "C:\Program Files\Microsoft Azure AD Sync\Bin\ADSync\ADSync.psd1"`
 
 |Module|Activity|Duration|
