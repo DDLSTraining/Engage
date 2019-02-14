@@ -96,7 +96,7 @@ Notes:
 
 Notes:
 
-* 
+* VNet-to-VNet and VPN practice can take a long time due to the gateway deployments.
 
 |Module|Activity|Duration|
 |-|-|-|
@@ -107,12 +107,13 @@ Notes:
 |1|Azure Virtual Networks - Lesson 2|30|
 |Practice|Static Private IP Addresses|15|
 |1|Azure Virtual Networks - Lesson 3|10|
-|4|Connecting Virtual Networks - Lesson 1|20|
-|Practice|VNet-to-VNet Connections|0|
-|Practice|VPN Gateways|0|
 |Lunch||60|
-|Practice||0|
-|3|Securing Virtual Network Resources|0|
+|4|Connecting Virtual Networks - Lesson 1|20|
+|Practice|VNet-to-VNet Connections|20|
+|Practice|VPN Gateways|20|
+|3|Securing Virtual Network Resources - Lesson 1|25|
+|Practice|Filter Network Traffic|0|
+|Practice|NSG Logging|0|
 |Break||15|
 |2|Azure DNS|0|
 |Lab|Configure and Manage Virtual Networks|75|
