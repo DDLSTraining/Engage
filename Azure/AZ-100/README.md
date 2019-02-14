@@ -101,9 +101,15 @@ Notes:
 |Module|Activity|Duration|
 |-|-|-|
 |0|Review|15|
-|1|Azure Virtual Networks|0|
+|1|Azure Virtual Networks - Lesson 1|60|
+|Practice|Virtual Networks|0|
 |Break||15|
-|4|Connecting Virtual Networks|0|
+|1|Azure Virtual Networks - Lesson 2|30|
+|Practice|Static Private IP Addresses|15|
+|1|Azure Virtual Networks - Lesson 3|10|
+|4|Connecting Virtual Networks - Lesson 1|20|
+|Practice|VNet-to-VNet Connections|0|
+|Practice|VPN Gateways|0|
 |Lunch||60|
 |Practice||0|
 |3|Securing Virtual Network Resources|0|
