@@ -125,14 +125,16 @@ Notes:
 
 Notes:
 
+* Students will need to enable the Premium Free Trial to complete the practices.
 * Module 2 Lesson 2 and 3 are a repeat of Day 1 Module 2.
 * Last few steps in lab `Import-Module "C:\Program Files\Microsoft Azure AD Sync\Bin\ADSync\ADSync.psd1"`
 
 |Module|Activity|Duration|
 |-|-|-|
 |0|Review|15|
-|1|Managing Azure Active Directory|0|
+|1|Managing Azure Active Directory - Lesson 1, 2, 3|1:30|
 |Break||15|
+|1|Managing Azure Active Directory - Lesson 4|0|
 |2|Managing Azure Active Directory Objects|0|
 |Lunch||60|
 |3|Implementing and Managing Hybrid Identities|0|
