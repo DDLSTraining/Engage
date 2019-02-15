@@ -134,7 +134,8 @@ Notes:
 |0|Review|15|
 |1|Managing Azure Active Directory - Lesson 1, 2, 3|1:30|
 |Break||15|
-|1|Managing Azure Active Directory - Lesson 4|0|
+|1|Managing Azure Active Directory - Lesson 4|10|
+|Practice|Conditional Access|0|
 |2|Managing Azure Active Directory Objects|0|
 |Lunch||60|
 |3|Implementing and Managing Hybrid Identities|0|
