@@ -138,7 +138,8 @@ Notes:
 |Practice|Conditional Access|0|
 |2|Managing Azure Active Directory Objects|0|
 |Lunch||60|
-|3|Implementing and Managing Hybrid Identities|0|
+|3|Implementing and Managing Hybrid Identities|40|
+|Practice|Azure AD Application Proxy|45|
 |Lab|Implement and Manage Hybrid Identities|75|
 
 
