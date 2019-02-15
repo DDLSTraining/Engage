@@ -142,5 +142,6 @@ Notes:
 |Q & A||60|
 |Practice|Azure AD Application Proxy|45|
 |Lab|Implement and Manage Hybrid Identities|75|
+|Finish|2:45pm||
 
 
