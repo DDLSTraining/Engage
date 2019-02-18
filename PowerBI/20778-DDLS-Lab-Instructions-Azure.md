@@ -1,6 +1,6 @@
-**20778 DDLS Lab Instructions**
+# 20778 DDLS Lab Instructions
 
-**Prepare the Lab Environment**
+## Prepare the Lab Environment
 
 1.  If you do not have a Power BI login, open Internet Explorer, browse
     to
@@ -40,9 +40,9 @@
 12. Copy the **Competitors.xlsx** file from the I: drive to the
     **D:\\Student** folder.
 
-**Module 3**
+## Module 3
 
-**Lab: Importing Data into Power BI Desktop**
+### Lab: Importing Data into Power BI Desktop
 
 Scenario
 
@@ -51,7 +51,8 @@ appropriate data will be imported from various sources. The
 AdventureWorksDW SQL Server database has all the company’s sales data,
 the excel file has data on competitor’s sales, and the website has
 information about the estimated number of bikes owned in each country.
-**Exercise 1: Importing Data into Power BI**
+
+### Exercise 1: Importing Data into Power BI
 
 **Task 1: Importing Data from SQL Server**
 
@@ -130,9 +131,9 @@ information about the estimated number of bikes owned in each country.
 
 7.  Leave Power BI Desktop open for the next Lab.
 
-**Module 4**
+## Module 4
 
-**Lab: Editing Queries in Power BI Desktop**
+### Lab: Editing Queries in Power BI Desktop
 
 Scenario
 
@@ -141,7 +142,7 @@ modifications to the queries are required. There are many unnecessary
 columns, the names of many of the tables and columns are not intuitive,
 even the format of some the data will make it hard to analyze.
 
-**Exercise 1: Shaping the data into Power BI**
+### Exercise 1: Shaping the data into Power BI
 
 **Task 1: Editing Data Queries from SQL Server**
 
@@ -287,9 +288,9 @@ even the format of some the data will make it hard to analyze.
 
 9.  Leave Power BI Desktop open for the next Lab.
 
-**Module 5**
+## Module 5
 
-**Lab: Modelling Data in Power BI Desktop**
+### Lab: Modelling Data in Power BI Desktop
 
 Scenario
 
@@ -301,7 +302,7 @@ when visualizations are added to the reports. Additionally, some missing
 values required will need to be calculated from the data that has been
 imported.
 
-**Exercise 1: Modelling Data in Power BI**
+### Exercise 1: Modelling Data in Power BI
 
 **Task 1: Modifying Field Properties in Power BI**
 
@@ -502,9 +503,9 @@ TODAY(), DAY)
 
 5.  Leave Power Bi Desktop open for the next Lab.
 
-**Module 6**
+## Module 6
 
-**Lab: Visualizations in Power BI Desktop**
+### Lab: Visualizations in Power BI Desktop
 
 Scenario
 
@@ -513,7 +514,7 @@ do some analysis by adding visualizations to a report. Report pages need
 to be added for Internet Sales and Reseller Sales. Some custom
 visualizations will also be added to provide additional functionality.
 
-**Exercise 1: Using Visualizations in Power BI**
+### Exercise 1: Using Visualizations in Power BI
 
 **Task 1: Using the Column visualization in Power BI**
 
@@ -763,7 +764,7 @@ visualizations will also be added to provide additional functionality.
 
 8.  Leave Power Bi Desktop open for the next Exercise.
 
-**Exercise 2: Importing Custom Visualizations in Power BI**
+### Exercise 2: Importing Custom Visualizations in Power BI
 
 **Task 1: Downloading custom visualizations**
 
@@ -874,7 +875,7 @@ visualizations will also be added to provide additional functionality.
 
 40. Leave Power Bi Desktop open for the next Exercise.
 
-**Exercise 3: Publishing to the Power BI Service**
+### Exercise 3: Publishing to the Power BI Service
 
 **Task 1: Publishing to the Power BI Service.**
 
