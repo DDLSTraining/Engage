@@ -63,8 +63,7 @@ information about the estimated number of bikes owned in each country.
 3.  In the **Get Data** dialog box, click Azure, then click Azure **SQL
     Database**, and then click **Connect**.
 
-4.  In the **SQL Server Database** dialog box, in the **Server** box,
-    type **ddlsrb.database.windows.net**.
+4.  In the **SQL Server Database** dialog box, in the **Server** box,    type **ddlsrb.database.windows.net**.
 
 5.  In the **Database (optional)** box, type **AdventureWorksDW**, and
     then click **OK**.
@@ -111,7 +110,7 @@ information about the estimated number of bikes owned in each country.
 
 7.  Leave Power BI Desktop open for the next task.
 
-**  Task 3: Import Data from the Web**
+**Task 3: Import Data from the Web**
 
 1.  Launch a web browser and go to
     [www.worldometers.info/bicycles/](http://www.worldometers.info/bicycles/).
