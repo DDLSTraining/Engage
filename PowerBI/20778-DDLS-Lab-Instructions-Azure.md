@@ -384,8 +384,7 @@ imported.
 2.  In the formula bar, highlight Column =, type the following code, and
     then press Enter:
 
-DaysSinceFirstPurchase = DATEDIFF(Customer\[DateFirstPurchase\],
-TODAY(), DAY)
+> DaysSinceFirstPurchase = DATEDIFF(Customer\[DateFirstPurchase\],TODAY(), DAY)
 
 1.  Click **New Column**.
 
