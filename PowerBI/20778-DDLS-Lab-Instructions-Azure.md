@@ -51,7 +51,6 @@ appropriate data will be imported from various sources. The
 AdventureWorksDW SQL Server database has all the company’s sales data,
 the excel file has data on competitor’s sales, and the website has
 information about the estimated number of bikes owned in each country.
-
 **Exercise 1: Importing Data into Power BI**
 
 **Task 1: Importing Data from SQL Server**
@@ -92,7 +91,7 @@ information about the estimated number of bikes owned in each country.
 
 14. Leave Power BI Desktop open for the next task.
 
-**  Task 2: Import Data from Excel**
+**Task 2: Import Data from Excel**
 
 1.  Launch Excel and open the file **D:\\Student\\Competitors.xlsx**
 
