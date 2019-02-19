@@ -18,7 +18,7 @@ Most of the comparisons will be from the vendors documentation and are not guara
 
 Last updated: 2019-02-2019
 
-| Platform | Free Invocations | Invocations | Free Compute | Compute | Free Network | Network |
+| Platform | Free Inv | Invocations | Free Compute | Compute | Free Network | Network |
 |-|-|-|-|-|-|-|
 | AWS | 1M | $0.20 per 1M | 400,000 GB-s | $0.00001667 GB-sec | 1GB | $0.09 per GB |
 | Azure | 1M | $0.275 per 1M | 400,000 GB-s | $0.000022 per GB-s | 5GB | $0.165 per GB |
