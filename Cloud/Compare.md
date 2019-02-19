@@ -17,6 +17,7 @@ Most of the comparisons will be from the vendors documentation and are not guara
 ## Functions (Lambda)
 
 Last updated: 2019-02-2019
+
 _Note: Prices are USD_
 
 | Platform | Free Inv | Invocations | Free Compute | Compute | Free Network | Network |
