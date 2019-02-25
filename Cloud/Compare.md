@@ -13,6 +13,7 @@ Most of the comparisons will be from the vendors documentation and are not guara
 ### Articles
 
 * 2018-12-14 - [Cockroach Labs - 2018 Cloud Report](https://www.cockroachlabs.com/blog/2018_cloud_report/) - AWS Outperforms GCP
+  * 2019-12-14 - [Hacker News Related Thread](https://news.ycombinator.com/item?id=18673541)
 
 ## Functions (Lambda)
 
