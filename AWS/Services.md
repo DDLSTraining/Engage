@@ -152,7 +152,10 @@ If you require external signals to intervene in your processes, or you would lik
 
 🌏 Scope: Availability Zone
 
-🗺️ Related: [AWS Fargate](https://aws.amazon.com/fargate/)
+🗺️ Related:
+
+* [Engage EC2 Document](EC2.md)
+* [AWS Fargate](https://aws.amazon.com/fargate/)
 
 ### Amazon Elastic Container Registry (ECR)
 
@@ -206,6 +209,7 @@ As an alternative take a look at [AWS CodeStar](https://aws.amazon.com/codestar/
 
 🗺️ Related:
 
+* [Engage Lambda Document](Lambda.md)
 * [Lambda@Edge](https://aws.amazon.com/lambda/edge/)
 * [AWS Serverless Application Model](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
 
@@ -343,6 +347,8 @@ AWS CloudFormation provides a common language for you to describe and provision 
 
 🤔 Think of CloudFormation as complete application infrastructure design in simple text documents. It is used by AWS for boxed application deployment like Wordpress or Django deployments from the AWS Marketplace.
 
+🗺️ Related: [Engage CloudFormation Document](CloudFormation.md)
+
 ### AWS Systems Manager
 
 [AWS Systems Manager](https://aws.amazon.com/systems-manager/) allows you to centralize operational data from multiple AWS services and automate tasks across your AWS resources. You can create logical groups of resources such as applications, different layers of an application stack, or production versus development environments. With Systems Manager, you can select a resource group and view its recent API activity, resource configuration changes, related notifications, operational alerts, software inventory, and patch compliance status. You can also take action on each resource group depending on your operational needs.
@@ -445,6 +451,8 @@ Amazon Cognito lets you add user sign-up, sign-in, and access control to your we
 
 🌏 Scope: Region
 
+🗺️ Related: [Engage VPC Document](VPC.md)
+
 ### AWS Global Accelerator
 
 [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/) is a networking service that improves the availability and performance of the applications that you offer to your global users. AWS Global Accelerator improves application availability by continuously monitoring the health of your application endpoints and routing traffic to the closest healthy endpoints. It also makes it easier to manage your global applications by providing static IP addresses that act as a fixed entry point to your application hosted on AWS which eliminates the complexity of managing specific IP addresses for different AWS Regions and Availability Zones.
@@ -507,6 +515,8 @@ Amazon Cognito lets you add user sign-up, sign-in, and access control to your we
 
 🌏 Scope: Global
 
+🗺️ Related: [Engage IAM Document](IAM.md)
+
 ### AWS Key Management Service (KMS)
 
 [AWS Key Management Service](https://aws.amazon.com/kms/) (KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data, and uses FIPS 140-2 validated hardware security modules to protect the security of your keys. AWS Key Management Service is also integrated with AWS CloudTrail to provide you with logs of all key usage to help meet your regulatory and compliance needs.
@@ -555,7 +565,7 @@ Some S3 file access protocols include:
 
 🌏 Scope: Region
 
-⚙️ [More Detail](S3.md)
+🗺️ Related: [Engage S3 Document](S3.md)
 
 ### Amazon Elastic Block Store (EBS)
 
