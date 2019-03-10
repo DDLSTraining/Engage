@@ -23,6 +23,7 @@ Notes:
 Videos:
 
 * [M1: App Migration to Azure: Moving your virtual machines from VMware step-by-step guide](https://www.youtube.com/watch?v=qtRwJUhniAg)
+* [M2: Azure Site Recovery](https://channel9.msdn.com/Shows/Azure-Friday/Azure-Site-Recovery/player)
 
 |Module|Activity|Duration|
 |-|-|-|
