@@ -20,6 +20,10 @@ Notes:
 
 * Introduce cloud environments and concepts.
 
+Videos:
+
+* [M1: App Migration to Azure: Moving your virtual machines from VMware step-by-step guide](https://www.youtube.com/watch?v=qtRwJUhniAg)
+
 |Module|Activity|Duration|
 |-|-|-|
 |Lab|Implement Azure Site Recovery between Azure regions|60|
