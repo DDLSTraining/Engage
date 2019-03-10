@@ -22,7 +22,7 @@ Notes:
 
 |Module|Activity|Duration|
 |-|-|-|
-|Lab||0|
+|Lab|Implement Azure Site Recovery between Azure regions|60|
 
 <a id="day2"></a>
 ### AZ-100T02 Day 2 - Implement and Manage Application Services
