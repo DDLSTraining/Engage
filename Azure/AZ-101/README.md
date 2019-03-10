@@ -19,6 +19,7 @@
 Notes:
 
 * Introduce cloud environments and concepts.
+* Module 5 is mostly a repeat of Module 1.
 
 Videos:
 
