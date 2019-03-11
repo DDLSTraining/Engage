@@ -32,6 +32,9 @@ Videos:
 |1|Azure Migrate|60|
 |Lunch||60|
 |1|Video: Migrating Application to the Cloud|15|
+|2|Azure Site Recovery||
+|3|Disaster Recovery||
+|4|Migrating Data||
 |Lab|Implement Azure Site Recovery between Azure regions|60|
 
 <a id="day2"></a>
@@ -42,7 +45,11 @@ Notes:
 
 |Module|Activity|Duration|
 |-|-|-|
-|Lab||0|
+|1|Introducing the Azure App Service Platform||
+|2|Managing and Securing Web Apps||
+|3|Scaling and Performance||
+|4|Deploying Serverless Computing Solutions||
+|Lab|Implement and Manage Azure Web Apps|60|
 
 <a id="day3"></a>
 ### AZ-101T03 Day 3 - Implement Advanced Virtual Networking
@@ -51,7 +58,10 @@ Notes:
 
 |Module|Activity|Duration|
 |-|-|-|
-|Lab||0|
+|1|Distributing Network Traffic||
+|2|Site Connectivity||
+|3|Monitoring and Troubleshooting Network Connections||
+|Lab|Implement Advanced Virtual Networking|90|
 
 
 <a id="day4"></a>
@@ -61,5 +71,8 @@ Notes:
 
 |Module|Activity|Duration|
 |-|-|-|
-|Lab||0|
+|1|Introduction to Identity Protection in Azure||
+|2|Using Multi-Factor Authentication (MFA) for Secure Access||
+|3|Azure AD Privileged Identity Management||
+|Lab|Secure Identities|120|
 
