@@ -28,6 +28,9 @@ Videos:
 
 |Module|Activity|Duration|
 |-|-|-|
+|0|Introductions, courseware, and Azure accounts|1:30|
+|Break||15|
+|1|Azure Migrate|0|
 |Lab|Implement Azure Site Recovery between Azure regions|60|
 
 <a id="day2"></a>
