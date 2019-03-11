@@ -19,6 +19,8 @@
 Notes:
 
 * Introduce cloud environments and concepts.
+* If possible, install a Windows VM into Hyper-V on the students desktop.
+* If you wish to install the Site Recovery Agent on the classroom machines, enable the Windows Update service.
 
 Videos:
 
@@ -30,11 +32,17 @@ Videos:
 |0|Introductions, courseware, and Azure accounts|1:30|
 |Break||15|
 |1|Azure Migrate|60|
-|Lunch||60|
 |1|Video: Migrating Application to the Cloud|15|
-|2|Azure Site Recovery||
-|3|Disaster Recovery||
-|4|Migrating Data||
+|Lunch||60|
+|1|Azure Migrate|20|
+|2|Azure Site Recovery|40|
+|2|Practice: Preparing the Azure Environment|10|
+|2|Practice: Preparing Hyper-V Servers|20|
+|2|Azure Site Recovery|10|
+|Break||15|
+|3|Disaster Recovery|30|
+|4|Migrating Data|30|
+||Remaining Practices if desired||
 |Lab|Implement Azure Site Recovery between Azure regions|60|
 
 <a id="day2"></a>
