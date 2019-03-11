@@ -92,7 +92,7 @@ Notes:
 |Lab|Deploy and Manage Virtual Machines|75|
 
 <a id="day4"></a>
-### AZ-100T03 Day 4 - Configure and Manage Virtual Networks
+### AZ-100T04 Day 4 - Configure and Manage Virtual Networks
 
 Notes:
 
@@ -121,7 +121,7 @@ Notes:
 |Lab|Configure and Manage Virtual Networks|75|
 
 <a id="day5"></a>
-### AZ-100T03 Day 5 - Manage Identities
+### AZ-100T05 Day 5 - Manage Identities
 
 Notes:
 
