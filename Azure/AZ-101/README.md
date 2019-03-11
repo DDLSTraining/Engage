@@ -52,6 +52,7 @@ Videos:
 Notes:
 
 * Module 3 Lesson 1 is mostly a repeat of Module 1 ASE.
+* [Event Grid, Event Hubs, and Service Bus](https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services)
 
 |Module|Activity|Duration|
 |-|-|-|
