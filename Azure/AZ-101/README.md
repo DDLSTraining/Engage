@@ -14,7 +14,7 @@
 * [AZ-101T04 Day 4 - Secure Identities](#day4)
 
 <a id="day1"></a>
-### AZ-100T01 Day 1 - Migrate Servers to Azure
+### AZ-101T01 Day 1 - Migrate Servers to Azure
 
 Notes:
 
@@ -36,7 +36,7 @@ Videos:
 |Lab|Implement Azure Site Recovery between Azure regions|60|
 
 <a id="day2"></a>
-### AZ-100T02 Day 2 - Implement and Manage Application Services
+### AZ-101T02 Day 2 - Implement and Manage Application Services
 
 Notes:
 
@@ -46,7 +46,7 @@ Notes:
 |Lab||0|
 
 <a id="day3"></a>
-### AZ-100T03 Day 3 - Implement Advanced Virtual Networking
+### AZ-101T03 Day 3 - Implement Advanced Virtual Networking
 
 Notes:
 
@@ -56,7 +56,7 @@ Notes:
 
 
 <a id="day4"></a>
-### AZ-100T03 Day 4 - Secure Identities
+### AZ-101T04 Day 4 - Secure Identities
 
 Notes:
 
