@@ -44,6 +44,7 @@ Videos:
 |4|Migrating Data|30|
 ||Remaining Practices if desired||
 |Lab|Implement Azure Site Recovery between Azure regions|60|
+|Finish|4:30||
 
 <a id="day2"></a>
 ### AZ-101T02 Day 2 - Implement and Manage Application Services
