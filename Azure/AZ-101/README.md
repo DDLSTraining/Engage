@@ -51,6 +51,7 @@ Videos:
 
 Notes:
 
+* Module 3 Lesson 1 is mostly a repeat of Module 1 ASE.
 
 |Module|Activity|Duration|
 |-|-|-|
