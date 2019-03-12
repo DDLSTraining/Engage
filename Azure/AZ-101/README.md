@@ -54,22 +54,35 @@ Notes:
 * Module 3 Lesson 1 is mostly a repeat of Module 1 ASE.
 * [Event Grid, Event Hubs, and Service Bus](https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services)
 
-|Module|Activity|Duration|
+|Module-Lesson|Activity|Duration|
 |-|-|-|
-|1|Introducing the Azure App Service Platform||
-|2|Managing and Securing Web Apps||
-|3|Scaling and Performance||
-|4|Deploying Serverless Computing Solutions||
-|Lab|Implement and Manage Azure Web Apps|60|
+|0|Review|15|
+|1-1|Introducing the Azure App Service Platform|70|
+|Break||15|
+|1-1|Introducing the Azure App Service Platform|15|
+|1-1|Prac: Manage App Service Plan|30|
+|1-2|Introducing the Azure App Service Platform|10|
+|1-2|Prac: Scaling App Service Environments|15|
+|Lunch||60|
+|1-2|Prac: External ASE|15|
+|2-1|Managing and Securing Web Apps|60|
+|2-2|Managing and Securing Web Apps|10|
+|Break||15|
+|2-3|Managing and Securing Web Apps|15|
+|3|Scaling and Performance|30|
+|3|Prac: Remaining practice from list|0|
+|Finish|4:30 - Module 4 moved to Day 3||
 
 <a id="day3"></a>
 ### AZ-101T03 Day 3 - Implement Advanced Virtual Networking
 
 Notes:
 
-|Module|Activity|Duration|
+|Module-Lesson|Activity|Duration|
 |-|-|-|
-|1|Distributing Network Traffic||
+|Review||15|
+|Day 2 Module 4|Deploying Serverless Computing Solutions|60|
+|Day 2 Lab|Implement and Manage Azure Web Apps|60||1|Distributing Network Traffic||
 |2|Site Connectivity||
 |3|Monitoring and Troubleshooting Network Connections||
 |Lab|Implement Advanced Virtual Networking|90|
