@@ -53,6 +53,8 @@ Notes:
 
 * Module 3 Lesson 1 is mostly a repeat of Module 1 ASE.
 * [Event Grid, Event Hubs, and Service Bus](https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services)
+* Suggest the lab _Implement and Manage Azure Web Apps_ be done for homework.
+
 
 |Module-Lesson|Activity|Duration|
 |-|-|-|
@@ -81,8 +83,24 @@ Notes:
 |Module-Lesson|Activity|Duration|
 |-|-|-|
 |Review||15|
-|Day 2 Module 4|Deploying Serverless Computing Solutions|60|
-|Day 2 Lab|Implement and Manage Azure Web Apps|60||1|Distributing Network Traffic||
+|Day 2 4-1&2|Deploying Serverless Computing Solutions|60|
+|Day 2 4-2|Prac: Function for Blob Storage|15|
+|Day 2 4-2|Prac: Timer Function|15|
+|Day 2 4-3|Deploying Serverless Computing Solutions|15|
+|Day 2 4-3|Prac: Event Grid|30|
+|Day 2 4-4|Deploying Serverless Computing Solutions|30|
+|Lunch||60|
+|Day 2 4-4|Deploying Serverless Computing Solutions|10|
+|Day 2 4-3|Prac: Service Bus Message Queues|15|
+|Day 2 4-3|Prac: Service Bus Templates|15|
+|Day 2 4-4|Prac: LogicApp Workflow (Advanced)|15|
+|1-1&2|Distributing Network Traffic|20|
+|Break||15|
+|1-2|Distributing Network Traffic|10|
+|1-2|Prac: Standard Load Balancer|15|
+|1-2|Prac: Load Balancer ARM Deployments|15|
+|1-3|Distributing Network Traffic|10|
+|1-3|Prac: Priority, Performance, Geographic, and Weighted Traffic Routing||
 |2|Site Connectivity||
 |3|Monitoring and Troubleshooting Network Connections||
 |Lab|Implement Advanced Virtual Networking|90|
