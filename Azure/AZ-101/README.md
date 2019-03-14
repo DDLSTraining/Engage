@@ -27,21 +27,21 @@ Videos:
 * [M1: Migrating Application to the Cloud](https://www.youtube.com/watch?v=qtRwJUhniAg)
 * [M2: Azure Site Recovery](https://channel9.msdn.com/Shows/Azure-Friday/Azure-Site-Recovery/player)
 
-|Module|Activity|Duration|
+|Day-Module-Lesson|Activity|Duration|
 |-|-|-|
-|0|Introductions, courseware, and Azure accounts|1:30|
+|D1-M0|Introductions, courseware, and Azure accounts|1:30|
 |Break||15|
-|1|Azure Migrate|60|
-|1|Video: Migrating Application to the Cloud|15|
+|D1-M1|Azure Migrate|60|
+|D1-M1|Video: Migrating Application to the Cloud|15|
 |Lunch||60|
-|1|Azure Migrate|20|
-|2|Azure Site Recovery|40|
-|2|Practice: Preparing the Azure Environment|10|
-|2|Practice: Preparing Hyper-V Servers|20|
-|2|Azure Site Recovery|10|
+|D1-M1|Azure Migrate|20|
+|D1-M2|Azure Site Recovery|40|
+|D1-M2|Practice: Preparing the Azure Environment|10|
+|D1-M2|Practice: Preparing Hyper-V Servers|20|
+|D1-M2|Azure Site Recovery|10|
 |Break||15|
-|3|Disaster Recovery|30|
-|4|Migrating Data|30|
+|D1-M3|Disaster Recovery|30|
+|D1-M4|Migrating Data|30|
 ||Remaining Practices if desired||
 |Lab|Implement Azure Site Recovery between Azure regions|60|
 |Finish|4:30||
@@ -56,23 +56,23 @@ Notes:
 * Suggest the lab _Implement and Manage Azure Web Apps_ be done for homework.
 
 
-|Module-Lesson|Activity|Duration|
+|Day-Module-Lesson|Activity|Duration|
 |-|-|-|
-|0|Review|15|
-|1-1|Introducing the Azure App Service Platform|70|
+|D2-M0|Review|15|
+|D2-M1-L1|Introducing the Azure App Service Platform|70|
 |Break||15|
-|1-1|Introducing the Azure App Service Platform|15|
-|1-1|Prac: Manage App Service Plan|30|
-|1-2|Introducing the Azure App Service Platform|10|
-|1-2|Prac: Scaling App Service Environments|15|
+|D2-M1-L1|Introducing the Azure App Service Platform|15|
+|D2-M1-L1|Prac: Manage App Service Plan|30|
+|D2-M1-L2|Introducing the Azure App Service Platform|10|
+|D2-M1-L1,2|Prac: Scaling App Service Environments|15|
 |Lunch||60|
-|1-2|Prac: External ASE|15|
-|2-1|Managing and Securing Web Apps|60|
-|2-2|Managing and Securing Web Apps|10|
+|D2-M1-L2|Prac: External ASE|15|
+|D2-M2-L1|Managing and Securing Web Apps|60|
+|D2-M2-L2|Managing and Securing Web Apps|10|
 |Break||15|
-|2-3|Managing and Securing Web Apps|15|
-|3|Scaling and Performance|30|
-|3|Prac: Remaining practice from list|0|
+|D2-M2-L3|Managing and Securing Web Apps|15|
+|D2-M3|Scaling and Performance|30|
+|D2-M3|Prac: Remaining practice from list|0|
 |Finish|4:30 - Module 4 moved to Day 3||
 
 <a id="day3"></a>
