@@ -80,41 +80,48 @@ Notes:
 
 Notes:
 
-|Module-Lesson|Activity|Duration|
+* Suggest the lab _Implement Advanced Virtual Networking_ as homework.
+
+|Day-Module-Lesson|Activity|Duration|
 |-|-|-|
 |Review||15|
-|Day 2 4-1&2|Deploying Serverless Computing Solutions|60|
-|Day 2 4-2|Prac: Function for Blob Storage|15|
-|Day 2 4-2|Prac: Timer Function|15|
-|Day 2 4-3|Deploying Serverless Computing Solutions|15|
-|Day 2 4-3|Prac: Event Grid|30|
-|Day 2 4-4|Deploying Serverless Computing Solutions|30|
+|D2-M4-L1&2|Deploying Serverless Computing Solutions|60|
+|D2-M4-L2|Prac: Function for Blob Storage|15|
+|D2-M4-L2|Prac: Timer Function|15|
+|D2-M4-L3|Deploying Serverless Computing Solutions|15|
+|D2-M4-L3|Prac: Event Grid|30|
+|D-2M4-L4|Deploying Serverless Computing Solutions|30|
 |Lunch||60|
-|Day 2 4-4|Deploying Serverless Computing Solutions|10|
-|Day 2 4-3|Prac: Service Bus Message Queues|15|
-|Day 2 4-3|Prac: Service Bus Templates|15|
-|Day 2 4-4|Prac: LogicApp Workflow (Advanced)|15|
-|1-1&2|Distributing Network Traffic|20|
+|D2-M4-L4|Deploying Serverless Computing Solutions|10|
+|D2-M4-L3|Prac: Service Bus Message Queues|15|
+|D2-M4-L3|Prac: Service Bus Templates|15|
+|D2-M4-L4|Prac: LogicApp Workflow (Advanced)|15|
+|D3-M1-L1&2|Distributing Network Traffic|20|
 |Break||15|
-|1-2|Distributing Network Traffic|10|
-|1-2|Prac: Standard Load Balancer|15|
-|1-2|Prac: Load Balancer ARM Deployments|15|
-|1-3|Distributing Network Traffic|10|
-|1-3|Prac: Priority, Performance, Geographic, and Weighted Traffic Routing||
-|2|Site Connectivity||
-|3|Monitoring and Troubleshooting Network Connections||
-|Lab|Implement Advanced Virtual Networking|90|
-
+|D3-M1-L2|Distributing Network Traffic|10|
+|D3-M1-L2|Prac: Standard Load Balancer|15|
+|D3-M1-L2|Prac: Load Balancer ARM Deployments|15|
+|D3-M1-L3|Distributing Network Traffic|10|
+|D3-M1-L3|Prac: Priority, Performance, Geographic, and Weighted Traffic Routing||
+|Finish|4:30||
 
 <a id="day4"></a>
 ### AZ-101T04 Day 4 - Secure Identities
 
 Notes:
 
-|Module|Activity|Duration|
+* D3-M2-L1 Prac: Deploying the GW can take some time.
+
+|Day-Module-Lesson|Activity|Duration|
 |-|-|-|
-|1|Introduction to Identity Protection in Azure||
-|2|Using Multi-Factor Authentication (MFA) for Secure Access||
-|3|Azure AD Privileged Identity Management||
+|D3-M2-L1&2|Site Connectivity|45|
+|D3-M2-L1|Prac: Site-to-Site VPN Connections|20|
+|D3-M2-L2|Prac: ExpressRoute with Site-to-Site|15|
+|Break||15|
+|D3-M3-L1&2&3|Monitoring and Troubleshooting Network Connections|20|
+|D3-M3-L2|Prac: IP Flow Verify, Next Hop, VPN Diagnostics, NSG Auditing (PowerShell)|20|
+|D4-M1-L1|Introduction to Identity Protection in Azure||
+|D4-M2|Using Multi-Factor Authentication (MFA) for Secure Access||
+|D4-M3|Azure AD Privileged Identity Management||
 |Lab|Secure Identities|120|
 
