@@ -111,6 +111,7 @@ Notes:
 Notes:
 
 * D3-M2-L1 Prac: Deploying the GW can take some time.
+* Consider D4-M3-L2 before D4-M3-L1. Lesson 2 is Azure AD while Lesson 1 is RBAC.
 
 |Day-Module-Lesson|Activity|Duration|
 |-|-|-|
@@ -120,8 +121,13 @@ Notes:
 |Break||15|
 |D3-M3-L1&2&3|Monitoring and Troubleshooting Network Connections|20|
 |D3-M3-L2|Prac: IP Flow Verify, Next Hop, VPN Diagnostics, NSG Auditing (PowerShell)|20|
-|D4-M1-L1|Introduction to Identity Protection in Azure||
-|D4-M2|Using Multi-Factor Authentication (MFA) for Secure Access||
+|Lunch||60|
+|D3-M3-L3|Monitoring and Troubleshooting Network Connections|20|
+|D4-M1-L1|Introduction to Identity Protection in Azure|20|
+|D4-M2-L1&2|Using Multi-Factor Authentication (MFA) for Secure Access|30|
+|D4-M2-L2|Prac: Conditional Access|10|
+|D4-M2-L2|Prac: MFA Authentication Pilot|15|
+|Break||15|
 |D4-M3|Azure AD Privileged Identity Management||
 |Lab|Secure Identities|120|
 
