@@ -128,6 +128,10 @@ Notes:
 |D4-M2-L2|Prac: Conditional Access|10|
 |D4-M2-L2|Prac: MFA Authentication Pilot|15|
 |Break||15|
-|D4-M3|Azure AD Privileged Identity Management||
+|D4-M3-L1&2&3&4|Azure AD Privileged Identity Management|50|
+|D4-M3-L1|Prac: Discover Resources||
+|D4-M3-L3|Prac: Assign Directory Roles||
+|D4-M3-L3|Prac: Activate and Deactivate PIM Roles||
+|D4-M3-L3|Prac: Directory Roles (General)||
 |Lab|Secure Identities|120|
 
