@@ -5,6 +5,7 @@
 * [DDLS: Microsoft AZ-101 – Microsoft Azure Integration and Security](https://www.ddls.com.au/courses/microsoft/azure/microsoft-az-101-azure-integration-and-security/)
 * [AZ-101 GitHub Repository (Lab files and instructions)](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity)
 * [Exam AZ-101: Microsoft Azure Integration and Security](https://www.microsoft.com/en-us/learning/exam-az-101.aspx)
+* [Course Labs](Labs.md)
 
 ## Suggested Order and Timing
 
