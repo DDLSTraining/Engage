@@ -64,9 +64,9 @@ Notes:
 |D2-M1-L1|Introducing the Azure App Service Platform|15|
 |D2-M1-L1|Prac: Manage App Service Plan|30|
 |D2-M1-L2|Introducing the Azure App Service Platform|10|
-|D2-M1-L1,2|Prac: Scaling App Service Environments|15|
+|D2-M1-L1,2|Prac: External ASE|15|
 |Lunch||60|
-|D2-M1-L2|Prac: External ASE|15|
+|D2-M1-L2|Prac: Create an ILB with an ASE|15|
 |D2-M2-L1|Managing and Securing Web Apps|60|
 |D2-M2-L2|Managing and Securing Web Apps|10|
 |Break||15|
