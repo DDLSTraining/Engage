@@ -1,34 +1,64 @@
-# AZ-101 Class Notes
+# AZ-101 Hands-on Labs
 
-## Hands-on Labs
+* [Microsoft Learning: AZ-101 Microsoft Azure Integration and Security GitHub Labs](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity)
 
-### Day 1
+## Day 1
 
-#### Module 1
+### Module 1
 
-#### Module 2
+* [Discover and Assess](https://docs.microsoft.com/en-us/azure/migrate/tutorial-assessment-vmware)
 
-#### Module 3
+### Module 2
 
-#### Module 4
+* [Preparing the Azure Environment](https://docs.microsoft.com/en-us/azure/site-recovery/tutorial-prepare-azure)
+* [Preparing Hyper-V Servers](https://docs.microsoft.com/en-us/azure/site-recovery/hyper-v-prepare-on-premises-tutorial)
+* [Migrating On-premises Machines](https://docs.microsoft.com/en-us/azure/site-recovery/migrate-tutorial-on-premises-azure)
+* [Migrate VMs to Azure (PS)](https://docs.microsoft.com/en-us/azure/site-recovery/hyper-v-azure-powershell-resource-manager#before-you-start)
 
-#### Lab Day 1 - Migrate Servers
+### Module 3
+
+* [VM Backup and Restore](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-backup-vms)
+* Managing Virtual Machines
+  * [Move a Windows VM to another Azure subscription or resource group](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm)
+  * [Resize a VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/resize-vm)
+  * [Change the OS disk used by an Azure VM using PowerShell](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/os-disk-swap)
+  * [Download the template for a VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/download-template)
+  * Create a snapshot in:
+    * [Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm)
+    * [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/snapshot-copy-managed-disk)
+* Azure to Azure:
+  * [Set up disaster recovery for Azure VMs to a secondary Azure region](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-enable-replication)
+  * [Run a disaster recovery drill for Azure VMs to a secondary Azure region](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-dr-drill)
+  * [Fail over and fail back Azure VMs between Azure regions](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-failover-failback)
+
+### Module 4
+
+* [Using Azure Database Migration Service](https://docs.microsoft.com/en-us/azure/site-recovery/vmware-azure-tutorial)
+* Azure Import/Export Tool:
+  * [Install and set up the Azure Import/Export Tool](https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-tool-setup?toc=/azure/storage/blobs/toc.json)
+  * [Prepare your hard drives for a job where you import data from your drives to Azure Blob Storage](https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-tool-preparing-hard-drives-import?toc=/azure/storage/blobs/toc.json)
+  * [Review the status of a job with Copy Log Files](https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-tool-reviewing-job-status-v1?toc=/azure/storage/blobs/toc.json)
+  * [Repair an import job](https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-tool-repairing-an-import-job-v1?toc=/azure/storage/blobs/toc.json)
+  * [Repair an export job](https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-tool-repairing-an-export-job-v1?toc=/azure/storage/blobs/toc.json)
+  * [Troubleshoot the Azure Import/Export Tool](Troubleshoot the Azure Import/Export Tool)
+
+### Lab Day 1 - Migrate Servers
 
 * [Lab 1: Implement Azure Site Recovery between Azure regions](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-01__instructions.md)
 * [Lab 2: Migrate on-premises Hyper-V VMs to Azure](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-01b__instructions.md)
 
-### Day 2
+## Day 2
 
-#### Module 1
+### Module 1
 
-#### Module 2
+### Module 2
 
 * [Deployment Slots - Add a deployment slot](https://docs.microsoft.com/en-us/azure/app-service/web-sites-staged-publishing#add-a-deployment-slot)
 * [Deployment Slots - Swap deployment slots](https://docs.microsoft.com/en-us/azure/app-service/web-sites-staged-publishing#swap-deployment-slots)
 * [Azure App Service - Backup](https://docs.microsoft.com/en-us/azure/app-service/web-sites-backup)
 * [Azure App Service - Restore](https://docs.microsoft.com/en-us/azure/app-service/web-sites-restore)
 
-#### Module 3
+### Module 3
 
 * [Scale Up an App in Azure](https://docs.microsoft.com/en-us/azure/app-service/web-sites-scale#scale-up-your-pricing-tier)
 * [Get Started with Auto-Scale](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-autoscale-get-started)
@@ -42,7 +72,7 @@
     * [Set global caching rules](https://docs.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial#set-global-caching-rules)
     * [Set custom caching rules](https://docs.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial#set-custom-caching-rules)
 
-#### Module 4
+### Module 4
 * Function Apps
   * [Function for Blob Storage](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function)
   * [Timer Function](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function#create-an-azure-function-app)
@@ -58,14 +88,14 @@
     * [Create a Service Bus namespace with topic and subscription](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-topic)
  * [Logic App Workflow (Advanced)](https://docs.microsoft.com/en-us/azure/logic-apps/tutorial-build-schedule-recurring-logic-app-workflow)
  
- #### Lab Day 2 - Implement and Manage Application Services
+ ### Lab Day 2 - Implement and Manage Application Services
  
  * [Lab 1: Implement and Manage Azure Web Apps](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-02__instructions.md)
  * [Lab 2: Monitor changes to Azure resources by using Azure Event Grid and Azure Logic Apps](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-02b__instructions.md)
  
- ### Day 3
+ ## Day 3
  
- #### Module 1
+ ### Module 1
  
  * [Standard Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal)
  * Load Balancer ARM Deployments
@@ -80,27 +110,27 @@
  * [Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal)
    * [Web Application Firewall](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-application-firewall-portal)
    
-   #### Module 2
+ ### Module 2
    
-   #### Module 3
+ ### Module 3
    
-   #### Lab Day 3 - Implement Advanced Virtual Networking
+ ### Lab Day 3 - Implement Advanced Virtual Networking
    
    * [Lab 1: Implement Advanced Virtual Networking](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-03__instructions.md)
    * [Lab 2: Use Azure Network Watcher for monitoring and troubleshooting network connectivity](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-03b__instructions.md)
    
-   ### Day 4
+ ## Day 4
    
-   #### Module 1
+ ### Module 1
    
-   #### Module 2
+ ### Module 2
    
-   #### Module 3
+ ### Module 3
    
-   #### Lab Day 4 - Secure Identities
+ ### Lab Day 4 - Secure Identities
    
-   * [Lab 1: Secure Identities](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-04__instructions.md)
-   * [Lab 2: Implement and validate Azure AD Identity Protection](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-04b__instructions.md)
+ * [Lab 1: Secure Identities](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-04__instructions.md)
+ * [Lab 2: Implement and validate Azure AD Identity Protection](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-04b__instructions.md)
    
    
 
