@@ -27,7 +27,16 @@
 * [Lab - Implement and Manage Azure Web Apps](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-02__instructions.md)
 
 #### Module 4
-
-* [Function for Blob Storage](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function)
-* [Timer Function](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function#create-an-azure-function-app)
-
+* Function Apps
+  * [Function for Blob Storage](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function)
+  * [Timer Function](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function#create-an-azure-function-app)
+* Event Grid
+  * [Create and route Blob storage events](https://docs.microsoft.com/en-us/azure/event-grid/blob-event-quickstart-portal)
+  * [Route Blob storage events to a custom web endpoint with PowerShell](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart-powershell?toc=/azure/event-grid/toc.json)
+  * [Monitor virtual machine changes](https://docs.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-event-grid-logic-app)
+* Service Bus
+  * [Service Bus Message Queues](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-portal#create-a-queue)
+  * Service Bus Templates
+    * [Create a namespace](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace)
+    * [Create a Service Bus namespace with queue](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-queue)
+    * [Create a Service Bus namespace with topic and subscription](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-topic)
