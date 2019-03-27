@@ -117,23 +117,52 @@
  * [Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal)
    * [Web Application Firewall](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-application-firewall-portal)
    
- ### Module 2
+### Module 2
+ 
+* [Site-to-Site VPN Connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal)
+  * [Try the Create a Site-to-Site VPN Connection QuickStart template](https://azure.microsoft.com/en-us/resources/templates/201-site-to-site-vpn/)
+* [ExpressRoute with Site-to-Site](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-resource-manager)
    
- ### Module 3
+### Module 3
+
+* [IP Flow Verify](https://docs.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-traffic-filtering-problem)
+* [Next Hop](https://docs.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-routing-problem)
+* [VPN Diagnostics](https://docs.microsoft.com/en-us/azure/network-watcher/diagnose-communication-problem-between-networks)
+* [NSG Auditing (PowerShell)](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-auditing-powershell)
    
- ### Lab Day 3 - Implement Advanced Virtual Networking
+### Lab Day 3 - Implement Advanced Virtual Networking
    
-   * [Lab 1: Implement Advanced Virtual Networking](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-03__instructions.md)
-   * [Lab 2: Use Azure Network Watcher for monitoring and troubleshooting network connectivity](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-03b__instructions.md)
+  * [Lab 1: Implement Advanced Virtual Networking](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-03__instructions.md)
+  * [Lab 2: Use Azure Network Watcher for monitoring and troubleshooting network connectivity](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-03b__instructions.md)
    
  ## Day 4
    
  ### Module 1
+ 
+ _No hands-on_
    
  ### Module 2
+ 
+ * [Conditional Access](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/app-based-mfa)
+ * [MFA Authentication Pilot](https://docs.microsoft.com/en-us/azure/active-directory/authentication/tutorial-mfa-applications)
    
  ### Module 3
-   
+ 
+ * [Discover Resources](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-resource-roles-discover-resources#discover-resources)
+ * [Assign Directory Roles](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user)
+ * [Activate and Deactivate PIM Roles](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-activate-role)
+ * Directory Roles (General):
+   * [How to give other admins access to PIM](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-give-access-to-pim)
+   * [How to add or remove a user role](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user)
+   * [How to activate or deactivate a role](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-activate-role)
+   * [How to change or view the default activation settings for a role](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-change-default-settings)
+   * [How to configure security alerts](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-configure-security-alerts)
+   * [How to start an access review](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-start-security-review)
+   * [How to perform an access review](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review)
+   * [How to complete an access review](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-complete-review)
+   * [How to require MFA](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-require-mfa)
+   * [How to use the audit log](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-how-to-use-audit-log)
+
  ### Lab Day 4 - Secure Identities
    
  * [Lab 1: Secure Identities](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-04__instructions.md)
