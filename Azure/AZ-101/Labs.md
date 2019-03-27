@@ -41,3 +41,13 @@
     * [Create a Service Bus namespace with queue](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-queue)
     * [Create a Service Bus namespace with topic and subscription](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-topic)
  * [Logic App Workflow (Advanced)](https://docs.microsoft.com/en-us/azure/logic-apps/tutorial-build-schedule-recurring-logic-app-workflow)
+ 
+ ### Day 3
+ 
+ #### Module 1
+ 
+ * [Standard Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal)
+ * Load Balancer ARM Deployments
+   * [2 VMs in a Load Balancer and load balancing rules](https://azure.microsoft.com/en-us/resources/templates/201-2-vms-loadbalancer-lbrules/)
+   * [2 VMs in VNET - Internal Load Balancer and LB rules](https://azure.microsoft.com/en-us/resources/templates/201-2-vms-internal-load-balancer/)
+
