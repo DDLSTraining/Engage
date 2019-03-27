@@ -50,4 +50,12 @@
  * Load Balancer ARM Deployments
    * [2 VMs in a Load Balancer and load balancing rules](https://azure.microsoft.com/en-us/resources/templates/201-2-vms-loadbalancer-lbrules/)
    * [2 VMs in VNET - Internal Load Balancer and LB rules](https://azure.microsoft.com/en-us/resources/templates/201-2-vms-internal-load-balancer/)
+ * Azure Traffic Manager
+   * [Priority Traffic Routing](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-priority-routing-method)
+   * [Performance Traffic Routing](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-performance-routing-method)
+   * [Geographic Traffic Routing](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-geographic-routing-method)
+     * [Add, disable, enable, or delete endpoints](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-manage-endpoints)
+   * [Weighted Traffic Routing](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-weighted-routing-method)
+ * [Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal)
+   * [Web Application Firewall](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-application-firewall-portal)
 
