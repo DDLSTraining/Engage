@@ -1,8 +1,25 @@
 # AZ-101 Class Notes
 
-## Practice List
+## Hands-on Labs
+
+### Day 1
+
+#### Module 1
+
+#### Module 2
+
+#### Module 3
+
+#### Module 4
+
+#### Lab Day 1 - Migrate Servers
+
+* [Lab 1: Implement Azure Site Recovery between Azure regions](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-01__instructions.md)
+* [Lab 2: Migrate on-premises Hyper-V VMs to Azure](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-01b__instructions.md)
 
 ### Day 2
+
+#### Module 1
 
 #### Module 2
 
@@ -24,7 +41,6 @@
     * [Access the azure CDN caching rules page](https://docs.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial#open-the-azure-cdn-caching-rules-page)
     * [Set global caching rules](https://docs.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial#set-global-caching-rules)
     * [Set custom caching rules](https://docs.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial#set-custom-caching-rules)
-* [Lab - Implement and Manage Azure Web Apps](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-02__instructions.md)
 
 #### Module 4
 * Function Apps
@@ -42,6 +58,11 @@
     * [Create a Service Bus namespace with topic and subscription](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-topic)
  * [Logic App Workflow (Advanced)](https://docs.microsoft.com/en-us/azure/logic-apps/tutorial-build-schedule-recurring-logic-app-workflow)
  
+ #### Lab Day 2 - Implement and Manage Application Services
+ 
+ * [Lab 1: Implement and Manage Azure Web Apps](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-02__instructions.md)
+ * [Lab 2: Monitor changes to Azure resources by using Azure Event Grid and Azure Logic Apps](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-02b__instructions.md)
+ 
  ### Day 3
  
  #### Module 1
@@ -58,4 +79,28 @@
    * [Weighted Traffic Routing](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-weighted-routing-method)
  * [Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal)
    * [Web Application Firewall](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-application-firewall-portal)
+   
+   #### Module 2
+   
+   #### Module 3
+   
+   #### Lab Day 3 - Implement Advanced Virtual Networking
+   
+   * [Lab 1: Implement Advanced Virtual Networking](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-03__instructions.md)
+   * [Lab 2: Use Azure Network Watcher for monitoring and troubleshooting network connectivity](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-03b__instructions.md)
+   
+   ### Day 4
+   
+   #### Module 1
+   
+   #### Module 2
+   
+   #### Module 3
+   
+   #### Lab Day 4 - Secure Identities
+   
+   * [Lab 1: Secure Identities](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-04__instructions.md)
+   * [Lab 2: Implement and validate Azure AD Identity Protection](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-04b__instructions.md)
+   
+   
 
