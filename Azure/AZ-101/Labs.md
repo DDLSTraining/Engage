@@ -18,7 +18,7 @@
 ### Module 3
 
 * [VM Backup and Restore](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-backup-vms)
-* Managing Virtual Machines
+* Managing Virtual Machines:
   * [Move a Windows VM to another Azure subscription or resource group](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm)
   * [Resize a VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/resize-vm)
   * [Change the OS disk used by an Azure VM using PowerShell](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/os-disk-swap)
@@ -52,7 +52,7 @@
 ### Module 1
 
 * [Manage an App Service Plan](https://docs.microsoft.com/en-us/azure/app-service/app-service-plan-manage#create-an-app-service-plan)
-* [External ASE](https://docs.microsoft.com/en-us/azure/app-service/environment/create-external-ase)
+* [External ASE](https://docs.microsoft.com/en-us/azure/app-service/environment/create-external-ase):
   * [For a more advanced practice try create an ASE from an Azure Resource Manager (ARM) template](https://docs.microsoft.com/en-us/azure/app-service/environment/create-from-template)
 * [Create an ILB with an ASE](https://docs.microsoft.com/en-us/azure/app-service/environment/create-ilb-ase)
 
@@ -70,26 +70,26 @@
 * [Scale Up an App in Azure](https://docs.microsoft.com/en-us/azure/app-service/web-sites-scale#scale-up-your-pricing-tier)
 * [Get Started with Auto-Scale](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-autoscale-get-started)
 * [Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal)
-* Azure Content Delivery Network
-  * CDN profile and endpoint
+* Azure Content Delivery Network:
+  * CDN profile and endpoint:
     * [Create a new CDN profile](https://docs.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint#create-a-new-cdn-profile)
     * [Create a new CDN endpoint](https://docs.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint#create-a-new-cdn-endpoint)
-  * CDN Caching Rules
+  * CDN Caching Rules:
     * [Access the azure CDN caching rules page](https://docs.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial#open-the-azure-cdn-caching-rules-page)
     * [Set global caching rules](https://docs.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial#set-global-caching-rules)
     * [Set custom caching rules](https://docs.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial#set-custom-caching-rules)
 
 ### Module 4
-* Function Apps
+* Function Apps:
   * [Function for Blob Storage](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function)
   * [Timer Function](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function#create-an-azure-function-app)
-* Event Grid
+* Event Grid:
   * [Create and route Blob storage events](https://docs.microsoft.com/en-us/azure/event-grid/blob-event-quickstart-portal)
   * [Route Blob storage events to a custom web endpoint with PowerShell](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart-powershell?toc=/azure/event-grid/toc.json)
   * [Monitor virtual machine changes](https://docs.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-event-grid-logic-app)
-* Service Bus
+* Service Bus:
   * [Service Bus Message Queues](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-portal#create-a-queue)
-  * Service Bus Templates
+  * Service Bus Templates:
     * [Create a namespace](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace)
     * [Create a Service Bus namespace with queue](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-queue)
     * [Create a Service Bus namespace with topic and subscription](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-topic)
@@ -105,21 +105,21 @@
  ### Module 1
  
  * [Standard Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal)
- * Load Balancer ARM Deployments
+ * Load Balancer ARM Deployments:
    * [2 VMs in a Load Balancer and load balancing rules](https://azure.microsoft.com/en-us/resources/templates/201-2-vms-loadbalancer-lbrules/)
    * [2 VMs in VNET - Internal Load Balancer and LB rules](https://azure.microsoft.com/en-us/resources/templates/201-2-vms-internal-load-balancer/)
- * Azure Traffic Manager
+ * Azure Traffic Manager:
    * [Priority Traffic Routing](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-priority-routing-method)
    * [Performance Traffic Routing](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-performance-routing-method)
-   * [Geographic Traffic Routing](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-geographic-routing-method)
+   * [Geographic Traffic Routing](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-geographic-routing-method):
      * [Add, disable, enable, or delete endpoints](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-manage-endpoints)
    * [Weighted Traffic Routing](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-weighted-routing-method)
- * [Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal)
+ * [Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal):
    * [Web Application Firewall](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-application-firewall-portal)
    
 ### Module 2
  
-* [Site-to-Site VPN Connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal)
+* [Site-to-Site VPN Connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal):
   * [Try the Create a Site-to-Site VPN Connection QuickStart template](https://azure.microsoft.com/en-us/resources/templates/201-site-to-site-vpn/)
 * [ExpressRoute with Site-to-Site](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-resource-manager)
    
