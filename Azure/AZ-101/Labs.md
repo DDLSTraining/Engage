@@ -51,12 +51,19 @@
 
 ### Module 1
 
+* [Manage an App Service Plan](https://docs.microsoft.com/en-us/azure/app-service/app-service-plan-manage#create-an-app-service-plan)
+* [External ASE](https://docs.microsoft.com/en-us/azure/app-service/environment/create-external-ase)
+  * [For a more advanced practice try create an ASE from an Azure Resource Manager (ARM) template](https://docs.microsoft.com/en-us/azure/app-service/environment/create-from-template)
+* [Create an ILB with an ASE](https://docs.microsoft.com/en-us/azure/app-service/environment/create-ilb-ase)
+
 ### Module 2
 
-* [Deployment Slots - Add a deployment slot](https://docs.microsoft.com/en-us/azure/app-service/web-sites-staged-publishing#add-a-deployment-slot)
-* [Deployment Slots - Swap deployment slots](https://docs.microsoft.com/en-us/azure/app-service/web-sites-staged-publishing#swap-deployment-slots)
-* [Azure App Service - Backup](https://docs.microsoft.com/en-us/azure/app-service/web-sites-backup)
-* [Azure App Service - Restore](https://docs.microsoft.com/en-us/azure/app-service/web-sites-restore)
+* Deployment Slots:
+  * [Add a deployment slot](https://docs.microsoft.com/en-us/azure/app-service/web-sites-staged-publishing#add-a-deployment-slot)
+  * [Swap deployment slots](https://docs.microsoft.com/en-us/azure/app-service/web-sites-staged-publishing#swap-deployment-slots)
+* Azure App Service:
+  * [Backup](https://docs.microsoft.com/en-us/azure/app-service/web-sites-backup)
+  * [Restore](https://docs.microsoft.com/en-us/azure/app-service/web-sites-restore)
 
 ### Module 3
 
