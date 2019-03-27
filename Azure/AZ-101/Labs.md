@@ -40,7 +40,7 @@
   * [Review the status of a job with Copy Log Files](https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-tool-reviewing-job-status-v1?toc=/azure/storage/blobs/toc.json)
   * [Repair an import job](https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-tool-repairing-an-import-job-v1?toc=/azure/storage/blobs/toc.json)
   * [Repair an export job](https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-tool-repairing-an-export-job-v1?toc=/azure/storage/blobs/toc.json)
-  * [Troubleshoot the Azure Import/Export Tool](Troubleshoot the Azure Import/Export Tool)
+  * [Troubleshoot the Azure Import/Export Tool](https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-tool-troubleshooting-v1?toc=/azure/storage/blobs/toc.json)
 
 ### Lab Day 1 - Migrate Servers
 
