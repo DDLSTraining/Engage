@@ -40,3 +40,4 @@
     * [Create a namespace](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace)
     * [Create a Service Bus namespace with queue](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-queue)
     * [Create a Service Bus namespace with topic and subscription](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-topic)
+ * [Logic App Workflow (Advanced)](https://docs.microsoft.com/en-us/azure/logic-apps/tutorial-build-schedule-recurring-logic-app-workflow)
