@@ -25,3 +25,9 @@
     * [Set global caching rules](https://docs.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial#set-global-caching-rules)
     * [Set custom caching rules](https://docs.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial#set-custom-caching-rules)
 * [Lab - Implement and Manage Azure Web Apps](https://github.com/MicrosoftLearning/AZ-101-MicrosoftAzureIntegrationandSecurity/blob/master/Instructions/az-101-02__instructions.md)
+
+#### Module 4
+
+* [Function for Blob Storage](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function)
+* [Timer Function](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function#create-an-azure-function-app)
+
