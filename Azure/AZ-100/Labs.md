@@ -40,6 +40,7 @@
 * Collect and Analyze Data:
   * [Collect data about virtual machines](https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-quick-collect-azurevm)
   * [View or analyze data collected with Log Analytics search](https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-tutorial-viewdata)
+* [Log Analytics Query](https://portal.loganalytics.io/demo#/discover/home)
 
 ### Module 5
 
