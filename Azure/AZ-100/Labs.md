@@ -11,6 +11,5 @@
 
 ### Module 2
 
-* [Add Users](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-users-azure-active-directory)
 * [Deploy an ARM Template](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ps-template)
 * [Lock Resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources)
