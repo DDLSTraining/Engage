@@ -50,3 +50,8 @@
 ### Module 6
 
 _No Hands-on_
+
+### Lab
+
+* [Lab 1: Manage Azure Subscriptions and Resources](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-01__instructions.md)
+* [Lab 2: Manage Azure Subscriptions and Resources - Implementing governance and compliance with Azure initiatives and resource locks](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-01b__instructions.md)
