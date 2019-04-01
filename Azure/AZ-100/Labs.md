@@ -11,5 +11,15 @@
 
 ### Module 2
 
+### Module 3
+
+### Module 4
+
+### Module 5
+
 * [Deploy an ARM Template](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ps-template)
 * [Lock Resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources)
+
+### Module 6
+
+_No Hands-on_
