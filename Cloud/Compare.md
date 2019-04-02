@@ -14,6 +14,7 @@ Most of the comparisons will be from the vendors documentation and are not guara
 
 * 2018-12-14 - [Cockroach Labs - 2018 Cloud Report](https://www.cockroachlabs.com/blog/2018_cloud_report/) - AWS Outperforms GCP
   * 2018-12-14 - [Hacker News Related Thread](https://news.ycombinator.com/item?id=18673541)
+* 2018-06-06 - [Public Cloud Object-store Performance is Very Unequal across AWS S3, Google Cloud Storage, and Azure Blob Storage](https://dev.to/sachinkagarwal/public-cloud-object-store-performance-is-very-unequal-across-aws-s3-google-cloud-storage-and-azure-blob-storage-13do)
 * 2015-12-29 - [AWS S3 vs GCS vs Azure Storage](http://blog.zachbjornson.com/2015/12/29/cloud-storage-performance.html)
 
 ## Functions (Lambda)
