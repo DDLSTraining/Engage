@@ -124,6 +124,18 @@ _No Hands-on_
 * [Lab 1: Implement and Manage Storage](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-02__instructions.md)
 * [Lab 2: Implement Azure File Sync](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-02b__instructions.md)
 
+## Day 3
 
+### Module 1
+
+### Module 2
+
+### Module 3
+
+### Module 4
+
+### Module 5
+
+### Module 6
 
 
