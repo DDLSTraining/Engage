@@ -25,7 +25,7 @@
 * [Alerts](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitor-quick-audit-notify-action-in-subscription)
 * Activity Log:
   * [Overview](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-activity-log-alerts#overview)
-  * [Create an activity log alert](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-activity-log-alerts#create-an-alert-classic-on-an-activity-log-event-with-a-new-action-group-by-using-the-azure-portal)
+  * [Create an activity log alert](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-activity-log)
   * [View the Activity Log in the Azure portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-audit)
   * [Configure log profiles using the Azure portal](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-overview-activity-logs#configure-log-profiles-using-the-azure-portal)
   * [Enable streaming of the Activity Log](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-stream-activity-logs-event-hubs#enable-streaming-of-the-activity-log)
