@@ -65,4 +65,11 @@ _No Hands-on_
   * [Detach a data disk from a Windows virtual machine](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/detach-disk)
   * [Convert Azure managed disks storage from standard to premium, and vice versa](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/convert-disk-storage)
   * [Convert a Windows virtual machine from unmanaged disks to managed disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/convert-unmanaged-to-managed-disks)
+* Blob Storage:
+  * [Upload, download, and list blobs using the Azure portal](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal#upload-a-block-blob)
+  * [Upload, download, and list blobs using Azure PowerShell](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-powershell)
+* Create a File Share:
+  * [Portal](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share#create-a-file-share-through-the-azure-portal)
+  * [PowerShell](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share#create-file-share-through-powershell)
+
 
