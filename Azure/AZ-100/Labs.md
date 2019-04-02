@@ -55,3 +55,14 @@ _No Hands-on_
 
 * [Lab 1: Manage Azure Subscriptions and Resources](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-01__instructions.md)
 * [Lab 2: Manage Azure Subscriptions and Resources - Implementing governance and compliance with Azure initiatives and resource locks](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-01b__instructions.md)
+
+## Day 2
+
+### Module 2
+
+* Virtual Machine Storage:
+  * [Attach a data disk to a Windows VM using PowerShell](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/attach-disk-ps)
+  * [Detach a data disk from a Windows virtual machine](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/detach-disk)
+  * [Convert Azure managed disks storage from standard to premium, and vice versa](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/convert-disk-storage)
+  * [Convert a Windows virtual machine from unmanaged disks to managed disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/convert-unmanaged-to-managed-disks)
+
