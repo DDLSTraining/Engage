@@ -130,6 +130,11 @@ _No Hands-on_
 
 ### Module 2
 
+* [Create a Windows Virtual Machine](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal)
+* [Connect to a Windows VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/connect-logon)
+* [Create a Virtual Machine (PS)](https://docs.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-windows-powershell-sample-create-vm#sample-script)
+* [Creating Virtual Machines (Template)](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-create-first-template)
+
 ### Module 3
 
 ### Module 4
