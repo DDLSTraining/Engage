@@ -128,6 +128,8 @@ _No Hands-on_
 
 ### Module 1
 
+_No hands-on_
+
 ### Module 2
 
 * [Create a Windows Virtual Machine](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal)
@@ -137,10 +139,34 @@ _No Hands-on_
 
 ### Module 3
 
+* [Create a Custom Image](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-custom-images)
+
 ### Module 4
+
+* IP Addresses:
+  * [Static public IP address (Azure portal)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-deploy-static-pip-arm-portal#create-a-vm-with-a-static-public-ip)
+  * [Static private IP address (Azure portal)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-static-private-ip-arm-pportal)
+  * [Static public IP Address (PS)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-deploy-static-pip-arm-ps)
+  * [Static private IP Address (PS)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-static-private-ip-arm-ps#create-a-vm-with-a-static-private-ip-address)
+* [Network Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-create-nsg-arm-pportal)
+* [VMs with Multiple NICs](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/multiple-nics?toc=/azure/virtual-network/toc.json#create-a-vm-with-multiple-nics)
 
 ### Module 5
 
+* [Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/quick-create-portal)
+* [Autoscale](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-autoscale-portal)
+* [Custom Script Extensions](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-automate-vm-deployment?toc=/en-us/azure/virtual-machines/extensions/toc.json&bc=/en-us/azure/bread/toc.json)
+
 ### Module 6
 
+* [Virtual Machine Backup and Restore](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-backup-vms)
+* [Advisor Recommendations](https://docs.microsoft.com/en-us/azure/advisor/advisor-get-started)
+* Managing Virtual Machines:
+  * [Move a Windows VM to another Azure subscription or resource group](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/move-vm)
+  * [Resize a VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/resize-vm)
+  * [Change the OS disk used by an Azure VM using PowerShell](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/os-disk-swap)
+  * [Download the template for a VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/download-template)
+  * Create a snapshot in:
+    * [Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/snapshot-copy-managed-disk)
+    * [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/snapshot-copy-managed-disk)
 
