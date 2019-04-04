@@ -189,7 +189,7 @@ _No hands-on_
 
 * [Filter Network Traffic](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic)
 * [NSG Logging](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-nsg-manage-log)
-* [NSG Troubleshooting](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-nsg-manage-log)
+* [NSG Troubleshooting](https://docs.microsoft.com/en-us/azure/virtual-network/diagnose-network-traffic-filter-problem)
 * [Service Endpoints](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources)
 
 ### Module 4
