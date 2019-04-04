@@ -177,3 +177,31 @@ _No hands-on_
 * [Virtual Networks](https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-portal)
 * [Routing](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-portal)
 
+### Module 2
+
+* [DNS Zones](https://docs.microsoft.com/en-us/azure/dns/dns-operations-dnszones-portal)
+* [DNS Records and Record Sets](https://docs.microsoft.com/en-us/azure/dns/dns-operations-recordsets-portal)
+* [DNS Name Resolution](https://docs.microsoft.com/en-us/azure/dns/dns-getstarted-portal)
+* [DNS Hosting](https://docs.microsoft.com/en-us/azure/dns/dns-delegate-domain-azure-dns)
+* [DNS (PowerShell)](https://docs.microsoft.com/en-us/azure/dns/dns-getstarted-powershell)
+
+### Module 3
+
+* [Filter Network Traffic](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic)
+* [NSG Logging](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-nsg-manage-log)
+* [NSG Troubleshooting](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-nsg-manage-log)
+* [Service Endpoints](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources)
+
+### Module 4
+
+* [VNet-to-VNet Connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
+* [VPN Gateways](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-tutorial-create-gateway-powershell)
+* [VNet Peering](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal)
+
+### Lab - Configure and Manage Virtual Networks
+
+* [Lab 1: Configure VNet peering and service chaining](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-04__instructions.md)
+* [Lab 2: Configure Azure DNS](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-04b__instructions.md)
+
+
+
