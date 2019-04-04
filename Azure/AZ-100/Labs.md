@@ -170,3 +170,8 @@ _No hands-on_
     * [Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/snapshot-copy-managed-disk)
     * [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/snapshot-copy-managed-disk)
 
+## Day 4
+
+### Module 1
+
+* [Virtual Networks](https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-portal)
