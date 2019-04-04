@@ -175,3 +175,5 @@ _No hands-on_
 ### Module 1
 
 * [Virtual Networks](https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-portal)
+* [Routing](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-portal)
+
