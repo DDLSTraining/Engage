@@ -203,5 +203,22 @@ _No hands-on_
 * [Lab 1: Configure VNet peering and service chaining](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-04__instructions.md)
 * [Lab 2: Configure Azure DNS](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-04b__instructions.md)
 
+## Day 5
 
+### Module 1
 
+* Self-Service Password Reset:
+  * Review the video on the [Azure AD self-service password reset rapid deployment](https://docs.microsoft.com/en-us/azure/active-directory/authentication/quickstart-sspr) page
+  * Walk through the configuration steps
+  * Review the [Password management frequently asked questions](https://docs.microsoft.com/en-us/azure/active-directory/authentication/active-directory-passwords-faq)
+* [SaaS Integration with Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list)
+* [Conditional Access](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/app-based-mfa)
+
+### Module 2
+
+### Module 3
+
+### Lab - Implement and Manage Hybrid Identities
+
+* [Lab 1: Implement Directory Synchronization](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-05__instructions.md)
+* [Lab 2: Manage Azure AD Premium tenants](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-05b__instructions.md)
