@@ -229,6 +229,19 @@ _No hands-on_
 
 ### Module 3
 
+* [Azure AD Pass-through](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start)
+* Azure AD Application Proxy:
+  * Prerequisites:
+    * Basic or premium subscription and global administrator privileges
+    * A server running Windows Server 2012 R2 or 2016
+  * First: 
+    * [Prepare your environment](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/application-proxy-enable#open-your-ports)
+    * [Install and register a connector](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/application-proxy-enable#install-and-register-a-connector)
+  * Second:
+    * [Publish an on-premises app for remote access](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/application-proxy-publish-azure-portal#publish-an-on-premises-app-for-remote-access)
+    * [Add a test account](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/application-proxy-publish-azure-portal#add-a-test-user) and sign in to the published app
+
+
 ### Lab - Implement and Manage Hybrid Identities
 
 * [Lab 1: Implement Directory Synchronization](https://github.com/MicrosoftLearning/AZ-100-MicrosoftAzureInfrastructureDeployment/blob/master/Instructions/az-100-05__instructions.md)
