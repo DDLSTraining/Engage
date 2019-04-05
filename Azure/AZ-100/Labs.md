@@ -217,6 +217,15 @@ _No hands-on_
 ### Module 2
 
 * [Custom Domain Names](https://docs.microsoft.com/en-us/azure/active-directory/add-custom-domain)
+* Users and Groups:
+  * [Add new users](https://docs.microsoft.com/en-us/azure/active-directory/add-users-azure-active-directory)
+  * [Manage group membership](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-groups-members-azure-portal)
+  * [Create a group and add members](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-groups-create-azure-portal)
+  * [Manage profile information](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-users-profile-azure-portal)
+* RBAC:
+  * [Portal](https://docs.microsoft.com/en-us/azure/role-based-access-control/quickstart-assign-role-user-portal)
+  * [PowerShell](https://docs.microsoft.com/en-us/azure/role-based-access-control/tutorial-role-assignments-user-powershell)
+* [Managing Devices (Portal)](https://docs.microsoft.com/en-us/azure/active-directory/device-management-azure-portal)
 
 ### Module 3
 
