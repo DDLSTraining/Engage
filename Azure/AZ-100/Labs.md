@@ -216,6 +216,8 @@ _No hands-on_
 
 ### Module 2
 
+* [Custom Domain Names](https://docs.microsoft.com/en-us/azure/active-directory/add-custom-domain)
+
 ### Module 3
 
 ### Lab - Implement and Manage Hybrid Identities
