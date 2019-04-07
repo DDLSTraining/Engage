@@ -487,7 +487,7 @@ imported.
 3.  In the formula bar, highlight **Table =**, type the following code,
     > and then press Enter:
 
-> Years = DISTINCT(Date\[CalendarYear\])
+> Years = DISTINCT('Date'\[CalendarYear\])
 
 1.  Click on the Relationships icon.
 
