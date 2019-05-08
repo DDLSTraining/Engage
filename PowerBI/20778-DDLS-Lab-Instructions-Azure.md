@@ -153,47 +153,47 @@ even the format of some the data will make it hard to analyze.
 3.  In the Query Settings pane (on the right), change the Name to
     InternetSales.
 
-4.  In the middle pane, select the columns PromotionKey, RevisionNumber,
-    UnitPriceDiscountPct, DiscountAmount, CarrierTrackingNumber,
-    CustomerPONumber, and then in the ribbon click Remove Columns.
+4.  In the middle pane, select the columns **PromotionKey, RevisionNumber,**
+    **UnitPriceDiscountPct, DiscountAmount, CarrierTrackingNumber,**
+    **CustomerPONumber**, and then in the ribbon click Remove Columns.
 
-5.  In the Queries pane select DimCustomer and rename this to Customer.
+5.  In the Queries pane select **DimCustomer** and rename this to Customer.
 
-6.  Remove the columns Title, NameStyle, Suffix, SpanishEducation,
-    FrenchEducation, SpanishOccupation, and FrenchOccupation.
+6.  Remove the columns **Title, NameStyle, Suffix, SpanishEducation,**
+    **FrenchEducation, SpanishOccupation, and FrenchOccupation.**
 
-7.  Right click the EnglishEducation column and select Rename…
+7.  Right click the **EnglishEducation** column and select Rename…
 
 8.  Remove the word “English” from the name.
 
-9.  Rename the EnglishOccupation column to Occupation.
+9.  Rename the **EnglishOccupation** column to Occupation.
 
-10. Select the Gender column, and in the ribbon click Replace Values.
+10. Select the **Gender** column, and in the ribbon click Replace Values.
 
 11. In the “Value To” Find box type M.
 
 12. In the Replace With box type Male, then click OK.
 
-13. Right-click the Gender column and choose Replace Values…
+13. Right-click the **Gender** column and choose Replace Values…
 
 14. Replace the value F with Female.
 
-15. Replace the values in the MaritalStatus column so the S becomes
+15. Replace the values in the **MaritalStatus** column so the S becomes
     Single and M becomes Married.
 
-16. In the Queries pane select DimDate.
+16. In the Queries pane select **DimDate**.
 
 17. Rename it to Date.
 
 18. Remove the Spanish and French columns.
 
-19. Right-click the column EnglishDayNameOfWeek and select Rename…
+19. Right-click the column **EnglishDayNameOfWeek** and select Rename…
 
 20. Remove the word English.
 
-21. Rename the column EnglishMonthName to just MonthName.
+21. Rename the column **EnglishMonthName** to just MonthName.
 
-22. Right-click the column DayNumberOfWeek and select Remove.
+22. Right-click the column **DayNumberOfWeek** and select Remove.
 
 23. In the Applied Steps pane, click the X next to the last step
     (Removed Columns1) to undo it.
@@ -201,13 +201,13 @@ even the format of some the data will make it hard to analyze.
 24. Rename the queries that begin with “Dim” by removing the prefix
     “Dim”.
 
-25. From the queries now named Geography, Product, ProductSubcategory,
-    and ProductCategory also remove the Spanish and French columns, and
+25. From the queries now named **Geography, Product, ProductSubcategory**,
+    and **ProductCategory** also remove the Spanish and French columns, and
     remove the word English from any remaining column.
 
-26. In the Queries pane select Product.
+26. In the Queries pane select **Product**.
 
-27. Remove the Description columns.
+27. Remove the **Description** columns.
 
 28. On the **File** menu, click **Save**. When prompted, click Apply.
 
@@ -216,7 +216,7 @@ even the format of some the data will make it hard to analyze.
 
 **Task 2: Editing Data Queries from Excel**
 
-1.  In the Queries pane select Page1.
+1.  In the Queries pane select **Page1**.
 
 2.  In the Applied Steps pane, delete the rows “Promoted Headers” and
     “Changed Type”.
@@ -228,19 +228,19 @@ even the format of some the data will make it hard to analyze.
 5.  On the column header 2010, click the down arrow and select Remove
     Empty.
 
-6.  Rename Column1 to Competitor.
+6.  Rename **Column1** to Competitor.
 
-7.  Rename Column2 to Category.
+7.  Rename **Column2** to Category.
 
-8.  Select the columns 2007, 2008, 2009, and 2010, and then in the
+8.  Select the columns **2007, 2008, 2009, and 2010**, and then in the
     ribbon click Unpivot Columns.
 
-9.  Rename the Attribute column to Year, and the Value column to
+9.  Rename the **Attribute** column to Year, and the **Value** column to
     SalesAmount.
 
-10. Right-click the Competitor column and select Fill and then Down.
+10. Right-click the **Competitor** column and select Fill and then Down.
 
-11. In the Queries pane select Page2 and repeat steps 2 to 9 for this
+11. In the Queries pane select **Page2** and repeat steps 2 to 9 for this
     query, or copy the code and paste the code in the Advanced Editor
     window.
 
@@ -250,16 +250,16 @@ even the format of some the data will make it hard to analyze.
 13. In the Append windows, set the Primary table to be Page1, and the
     Table to append… to be Page2.
 
-14. In the Queries pane, rename the query Append1 to CompetitorSales.
+14. In the Queries pane, rename the query **Append1** to CompetitorSales.
 
-15. In the Queries pane select Page1.
+15. In the Queries pane select **Page1**.
 
 16. In the ribbon click Properties.
 
 17. In the Query Properties window, deselect “Enable load to report” and
     click OK.
 
-18. Repeat steps 15 and 16 for the query Page2.
+18. Repeat steps 15 and 16 for the query **Page2**.
 
 19. On the File menu, click Save. When prompted, click Apply.
 
@@ -267,9 +267,9 @@ even the format of some the data will make it hard to analyze.
 
 **Task 3: Editing Data Queries from the Web**
 
-1.  In the Queries pane select Table 0.
+1.  In the Queries pane select **Table 0**.
 
-2.  On the Country column click the down arrow.
+2.  On the **Country** column click the down arrow.
 
 3.  Only select the countries Australia, Canada, France, Germany, UK,
     and USA.
@@ -277,7 +277,7 @@ even the format of some the data will make it hard to analyze.
 4.  Replace the values UK and USA with United Kingdom and United States
     respectively.
 
-5.  Remove the Year column.
+5.  Remove the **Year** column.
 
 6.  Rename the query to BikeNumbersByCountry.
 
@@ -308,11 +308,11 @@ imported.
 1.  In Power BI Desktop click on the Data icon on the left hand side.
 
 2.  In the Fields pane on the right hand side, expand the
-    BikeNumbersByCountry table.
+    **BikeNumbersByCountry** table.
 
-3.  Click on the Quantity column.
+3.  Click on the **Quantity** column.
 
-4.  In the ribbon click on the Modeling tab.
+4.  In the ribbon click on the **Modeling** tab.
 
 5.  Note the Quantity column has a Data Type of Decimal Number. Change
     it to Whole Number.
@@ -322,7 +322,7 @@ imported.
 7.  Make sure the Default Summarization is Sum. In the Fields pane note
     that a Sigma symbol appears next to the Quantity field.
 
-8.  Click on the Country column.
+8.  Click on the **Country** column.
 
 9.  In the ribbon, change the Data Category from Uncategorized to
     Country/Region. In the Fields pane note that a Globe symbol appears
@@ -331,7 +331,7 @@ imported.
 10. In the Fields pane expand Geography.
 
 11. Change the Data Category appropriately for the following fields:
-    City, CountryRegionName, PostalCode, StateProvinceName.
+    **City, CountryRegionName, PostalCode, StateProvinceName**.
 
 12. On the **File** menu, click **Save**.
 
@@ -339,30 +339,30 @@ imported.
 
 **Task 2: Adding Hierarchies**
 
-1.  In the Fields pane, in the Geography table, select the
-    CountryRegionName column.
+1.  In the Fields pane, in the **Geography** table, select the
+    **CountryRegionName** column.
 
 2.  Either right-click this column, or click the … , and then select New
     hierarchy.
 
-3.  Drag the StateProvinceName column and drop it on “CountryRegionName
+3.  Drag the **StateProvinceName** column and drop it on “CountryRegionName
     Hierarchy”.
 
-4.  Drag the City column and drop it on CountryRegionName Hierarchy.
+4.  Drag the **City** column and drop it on CountryRegionName Hierarchy.
 
 5.  Right click “CountryRegionName Hierarchy” and select Rename. Change
-    its name to Location.
+    its name to **Location**.
 
 6.  Repeat the above steps to create two hierarchies in the Date table,
-    one for CalendarYear, CalendarQuarter and MonthName, and one for
-    FiscalYear, FiscalQuarter and MonthName. Name them CalendarDates and
-    FiscalDates.
+    one for **CalendarYear, CalendarQuarter** and **MonthName**, and one for
+    **FiscalYear, FiscalQuarter** and **MonthName**. Name them **CalendarDates** and
+    **FiscalDates**.
 
 **Task 3: Adding Calculated Columns**
 
-1.  In the Fields pane expand Customer.
+1.  In the Fields pane expand **Customer**.
 
-2.  In the ribbon, on the Modeling tab, click New Column.
+2.  In the ribbon, on the Modeling tab, click **New Column**.
 
 3.  In the formula bar, highlight **Column =**, type the following code,
     and then press Enter:
@@ -379,7 +379,7 @@ imported.
 > IF (Customer\[YearlyIncome\] &gt;= 100000, "Very High Income",
 > "Other"))))
 
-1.  In the ribbon, on the Modeling tab, click New Column.
+1.  In the ribbon, on the Modeling tab, click **New Column**.
 
 2.  In the formula bar, highlight Column =, type the following code, and
     then press Enter:
@@ -395,7 +395,7 @@ imported.
 
 1.  In the Fields pane expand InternetSales.
 
-2.  Click New Column.
+2.  Click **New Column**.
 
 3.  In the formula bar, highlight **Column =**, type the following code,
     and then press Enter:
@@ -409,39 +409,39 @@ imported.
 
 **Task 4: Adding Measures.**
 
-1.  In the fields expand InternetSales.
+1.  In the fields expand **InternetSales**.
 
-2.  In the ribbon on the Modeling tab, click New Measure.
+2.  In the ribbon on the Modeling tab, click **New Measure**.
 
 3.  In the formula bar, highlight **Measure =**, type the following
     code, and then press Enter:
 
 > InternetRevenue = SUM(\[SalesAmount\])
 
-1.  In the Fields pane select InternetRevenue. In the Modeling tab
+1.  In the Fields pane select **InternetRevenue**. In the Modeling tab
     change the Format to Currency $ English.
 
-2.  In the ribbon on the Modeling tab, click New Measure.
+2.  In the ribbon on the Modeling tab, click **New Measure**.
 
 3.  In the formula bar, highlight **Measure =**, type the following
     code, and then press Enter:
 
 > InternetProfit = SUM(\[SalesProfit\])
 
-1.  In the Fields pane select InternetProfit. In the Modeling tab change
+1.  In the Fields pane select **InternetProfit**. In the Modeling tab change
     the Format to Currency $ English.
 
-2.  In the ribbon on the Modeling tab, click New Measure.
+2.  In the ribbon on the Modeling tab, click **New Measure**.
 
 3.  In the formula bar, highlight **Measure =**, type the following
     code, and then press Enter:
 
 > InternetMargin = \[InternetProfit\] / \[InternetRevenue\]
 
-1.  In the Fields pane select InternetMargin. In the Modeling tab change
+1.  In the Fields pane select **InternetMargin**. In the Modeling tab change
     the Format to Percentage.
 
-2.  In the ribbon on the Modeling tab, click New Measure.
+2.  In the ribbon on the Modeling tab, click **New Measure**.
 
 3.  In the formula bar, highlight **Measure =**, type the following
     code, and then press Enter:
@@ -449,7 +449,7 @@ imported.
 > InternetTargetMargin = (SUM('Product'\[ListPrice\]) -
 > SUM('Product'\[StandardCost\])) / SUM('Product'\[ListPrice\])
 
-1.  In the Fields pane select InternetTargetMargin. In the Modeling tab
+1.  In the Fields pane select **InternetTargetMargin**. In the Modeling tab
     change the Format to Percentage.
 
 2.  On the file menu click Save.
@@ -458,20 +458,20 @@ imported.
 
 **Task 5: Creating and Modifying Relationships.**
 
-1.  In Power BI Desktop click on the Relationships icon on the left hand
+1.  In Power BI Desktop click on the **Model** icon on the left hand
     side.
 
-2.  Create a relationship to the BikeNumbersByCountry table by dragging
-    the Country column and dropping it on the CountryRegionName column
-    in the Geography table. (You might have to scroll across to the
+2.  Create a relationship to the **BikeNumbersByCountry** table by dragging
+    the **Country** column and dropping it on the **CountryRegionName** column
+    in the **Geography** table. (You might have to scroll across to the
     right to see the table).
 
-3.  Create a relationship to the CompetitorSales table by dragging the
-    Category column and dropping it on the ProductCategoryName column in
-    the ProductCategory table.
+3.  Create a relationship to the **CompetitorSales** table by dragging the
+    **Category** column and dropping it on the **ProductCategoryName** column in
+    the **ProductCategory** table.
 
-4.  Then drag the Year column and drop it on the CalendarYear column of
-    the Date table. Note the error that appears because neither column
+4.  Then drag the **Year** column and drop it on the **CalendarYear** column of
+    the Date table. Note the warning that appears about the **Many-to-Many** relationship because neither column
     has unique values.
 
 5.  On the file menu click Save.
@@ -482,20 +482,20 @@ imported.
 
 1.  Click on the Data icon on the left hand side.
 
-2.  In the ribbon, on the Modeling tab, click New Table.
+2.  In the ribbon, on the Modeling tab, click **New Table**.
 
 3.  In the formula bar, highlight **Table =**, type the following code,
     > and then press Enter:
 
 > Years = DISTINCT('Date'\[CalendarYear\])
 
-1.  Click on the Relationships icon.
+1.  Click on the **Model** icon.
 
-2.  Drag the Years column from the CompetitorSales table to the
-    > CalendarYear column of the Years table.
+2.  Drag the **Years** column from the **CompetitorSales** table to the
+    **CalendarYear** column of the **Years** table.
 
-3.  Drag the CalendarYear column from the Date table to the CalendarYear
-    > column of the Years table.
+3.  Drag the **CalendarYear** column from the **Date** table to the **CalendarYear**
+    column of the **Years** table.
 
 4.  On the file menu click Save.
 
@@ -516,26 +516,26 @@ visualizations will also be added to provide additional functionality.
 
 **Task 1: Using the Column visualization in Power BI**
 
-1.  In Power BI click on the Report icon on the left hand side.
+1.  In Power BI click on the **Report** icon on the left hand side.
 
-2.  In the Fields pane on the right hand side, expand InternetSales.
+2.  In the Fields pane on the right hand side, expand **InternetSales**.
 
-3.  Select SalesAmount. This will add a new column chart visualization
+3.  Select **SalesAmount**. This will add a new column chart visualization
     to the report page.
 
-4.  In the Fields pane expand Date, and select the FiscalDates
+4.  In the Fields pane expand **Date**, and select the **FiscalDates**
     hierarchy. This will add more columns to the chart.
 
 5.  Resize the chart so that all the Year names are visible.
 
-6.  With the chart still selected, in the Visualizations pane select
+6.  With the chart still selected, in the **Visualizations** pane select
     Clustered bar chart.
 
 7.  Change it back to Clustered column chart.
 
 8.  Resize the chart so that it fills the top left corner of the report.
 
-9.  In the Visualizations pane, click the Format icon (looks like a
+9.  In the Visualizations pane, click the **Format** icon (looks like a
     paint roller).
 
 10. Expand Title and change the Title Text to Internet Sales by Date.
@@ -578,13 +578,13 @@ visualizations will also be added to provide additional functionality.
 
 1.  In the report page click a blank area.
 
-2.  In the Fields pane select the Location Hierarchy from the Geography
-    table, and SalesAmount from the InternetSales table.
+2.  In the Fields pane select the **Location** hierarchy from the **Geography**
+    table, and **SalesAmount** from the **InternetSales** table.
 
 3.  Resize the Map chart so the fills the top right corner of the
     report.
 
-4.  Drag the FiscalYear column from the Date table to the Legend field
+4.  Drag the **FiscalYear** column from the **Date** table to the Legend field
     in the Visualization pane.
 
 5.  In one of the column charts, click on a year column. Click on the
@@ -592,12 +592,12 @@ visualizations will also be added to provide additional functionality.
 
 6.  Click on the Map visualization.
 
-7.  Remove FiscalYear from the Legend field.
+7.  Remove **FiscalYear** from the Legend field.
 
 8.  Hover the cursor over one of the bubbles and view the pop-up.
 
-9.  Drag the OrderQuantity column from the InternetSales table to the
-    Tooltips field in the Visualizations pane.
+9.  Drag the **OrderQuantity** column from the **InternetSales** table to the
+    **Tooltips** field in the Visualizations pane.
 
 10. Hover the cursor over one of the bubbles and view the pop-up again.
 
@@ -615,22 +615,22 @@ visualizations will also be added to provide additional functionality.
 
 1.  In the report page click a blank area.
 
-2.  In the Fields pane select ProductCategoryName from the
-    ProductCategory table, and InternetProfit from the InternetSales
+2.  In the Fields pane select **ProductCategoryName** from the
+    **ProductCategory** table, and **InternetProfit** from the **InternetSales**
     table.
 
-3.  In the Visualizations pane select Treemap.
+3.  In the Visualizations pane select **Treemap**.
 
 4.  Resize the Treemap chart to fill the bottom left corner of the
     report.
 
-5.  Drag the FiscalYear column from the Date table to the Group field in
+5.  Drag the **FiscalYear** column from the **Date** table to the Group field in
     the Visualization pane.
 
 6.  In the treemap chart experiment with the Drill Down settings used in
     Task 2.
 
-7.  In the Visualizations pane drag ProductCategoryName from the Group
+7.  In the Visualizations pane drag **ProductCategoryName** from the Group
     field to the Details field.
 
 8.  On the file menu click Save.
@@ -641,23 +641,23 @@ visualizations will also be added to provide additional functionality.
 
 1.  In the report page click a blank area.
 
-2.  In the Fields pane select SalesAmount from the InternetSales table.
+2.  In the Fields pane select **SalesAmount** from the **InternetSales** table.
 
-3.  In the Visualizations pane select Scatter chart.
+3.  In the Visualizations pane select **Scatter** chart.
 
 4.  Resize the Scatter chart to fill the bottom right corner of the
     report.
 
-5.  Drag the OrderQuantity column from the InternetSales table to the Y
+5.  Drag the **OrderQuantity** column from the **InternetSales** table to the Y
     Axis field in the Visualizations pane.
 
-6.  Drag the Location hierarchy from the Geography table to the Details
+6.  Drag the **Location** hierarchy from the **Geography** table to the Details
     field.
 
 7.  If you get an error, in the Vizualization pane, click the down arrow
-    next to OrderQuantity and select “Sum”.
+    next to **OrderQuantity** and select “Sum”.
 
-8.  Drag the FiscalYear column from the Date table to the Legend field.
+8.  Drag the **FiscalYear** column from the **Date** table to the Legend field.
 
 9.  Hover the cursor over one the circles in the scatter chart.
 
@@ -666,16 +666,16 @@ visualizations will also be added to provide additional functionality.
 
 11. Click on the scatter chart.
 
-12. Drag the InternetMargin column from the InternetSales table to the
+12. Drag the **InternetMargin** column from the **InternetSales** table to the
     Size field.
 
 13. Hover the cursor over one the circles in the scatter chart.
 
 14. In the scatter chart experiment with the Drill Down settings.
 
-15. Drag FiscalYear from the Legend field to the Play Axis field.
+15. Drag **FiscalYear** from the Legend field to the Play Axis field.
 
-16. In the scatter chart, click on the Play button.
+16. In the scatter chart, click on the **Play** button.
 
 17. Click on the Play button again and this time pause when the pointer
     gets to 2008.
@@ -684,7 +684,7 @@ visualizations will also be added to provide additional functionality.
 
 19. Click the Play button to let the animation complete.
 
-20. Drag FiscalYear back to the legend field from the Play Axis field.
+20. Drag **FiscalYear** back to the Legend field from the Play Axis field.
 
 21. On the file menu click Save.
 
@@ -695,12 +695,12 @@ visualizations will also be added to provide additional functionality.
 1.  On the Report page, resize the Treemap and Scatter charts to make
     some room to the right.
 
-2.  In the Fields pane select InternetMargin from the InternetSales
+2.  In the Fields pane select **InternetMargin** from the **InternetSales**
     table.
 
-3.  In the Visualizations pane, select Gauge.
+3.  In the Visualizations pane, select **Gauge**.
 
-4.  In the Fields pane, drag InternetTargetMargin to the Target value
+4.  In the Fields pane, drag **InternetTargetMargin** to the Target value
     field.
 
 5.  In the Visualization pane click on the Format icon (paint roller).
@@ -720,15 +720,15 @@ visualizations will also be added to provide additional functionality.
 
 2.  Click on a blank area of the report.
 
-3.  In the Fields pane select InternetMargin from the InternetSales
+3.  In the Fields pane select **InternetMargin** from the **InternetSales**
     table.
 
 4.  In the Visualizations pane, select KPI.
 
-5.  In the Fields pane, drag InternetTargetMargin to the Target goals
+5.  In the Fields pane, drag **InternetTargetMargin** to the Target goals
     field.
 
-6.  In the Fields pane, drag FiscalYear from the Date table to the Trend
+6.  In the Fields pane, drag **FiscalYear** from the **Date** table to the Trend
     axis field.
 
 7.  In the Visualization pane click on the Format icon (paint roller).
@@ -743,7 +743,7 @@ visualizations will also be added to provide additional functionality.
 
 **Task 8: Creating a New Report Page in Power BI.**
 
-1.  At the bottom of the Internet Sales page, click on the + symbol to
+1.  At the bottom of the Internet Sales page, click on the **+** symbol to
     create a new page.
 
 2.  Rename the page as This Year’s Sales.
@@ -753,7 +753,7 @@ visualizations will also be added to provide additional functionality.
 
 4.  Paste them on to the new page.
 
-5.  Drag FiscalYear from the Date table to the “Page level filters”
+5.  Drag **FiscalYear** from the **Date** table to the “Page level filters”
     area.
 
 6.  Only select the year 2009.
@@ -772,7 +772,7 @@ visualizations will also be added to provide additional functionality.
 2.  On the left hand side of the page, under Add-Ins, click on Power BI
     Visuals.
 
-3.  Scroll down to find and click on the Histogram Chart.
+3.  Scroll down to find and click on the **Histogram** Chart.
 
 4.  On the Histogram Chart page click on the “Get It Now” button (you
     may have to sign in).
@@ -796,12 +796,12 @@ visualizations will also be added to provide additional functionality.
 
 6.  Click Open, and then click OK when prompted.
 
-7.  Click on the Histogram chart to add it to the report page.
+7.  Click on the **Histogram** chart to add it to the report page.
 
-8.  From the Fields pane, drag YearlyIncome from the Customer table to
+8.  From the Fields pane, drag **YearlyIncome** from the **Customer** table to
     the Values field.
 
-9.  Then drag CustomerKey from the Customer table to the Frequency
+9.  Then drag **CustomerKey** from the **Customer** table to the Frequency
     field.
 
 10. In the Visualization pane, click on Format.
@@ -821,21 +821,21 @@ visualizations will also be added to provide additional functionality.
 
 17. Add another Histogram chart that shows Average of SalesAmount by
     YearlyIncome (copy and paste the Histogram chart and change the
-    Frequency field to SalesAmount from the InternetSales table).
+    Frequency field to **SalesAmount** from the **InternetSales** table).
 
 18. Add another page to the report.
 
 19. Rename the page to Sales by Time.
 
-20. Create a stacked column chart that shows SalesAmount by
-    CountryRegionName.
+20. Create a stacked column chart that shows **SalesAmount** by
+    **CountryRegionName**.
 
 21. Resize the column chart so that it takes up the lower half of the
     page.
 
 22. Click a blank area of the page and add a Slicer visualization.
 
-23. Drag FullDateAlternateKey from the Date table to the Field area.
+23. Drag **FullDateAlternateKey** from the **Date** table to the Field area.
 
 24. Resize the Slicer so that it occupies the upper half of the report.
 
@@ -857,9 +857,9 @@ visualizations will also be added to provide additional functionality.
 
 32. Add the Aquarium visual to the report.
 
-33. Drag SalesAmount from the InternetSales table to the visual.
+33. Drag **SalesAmount** from the **InternetSales** table to the visual.
 
-34. Drag CountryRegionName from the Geography table to the Fish field.
+34. Drag **CountryRegionName** from the **Geography** table to the Fish field.
 
 35. Resize the visual so it takes up most of the page.
 
