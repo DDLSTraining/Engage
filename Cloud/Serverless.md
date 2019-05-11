@@ -11,3 +11,4 @@ This is a fascinating space right now (early 2019). Read '[The Leading Open Sour
 * [Knative](https://cloud.google.com/knative/)
 * [Kubless](https://kubeless.io/)
 * [OpenFaaS](https://www.openfaas.com/)
+* [Laconia](https://laconiajs.io/)
