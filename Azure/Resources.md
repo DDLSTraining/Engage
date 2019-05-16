@@ -21,6 +21,7 @@ Links to official and un-official documentation and news.
 * [Name resolution for resources in Azure virtual networks](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
 * [App Service Plans](https://azure.microsoft.com/en-gb/pricing/details/app-service/plans/)
 * [Azure Storage Replication](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy)
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 ## Azure Services ⚙️
 
