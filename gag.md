@@ -7,8 +7,8 @@
 
 ## Videos
 
-[Get Staffed](https://www.youtube.com/watch?v=O2wo2U0b0kA)
-[Apple Engineer Talks About New 2016 Macbook Pro](https://www.youtube.com/watch?v=-XSC_UG5_kU)
+* [Get Staffed](https://www.youtube.com/watch?v=O2wo2U0b0kA)
+* [Apple Engineer Talks About New 2016 Macbook Pro](https://www.youtube.com/watch?v=-XSC_UG5_kU)
 
 ## One Liners
 
