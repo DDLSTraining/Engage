@@ -9,6 +9,7 @@ Infrastructure as code (IaC) is the process of managing and provisioning compute
 * [Chef (Ruby)](https://www.chef.io/) - Configuration management for physical, virtual, and cloud based machines.
 * [Packer](https://www.packer.io/) - An open source tool for creating identical machine images for multiple platforms.
 * [Octopus](https://octopus.com/) - Easy to orchestrate releases and deploy applications.
+* [Bamboo](https://www.atlassian.com/software/bamboo) - Continuous integration, deployment, and delivery.
 
 ## Resources
 
