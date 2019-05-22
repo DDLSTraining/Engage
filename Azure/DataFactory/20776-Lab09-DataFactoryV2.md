@@ -1,4 +1,4 @@
-# Module 9: Automating Data Flow with Azure Data Factory
+# Module 9: Automating Data Flow with Azure Data FactoryV2
 - [Module 9: Automating Data Flow with Azure Data Factory](#module-9-automating-data-flow-with-azure-data-factory)
     - [Lab: Automating the Data Flow with Azure Data Factory](#lab-automating-the-data-flow-with-azure-data-factory)
     - [Exercise 1: Use Data Factory to back up data from an Azure Data Lake Store to a second ADLS store](#exercise-1-use-data-factory-to-back-up-data-from-an-azure-data-lake-store-to-a-second-adls-store)
@@ -29,7 +29,7 @@
         - [Task 2: Use filters and views to find specific status information](#task-2-use-filters-and-views-to-find-specific-status-information)
         - [Task 3: Lab clean up](#task-3-lab-clean-up)
   
-## Lab: Automating the Data Flow with Azure Data Factory
+## Lab: Automating the Data Flow with Azure Data FactoryV2
 
 ## Exercise 1: Use Data Factory to back up data from an Azure Data Lake Store to a second ADLS store
 
@@ -52,7 +52,7 @@
 1. In the Azure portal, click **+ Create a resource**, click **Analytics**, and then click **Data Factory**.
 2. On the **New data factory** blade, in the **Name** box, type **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;**.
 3. Under **Resource group**, click **Use existing**, and then click **CamerasRG**.
-4. In the **Version** list, click **V1**.
+4. In the **Version** list, click **V2**.
 5. In the **Location** list, from the list of currently available Data Factory regions, select the same location as you used for your Data Lake Stores, or if this is not available, select your nearest location.
 6. Click **Create**.
 7. Wait until the Data Factory has deployed before continuing with the exercise.
@@ -121,7 +121,7 @@
 ### Task 6: Use Copy Wizard to back up data from ADLS1 to ADLS2
 
 1. In the Azure portal, click **All resources**, and then click **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;**.
-2. On the **Data Factory** blade, in the **Actions** section, click **Copy data (PREVIEW)**. This action opens a new tab in Internet Explorer.
+2. On the **Data Factory** blade, click **Author & Monitor**. This action opens a new tab in the browser.
 3. On the **Copy Data** page, in the **Properties** section, in the **Task name** box, type **Traffic DF Copy Pipeline**.
 4. In the **Start date time (UTC)** box, click the date, and set it to be five days before today, and then click **Done**.
 5. In the **End date time (UTC)** box, click the date, and then click **Now** to set the date to be today, and then click **Done**.
