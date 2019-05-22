@@ -61,10 +61,10 @@
 
 1. In the Azure portal, click **Azure Active Directory**.
 2. On the **Azure Active Directory** blade, under **Manage**, click **App registrations**, and then click **New application registration**.
-3. On the **Create** blade, enter the following details, and then click **Create**:
+3. On the **Create** blade, enter the following details, and then click **Register**:
     - **Name**: ADLStoDataFactory
-    - **Application type**: Web app/ API
-    - **Sign-on URL**: https://ADLStoDataFactory/Dummy
+    - **Supported account types**: Accounts in this organizational diractory only (Default Directory)
+    - **Redirect URI**: Web and https://ADLStoDataFactory/Dummy
 
     Note that the actual URL entered on this blade is immaterial as you do not actually build or deploy an app at this location. It is simply acting as an identifier.
 
@@ -74,16 +74,16 @@
 7. On the **Edit** menu, click **Paste**, to store the copied Application ID.
 8. In Notepad, on the **File** menu, click **Save**, and save the file as **Auth\_details.txt** in your **Documents** folder.
 9. Return to the Azure portal.
-10. Click **Settings** blade.
-11. On the **Settings** blade, under **API ACCESS**, click **Keys**.
-12. On the **Keys** blade, enter the following information, and then click **Save**:
+10. Click **Certificates & Secrets**.
+11. On the **Certificates & Secrets** blade, under **Client Secrets**, click **+ New Client Secret**.
+12. On the **Add a client secret** blade, enter the following information, and then click **Add**:
     - **Key description**: Key1
     - **Duration**: In 1 year
 13. Copy the **VALUE** generated for **Key1** to the clipboard.
 14. Switch to Notepad.
 15. Press Ctrl+End, press Enter twice, type **Key1**, press Enter, and then press Ctrl+V to store the API key.
 16. Return to the Azure portal.
-17. Close the **Keys**, **Settings**, and **ADLStoDataFactory** blades.
+17. Close the **ADLStoDataFactory** blade.
 18. On the **Azure Active Directory** blade, under **Manage**, click **Properties**.
 19. On the **Properties** blade, next to **Directory ID**, click the **Click to copy** button.
 20. Switch to Notepad.
@@ -139,16 +139,21 @@
 17. In the **Tenant** box, ensure that the value matches the **Directory ID** that you saved in **Auth\_details.txt**.
 18. In the **Service principal id** box, paste the **Application ID** value that you saved in **Auth\_details.txt**.
 19. In the **Service principal key** box, paste the **API key** (Key1) value that you saved in **Auth\_details.txt**, and then click **Next**.
-20. On the **Choose the input file or folder** page, click **Stolen**, and then click **Choose**.
+20. On the "Source data store" page, click on **Next**.
+20. On the **Choose the input file or folder** page, click **Browse**, click **Stolen**, and then click **Choose**.
 21. Select the **Copy files recursively**, and **Binary copy** check boxes, and then click **Next**.
-22. On the **Destination data store** page, click **Azure Data Lake Store**, and then click **Next**.
+22. On the **Destination data store** page, , click **Azure**, and then click **Create new connection**.
+12. On the "New Linked Service" page, select **Azure Data Lake Storage Gen 1**, and click **Continue**.
+13. On the "New Linked Service" page, in the **Name** box, type **Output Data Lake Store**.
+14. In the **Azure subscription** box, select your Azure Pass subscription.
 23. On the **Specify Data Lake Store connection** page, in the **Connection name** box, type **Output Data Lake Store**.
 24. In the **Azure subscription** box, select your Azure Pass subscription.
 25. In the **Data Lake store account name** box, click **adlsbackup&lt;_your name_&gt;&lt;_date_&gt;**.
-26. In the **Authentication type** box, click **Service Principal**.
-27. In the **Tenant** box, ensure that the value matches the **Directory ID** that you saved in **Auth\_details.txt**.
-28. In the **Service principal id** box, paste the **Application ID** value that you saved in **Auth\_details.txt**.
-29. In the **Service principal key** box, paste the **API key** (Key1) value that you saved in **Auth\_details.txt**, and then click **Next**.
+16. In the **Authentication type** box, click **Service Principal**.
+17. In the **Tenant** box, ensure that the value matches the **Directory ID** that you saved in **Auth\_details.txt**.
+18. In the **Service principal id** box, paste the **Application ID** value that you saved in **Auth\_details.txt**.
+19. In the **Service principal key** box, paste the **API key** (Key1) value that you saved in **Auth\_details.txt**, and then click **Next**.
+20. On the "Destination data store" page, click on **Next**.
 30. In the **Choose the output file or folder** page, click **Browse**, click **Stolen**, click **Choose**, and then click **Next**.
 31. On the **Settings** page, click **Next**.
 32. On the **Summary** page, click **Next**.
