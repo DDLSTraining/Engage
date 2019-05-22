@@ -122,36 +122,41 @@
 
 1. In the Azure portal, click **All resources**, and then click **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;**.
 2. On the **Data Factory** blade, click **Author & Monitor**. This action opens a new tab in the browser.
-3. On the **Copy Data** page, in the **Properties** section, in the **Task name** box, type **Traffic DF Copy Pipeline**.
-4. In the **Start date time (UTC)** box, click the date, and set it to be five days before today, and then click **Done**.
-5. In the **End date time (UTC)** box, click the date, and then click **Now** to set the date to be today, and then click **Done**.
-6. On the **Copy Data** page, click **Next**.
-7. On the **Source data store** page, click **Azure Data Lake Store**, and then click **Next**.
-8. On the **Specify Data Lake Store connection** page, in the **Connection name** box, type **Input Data Lake Store**.
-9. In the **Azure subscription** box, select your Azure Pass subscription.
-10. In the **Data Lake store account name** box, click **adls&lt;_your name_&gt;&lt;_date_&gt;**.
-11. In the **Authentication type** box, click **Service Principal**.
-12. In the **Tenant** box, ensure that the value matches the **Directory ID** that you saved in **Auth\_details.txt**.
-13. In the **Service principal id** box, paste the **Application ID** value that you saved in **Auth\_details.txt**.
-14. In the **Service principal key** box, paste the **API key** (Key1) value that you saved in **Auth\_details.txt**, and then click **Next**.
-15. On the **Choose the input file or folder** page, click **Stolen**, and then click **Choose**.
-16. Select the **Copy files recursively**, and **Binary copy** check boxes, and then click **Next**.
-17. On the **Destination data store** page, click **Azure Data Lake Store**, and then click **Next**.
-18. On the **Specify Data Lake Store connection** page, in the **Connection name** box, type **Output Data Lake Store**.
-19. In the **Azure subscription** box, select your Azure Pass subscription.
-20. In the **Data Lake store account name** box, click **adlsbackup&lt;_your name_&gt;&lt;_date_&gt;**.
-21. In the **Authentication type** box, click **Service Principal**.
-22. In the **Tenant** box, ensure that the value matches the **Directory ID** that you saved in **Auth\_details.txt**.
-23. In the **Service principal id** box, paste the **Application ID** value that you saved in **Auth\_details.txt**.
-24. In the **Service principal key** box, paste the **API key** (Key1) value that you saved in **Auth\_details.txt**, and then click **Next**.
-25. In the **Choose the output file or folder** page, click **Browse**, click **Stolen**, click **Choose**, and then click **Next**.
-26. On the **Settings** page, click **Next**.
-27. On the **Summary** page, click **Next**.
-28. On the **Deployment** page, note the verification steps.
-29. When the deployment has completed, click **Click here to monitor copy pipeline**. There should be a Copy animation displayed in the pipeline box becuase the pipeline is active.
-30. In the **ACTIVITY WINDOWS** pane, click the most recent activity (this might still be showing as **In progress**), to show more details in the right-hand **Activity Window Explorer** pane. If if you do not see any recent activities, click **Refresh**.
-31. Scroll down through the details, and if the job has completed, note the data read and written, row count, copy duration, and billed duration.
-32. In the **ACTIVITY WINDOWS** list, note that there is an activity for each day in the period between your specified start and end times. You will check the results of this job in a later exercise, after it has finished processing.
+3. On the **Overview** page, click on the **Copy Data** icon.
+4. On the **Copy Data** page, in the **Properties** section, in the **Task name** box, type **Traffic DF Copy Pipeline**.
+5. Under "Task Cadence or Task Schedule", click **Run regularly on schedule**.
+6. Under "Trigger Type", click **Schedule**.
+7. In the **Start date (UTC)** box, click the date, and set it to be five days before today, and then click **Apply**.
+8. Under "End", click **On Date**.
+9. In the **End On (UTC)** box, click the date, and then click **Now** to set the date to be today, and then click **Apply**.
+10. On the **Properties** page, click **Next**.
+11. On the **Source data store** page, click **Azure**, and then click **Create new connection**.
+12. On the "New Linked Service" page, select **Azure Data Lake Storage Gen 1**, and click **Continue**.
+13. On the "New Linked Service" page, in the **Name** box, type **Input Data Lake Store**.
+14. In the **Azure subscription** box, select your Azure Pass subscription.
+15. In the **Data Lake store account name** box, click **adls&lt;_your name_&gt;&lt;_date_&gt;**.
+16. In the **Authentication type** box, click **Service Principal**.
+17. In the **Tenant** box, ensure that the value matches the **Directory ID** that you saved in **Auth\_details.txt**.
+18. In the **Service principal id** box, paste the **Application ID** value that you saved in **Auth\_details.txt**.
+19. In the **Service principal key** box, paste the **API key** (Key1) value that you saved in **Auth\_details.txt**, and then click **Next**.
+20. On the **Choose the input file or folder** page, click **Stolen**, and then click **Choose**.
+21. Select the **Copy files recursively**, and **Binary copy** check boxes, and then click **Next**.
+22. On the **Destination data store** page, click **Azure Data Lake Store**, and then click **Next**.
+23. On the **Specify Data Lake Store connection** page, in the **Connection name** box, type **Output Data Lake Store**.
+24. In the **Azure subscription** box, select your Azure Pass subscription.
+25. In the **Data Lake store account name** box, click **adlsbackup&lt;_your name_&gt;&lt;_date_&gt;**.
+26. In the **Authentication type** box, click **Service Principal**.
+27. In the **Tenant** box, ensure that the value matches the **Directory ID** that you saved in **Auth\_details.txt**.
+28. In the **Service principal id** box, paste the **Application ID** value that you saved in **Auth\_details.txt**.
+29. In the **Service principal key** box, paste the **API key** (Key1) value that you saved in **Auth\_details.txt**, and then click **Next**.
+30. In the **Choose the output file or folder** page, click **Browse**, click **Stolen**, click **Choose**, and then click **Next**.
+31. On the **Settings** page, click **Next**.
+32. On the **Summary** page, click **Next**.
+33. On the **Deployment** page, note the verification steps.
+34. When the deployment has completed, click **Click here to monitor copy pipeline**. There should be a Copy animation displayed in the pipeline box becuase the pipeline is active.
+35. In the **ACTIVITY WINDOWS** pane, click the most recent activity (this might still be showing as **In progress**), to show more details in the right-hand **Activity Window Explorer** pane. If if you do not see any recent activities, click **Refresh**.
+36. Scroll down through the details, and if the job has completed, note the data read and written, row count, copy duration, and billed duration.
+37. In the **ACTIVITY WINDOWS** list, note that there is an activity for each day in the period between your specified start and end times. You will check the results of this job in a later exercise, after it has finished processing.
 
 > **Result**: In this exercise, you:
 >
