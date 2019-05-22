@@ -104,19 +104,21 @@
     > **IMPORTANT**. Wait while permissions are assigned to **ADLStoDataFactory**; notice the assignments to each file and folder is displayed in the **Assigning permissions to** box. Do not continue with the exercise until you see the notification that the permissions assignment has successfully completed (this might take several minutes), and the blue assigning graphic becomes a green check mark.
 
 9. Close the **Access** blade.
-10. Click **All resources**, click **adlsbackup&lt;_your name_&gt;&lt;_date_&gt;**, and then click **Data explorer**.
-11. In the Data explorer blade, click **Access**.
-12. On the **Access** blade, click **+ Add**.
-13. On the **Select User or Group** blade, click **ADLStoDataFactory**, and then click **Select**.
-14. On the **Select Permissions** blade, select the **Read**, **Write**, and **Execute** check boxes.
-15. Under **Add to**, click **This folder and all children**.
-16. Under **Add as**, click **An access permission entry and a default permission entry**, and then click **Ok**.
+10. In the Data explorer blade, click **New Folder**.
+11. In the **Create New Folder** box, type **Stolen**, and then click **OK**.
+12. Click **All resources**, click **adlsbackup&lt;_your name_&gt;&lt;_date_&gt;**, and then click **Data explorer**.
+13. In the Data explorer blade, click **Access**.
+14. On the **Access** blade, click **+ Add**.
+15. On the **Select User or Group** blade, click **ADLStoDataFactory**, and then click **Select**.
+16. On the **Select Permissions** blade, select the **Read**, **Write**, and **Execute** check boxes.
+17. Under **Add to**, click **This folder and all children**.
+18. Under **Add as**, click **An access permission entry and a default permission entry**, and then click **Ok**.
 
     > **Note**: Because there is no data in this Data Lake Store, the permissions assignment process is very quick.
 
-17. Close the **Access** blade.
-18. In the Data explorer blade, click **New Folder**.
-19. In the **Create New Folder** box, type **Stolen**, and then click **OK**.
+19. Close the **Access** blade.
+20. In the Data explorer blade, click **New Folder**.
+21. In the **Create New Folder** box, type **Stolen**, and then click **OK**.
 
 ### Task 6: Use Copy Wizard to back up data from ADLS1 to ADLS2
 
@@ -158,7 +160,7 @@
 31. On the **Settings** page, click **Next**.
 32. On the **Summary** page, click **Next**.
 33. On the **Deployment** page, note the verification steps.
-34. When the deployment has completed, click **Click here to monitor copy pipeline**. There should be a Copy animation displayed in the pipeline box becuase the pipeline is active.
+34. When the deployment has completed, click **Monitor**. There should be a Copy animation displayed in the pipeline box becuase the pipeline is active.
 35. In the **ACTIVITY WINDOWS** pane, click the most recent activity (this might still be showing as **In progress**), to show more details in the right-hand **Activity Window Explorer** pane. If if you do not see any recent activities, click **Refresh**.
 36. Scroll down through the details, and if the job has completed, note the data read and written, row count, copy duration, and billed duration.
 37. In the **ACTIVITY WINDOWS** list, note that there is an activity for each day in the period between your specified start and end times. You will check the results of this job in a later exercise, after it has finished processing.
