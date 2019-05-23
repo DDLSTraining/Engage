@@ -126,44 +126,49 @@
 2. On the **Data Factory** blade, click **Author & Monitor**. This action opens a new tab in the browser.
 3. On the **Overview** page, click on the **Copy Data** icon.
 4. On the **Copy Data** page, in the **Properties** section, in the **Task name** box, type **Traffic DF Copy Pipeline**.
-5. Under "Task Cadence or Task Schedule", click **Run regularly on schedule**.
-6. Under "Trigger Type", click **Schedule**.
-7. In the **Start date (UTC)** box, click the date, and set it to be five days before today, and then click **Apply**.
-8. Under "End", click **On Date**.
-9. In the **End On (UTC)** box, click the date, and then click **Now** to set the date to be today, and then click **Apply**.
-10. On the **Properties** page, click **Next**.
-11. On the **Source data store** page, click **Azure**, and then click **Create new connection**.
-12. On the "New Linked Service" page, select **Azure Data Lake Storage Gen 1**, and click **Continue**.
-13. On the "New Linked Service" page, in the **Name** box, type **Input Data Lake Store**.
-14. In the **Azure subscription** box, select your Azure Pass subscription.
-15. In the **Data Lake store account name** box, click **adls&lt;_your name_&gt;&lt;_date_&gt;**.
-16. In the **Authentication type** box, click **Service Principal**.
-17. In the **Tenant** box, ensure that the value matches the **Directory ID** that you saved in **Auth\_details.txt**.
-18. In the **Service principal id** box, paste the **Application ID** value that you saved in **Auth\_details.txt**.
-19. In the **Service principal key** box, paste the **API key** (Key1) value that you saved in **Auth\_details.txt**, and then click **Next**.
-20. On the "Source data store" page, click on **Next**.
-20. On the **Choose the input file or folder** page, click **Browse**, click **Stolen**, and then click **Choose**.
-21. Select the **Copy files recursively**, and **Binary copy** check boxes, and then click **Next**.
-22. On the **Destination data store** page, , click **Azure**, and then click **Create new connection**.
-12. On the "New Linked Service" page, select **Azure Data Lake Storage Gen 1**, and click **Continue**.
-13. On the "New Linked Service" page, in the **Name** box, type **Output Data Lake Store**.
-14. In the **Azure subscription** box, select your Azure Pass subscription.
+5. Under "Task Cadence or Task Schedule", click **Run once now**.
+6. On the **Properties** page, click **Next**.
+7. On the **Source data store** page, click **Azure**, and then click **Create new connection**.
+8. On the "New Linked Service" page, select **Azure Data Lake Storage Gen 1**, and click **Continue**.
+9. On the "New Linked Service" page, in the **Name** box, type **Input Data Lake Store**.
+10. In the **Azure subscription** box, select your Azure Pass subscription.
+11. In the **Data Lake store account name** box, click **adls&lt;_your name_&gt;&lt;_date_&gt;**.
+12. In the **Authentication type** box, click **Service Principal**.
+13. In the **Tenant** box, ensure that the value matches the **Directory ID** that you saved in **Auth\_details.txt**.
+14. In the **Service principal id** box, paste the **Application ID** value that you saved in **Auth\_details.txt**.
+15. In the **Service principal key** box, paste the **API key** (Key1) value that you saved in **Auth\_details.txt**, and then click **Next**.
+16. On the "Source data store" page, click on **Next**.
+17. On the **Choose the input file or folder** page, click **Browse**, click **Stolen**, and then click **Choose**.
+18. Select the **Copy files recursively**, and **Binary copy** check boxes, and then click **Next**.
+19. On the **Destination data store** page, , click **Azure**, and then click **Create new connection**.
+20. On the "New Linked Service" page, select **Azure Data Lake Storage Gen 1**, and click **Continue**.
+21. On the "New Linked Service" page, in the **Name** box, type **Output Data Lake Store**.
+22. In the **Azure subscription** box, select your Azure Pass subscription.
 23. On the **Specify Data Lake Store connection** page, in the **Connection name** box, type **Output Data Lake Store**.
 24. In the **Azure subscription** box, select your Azure Pass subscription.
 25. In the **Data Lake store account name** box, click **adlsbackup&lt;_your name_&gt;&lt;_date_&gt;**.
-16. In the **Authentication type** box, click **Service Principal**.
-17. In the **Tenant** box, ensure that the value matches the **Directory ID** that you saved in **Auth\_details.txt**.
-18. In the **Service principal id** box, paste the **Application ID** value that you saved in **Auth\_details.txt**.
-19. In the **Service principal key** box, paste the **API key** (Key1) value that you saved in **Auth\_details.txt**, and then click **Next**.
-20. On the "Destination data store" page, click on **Next**.
-30. In the **Choose the output file or folder** page, click **Browse**, click **Stolen**, click **Choose**, and then click **Next**.
-31. On the **Settings** page, click **Next**.
-32. On the **Summary** page, click **Next**.
-33. On the **Deployment** page, note the verification steps.
-34. When the deployment has completed, click **Monitor**. There should be a Copy animation displayed in the pipeline box becuase the pipeline is active.
-35. In the **ACTIVITY WINDOWS** pane, click the most recent activity (this might still be showing as **In progress**), to show more details in the right-hand **Activity Window Explorer** pane. If if you do not see any recent activities, click **Refresh**.
-36. Scroll down through the details, and if the job has completed, note the data read and written, row count, copy duration, and billed duration.
-37. In the **ACTIVITY WINDOWS** list, note that there is an activity for each day in the period between your specified start and end times. You will check the results of this job in a later exercise, after it has finished processing.
+26. In the **Authentication type** box, click **Service Principal**.
+27. In the **Tenant** box, ensure that the value matches the **Directory ID** that you saved in **Auth\_details.txt**.
+28. In the **Service principal id** box, paste the **Application ID** value that you saved in **Auth\_details.txt**.
+29. In the **Service principal key** box, paste the **API key** (Key1) value that you saved in **Auth\_details.txt**, and then click **Next**.
+30. On the "Destination data store" page, click on **Next**.
+31. In the **Choose the output file or folder** page, click **Browse**, click **Stolen**, click **Choose**, and then click **Next**.
+32. On the **Settings** page, click **Next**.
+33. On the **Summary** page, click **Next**.
+34. On the **Deployment** page, note the verification steps.
+35. When the deployment has completed, click **Monitor**.
+36. In the **Pipeline Runs** pane, click the most recent activity. If if you do not see any recent activities, click **Refresh**.
+37. Under "Actions" click the **Re-run** icon.
+38. Click **Refresh** until the Status indicates it has stopped running.
+39. Click on the "Pen" icon (Author) on the left margin.
+40. Expand **Pipelines** and click on **Traffic DF Copy Pipeline**.
+41. On the "Traffic DF Copy Pipeline" pane, under "Activities", expand and review each of categrories e.g.: "Move & Transform".
+42. In the diagram view, click on **Copy Data**, and then review the tabs along the bottom of the screen. e.g.: "source","Sink".
+43. Click on the **Code** icon on the far right of the screen, and review the JSON code for the pipeline.
+44. Under "Factory Resources", expand **Datasets**, and click on "DestinationDataset_xc1". Review the tabs along the bottom of the screen. e.g.:"Connection".
+45. Below "Factory Resources", click on **Connections**. Review the "Linked Services".
+46. Below "Factory Resources", click on **Triggers**.
+47. Close all open tabs. e.g."Connections", "Triggers".
 
 > **Result**: In this exercise, you:
 >
@@ -245,223 +250,93 @@
 1. Switch to the Azure portal.
 2. Click **All resources**, and click **speedsdla&lt;_your name_&gt;&lt;_date_&gt;**.
 3. On the **speedsdla&lt;_your name_&gt;&lt;_date_&gt;** blade, click **Access control (IAM)**.
-4. On the **speedsdla&lt;_your name_&gt;&lt;_date_&gt; - Access control (IAM)** blade, click **+ Add**.
+4. On the **speedsdla&lt;_your name_&gt;&lt;_date_&gt; - Access control (IAM)** blade, click **+ Add**, and select **Add role assignment**.
 5. On the **Add permissions** blade, in the **Role** list, click **Contributor**.
 6. In the **Select** box, type **ADLS**, click **ADLStoDataFactory**, and then click **Save**.
 
 ### Task 3: Create an Azure Data Lake Analytics linked service
 
 1. In the Azure portal, click **All resources**, and then click **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;**.
-2. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, in the **Actions** section, click **Author and deploy**.
-3. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, click **More**, click **New compute**, and then click **Azure Data Lake Analytics**.
-4. In the JSON editor, edit **accountName**, replacing the existing value with **speedsdla&lt;_your name_&gt;&lt;_date_&gt;**.
-5. Delete the following lines:
+2. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, in the **Actions** section, click **Author & Monitor**.
+3. Click on the "Pen" icon (Author) on the left margin.
+4. Click on **Connections** at the bottom of the screen.
+5. On the "Connections" tab, under "Linked Services" click on **+ New**.
+6. On the "New Linked Service" blade, click on **Compute**, select **Azure Data lake Analytics**, and then click **Continue**.
+7. In the "Name" box type **AzureDataLakeAnalyticsLinkedService**.
+7. In the "Data lake Analytics account name" box select **speedsdla&lt;_your name_&gt;&lt;_date_&gt;**
+8. In the "Service principal ID box, paste the **Application ID** value that you saved in **Auth\_details.txt** in the previous exercise.
+9. In the "Service principal key" box, paste the **API key** (Key1) value that you saved in **Auth\_details.txt** in the previous exercise.
+10. Click on **Test Connection**.
+11. Click on **Finish**.
+12. On the **Connecitons** blade, under **Linked services**, on the **AzureDataLakeAnalyticsLinkedService** line, click on the **Code** icon to display the JSON. Note that the credential has been encrypted.
+13. Click **Finish**
 
-    ```JSON
-    "authorization": "<Authorization code is automatically retrieved after clicking 'Authorize' and completing the OAuth login>",
+### Task 4: Create an Azure Storage Blob linked service for the U-SQL script
 
-    "subscriptionId": "<[Optional] Data Lake Analytics account subscription ID (if different from Data Factory account)>",
+1. On the **Connections** blade, under "Linked Services" click **+ New**.
+2. Onthe "New Linked Service" blade, under "Data Store", click **Azure**, select **Azure Blob Storage**, and then click **Continue**.
+3. Select your subscription and then select the storage account named **speeddata&lt;_your name_&gt;&lt;_date_&gt;**.
+4. Click on **Test Connection**.
+5. Click on **Finish**.
 
-    "resourceGroupName": "<[Optional] Data Lake Analytics account resource group name (if different from Data Factory account)>",
+### Task 5: Create Data Lake Store input and output datasets
 
-    "sessionId": "<OAuth session id from OAuth authorization session. Each session id is unique and may only be used once>"
-    ```
+1. Under "Factory Resources", next to **Datasets**, click the "..." and select **Add dataset**.
+2. On the "New Dataset" blade, select **Azure**,and then click **Azure Data Lake Store Gen1**. Click **Continue**.
+3. On the "Select Format" blade, choose **DelimitedText**. Click **Continue**.
+4. On the "Set Properties" blade, in the "Linked service box, select **InputDataLakeStore**.
+5. Click the **Browse** button, in the folder list double-click **cameratestdata**, select **CameraData.csv**, and click **Finish**.
+6. Select **First row as header**.
+7. Click **Continue**.
+8. At the top of the screen click **Publish All (1)**.
+This configuration connects to the **CameraData.csv** file in the **CameraTestData** folder in the Data Lake Store. This is the location to which you uploaded the file earlier.
 
-6. Add the following lines under the **accountName**, replace **&lt;service principal id&gt;** with the **Application ID** value, replace **&lt;service principal key&gt;** with the **API key** (Key1) value, and replace **&lt;tenant id&gt;** with the **Directory ID** that you saved in **Auth\_details.txt** in the previous exercise:
+9.  Under "Factory Resources", next to **Datasets**, click the "..." and select **Add dataset**.
+10. On the "New Dataset" blade, select **Azure**,and then click **Azure Data Lake Store Gen1**. Click **Continue**.
+11. On the "Select Format" blade, choose **Binary**. Click **Continue**.
+12. On the "AzureDataLakeStoreFile1" blade, click **Connection**.
+12. In the "Linked service box, select **InputDataLakeStore**.
+13. Click the **Browse** button, in the folder list select **cameratestdata**, and click **Finish**.
+14. In the "File path" box add **/output** to the end of **cameratestdata**. e.g.:"cameratestdata/output".
+15. Click **Test Connection**.
+16. At the top of the screen click **Publish All (1)**.
 
-    ```JSON
-    "dataLakeAnalyticsUri": "azuredatalakeanalytics.net",
+This configuration also connects to the Azure Data Lake Store. It will be used to write data to the **CameraTestData/output** folder.
 
-    "servicePrincipalId": "<service principal id>",
+### Task 6: Create and deploy a new pipeline
 
-    "servicePrincipalKey": "<service principal key>",
+1. Under "Factory Resources", next to **Pipelines**, click the "..." and select **Add Pipeline**.
+2. On the "pipline1" blade, in the "Name" box type "Speed data extract pipeline".
+3. Under "Activities", expand "Data lake Analytics", then drag **U-SQL** on to the diagram pane.
+4. Below the diagram, select **ADLA Account**. In the ADLA linked service box, select **AzureDataLakeAnalytics1**.
+5. Below the diagram, select **Script**. In the "Script linked service", select **AzureBlobStorage1**.
+6. Click the **Browse storage** button. Inthe "Choose a file or folder" blade, double click on **Scripts**, select **CameraDataProcessing.txt**, and click **Finish**.
+7. At the bottom, expand **Advanced**.
+8. Below **Parameters**, click **+ New**.
+9. In the "Name" box type **in**. In the "Value" box type **/CameraTestData/CameraData.csv**.
+10. Click **+ New** again.
+11. In the "Name" box type **out**. In the "Value" box type **/CameraTestData/output/SpeedSummary.csv**.
+12. Click **+ New** again.
+13. In the "Name" box type **camera**. In the "Value" box type **Camera 121**.
+14. At the top of the screen click **Publish All (1)**.
 
-    "tenant": "<tenant id>"
-    ```
+This pipeline runs the USQL script stored in the **CameraDataProcessing.txt** file. You reviewed this script earlier and uploaded it to blob storega. Ths script uses the datasets defined in the previous exercise as input and output locations. The USQL analysis runs every 30 minutes.
 
-    You can copy this JSON text from the file **E:\\Labfiles\\Lab09\\Exercise2\\JsonCmd1.txt**.
+15. On the "Speed data extract pipeline" blade, click on **Add trigger**, and then click **Trigger Now**, and then **Finish**.
+16. Click on **Monitoring**, and then select **Pipeline Runs**. Verify the pipeling finishes with a Status of "Succeeded".
 
-7. Click **Deploy**.
-8. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, expand **Linked services**, and then click **AzureDataLakeAnalyticsLinkedService**. Note that the key has been obfuscated with \*\*\*\*\*\*\*\*\*.
+### Task 7: Verify the U-SQL data transformation
 
-### Task 4: Create a Data Lake Store linked service for input and output datasets
-
-1. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, click **New data store**, and then click **Azure Data Lake Store**.
-2. In the JSON editor, edit the following properties:
-    - **dataLakeStoreUri**: replace the existing value with **https://adls&lt;_your name_&gt;&lt;_date_&gt;.azuredatalakestore.net/webhdfs/v1** (you can copy this URI from the file **E:\\Labfiles\\Lab09\\Exercise2\\JsonCmd2.txt**)
-    - **accountName**: replace the existing value with **adls&lt;_your name_&gt;&lt;_date_&gt;**
-    - **servicePrincipalId**: replace the existing value with the **Application ID** value that you saved in **Auth\_details.txt**
-    - **servicePrincipalKey**: replace the existing value with the **API key** (Key1) value that you saved in **Auth\_details.txt**
-3. Delete the following lines:
-
-    ```JSON
-    "resourceGroupName": "<[Optional] Data Lake Store account resource group name (if different from Data Factory account)>",
-
-    "subscriptionId": "<[Optional] Data Lake Store account subscription ID (if different from Data Factory account)>"
-    ```
-
-4. Delete the comma (,) at the end of the **tenant** line, and then click **Deploy**.
-
-### Task 5: Create an Azure Storage Blob linked service for the U-SQL script
-
-1. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, click **New data store**, and then click **Azure Storage**.
-2. In the JSON editor, edit the **connectionString**. Replace **&lt;accountname&gt;** with **speeddata&lt;_your name_&gt;&lt;_date_&gt;**, and replace **&lt;accountkey&gt;** with the **Storage access key** value that you saved in the clipboard earlier.
-3. Click **Deploy**.
-
-### Task 6: Create Data Lake Store input and output datasets
-
-1. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, click **More**, click **New dataset**, and then click **Azure Data Lake Store**.
-2. Replace the existing JSON text with the following:
-
-    ```JSON
-    {
-        "name": "Input CameraTest DataLakeStore",
-        "properties": {
-            "type": "AzureDataLakeStore",
-            "linkedServiceName": "AzureDataLakeStoreLinkedService",
-            "typeProperties": {
-                "folderPath": "CameraTestData/",
-                "fileName": "CameraData.csv",
-                "format": {
-                    "type": "TextFormat",
-                    "rowDelimiter": "\r\n",
-                    "columnDelimiter": ",",
-                    "firstRowAsHeader": true
-                }
-            },
-            "external": true,
-            "availability": {
-                "frequency": "Minute",
-                "interval": 30
-            },
-            "policy": {
-                "externalData": {
-                    "retryInterval": "00:01:00",
-                    "retryTimeout": "00:10:00",
-                    "maximumRetry": 3
-                }
-            }
-        }
-    }
-    ```
-
-    This configuration connects to the **CameraData.csv** file in the **CameraTestData** folder in the Data Lake Store. This is the location to which you uploaded the file earlier.
-
-    You can copy this JSON text from the file **E:\\Labfiles\\Lab09\\Exercise2\\JsonCmd3.txt**.
-
-3. Click **Deploy**.
-4. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, click **More**, click **New dataset**, and then click **Azure Data Lake Store**.
-5. Replace the existing JSON text with the following:
-
-    ```JSON
-    {
-        "name": "Output CameraTest DataLakeStore",
-        "properties": {
-            "type": "AzureDataLakeStore",
-            "linkedServiceName": "AzureDataLakeStoreLinkedService",
-            "typeProperties": {
-                "folderPath": "CameraTestData/output/"
-            },
-            "external": false,
-            "availability": {
-                "frequency": "Minute",
-                "interval": 30
-            },
-            "policy": {}
-        }
-    }
-    ```
-
-    This configuration also connects to the Azure Data Lake Store. It will be used to write data to the **CameraTestData/output** folder.
-
-    You can copy this JSON text from the file **E:\\Labfiles\\Lab09\\Exercise2\\JsonCmd4.txt**.
-
-6. Click **Deploy**.
-
-### Task 7: Create and deploy a new pipeline
-
-1. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, click **More**, then click **New pipeline**.
-2. Replace the existing JSON text with the following:
-
-    ```JSON
-    {
-        "name": "Speed data extract pipeline",
-        "properties": {
-            "description": "Pipeline to extract speed data for a specific CameraID.",
-            "activities": [
-                {
-                    "type": "DataLakeAnalyticsU-SQL",
-                    "typeProperties": {
-                        "scriptPath": "scripts\\CameraDataProcessing.txt",
-                        "scriptLinkedService": "AzureStorageLinkedService",
-                        "degreeOfParallelism": 3,
-                        "priority": 100,
-                        "parameters": {
-                            "in": "/CameraTestData/CameraData.csv",
-                            "out": "/CameraTestData/output/SpeedSummary.csv",
-                            "camera": "Camera 121"
-                        }
-                    },
-                    "inputs": [
-                        {
-                            "name": "Input CameraTest DataLakeStore"
-                        }
-                    ],
-                    "outputs": [
-                        {
-                            "name": "Output CameraTest DataLakeStore"
-                        }
-                    ],
-                    "policy": {
-                        "timeout": "06:00:00",
-                        "concurrency": 1,
-                        "executionPriorityOrder": "NewestFirst",
-                        "retry": 1
-                    },
-                    "scheduler": {
-                        "frequency": "Minute",
-                        "interval": 30
-                    },
-                    "name": "ASA U-SQL process",
-                    "linkedServiceName": "AzureDataLakeAnalyticsLinkedService"
-                }
-            ],
-            "start": "2017-10-28T01:00:00Z",
-            "end": "2017-10-30T01:00:00Z",
-            "isPaused": false
-        }
-    }
-    ```
-
-    This pipeline runs the USQL script stored in the **CameraDataProcessing.txt** file. You reviewed this script earlier and uploaded it to blob storega. Ths script uses the datasets defined in the previous exercise as input and output locations. The USQL analysis runs every 30 minutes.
-
-    > **IMPORTANT**: Change the value for the start property to be yesterday's date, and the value for the end property to be tomorrow's date.
-
-    You can copy this JSON text from the file **E:\\Labfiles\\Lab09\\Exercise2\\JsonCmd5.txt**.
-
-3. Click **Deploy**.
-4. Close the JSON editor, and **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade.
-
-### Task 8: Verify the U-SQL data transformation
-
-1. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, in the **Actions** section, click **Diagram**. If necessary, use the mouse to rearrange the pipelines so that they do not overlap.
-2. Double-click **Input CameraTest DataLakeStore**.
-3. Under **Monitoring**, note the slices with a **Ready** or **In Progress** status (you might need to click **See more** to see these, depending on your current time in relation to UTC).
-4. Close the **Data slices** blade (if open), and then close the **Input CameraTest DataLakeStore** blade.
-5. On the **Diagram** blade, double-click **Output CameraTest DataLakeStore**.
-6. Under **Monitoring**, note the slices with a **Ready** or **In Progress** status.
-7. Close the **Data slices** blade (if open), and then close the **Output CameraTest DataLakeStore** blade.
-8. Close the **Diagram** blade.
-9. In the Azure portal, click **All resources**, click **adls&lt;_your name_&gt;&lt;_date_&gt;**, and then click **Data explorer**.
-10. On the **Data explorer** blade, click the **CameraTestData** folder, and then click **output**.
-11. Click **SpeedSummary.csv**. This file should contain a header row and one row of data, summarizing the captured speed statistics for camera 121 (this was the input parameter passed to the USQL script by the pipeline):
+1. In the Azure portal, click **All resources**, click **adls&lt;_your name_&gt;&lt;_date_&gt;**, and then click **Data explorer**.
+2. On the **Data explorer** blade, click the **CameraTestData** folder, and then click **output**.
+3. Click **SpeedSummary.csv**. This file should contain a header row and one row of data, summarizing the captured speed statistics for camera 121 (this was the input parameter passed to the USQL script by the pipeline):
 
     ```Text
     CameraID,SpeedLimit,NumberOfObservations,Lowest,Highest,Average
     Camera 121,30,1009,0,21,7
     ```
 
-12. Close the **File Preview** blade.
+4. Close the **File Preview** blade.
 
 > **Result**: In this exercise, you:
 >
@@ -474,264 +349,3 @@
 > - Created and deployed a new pipeline.
 > - Verified the U-SQL data transformation.
 
-## Exercise 3: Transform uploaded data by running an ML model in a Machine Learning linked service
-
-### Task 1: Prepare the environment
-
-1. On the desktop, switch to the Admin command prompt.
-2. At the command prompt, type the following commands. Replace **&lt;storage account name&gt;** with **speeddata&lt;your name&gt;&lt;date&gt;**, and replace **&lt;access key&gt;** with the **Storage access key** value that you stored in the clipboard earlier, and then press Enter:
-
-    ```CMD
-    azcopy /Source:"E:\Labfiles\Lab09\Exercise3" /Pattern:"LiveSpeedData.csv" /Dest:https://<storage account name>.blob.core.windows.net/capturedspeeds /DestKey:<access key> /S
-    ```
-
-    The **LiveSpeedData.csv** file contains the sample data used by the ML model.
-
-    You can copy these commands from the file **E:\\LabFiles\\Lab09\\Exercise3\\AZCopyCmd.txt**.
-
-3. In the Azure portal, click **All resources**, and then click **trafficwarehouse**.
-4. On the **trafficwarehouse** blade, click **Resume**, and then click **Yes**.
-
-### Task 2: Obtain the API key and batch execution URL for a deployed ML model
-
-1. In the Azure portal, click **All resources**, and then click **Traffic**.
-2. Under **Additional Links**, click **Launch Machine Learning Studio**.
-3. On the **Microsoft Azure Machine Learning Studio** page, click **Sign In**.
-4. In Machine Learning Studio, in the left menu, click **WEB SERVICES**, and then click the experiment that you created in Lab08, Exercise 2.
-5. Copy the **API key** to the clipboard.
-6. Start Notepad, type **Web service API key**, press Enter to create a new line, and then paste the API key.
-7. In Azure Machine Learning Studio, click **BATCH EXECUTION**.
-8. On the **Batch Execution API Documentation for Experiment** page,copy the **Request URI** to the clipboard
-9. Switch to Notepad, click at the end of the file, press Enter to create a new line, then type **Request URI**, press Enter to create a new line, and then paste the Request URI.
-10. Save the file in your Documents folder, as **Web\_config.txt** (overwrite any existing file with the same name).
-
-### Task 3: Create an ML linked service
-
-1. Switch to the Azure portal, click **All resources**, and then click **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;**.
-2. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, in the **Actions** section, click **Author and deploy**.
-3. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, click **More**, click **New compute**, and then click **Azure ML**.
-4. In the JSON editor, edit the following properties:
-    - **mlEndpoint**: replace the existing value with the **Request URI** you saved to **Config\_details.txt**.
-    - **apiKey**: replace the existing value with the **Web service API key** you saved to **Config\_details.txt**.
-    - Delete the three lines marked as **(Optional)**.
-5. Click **Deploy**.
-
-### Task 4: Create Azure Storage input and output datasets
-
-1. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, click **More**, click **New dataset**, and then click **Azure Blob storage**.
-2. Replace the existing JSON text with the following:
-
-    ```JSON
-    {
-        "name": "Input from Azure Storage",
-        "properties": {
-            "type": "AzureBlob",
-            "linkedServiceName": "AzureStorageLinkedService",
-            "typeProperties": {
-                "folderPath": "capturedspeeds/",
-                "fileName": "LiveSpeedData.csv",
-                "format": {
-                    "type": "TextFormat",
-                    "columnDelimiter": ","
-                }
-            },
-            "external": true,
-            "availability": {
-                "frequency": "Minute",
-                "interval": 15
-            },
-            "policy": {
-                "externalData": {
-                    "retryInterval": "00:01:00",
-                    "retryTimeout": "00:10:00",
-                    "maximumRetry": 3
-                }
-            }
-        }
-    }
-    ```
-
-    You can copy this JSON text from the file **E:\\Labfiles\\Lab09\\Exercise3\\JsonCmd1.txt**.
-
-3. Click **Deploy**.
-4. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, click **More**, click **New dataset**, and then click **Azure Blob storage**.
-5. Replace the existing JSON text with the following:
-
-    ```JSON
-    {
-        "name": "Output to Azure Storage",
-        "properties": {
-            "type": "AzureBlob",
-            "linkedServiceName": "AzureStorageLinkedService",
-            "typeProperties": {
-                "folderPath": "cameralivedata/scored/{folderpart}/",
-                "fileName": "{filepart}result.csv",
-                "partitionedBy": [
-                    {
-                        "name": "folderpart",
-                        "value": {
-                            "type": "DateTime",
-                            "date": "SliceStart",
-                            "format": "yyyyMMdd"
-                        }
-                    },
-                    {
-                        "name": "filepart",
-                        "value": {
-                            "type": "DateTime",
-                            "date": "SliceStart",
-                            "format": "HHmmss"
-                        }
-                    }
-                ],
-                "format": {
-                    "type": "TextFormat",
-                    "columnDelimiter": ","
-                }
-            },
-            "availability": {
-                "frequency": "Minute",
-                "interval": 15
-            }
-        }
-    }
-    ```
-
-    You can copy this JSON text from the file **E:\\Labfiles\\Lab09\\Exercise3\\JsonCmd2.txt**.
-
-6. Click **Deploy**.
-
-### Task 5: Create and deploy a new pipeline
-
-1. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, click **More**, then click **New pipeline**.
-2. Replace the existing JSON text with the following:
-
-    ```JSON
-    {
-        "name": "ML Predictive Pipeline",
-        "properties": {
-            "activities": [
-                {
-                    "name": "ML Activity",
-                    "type": "AzureMLBatchExecution",
-                    "inputs": [
-                        {
-                            "name": "Input from Azure Storage"
-                        }
-                    ],
-                    "outputs": [
-                        {
-                            "name": "Output to Azure Storage"
-                        }
-                    ],
-                    "linkedServiceName": "AzureMLLinkedService",
-                    "typeProperties":
-                    {
-                        "webServiceInput": "Input from Azure Storage",
-                        "webServiceOutputs": {
-                            "output1": "Output to Azure Storage"
-                        }
-                    },
-                    "policy": {
-                        "concurrency": 3,
-                        "executionPriorityOrder": "NewestFirst",
-                        "retry": 1,
-                        "timeout": "02:00:00"
-                    }
-                }
-            ],
-            "start": "2017-10-23T00:00:00Z",
-            "end": "2017-10-24T00:00:00Z"
-        }
-    }
-    ```
-
-    You can copy this JSON text from the file  **E:\\Labfiles\\Lab09\\Exercise3\\JsonCmd3.txt**.
-
-    > **IMPORTANT**: Change the value for the start property to be yesterday's date, and the value for the end property to be tomorrow's date.
-
-3. Click **Deploy**.
-4. Close the JSON editor, and **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade.
-
-### Task 6: Verify the ML data transformation
-
-1. On the **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;** blade, in the **Actions** section, click **Diagram**.
-2. On the **Diagram** blade, use the mouse to rearrange the three pipelines so that they do not overlap, and then double-click **Input from Azure Storage**.
-3. Under **Monitoring**, note the slices with a **Ready** or **In Progress** status (you might need to click **See more** to see these, depending on your current time in relation to UTC).
-4. Close the **Data slices** blade (if open), and then close the **Input from Azure Storage** blade.
-5. On the **Diagram** blade, double-click **Output to Azure Storage**.
-6. Under **Monitoring**, note the slices with a **Ready** or **In Progress** status.
-7. Close the **Data slices** blade (if open), and then close the **Output to Azure Storage** blade.
-8. Close the **Diagram** blade.
-9. On the desktop, on the Windows **Start** menu, type **Microsoft Azure Storage Explorer**, and then press Enter.
-10. Under your Azure Learning Pass subscription, under **Storage Accounts**, expand **speeddata&lt;_your name_&gt;&lt;_date_&gt;**, expand **Blob Containers**, and then click **cameralivedata**.
-11. In the folder list, double-click **scored**, and note the dated folder (there might be more than one, depending on your time of day in relation to UTC).
-12. Double-click one of the folders, and note that there are **result.csv** files for each timed slice. Note also that as the output slices are being generated every 15 minutes, although you might need to click **Refresh** to see additional files.
-13. Double-click one of the **result.csv** files.
-14. In the **Microsoft Azure Storage Explorer** dialog box, click **Yes**.
-15. In Excel, note that the **Scored Label Mean** represents the predicted speed for that date and time, and at that camera location. In the real world, you would probably run the job every day, rather than every 15 minutes.
-16. Close Excel without saving any changes.
-17. Minimize Microsoft Azure Storage Explorer.
-18. In the Azure Portal, click **All resources**, and then click **trafficwarehouse**.
-19. On the **trafficwarehouse** blade, click **Pause**, and then click **Yes**
-
-> **Result**: In this exercise, you:
->
-> - Started your Data Warehouse.
-> - Obtained the API key and batch execution URL for the deployed ML model.
-> - Created an ML linked service in Data Factory.
-> - Created Azure Storage input and output datasets.
-> - Created and deployed a new pipeline.
-> - Verified the ML data transformation.
-
-## Exercise 4: Use the Monitoring and Management app to track progress of a pipeline
-
-### Task 1: Use the Diagram View to see overall job statuses
-
-1. In the Azure portal, click **All resources**, click **TrafficDF&lt;_your name_&gt;&lt;_date_&gt;**.
-2. On the **TrafficDF*&lt;your name&gt;&lt;date&gt; ***blade, in the **Actions** section, click **Monitor & Manage**.
-3. In the **Diagram View** at the top of the middle pane, use your mouse wheel or the + and - controls on the lower toolbar to zoom in and out. You should see the three pipelines from the previous exercises in this lab.
-4. In the **RESOURCE EXPLORER** tree view in the left pane, note the pipelines, datasets, linked services, and gateways from the previous exercises.
-5. In the **ACTIVITY WINDOWS** list at the bottom of the middle pane, note that by default all activities are listed in reverse chronological order, with the most recent activity at the top of the list.
-6. Click the top activity to show details in the **Activity Window Explorer** in the right pane.
-7. In the **Activity Window Explorer** pane, note the calendar view, and how the 15 minute data slices are represented; if you had used daily or weekly slices, for example, the calendar display would reflect this.
-8. Scroll down and look at the summary information for this activity, including start and end time, activity name, the associated pipeline and datasets, and status information.
-9. Click the cog icon to see the properties of this activity, including more detailed execution data.
-10. In the **Diagram** view, click **Input from Azure Storage**. The right pane displays the properties for this dataset.
-11. Click the **Script** icon, to view the JSON for this dataset.
-12. In the **Diagram** view, click **Output to Azure Storage**. Click the cog icon to see the properties shown for this dataset in the right pane.
-13. Click the **Script** icon, to view the JSON for this dataset.
-14. In the **Diagram** view, click **Traffic DF Copy Pipeline**, click the cog icon to see the start and end times for the pipeline.
-
-### Task 2: Use filters and views to find specific status information
-
-1. In the **ACTIVITY WINDOWS** pane, click the filter for the **Pipeline** column.
-2. In the dialog box, select the **Traffic DF Copy Pipeline** check box, and then click **OK**. Filtering activities in this way helps you see which activities are used by particular pipelines.
-3. Click the **Copy** icon.
-4. In Notepad, press Ctrl+V; verify that you can copy detailed activity log information for use in other applications, or for reporting.
-5. Click the filter for the **Status** column, and in the dialog box, select all the check boxes except for **Ready** and **None**, and then click **OK**; depending on how well your previous exercises performed, you might not actually see any activities at this point.
-6. Click the **Clear all filters from the activity windows list** icon.
-7. In the left-hand pane, click the **Monitoring views** icon (glasses).
-8. Expand **System Views**, and click **Failed activity windows**This view provides an alternative to filtering the Activities list; again, you may not actually see any activities at this point.
-9. Under **System Views**, click **In-progress activity windows**. Depending on the state of your pipelines, you might not actually see any activities at this point.
-
-### Task 3: Lab clean up
-
-1. In the Azure portal, click **Resource groups**.
-2. Right-click **CamerasRG**, and then click **Delete resource group**.
-3. In the **TYPE THE RESOURCE GROUP NAME** box, type **CamerasRG**, and then click **Delete**.
-4. Close all open windows on the virtual machine, without saving if prompted.
-
-> **Result**: In this exercise, you:
->
-> - Used the Diagram View to see overall job statuses.
-> - Used filters and views to find specific status information.
-> - Used alerts with Data Factory pipelines.
-
----
-
-©2018 Microsoft Corporation. All rights reserved.
-
-The text in this document is available under the [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/legalcode), additional terms may apply. All other content contained in this document (including, without limitation, trademarks, logos, images, etc.) are **not** included within the Creative Commons license grant. This document does not provide you with any legal rights to any intellectual property in any Microsoft product. You may copy and use this document for your internal, reference purposes.
-
-This document is provided "as-is." Information and views expressed in this document, including URL and other Internet Web site references, may change without notice. You bear the risk of using it. Some examples are for illustration only and are fictitious. No real association is intended or inferred. Microsoft makes no warranties, express or implied, with respect to the information provided here.
