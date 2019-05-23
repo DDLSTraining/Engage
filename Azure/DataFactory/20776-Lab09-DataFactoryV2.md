@@ -17,18 +17,7 @@
         - [Task 6: Create Data Lake Store input and output datasets](#task-6-create-data-lake-store-input-and-output-datasets)
         - [Task 7: Create and deploy a new pipeline](#task-7-create-and-deploy-a-new-pipeline)
         - [Task 8: Verify the U-SQL data transformation](#task-8-verify-the-u-sql-data-transformation)
-    - [Exercise 3: Transform uploaded data by running an ML model in a Machine Learning linked service](#exercise-3-transform-uploaded-data-by-running-an-ml-model-in-a-machine-learning-linked-service)
-        - [Task 1: Prepare the environment](#task-1-prepare-the-environment)
-        - [Task 2: Obtain the API key and batch execution URL for a deployed ML model](#task-2-obtain-the-api-key-and-batch-execution-url-for-a-deployed-ml-model)
-        - [Task 3: Create an ML linked service](#task-3-create-an-ml-linked-service)
-        - [Task 4: Create Azure Storage input and output datasets](#task-4-create-azure-storage-input-and-output-datasets)
-        - [Task 5: Create and deploy a new pipeline](#task-5-create-and-deploy-a-new-pipeline)
-        - [Task 6: Verify the ML data transformation](#task-6-verify-the-ml-data-transformation)
-    - [Exercise 4: Use the Monitoring and Management app to track progress of a pipeline](#exercise-4-use-the-monitoring-and-management-app-to-track-progress-of-a-pipeline)
-        - [Task 1: Use the Diagram View to see overall job statuses](#task-1-use-the-diagram-view-to-see-overall-job-statuses)
-        - [Task 2: Use filters and views to find specific status information](#task-2-use-filters-and-views-to-find-specific-status-information)
-        - [Task 3: Lab clean up](#task-3-lab-clean-up)
-  
+     
 ## Lab: Automating the Data Flow with Azure Data FactoryV2
 
 ## Exercise 1: Use Data Factory to back up data from an Azure Data Lake Store to a second ADLS store
@@ -293,13 +282,12 @@ This configuration connects to the **CameraData.csv** file in the **CameraTestDa
 
 9.  Under "Factory Resources", next to **Datasets**, click the "..." and select **Add dataset**.
 10. On the "New Dataset" blade, select **Azure**,and then click **Azure Data Lake Store Gen1**. Click **Continue**.
-11. On the "Select Format" blade, choose **Binary**. Click **Continue**.
+11. On the "Select Format" blade, choose **DelimitedText**. Click **Continue**.
 12. On the "AzureDataLakeStoreFile1" blade, click **Connection**.
 12. In the "Linked service box, select **InputDataLakeStore**.
-13. Click the **Browse** button, in the folder list select **cameratestdata**, and click **Finish**.
-14. In the "File path" box add **/output** to the end of **cameratestdata**. e.g.:"cameratestdata/output".
-15. Click **Test Connection**.
-16. At the top of the screen click **Publish All (1)**.
+13. Click the **Browse** button, in the folder list double-click **cameratestdata**, and click **Finish**.
+14. Click **Test Connection**.
+15. At the top of the screen click **Publish All (1)**.
 
 This configuration also connects to the Azure Data Lake Store. It will be used to write data to the **CameraTestData/output** folder.
 
@@ -315,7 +303,7 @@ This configuration also connects to the Azure Data Lake Store. It will be used t
 8. Below **Parameters**, click **+ New**.
 9. In the "Name" box type **in**. In the "Value" box type **/CameraTestData/CameraData.csv**.
 10. Click **+ New** again.
-11. In the "Name" box type **out**. In the "Value" box type **/CameraTestData/output/SpeedSummary.csv**.
+11. In the "Name" box type **out**. In the "Value" box type **/CameraTestData/SpeedSummary.csv**.
 12. Click **+ New** again.
 13. In the "Name" box type **camera**. In the "Value" box type **Camera 121**.
 14. At the top of the screen click **Publish All (1)**.
