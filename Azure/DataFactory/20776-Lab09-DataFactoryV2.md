@@ -283,13 +283,13 @@ This configuration connects to the **CameraData.csv** file in the **CameraTestDa
 9.  Under "Factory Resources", next to **Datasets**, click the "..." and select **Add dataset**.
 10. On the "New Dataset" blade, select **Azure**,and then click **Azure Data Lake Store Gen1**. Click **Continue**.
 11. On the "Select Format" blade, choose **DelimitedText**. Click **Continue**.
-12. On the "AzureDataLakeStoreFile1" blade, click **Connection**.
-12. In the "Linked service box, select **InputDataLakeStore**.
+12. On the "Set Properties" blade, in the "Linked service box, select **InputDataLakeStore**.
 13. Click the **Browse** button, in the folder list double-click **cameratestdata**, and click **Finish**.
-14. Click **Test Connection**.
-15. At the top of the screen click **Publish All (1)**.
+14. Select **First row as header**.
+15. Click **Continue**.
+16. At the top of the screen click **Publish All (1)**.
 
-This configuration also connects to the Azure Data Lake Store. It will be used to write data to the **CameraTestData/output** folder.
+This configuration also connects to the Azure Data Lake Store. It will be used to write data to the **CameraTestData** folder.
 
 ### Task 6: Create and deploy a new pipeline
 
