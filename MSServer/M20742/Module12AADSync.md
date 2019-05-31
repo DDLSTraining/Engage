@@ -2,7 +2,7 @@ The lab in LOD labs is out of day with current Azure Portal:
 
 This document will hightlight which steps are wrong in the lab and indicate what you need to do to have the lab work successfully.
 
-#Lab issues
+# Lab issues
 
 Configuring Directory sync
 ------------------------
@@ -31,7 +31,7 @@ Configuring Directory sync
 
 13. Add custom domain
 
-#Next Part of the lab 
+# Next Part of the lab 
 
 Configuring Dir sync
 --------------------
