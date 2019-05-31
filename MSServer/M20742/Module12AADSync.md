@@ -4,8 +4,8 @@ This document will hightlight which steps are wrong in the lab and indicate what
 
 # Lab issues
 
-Configuring Directory sync
-------------------------
+## Configuring Directory sync
+
 
 8. Record User ID
 
@@ -33,8 +33,8 @@ Configuring Directory sync
 
 # Next Part of the lab 
 
-Configuring Dir sync
---------------------
+## Configuring Dir sync
+
 
 1. Click Users
 
