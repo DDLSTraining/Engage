@@ -13,9 +13,9 @@
 
 10. Browse to Azure Portal
 
->Once you type in the web site it will have two choices on the web page 
->**download the portal app** or **continue to portal website**, choose the portal website
->Then choose maybe later on the tour popup
+>Once you type in the web site it will have two choices on the web page <br>
+>**download the portal app** or **continue to portal website**, choose the portal website<br>
+>Then choose **maybe later** on the tour popup
 
 11.5 Click on the link to start the free trial under the sign-ins section
 
