@@ -14,23 +14,25 @@
 10. Browse to Azure Portal
 
 >Once you type in the web site it will have two choices on the web page 
->download the portal app or continue to portal website, choose the portal website
+>**download the portal app** or **continue to portal website**, choose the portal website
 >Then choose maybe later on the tour popup
 
 11.5 Click on the link to start the free trial under the sign-ins section
 
->Then click Free trial in the Azure AD Premium P2 box (Blue in color)
->Then click activate
->Click on Azure Active Directory on the left of the portal
+>Then click **Free trial** in the Azure AD Premium P2 box (Blue in color)
+>Then click **Activate**
+>Click on **Azure Active Directory** on the left of the portal
 
 12. Custom Domain Domain names
 
 13. Add custom domain
 
-# Next Part of the lab 
+>Not Domains as the lab says.
+
+# Next lab section 
 
 ### Configuring Dir sync
 
 
-1. Click Users
+1. Click **Users**
 
