@@ -9,7 +9,7 @@ Configuring Directory sync
 
 8. Record User ID
 
-Click Start Setup (not what the lab instructions say)
+>Click Start Setup (not what the lab instructions say)
 
 9. Wait for the office 365 portal to 
 
