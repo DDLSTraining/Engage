@@ -7,7 +7,7 @@ This document will hightlight which steps are wrong in the lab and indicate what
 Configuring Directory sync
 ------------------------
 
-8 Record User ID
+8. Record User ID
 
 Click Start Setup (not what the lab instructions say)
 
