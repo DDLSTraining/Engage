@@ -19,8 +19,8 @@
 
 11.5 Click on the link to start the free trial under the sign-ins section
 
->Then click **Free trial** in the Azure AD Premium P2 box (Blue in color)
->Then click **Activate**
+>Then click **Free trial** in the Azure AD Premium P2 box (Blue in color) <br>
+>Then click **Activate** <br>
 >Click on **Azure Active Directory** on the left of the portal
 
 12. Custom Domain Domain names
