@@ -2,8 +2,11 @@ The lab in LOD labs is out of day with current Azure Portal:
 
 This document will hightlight which steps are wrong in the lab and indicate what you need to do to have the lab work successfully.
 
-*Lab issues*
-**Configuring Directory sync**
+*Lab issues
+
+Configuring Directory sync
+------------------------
+
 8 Record User ID
 
 Click Start Setup (not what the lab instructions say)
@@ -34,7 +37,8 @@ Click on Azure Active Directory on the left of the portal
 
 Next Part of the lab 
 
-**Configuring Dir sync**
+Configuring Dir sync
+--------------------
 
 1. Click Users
 
