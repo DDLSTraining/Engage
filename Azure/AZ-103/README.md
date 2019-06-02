@@ -39,5 +39,5 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 ||||
 |Break||15|
 ||||
-|Lab|Implement Azure Site Recovery between Azure regions|60|
+|Lab||60|
 |Finish|4:30||
