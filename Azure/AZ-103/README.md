@@ -41,3 +41,45 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 ||||
 |Lab||60|
 |Finish|4:30||
+
+## Day 2
+
+|Day-Module-Lesson|Activity|Duration|
+|-|-|-|
+||||
+|Break||15|
+||||
+|Lunch||60|
+||||
+|Break||15|
+||||
+|Lab||60|
+|Finish|4:30||
+
+## Day 3
+
+|Day-Module-Lesson|Activity|Duration|
+|-|-|-|
+||||
+|Break||15|
+||||
+|Lunch||60|
+||||
+|Break||15|
+||||
+|Lab||60|
+|Finish|4:30||
+
+## Day 4
+
+|Day-Module-Lesson|Activity|Duration|
+|-|-|-|
+||||
+|Break||15|
+||||
+|Lunch||60|
+||||
+|Break||15|
+||||
+|Lab||60|
+|Finish|4:30||
