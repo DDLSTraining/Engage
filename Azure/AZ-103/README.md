@@ -1,4 +1,4 @@
-# AZ-103 Microsoft Azure Administrator
+M# AZ-103 Microsoft Azure Administrator
 
 ## Resources
 
@@ -32,7 +32,8 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 
 |Day-Module-Lesson|Activity|Duration|
 |-|-|-|
-||||
+|M00|Introductions and Setup|80|
+|M01|Azure Administration|10|
 |Break||15|
 ||||
 |Lunch||60|
