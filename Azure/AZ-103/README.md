@@ -30,7 +30,7 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 
 ## Day 1
 
-|Day-Module-Lesson|Activity|Duration|
+|Module|Activity|Duration|
 |-|-|-|
 |M00|Introductions and Setup|60|
 |M01|Azure Administration|30|
@@ -45,7 +45,7 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 
 ## Day 2
 
-|Day-Module-Lesson|Activity|Duration|
+|Module|Activity|Duration|
 |-|-|-|
 ||||
 |Break||15|
@@ -59,7 +59,7 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 
 ## Day 3
 
-|Day-Module-Lesson|Activity|Duration|
+|Module|Activity|Duration|
 |-|-|-|
 ||||
 |Break||15|
@@ -73,7 +73,7 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 
 ## Day 4
 
-|Day-Module-Lesson|Activity|Duration|
+|Module|Activity|Duration|
 |-|-|-|
 ||||
 |Break||15|
