@@ -1,4 +1,4 @@
-M# AZ-103 Microsoft Azure Administrator
+# AZ-103 Microsoft Azure Administrator
 
 ## Resources
 
