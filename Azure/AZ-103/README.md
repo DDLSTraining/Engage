@@ -40,9 +40,10 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 |M01|Azure Administration|50|
 |M02|Azure Virtual Machines|60|
 |Break||15|
-|M02|Azure Virtual Machines||
-|Lab||60|
-|Finish|4:30||
+|M02|Azure Virtual Machines|60|
+|Lab|Deploy and Manage Virtual Machines|45|
+|Lab|Virtual Machines and Scale Sets|45|
+|Finish|5:30||
 
 ## Day 2
 
