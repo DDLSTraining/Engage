@@ -35,9 +35,10 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 |M00|Introductions and Setup|60|
 |M01|Azure Administration|30|
 |Break||15|
-||||
+|M01|Azure Administration|30|
 |Lunch||60|
-||||
+|M01|Azure Administration|50|
+|M02|||
 |Break||15|
 ||||
 |Lab||60|
