@@ -1,6 +1,6 @@
 # AZ-103 Modules and Lessons
 
-* [Microsoft Learning AZ-103 Azure Administrator Repository](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator)
+* [Microsoft Learning AZ-103 Azure Administrator GitHub Repository](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator)
 * [LabFiles](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/tree/master/Allfiles/Labfiles)
 
 ## Module 01 - Azure Administration
