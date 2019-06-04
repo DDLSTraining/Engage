@@ -50,11 +50,12 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 |Module|Activity|Duration|
 |-|-|-|
 |Review||15|
-|M03|Azure Storage||
+|M03|Azure Storage|60|
 |Break||15|
-||||
+|M03|Azure Storage|60|
 |Lunch||60|
-||||
+|Lab|Implement and Manage Storage|45|
+|M04|Virtual Networking|60|
 |Break||15|
 ||||
 |Lab||60|
