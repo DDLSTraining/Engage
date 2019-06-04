@@ -3,6 +3,22 @@
 * [Microsoft Learning AZ-103 Azure Administrator GitHub Repository](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator)
 * [LabFiles](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/tree/master/Allfiles/Labfiles)
 
+Table of Contents:
+
+* [M01 - Azure Administration](#module-01---azure-administration)
+* [M02 - Azure Virtual Machines](#module-02---azure-virtual-machines)
+* [M03 - Azure Storage](#module-03---azure-storage)
+* [M04 - Virtual Networking](#module-04---virtual-networking)
+* [M05 - Intersite Connectivity](#module-05---intersite-connectivity)
+* [M06 - Monitoring](#module-06---monitoring)
+* [M07 - Data Protection](#module-07---data-protection)
+* [M08 - Network Traffic Management](#module-08---network-traffic-management)
+* [M09 - Azure Active Directory](#module-09---active-directory)
+* [M10 - Securing Identities](#module-10---securing-identities)
+* [M11 - Governance and Compliance](#module-11---governance-and-compliance)
+* [M12 - Data Services](#module-12---data-services)
+
+
 ## Module 01 - Azure Administration
 
 * Azure Portal and Cloud Shell
