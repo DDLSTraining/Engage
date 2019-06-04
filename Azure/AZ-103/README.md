@@ -57,8 +57,8 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 |Lab|Implement and Manage Storage|45|
 |M04|Virtual Networking|60|
 |Break||15|
-||||
-|Lab||60|
+|M04|Virtual Networking|30|
+|Lab|Configure Azure DNS|60|
 |Finish|4:30||
 
 ## Day 3
