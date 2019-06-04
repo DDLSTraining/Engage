@@ -17,6 +17,7 @@ Table of Contents:
 * [M10 - Securing Identities](#module-10---securing-identities)
 * [M11 - Governance and Compliance](#module-11---governance-and-compliance)
 * [M12 - Data Services](#module-12---data-services)
+* [Optional Labs](#optional-labs)
 
 
 ## Module 01 - Azure Administration
