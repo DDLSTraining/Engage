@@ -21,7 +21,7 @@
   * Exercise 2. Configure networking settings of Azure VMs running Windows and Linux operating systems
   * Exercise 3. Deploy and configure Azure VM scale sets
   * Time: 60 minutes
-* [Lab 2Virtual Machines and Scale Sets](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/Virtual%20Machines%20and%20Scale%20Sets%20(az-100-03b).md)
+* [Lab 2 - Virtual Machines and Scale Sets](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/Virtual%20Machines%20and%20Scale%20Sets%20(az-100-03b).md)
   * Exercise 0. Prepare the lab environment
   * Exercise 1. Configure compute and storage resources of Azure VMs
   * Exercise 2. Configure compute and storage resources of Azure VM scale sets
