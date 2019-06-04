@@ -71,6 +71,7 @@
 * [Lab – Azure Network Watcher](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/Azure%20Network%20Watcher%20(az-101-03b).md)
   * Exercise 1: Prepare infrastructure for Azure Network Watcher-based monitoring
   * Exercise 2: Use Azure Network Watcher to monitor network connectivity
+  * Time: 60 minutes
 
 ## Module 07 - Data Protection
 
@@ -80,6 +81,7 @@
 * [Lab – Azure Site Recovery Between Regions](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/Implement%20ASR%20Between%20Regions%20(az-101-01).md)
   * Exercise 1: Implement prerequisites for migration of Azure VMs by using Azure Site Recovery
   * Exercise 2: Migrate an Azure VM between Azure regions by using Azure Site Recovery
+  * Time: 60 minutes
 
 ## Module 08 - Network Traffic Management
 
@@ -90,6 +92,7 @@
   * Exercise 0: Deploy Azure VMs by using Azure Resource Manager templates
   * Exercise 1: Implement Azure Load Balancing
   * Exercise 2: Implement Azure Traffic Manager load balancing
+  * Time: 60 minutes
 
 ## Module 09 - Active Directory
 
@@ -100,6 +103,7 @@
   * Exercise 1. Deploy an Azure VM hosting an Active Directory domain controller.
   * Exercise 2. Create and configure an Azure Active Directory tenant
   * Exercise 3. Synchronize Active Directory forest with an Azure Active Directory tenant
+  * Time: 60 minutes
 
 ## Module 10 - Securing Identities
 
@@ -110,9 +114,11 @@
   * Exercise 0. Prepare the environment
   * Exercise 1. Implement Azure MFA
   * Exercise 2. Implement Azure AD Identity Protection
+  * Time: 60 minutes
 * [Lab 2 – Self-Service Password Reset](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/Self-Service%20Password%20Reset%20(az-100-05b).md)
   * Exercise 1. Manage Azure AD users and groups
-  * Exercise 2. Manage Azure AD-integrated SaaS applications.
+  * Exercise 2. Manage Azure AD-integrated SaaS applications
+  * Time: 60 minutes
 
 ## Module 11 - Governance and Compliance
 
@@ -121,11 +127,13 @@
 * Users and Groups
 * Azure Policy
 * [Lab 1 – Role-Based Access Control](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/Role-Based%20Access%20Control%20(az-100-01).md)
-  * Exercise 1. Configure delegation of provisioning and management of Azure resources by using built-in Role-Based Access Control (RBAC) roles and built-in Azure policies.
-  * Exercise 2. Verify delegation by provisioning Azure resources as a delegated admin and auditing provisioning events.
+  * Exercise 1. Configure delegation of provisioning and management of Azure resources by using built-in Role-Based Access Control (RBAC) roles and built-in Azure policies
+  * Exercise 2. Verify delegation by provisioning Azure resources as a delegated admin and auditing provisioning events
+  * Time: 60 minutes
 * [Lab 2 - Governance and Compliance](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/Governance%20and%20Compliance%20(az-100-01b).md)
   * Exercise 1. Implement Azure tags by using Azure policies and initiatives
   * Exercise 2. Implement Azure resource locks
+  * Time: 60 minutes
 
 ## Module 12 - Data Services
 
@@ -137,3 +145,4 @@
   * Exercise 0. Prepare the lab environment
   * Exercise 1. Prepare Azure File Sync infrastructure
   * Exercise 2. Implement Azure File Sync
+  * Time: 60 minutes
