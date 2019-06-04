@@ -49,7 +49,8 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 
 |Module|Activity|Duration|
 |-|-|-|
-||||
+|Review||15|
+|M03|Azure Storage||
 |Break||15|
 ||||
 |Lunch||60|
