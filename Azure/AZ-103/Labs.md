@@ -43,5 +43,6 @@
   * Exercise 1: Configure VNet Peering
   * Exercise 2: Implement custom routing
   * Exercise 3: Validate service chaining
+  * Time: 60 minutes
 
 
