@@ -69,7 +69,7 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 |M05|Intersite Connectivity|30|
 |Lab|VNet Peering and Service Chaining|60|
 |Break||15|
-||||
+|M06|Monitoring|60|
 |Lunch||60|
 ||||
 |Break||15|
