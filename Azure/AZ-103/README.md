@@ -59,13 +59,15 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 |Break||15|
 |M04|Virtual Networking|30|
 |Lab|Configure Azure DNS|60|
-|Finish|4:30||
+|M05|Intersite Connectivity|60|
+|Finish|5:00||
 
 ## Day 3
 
 |Module|Activity|Duration|
 |-|-|-|
-||||
+|M05|Intersite Connectivity|30|
+|Lab|VNet Peering and Service Chaining|60|
 |Break||15|
 ||||
 |Lunch||60|
