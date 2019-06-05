@@ -76,6 +76,10 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 |Elected Modules and Labs|||
 |Finish|4:30||
 
-## Day 4
+## Day 4 - Elected Modules
 
-Elected Modules
+Module Popularity Contest:
+
+|M07|M08|M09|M10|M11|M12|M13|
+|-|-|-|-|-|-|-|
+|1|||1|1|||
