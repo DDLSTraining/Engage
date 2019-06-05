@@ -71,22 +71,11 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 |Break||15|
 |M06|Monitoring|60|
 |Lunch||60|
-||||
+|M06|Monitoring|30|
 |Break||15|
-||||
-|Lab||60|
+|Elected Modules and Labs|||
 |Finish|4:30||
 
 ## Day 4
 
-|Module|Activity|Duration|
-|-|-|-|
-||||
-|Break||15|
-||||
-|Lunch||60|
-||||
-|Break||15|
-||||
-|Lab||60|
-|Finish|4:30||
+Elected Modules
