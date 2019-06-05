@@ -80,6 +80,6 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 
 Module Popularity Contest:
 
-|M07|M08|M09|M10|M11|M12|M13|
-|-|-|-|-|-|-|-|
-|1|||1|1|||
+|M07|M08|M09|M10|M11|M12|
+|-|-|-|-|-|-|
+|1|||1|1||
