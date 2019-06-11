@@ -92,6 +92,8 @@ Bookmark the URLs in [References](#references) below.
 
 ## Resources
 
+* [SharePoint Online Limits](https://docs.microsoft.com/en-us/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+
 ### Major Changes
 
 * [Introducing a free version of Microsoft Teams](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Introducing-a-free-version-of-Microsoft-Teams/ba-p/214592)
