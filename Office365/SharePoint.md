@@ -2,8 +2,10 @@
 
 ## Reference Documentation
 
+* Classic Admin Centre - `https://<your tenant name>.sharepoint.com/_layouts/15/online/tenantsettings.aspx`
 * [SharePoint Online Limits](https://docs.microsoft.com/en-us/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 * [PnP PowerShell](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
+* [Disable Delve - Office Graph](https://docs.microsoft.com/en-us/sharepoint/delve-for-office-365-admins)
 
 ## Tools
 
