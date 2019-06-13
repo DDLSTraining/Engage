@@ -5,6 +5,11 @@
 * [SharePoint Online Limits](https://docs.microsoft.com/en-us/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 * [PnP PowerShell](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
+## Tools
+
+* [SharePoint Designer 2013](https://www.microsoft.com/en-au/download/details.aspx?id=35491)
+  * [SharePoint Designer 2013 SP1](https://www.microsoft.com/en-us/download/details.aspx?id=42015)
+
 ## Hub Sites
 
 * [What is a SharePoint hub site?](https://support.office.com/en-us/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
