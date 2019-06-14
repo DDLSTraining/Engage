@@ -15,6 +15,8 @@ Examples:
 * `https://company.sharepoint.com/_layouts/settings.aspx`
 * `https://company.sharepoint.com/sites/somesitename/_layouts/settings.aspx`
 
+Stubs:
+
 * Classic Admin Centre - `https://<your tenant name>.sharepoint.com/_layouts/online/tenantsettings.aspx`
 * Site Setttings - `_layouts/settings.aspx`
 * Site Contents - `_layouts/viewlsts.aspx`
