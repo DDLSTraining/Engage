@@ -9,6 +9,7 @@
 ## Link Stubs
 
 Place `_layouts/...` after the site name in the URL.
+
 Example: `https://company.sharepoint.com/_layouts/settings.aspx`
 
 * Classic Admin Centre - `https://<your tenant name>.sharepoint.com/_layouts/15/online/tenantsettings.aspx`
