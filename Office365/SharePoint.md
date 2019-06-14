@@ -10,9 +10,12 @@
 
 Place `_layouts/...` after the site name in the URL.
 
-Example: `https://company.sharepoint.com/_layouts/settings.aspx`
+Examples:
 
-* Classic Admin Centre - `https://<your tenant name>.sharepoint.com/_layouts/15/online/tenantsettings.aspx`
+* `https://company.sharepoint.com/_layouts/settings.aspx`
+* `https://company.sharepoint.com/sites/somesitename/_layouts/settings.aspx`
+
+* Classic Admin Centre - `https://<your tenant name>.sharepoint.com/_layouts/online/tenantsettings.aspx`
 * Site Setttings - `_layouts/settings.aspx`
 * Site Contents - `_layouts/viewlsts.aspx`
 * Site Permissions - `_layouts/user.aspx`
