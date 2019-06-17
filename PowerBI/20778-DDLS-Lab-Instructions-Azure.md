@@ -63,7 +63,7 @@ information about the estimated number of bikes owned in each country.
 3.  In the **Get Data** dialog box, click Azure, then click Azure **SQL
     Database**, and then click **Connect**.
 
-4.  In the **SQL Server Database** dialog box, in the **Server** box,    type **<servername>.database.windows.net**.
+4.  In the **SQL Server Database** dialog box, in the **Server** box,    type **servername.database.windows.net**.
     Your instructor will provide the correct servername.
 
 5.  In the **Database (optional)** box, type **AdventureWorksDW**, and
