@@ -2,8 +2,7 @@
 
 This directory contains resources common to any cloud provider.
 
-## Cloud Computing
-
+## Cloud Computing Characteristics
 
 The [National Institute of Standards and Technology's](https://www.nist.gov/) definition of cloud computing identifies "five essential characteristics":
 
