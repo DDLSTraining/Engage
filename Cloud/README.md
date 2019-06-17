@@ -2,17 +2,20 @@
 
 This directory contains resources common to any cloud provider.
 
-## Contents
+## Cloud Computing
 
-* [API](/Cloud/API.md) - Cloud API and endpoint management.
-* [Architecture](/Cloud/Architecture.md) - Cloud application design and architecture.
-* [Compare](/Cloud/Compare.md) - Comparisons between the different cloud providers.
-* [Datasets](/Cloud/Datasets.md) - Freely available online datasets for machine learning.
-* [Deployment](/Cloud/Deployment.md) - Infrastructure as code deployment resources.
-* [IoT](/Cloud/IoT.md) - Internet of things resources.
-* [Kubernetes Tutorial](/Cloud/Kubernetes-Tutorial.md) - Kubernetes cluster management hands-on.
-* [Stream](/Cloud/Stream.md) - Cloud streaming technologies.
-* [Tools](/Cloud/Tools.md) - List of cloud deployment and management tools.
+
+The [National Institute of Standards and Technology's](https://www.nist.gov/) definition of cloud computing identifies "five essential characteristics":
+
+* __On-demand self-service__: A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider.
+
+* __Broad network access__: Capabilities are available over the network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.g., mobile phones, tablets, laptops, and workstations).
+
+* __Resource pooling__: The provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically assigned and reassigned according to consumer demand. 
+
+* __Rapid elasticity__: Capabilities can be elastically provisioned and released, in some cases automatically, to scale rapidly outward and inward commensurate with demand. To the consumer, the capabilities available for provisioning often appear unlimited and can be appropriated in any quantity at any time.
+
+* __Measured service__: Cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, and active user accounts). Resource usage can be monitored, controlled, and reported, providing transparency for both the provider and consumer of the utilized service.
 
 ## Containers
 
