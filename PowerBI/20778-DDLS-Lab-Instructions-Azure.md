@@ -63,14 +63,16 @@ information about the estimated number of bikes owned in each country.
 3.  In the **Get Data** dialog box, click Azure, then click Azure **SQL
     Database**, and then click **Connect**.
 
-4.  In the **SQL Server Database** dialog box, in the **Server** box,    type **ddlsrb.database.windows.net**.
+4.  In the **SQL Server Database** dialog box, in the **Server** box,    type **<servername>.database.windows.net**.
+    Your instructor will provide the correct servername.
 
 5.  In the **Database (optional)** box, type **AdventureWorksDW**, and
     then click **OK**.
 
 6.  If the **Access a SQL Server Database** dialog box appears, change
     it from Windows to Database, and enter the User name of **Student**
-    and Password of **Pa$$w0rd**, and then click **Connect**.
+    and Password of **Pa$$w0rd**, and then click **Connect**. 
+    If these credentials are incorrect, your instructor will provide alternatives.
 
 7.  If the **Encryption Support** dialog box appears, click **OK**.
 
