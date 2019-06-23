@@ -12,11 +12,12 @@
 |0|Course Introduction|5|
 |1|AWS Introduction and History|30|
 |Demo|AWS Management Console|10|
-|2|Foundational Services|30|
+|2|Foundational Services: EC2, VPC|30|
 |Break||15|
 |Lab 1|Build your VPC and Launch a Web Server|45|
-|3|Security, Identity, and Access Management|35|
+|2|Foundational Services: S3, EBS|30|
 |Demo|S3|10|
+|3|Security, Identity, and Access Management|35|
 |Lunch||60|
 |Demo|IAM|10|
 |4|Databases: RDS, DynamoDB|45|
