@@ -22,7 +22,7 @@
 |Demo|IAM|10|
 |4|Databases: RDS, DynamoDB|45|
 |Break||15|
-|Lab 2|Build your Database Server and Connect to it|45|
+|Lab 2|Build your Database Server|45|
 |5|AWS Elasticity and Management Tools|30|
 |Lab 3|Scale and Load Balance your Architecture|45|
 |Finish|Course Wrap-up|5:00|
