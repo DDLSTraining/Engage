@@ -24,6 +24,7 @@ Resources:
 Resources:
 
 * [Multipart Upload Overview](https://docs.aws.amazon.com/AmazonS3/latest/dev/mpuoverview.html)
+* [Amazon S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/)
 
 ## Module 3: Adding A Compute Layer
 
