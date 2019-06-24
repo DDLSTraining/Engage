@@ -14,7 +14,7 @@ Resources:
 * [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
   * [CloudFront Edge Locations](https://aws.amazon.com/cloudfront/features/)
 
-## Module 2:The Simplest Architectures
+## Module 2: The Simplest Architectures
 
 * Amazon Simple Storage Service (Amazon S3)
 * Amazon Glacier
