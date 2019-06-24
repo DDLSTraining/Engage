@@ -9,6 +9,8 @@
 * AWS global infrastructure
 * Large-scale architectural design
 
+Resources:
+
 * [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
   * [CloudFront Edge Locations](https://aws.amazon.com/cloudfront/features/)
 * [Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/):
@@ -61,6 +63,8 @@
 * Multiple Accounts
 * Review
 
+Resources:
+
 * [Root User](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html):
   * [IAM Best Practices (Secure the Root User Account)](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
   * [AWS Tasks That Require AWS Account Root User Credentials](https://docs.aws.amazon.com/general/latest/gr/aws_tasks-that-require-root.html)
@@ -77,6 +81,8 @@
 * Gaining Elasticity and Scaling Your Architecture
 * Scaling Your Databases
 * **Lab 4**: Creating a Highly Available Environment
+
+Resources:
 
 * [EC2 Auto Scaling](https://aws.amazon.com/ec2/autoscaling/)
 
