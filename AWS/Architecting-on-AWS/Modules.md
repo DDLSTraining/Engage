@@ -24,6 +24,7 @@ Resources:
 Resources:
 
 * [Multipart Upload Overview](https://docs.aws.amazon.com/AmazonS3/latest/dev/mpuoverview.html)
+* [Glacier Vault Lock](https://docs.aws.amazon.com/amazonglacier/latest/dev/vault-lock.html)
 * [Amazon S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/)
 
 ## Module 3: Adding A Compute Layer
@@ -35,6 +36,12 @@ Resources:
 * Amazon EC2 Instance Types
 * Amazon EC2 Pricing Options
 * Amazon EC2 Considerations
+
+Resources:
+
+* [Block Device Mapping](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/block-device-mapping-concepts.html)
+* [EBS Features](https://aws.amazon.com/ebs/features/)
+* [EC2 Instance Types](https://aws.amazon.com/ec2/instance-types/)
 
 ## Module 4: Adding A Database Layer
 
