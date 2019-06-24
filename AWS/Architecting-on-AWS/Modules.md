@@ -9,10 +9,10 @@
 
 Resources:
 
-* [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
-  * [CloudFront Edge Locations](https://aws.amazon.com/cloudfront/features/)
 * [Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/):
   * [AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)
+* [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
+  * [CloudFront Edge Locations](https://aws.amazon.com/cloudfront/features/)
 
 ## Module 2:The Simplest Architectures
 
