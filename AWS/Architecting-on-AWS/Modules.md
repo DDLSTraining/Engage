@@ -1,4 +1,4 @@
-# Architecting on AWS Course Reference
+# Architecting on AWS Course Reference v6.4
 
 ## Module Links and References
 
