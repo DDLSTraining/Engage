@@ -21,6 +21,10 @@ Resources:
 * Choosing Regions for your Architectures
 * **Lab 1**: Hosting a Static Website
 
+Resources:
+
+* [Multipart Upload Overview](https://docs.aws.amazon.com/AmazonS3/latest/dev/mpuoverview.html)
+
 ## Module 3: Adding A Compute Layer
 
 * Amazon Elastic Compute Cloud (Amazon EC2)
