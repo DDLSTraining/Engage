@@ -1,9 +1,9 @@
-# Architecting on AWS
+# Architecting on AWS v6.4
 
 ## Reference Links
 
 * [Courseware at eVantage by Gilmore Global](https://evantage.gilmoreglobal.com/#/user/signin)
-* [Qwiklabs](https://https://ddls.qwiklabs.com/)
+* [Qwiklabs](https://ddls.qwiklabs.com/)
 
 ## Course Timing
 
