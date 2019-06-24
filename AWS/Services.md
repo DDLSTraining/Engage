@@ -4,7 +4,7 @@ One of the hardest things to learn when starting out with AWS is the vast array 
 
 Under each service summary you will find a `🤔 Think of` point. You may also find a `🌏 Scope` or `🗺️ Related` or both points. Use these points as a quick reminder of the service function, its scope (Availability Zone, Region, or Global), and related technologies.
 
-For a more complete coverage of modern application development and the AWS products available, read the excellent document titled [Architecting for the Cloud - AWS Best Practices](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf).
+For a more complete coverage of modern application development and the AWS products available, read the excellent document titled [Architecting for the Cloud - AWS Best Practices](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf).
 
 Service Categories:
 
