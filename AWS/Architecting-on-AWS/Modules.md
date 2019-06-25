@@ -91,7 +91,8 @@ Resources:
   * [IAM JSON Policy Reference](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies.html)
   * [Example IAM Identity-Based Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html)
   * [Managed Policies and Inline Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html)
-* [Temporary Security Credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp.html)  
+* [Temporary Security Credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp.html)
+* [Service Control Policies](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scp.html)
 
 ## Module 8: Elasticity, High Availability, and Monitoring
 
@@ -104,6 +105,8 @@ Resources:
 Resources:
 
 * [EC2 Auto Scaling](https://aws.amazon.com/ec2/autoscaling/)
+* [Step Scaling Policies for Application Auto Scaling](https://docs.aws.amazon.com/autoscaling/application/userguide/application-auto-scaling-step-scaling-policies.html)
+* [Amazon EC2 Auto Scaling Lifecycle Hooks](https://docs.aws.amazon.com/autoscaling/ec2/userguide/lifecycle-hooks.html)
 
 ## Module 9: Automation
 
@@ -112,6 +115,11 @@ Resources:
 * Automating Deployments
 * A Little More Hands Off
 * **Lab 5**: Automating Infrastructure Deployment with AWS CloudFormation
+
+Resources:
+
+* [AWS Quick Starts - AWS Docs](https://aws.amazon.com/quickstart/)
+* [AWS Quick Start - GitHub](https://github.com/aws-quickstart)
 
 ## Module 10: Caching
 
