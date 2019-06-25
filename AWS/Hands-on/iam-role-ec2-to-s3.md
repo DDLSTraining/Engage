@@ -1,6 +1,6 @@
-# IAM Role EC2 to S3 Demonstration
+# IAM Role EC2 to S3 Hands-on
 
-This demonstrations shows the use of IAM Roles to enable an EC2 instance to have Read Only access to an S3 Bucket.
+This exercise shows the use of IAM Roles to enable an EC2 instance to have Read Only access to an S3 Bucket.
 
 ## Steps
 
