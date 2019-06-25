@@ -1,6 +1,6 @@
-# AWS Demonstrations
+# AWS Hands-on Labs and Exercises
 
-* [IAM Role EC2 to S3](/AWS/Demonstrations/iam-role-ec2-to-s3.md)
+Find in this directory extra hands-on you can do to expand your knowledge of AWS.
 
 ## Authoring Rules
 
@@ -16,6 +16,6 @@ Example:
 
 `iam-role-ec2-to-s3.md`
 
-For the demonstration content, keep the steps at a high level. Do not go into detail on where to click. Just supply enough detail so anyone with knowledge of AWS can complete the steps. This will keep maintenance to a minimum.
+For the lab content, keep the steps at a high level. Do not go into detail on where to click. Just supply enough detail so anyone with knowledge of AWS can complete the steps. This will keep maintenance to a minimum.
 
 See the [iam-role-ec2-to-s3](iam-role-ec2-to-s3.md) demonstration as an example or template.
