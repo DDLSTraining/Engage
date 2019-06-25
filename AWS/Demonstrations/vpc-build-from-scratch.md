@@ -14,6 +14,8 @@ The following resources are created:
 * Elastic IP
 * EC2 Instance
 
+## Steps
+
 1. In VPC, create a new VPC:
    * Do not use the Launch Wizard.
    * Name: `scratch-vpc`
@@ -87,7 +89,9 @@ The following resources are created:
 1. Open a browser and paste in the Public IP Address.
 1. You should see the apache test page.
 1. Add `phpinfo.php` on to the addres and you should see the PHP Info page.
-   
+
+Use the below script for your User Data in the EC2 Instance:
+
 ```bash
 #!/bin/bash
 yum update -y
