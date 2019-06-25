@@ -58,12 +58,20 @@ Resources:
 * Review
 * **Lab 3**: Creating a Virtual Private Cloud
 
+Resources:
+
+* [Amazon VPC Limits](https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-limits.html)
+
 ## Module 6: Networking In AWS Part 2
 
 * Connecting Networks
 * Load Balancing on AWS
 * High Availability
 * Multi-Region High Availability and DNS
+
+Resources:
+
+* [What is AWS Site-to-Site VPN?](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
 
 ## Module 7: AWS Identity and Access Management
 
