@@ -44,13 +44,13 @@ The following resources are created:
         * Rule #: 100
         * Type: HTTP (80)
      1. Second rule:
-   * Rule #: 200
+        * Rule #: 200
         * Type: SSH (22)
      1. Third Rule:
         * Used for package installation (client ports)
         * Rule #: 300
-   * Type: Custom TCP
-   * Port Range: 32768-65535
+        * Type: Custom TCP
+        * Port Range: 32768-65535
    * One new Outbound Rule:
      * Rule #: 1000
      * Type: All Traffic
