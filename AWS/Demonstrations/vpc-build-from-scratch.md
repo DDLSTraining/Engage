@@ -34,6 +34,7 @@ The following resources are created:
    * Add a new route.
    * Destination: `0.0.0.0/0`
    * Target: `igw` named `scratch-igw`
+1. Set `scratch-route-table` as the Main route table for the `scratch-vpc`.
 1. Create a Network ACL:
    * Name: `scratch-nacl`
    * Attach to the `scratch-vpc`.
