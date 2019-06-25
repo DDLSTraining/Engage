@@ -1,6 +1,6 @@
 # VPC from Scratch
 
-This excercise will walk you though manually creating all the resources to publish a web server on an EC2 instance.
+This exercise will walk you though manually creating all the resources to publish a web server on an EC2 instance.
 
 The following resources are created:
 
@@ -44,16 +44,16 @@ The following resources are created:
         * Rule #: 100
         * Type: HTTP (80)
      1. Second rule:
-	* Rule #: 200
+   * Rule #: 200
         * Type: SSH (22)
      1. Third Rule:
         * Used for package installation (client ports)
         * Rule #: 300
-	* Type: Custom TCP
-	* Port Range: 32768-65535
+   * Type: Custom TCP
+   * Port Range: 32768-65535
    * One new Outbound Rule:
      * Rule #: 1000
-	 * Type: All Traffic
+     * Type: All Traffic
    * Edit subnet associations and associate with the `scratch-subnet`.
 1. Create a new Security Group:
    * Name: `scratch-security-group`
@@ -62,10 +62,10 @@ The following resources are created:
 1. Select the `scratch-security-group` and add two new Inbound Rules:
    1. First Rule:
       * Type: SSH
-	  * Source: Anywhere
+      * Source: Anywhere
    1. Second Rule:
       * Type: HTTP
-	  * Source: Anywhere
+      * Source: Anywhere
 1. In EC2, Create a Network Interface:
    * Description: Scratch network interface.
    * Subnet: `scratch-subnet`
