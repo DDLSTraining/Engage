@@ -39,13 +39,18 @@ The following resources are created:
    * Name: `scratch-nacl`
    * Attach to the `scratch-vpc`.
 1. Select the `scratch-nacl` and edit the following:
-   * Two new Inbound Rules:
+   * Three new Inbound Rules:
      1. First Rule:
-        * Rule #: 1000
+        * Rule #: 100
         * Type: HTTP (80)
      1. Second rule:
-	    * Rule #: 2000
+	* Rule #: 200
         * Type: SSH (22)
+     1. Third Rule:
+        * Used for package installation (client ports)
+        * Rule #: 300
+	* Type: Custom TCP
+	* Port Range: 32768-65535
    * One new Outbound Rule:
      * Rule #: 1000
 	 * Type: All Traffic
