@@ -72,6 +72,7 @@ Resources:
 Resources:
 
 * [What is AWS Site-to-Site VPN?](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
+* [What is VPC Peering?](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
 
 ## Module 7: AWS Identity and Access Management
 
