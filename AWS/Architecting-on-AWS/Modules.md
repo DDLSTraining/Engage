@@ -154,3 +154,7 @@ Resources:
 * Group Challenge
 * Design an Architecture
 
+Resources:
+
+* [AWS Architecture Center](https://aws.amazon.com/architecture/)
+
