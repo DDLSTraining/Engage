@@ -32,3 +32,4 @@
 * [Use Cloud Explorer for Visual Studio to send and receive messages between your device and IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-visual-studio-cloud-device-messaging)
 * [IOT Windows Core Series](https://www.youtube.com/watch?v=A-kazyOiBvs)
 * [Tutorial: Use Azure Key Vault with a Windows virtual machine in .NET](https://docs.microsoft.com/en-us/azure/key-vault/tutorial-net-windows-virtual-machine)
+* [Deploy to Azure Functions using the Jenkins Azure Functions plugin](https://docs.microsoft.com/en-us/azure/jenkins/jenkins-azure-functions-deploy)
