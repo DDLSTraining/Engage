@@ -9,9 +9,10 @@ Table of Contents
 * [Unit 2: Implementing Workloads and Security](#unit-2-implementing-workloads-and-security)
 * [Unit 3: Understanding Cloud Architect Technology Solutions](#unit-3-understanding-cloud-architect-technology-solutions)
 * [Unit 4: Creating and Deploying Apps](#unit-4-creating-and-deploying-apps)
-* [Unit 5: Developing for the Cloud](#unit-5-developing-for-the-clound)
+* [Unit 5: Developing for the Cloud](#unit-5-developing-for-the-cloud)
 
 ## Unit 1: Deploying and Configuring Infrastructure
+<hr>
 
 ### Module 01: Managing Azure Subscriptions and Resources
 
