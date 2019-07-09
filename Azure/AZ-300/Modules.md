@@ -12,7 +12,6 @@ Table of Contents
 * [Unit 5: Developing for the Cloud](#unit-5-developing-for-the-cloud)
 
 ## Unit 1: Deploying and Configuring Infrastructure
-<hr>
 
 ### Module 01: Managing Azure Subscriptions and Resources
 
