@@ -20,7 +20,7 @@ Table of Contents
 * Azure Activity Logs and Log Analytics
 * Network Watcher
 * Subscriptions and Accounts
-* **Lab**: Exploring Monitoring Capabilities in Azure
+* **Lab**: [Exploring Monitoring Capabilities in Azure](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T01_Lab_Mod01_Exploring%20Monitoring%20Capabilities%20in%20Azure.md)
 
 ### Module 02: Implementing and Managing Storage
 
@@ -36,7 +36,7 @@ Table of Contents
 * Backup and Restore
 * Virtual Machine Extensions
 * Monitoring Virtual Machines
-* **Lab**: Implementing Custom Azure VM Images
+* **Lab**: [Implementing Custom Azure VM Images](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T01_Lab_Mod03_Implementing%20Custom%20Azure%20VM%20Images.md)
 
 ### Module 04: Configuring and Managing Virtual Networks
 
@@ -53,7 +53,7 @@ Table of Contents
 * Managing Azure Active Directory
   * **Practice**: Self-Service Password Reset
 * Implementing and Managing Hybrid Identities
-* **Lab**: Implementing user-assigned managed identities for Azure resources
+* **Lab**: [Implementing user-assigned managed identities for Azure resources](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T01_Lab_Mod05_Implementing%20user-assigned%20managed%20identities%20for%20Azure%20resources.md)
 
 ## Unit 2: Implementing Workloads and Security
 
@@ -64,7 +64,7 @@ Table of Contents
 * Overview of Azure Site Recovery
 * Preparing the Infrastructure
 * Datacenter Migration using Migration Factory
-* **Lab**: Implementing Azure to Azure Migration
+* **Lab**: [Implementing Azure to Azure Migration](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T02_Lab_Mod01_Implementing%20Azure%20to%20Azure%20migration.md)
 
 ### Module 02: Evaluating and Performing Server Migration to Azure
 
@@ -94,7 +94,7 @@ Table of Contents
   * **Optional Practice**: Application Gateway
 * VNet-to-VNet Connections
 * ExpressRoute Connections
-* **Lab**: Configuring VNet Peering and Service Chaining
+* **Lab**: [Configuring VNet Peering and Service Chaining](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T02_Lab_Mod03_Configuring%20VNet%20peering%20and%20service%20chaining.md)
 
 ### Module 04: Determining Azure Workload Requirements
 
@@ -107,7 +107,7 @@ Table of Contents
 ### Module 01: Selecting Compute and Storage Solutions
 
 * Design and Connectivity Patterns
-* **Lab** - Implementing Azure Storage Access Controls
+* **Lab** - [Implementing Azure Storage Access Controls](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T03_Lab_Mod01_Implementing%20Azure%20Storage%20access%20controls.md)
 
 ### Module 02: Hybrid Networking
 
@@ -118,7 +118,7 @@ Table of Contents
 
 * Address Durability of Data and Caching
 * Measure Throughput and Structure of Data Access
-* **Lab**: Implementing Azure Load Balancer Standard
+* **Lab**: [Implementing Azure Load Balancer Standard](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T03_Lab_Mod03_Implementing%20Azure%20Load%20Balancer%20Standard.md)
 
 ### Module 04: Implementing Authentication
 
@@ -128,7 +128,7 @@ Table of Contents
 * Role-Based Access Control
 * Implement OAuth2 authentication
 * Implement managed identities for Azure resources
-* **Lab**: Implementing Custom Role Based Access Control Roles
+* **Lab**: [Implementing Custom Role Based Access Control Roles](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T03_Lab_Mod04_Implementing%20custom%20Role%20Based%20Access%20Control%20roles.md)
 
 ### Module 05: Implementing Secure Data
 
@@ -157,7 +157,7 @@ Table of Contents
 * Creating Background Tasks
 * Using Swagger to document an API
 * Creating an App Service Logic App
-* **Lab** - Implementing Azure Logic Apps
+* **Lab** - [Implementing Azure Logic Apps](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T04_Lab_Mod01_Implementing%20Azure%20Logic%20Apps.md)
 
 ### Module 02: Creating Apps and Services Running on Service Fabric
 
@@ -186,6 +186,7 @@ Table of Contents
 * Implement large-scale, parallel, and high-performance apps by using batches
 * Implement resilient apps by using queues
 * Implement code to address application events by using webhooks
+* **Lab**: [Configuring a Message-Based Integration Architecture](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T06_Lab_Mod01_Configuring%20a%20Message-Based%20Integration%20Architecture.md)
 
 ### Module 02: Configuring a Message-Based Integration Architecture
 
