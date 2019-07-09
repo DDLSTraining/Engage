@@ -98,4 +98,123 @@ Table of Contents
 
 ## Unit 3: Understanding Cloud Architect Technology Solutions
 
-### 
+### Module 01: Selecting Compute and Storage Solutions
+
+* Design and Connectivity Patterns
+* **Lab** - Implementing Azure Storage Access Controls
+
+### Module 02: Hybrid Networking
+
+* Hybrid Networking
+* Virtual Network-to-Network
+
+### Module 03: Measure Throughput and Structure of Data Access
+
+* Address Durability of Data and Caching
+* Measure Throughput and Structure of Data Access
+* **Lab**: Implementing Azure Load Balancer Standard
+
+### Module 04: Implementing Authentication
+
+* Implementing Authentication in Applications
+* Implement Multi-factor Authentication
+* Claims-based Authoriztion
+* Role-Based Access Control
+* Implement OAuth2 authentication
+* Implement managed identities for Azure resources
+* **Lab**: Implementing Custom Role Based Access Control Roles
+
+### Module 05: Implementing Secure Data
+
+* Encryption Options
+* End-to-end Encryption
+* Implement Azure confidential computing
+* Implement SSL and TLS communications
+* Manage Cryptographic Keys in Azure Key Vault
+
+### Module 06: Business Continuity and Resiliency in Azure
+
+* Business Continuity and Resiliency
+* High Availability and Disaster Recovery
+* Resiliency
+* Application Design
+* Testing, Deployment, and Maintenance
+* Data Management
+* Monitoring and Disaster Recovery
+
+## Unit 4: Creating and Deploying Apps
+
+### Module 01: Creating Web Applications using PaaS
+
+* Introduction to Web Apps
+* Using shell commands to create an App Service Web App
+* Creating Background Tasks
+* Using Swagger to document an API
+* Creating an App Service Logic App
+* **Lab** - Implementing Azure Logic Apps
+
+### Module 02: Creating Apps and Services Running on Service Fabric
+
+* Understanding Azure Service Fabric
+* Creating a reliable service
+* Creating a Reliable Actors App
+* Working with Reliable Collections
+
+### Module 03: Using Azure Kubernetes Service
+
+* Creating an Azure Kubernetes Service Cluster
+* Deploy an AKS cluster
+* Publish a container image to Azure Container Registry
+* Create and run container images in Azure Container Instances
+
+### Module 04: Understanding Azure Functions
+
+* Azure Functions Overview
+* Develop Azure Functions using Visual Studio
+* Implement Durable Functions
+
+## Unit 5: Developing for the Cloud
+
+### Module 01: Developing Long-Running Tasks and Distributed Transactions
+
+* Implement large-scale, parallel, and high-performance apps by using batches
+* Implement resilient apps by using queues
+* Implement code to address application events by using webhooks
+
+### Module 02: Configuring a Message-Based Integration Architecture
+
+* Configure an app or service to send emails
+* Configure an event publish and subscribe model
+* Configure the Azure Relay service
+* Create and configure a notification hub
+* Create and configure an event hub
+* Create and configure a service bus
+* Configuring apps and services with Microsoft Graph
+
+### Module 03: Developing for Asynchronous Processing
+
+* Implement parallelism, multithreading, and processing
+* Implement Azure Functions and Azure Logic Apps
+* Implement interfaces for storage or data access
+* Implement appropriate asynchronous computing models
+
+### Module 04: Developing for Autoscaling
+
+* Implement autoscaling rules and patterns
+* Implement code that addresses singleton instances
+* Implement code that addresses a transient state
+
+### Module 05: Developing Azure Cognitive Services Solutions
+
+* Cognitive Services Overview
+* Develop Solutions using Computer Vision
+* Develop Solutions using Bing Web Search
+* Develop Solutions using Custom Speech Service
+* Develop Solutions using QnA Maker
+* Working with the Azure IoT Hub
+
+### Module 06: Develop for Azure Storage
+
+* Develop Solutions that use Azure Cosmos DB Storage
+* Develop Solutions that use a Relational Database
+* Develop Solutions that use Microsoft Azure Blob Storage
