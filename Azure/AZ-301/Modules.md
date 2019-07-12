@@ -6,7 +6,10 @@
 
 Table of Contents:
 
-*
+* [Unit 1: Designing for Identity and Security](#unit-1-designing-for-identity-and-security)
+* [Unit 2: Designing a Data Platform Solution](#unit-2-designing-a-data-platform-solution)
+* [Unit 3: Designing for Deployment Migration and Integration](#unit-3-designing-for-deployment-migration-and-integration)
+* [Unit 4: Designing an Infrastructure Strategy](#unit-4-designing-an-infrastructure-strategy)
 
 ## Unit 1: Designing for Identity and Security
 
