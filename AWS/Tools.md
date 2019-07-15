@@ -21,4 +21,4 @@ Default output format [None]: ENTER
 
 * [Cloudcraft: Draw AWS Diagrams](https://cloudcraft.co/)
 * [Dome9: Cloud Infrastructure Security, AWS Security Monitoring](https://dome9.com/)
-* [Spotinst: Cloud Workload Automation]
+* [Spotinst: Cloud Workload Automation](https://spotinst.com/)
