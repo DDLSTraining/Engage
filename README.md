@@ -8,8 +8,10 @@ Please use it during your course and as a reference after completing the course.
 
 * [AWS](/AWS) - Amazon Web Services Cloud Computing Services
 * [Azure](/Azure) - Microsoft Azure Cloud Computing Platform & Services
-* [Cloud](/Cloud) - Cross-platform Cloud Links and Resources
+* [Cloud](/Cloud) - Cross-platform cloud links and resources
+* [Dev](/Dev) - Developer links and resources
 * [GCP](/GCP) - Google Cloud Platform
+* [MSServer](/MSServer) - Microsoft Windows Server
 * [Office365](/Office365) - Microsoft Office 365
 * [PowerBI](/PowerBI) - Microsoft Power BI
 * [Skype](/Skype) - Microsoft Skype for Business
