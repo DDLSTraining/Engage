@@ -6,9 +6,12 @@ Most of the comparisons will be from the vendors documentation and are not guara
 
 ## Comparison Resources
 
-[AWS - Google - Azure Cloud Comparison](https://caylent.com/aws-google-azure-cloud-comparison/)
-
-[AWS - Azure - Google Cloud - IBM Cloud (Right Scale)](https://www.rightscale.com/cloud-comparison-tool/)
+* [AWS - Google - Azure Cloud Comparison](https://caylent.com/aws-google-azure-cloud-comparison/)
+* [AWS - Azure - Google Cloud - IBM Cloud (Right Scale)](https://www.rightscale.com/cloud-comparison-tool/)
+* Cloud Provider Regions:
+  * [AWS Infrastructure](https://www.infrastructure.aws/)
+  * [GCP Infrastructure](https://cloud.google.com/about/locations/#regions-tab)
+  * [Azure Infrastructure](https://azure.microsoft.com/en-au/global-infrastructure/regions/)
 
 ### Articles
 
