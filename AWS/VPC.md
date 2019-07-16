@@ -2,6 +2,8 @@
 
 * [A Day in the Life of a Billion Packets (CPN401) | AWS re:Invent 2013](https://www.youtube.com/watch?v=Zd5hsL-JNY4)
 
+[![VPC Security](https://docs.aws.amazon.com/vpc/latest/userguide/images/security-diagram.png)](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html)
+
 ## VPC Components and Services
 
 ### Internet Gateway (IGW)
