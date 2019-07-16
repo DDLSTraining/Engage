@@ -2,6 +2,10 @@
 
 This directory contains handy generic internet tools and resources related to technical training.
 
+## Information
+
+* [ipinfo.io](https://ipinfo.io/): IP Data For All Your Business Needs (supports JSON GET requests).
+
 ## Maps
 
 * [Submarine Cable Map](https://www.submarinecablemap.com/)
