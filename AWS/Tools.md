@@ -17,6 +17,10 @@ Default output format [None]: ENTER
 
 ```
 
+## Web Tools
+
+* [Edge Location Speed Test](http://s3-accelerate-speedtest.s3-accelerate.amazonaws.com/en/accelerate-speed-comparsion.html?region=ap-southeast-2)
+
 ## Third-Party Tools
 
 * [Cloudcraft: Draw AWS Diagrams](https://cloudcraft.co/)
