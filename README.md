@@ -11,6 +11,7 @@ Please use it during your course and as a reference after completing the course.
 * [Cloud](/Cloud) - Cross-platform cloud links and resources
 * [Dev](/Dev) - Developer links and resources
 * [GCP](/GCP) - Google Cloud Platform
+* [Internet](/Internet) - Internet Technical Resources
 * [MSServer](/MSServer) - Microsoft Windows Server
 * [Office365](/Office365) - Microsoft Office 365
 * [PowerBI](/PowerBI) - Microsoft Power BI
