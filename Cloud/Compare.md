@@ -12,6 +12,7 @@ Most of the comparisons will be from the vendors documentation and are not guara
   * [AWS Infrastructure](https://www.infrastructure.aws/)
   * [GCP Infrastructure](https://cloud.google.com/about/locations/#regions-tab)
   * [Azure Infrastructure](https://azure.microsoft.com/en-au/global-infrastructure/regions/)
+* [AWS to Azure Service Comparison (By Microsoft)](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 
 ### Articles
 
