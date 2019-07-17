@@ -76,7 +76,7 @@ The following resources are created:
 1. In VPC, allocate an Elastic IP.
 1. Edit the Name of the new Elastic IP:
    * Name: `scratch-elastic-ip`
-1. Select the new Elastic IP and Allocate Address:
+1. Select the new Elastic IP and Assign Address:
    * Type: Network Interface
    * Network Interface: `scratch-network-interface`
    * Private IP: `10.0.0.100`
@@ -86,9 +86,9 @@ The following resources are created:
    * Network: `scratch-vpc`
    * Subnet: `scratch-subnet`
    * Network Interface: `scratch-network-interface`
+   * Advanced User Data: See below.
    * Add tag Name: `scratch-instance`
    * Security Group: Existing `scratch-security-group`
-   * Advanced User Data: See below.
    * Key Pair: Use your own key pair.
 1. Wait for the instance to finish starting and configuring.
 1. Select the `scratch-instance` and copy the Public IP Address.
