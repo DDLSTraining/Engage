@@ -1,14 +1,13 @@
 # Azure Course Notes
 
-Notes and resources for the following Microsoft Azure official courses:
+This directory contains notes and resources for the Microsoft Azure platform.
 
-* [20533 - Implementing Microsoft Azure Infrastructure Solutions](https://www.ddls.com.au/courses/microsoft/azure/microsoft-20533-implementing-microsoft-azure-infrastructure-solutions/)
-* [10979 - Microsoft Azure Fundamentals](https://www.ddls.com.au/courses/microsoft/azure/microsoft-10979-microsoft-azure-fundamentals/)
+Useful resources:
 
-## Contents
+* [Azure Free Trial using Azure Pass](https://www.microsoftazurepass.com/) - Training pass code required.
+* [Azure Free Trial](https://azure.microsoft.com/free/) - Creat a free trial account. Credit card required.
+* [Azure Portal](https://portal.azure.com/) - GUI to manage Azure resources.
+* [Azure Cloud Shell](https://shell.azure.com/) - Command line interface to manage Azure resources.
+* [Skillpipe](https://skillpipe.com/) - Online courseware for Microsoft official courses.
+* [Microsoft Learning on GitHub](https://github.com/MicrosoftLearning) - Microsoft course labs and files.
 
-* [10979 Course Setup](/Azure/10979-Course-Setup.md)
-* [20533 Course Setup](/Azure/20553-Course-Setup.md)
-* [Resources](/Azure/Resources.md)
-* [Containers](/Azure/Containers.md)
-* [Lab Notes 20533](/Azure/Lab-Notes-20533.md)
