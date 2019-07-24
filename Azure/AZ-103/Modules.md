@@ -166,7 +166,7 @@ Table of Contents:
 
 ## Optional Labs
 
-* [Lab - Monitor changes to Azure resources by using Azure Event Grid and Azure Logic Apps](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/Optional%20-%20Azure%20Event%20Grid%20and%20Azure%20Logic%20Apps%20(az-101-02b).md)
-* [Lab - Implement and Manage Azure Web Apps](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/Optional%20-%20Implement%20and%20Manage%20Azure%20Web%20Apps%20(az-101-02).md)
-* [Lab - Migrate on-premises Hyper-V VMs to Azure](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/Optional%20-%20Migrate%20On-premises%20Hyper-V%20VMs%20to%20Azure%20(az-101-01b).md)
-* [Lab - Secure Identities](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/Optional%20-%20Privileged%20Identity%20Management%20(az-101-04).md)
+* [Lab - Monitor changes to Azure resources by using Azure Event Grid and Azure Logic Apps](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/6a01ba8232fc5405e5e0ff41ca43b425bb05ddb8/Instructions/Labs/Optional%20-%20Azure%20Event%20Grid%20and%20Azure%20Logic%20Apps%20(az-101-02b).md)
+* [Lab - Implement and Manage Azure Web Apps](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/6a01ba8232/Instructions/Labs/Optional%20-%20Implement%20and%20Manage%20Azure%20Web%20Apps%20(az-101-02).md)
+* [Lab - Migrate on-premises Hyper-V VMs to Azure](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/6a01ba8232/Instructions/Labs/Optional%20-%20Migrate%20On-premises%20Hyper-V%20VMs%20to%20Azure%20(az-101-01b).md)
+* [Lab - Secure Identities](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/6a01ba8232/Instructions/Labs/Optional%20-%20Privileged%20Identity%20Management%20(az-101-04).md)
