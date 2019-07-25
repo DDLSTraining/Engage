@@ -5,3 +5,7 @@
 * [The end of passwords](https://www.microsoft.com/en-us/security/technology/identity-access-management/passwordless)
 * [Preparing your enterprise to eliminate passwords](https://www.microsoft.com/security/blog/2019/07/11/preparing-your-enterprise-to-eliminate-passwords/)
 
+## Policy
+
+* [Azure Policy definition structure](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure)
+
