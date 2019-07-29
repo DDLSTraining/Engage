@@ -3,9 +3,8 @@
 
 ## Resources
 
-* [Microsoft Learning AZ-103 GitHub Repository](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator)
-* [AZ-103 on DDLS](https://www.ddls.com.au/courses/microsoft/azure/microsoft-az-103t00-microsoft-azure-administrator/)
-* [AZ-103 Exam Details](https://www.microsoft.com/en-us/learning/exam-az-103.aspx)
+* [MS-101 on DDLS](https://https://www.ddls.com.au/courses/microsoft/office-365/microsoft-ms-101-microsoft-365-mobility-and-security/)
+* [AZ-103 Exam Details](https://www.microsoft.com/en-us/learning/exam-ms-101.aspx)
 
 ## Timing
 
