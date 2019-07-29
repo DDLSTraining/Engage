@@ -3,7 +3,7 @@
 
 ## Resources
 
-* [MS-101 on DDLS](https://https://www.ddls.com.au/courses/microsoft/office-365/microsoft-ms-101-microsoft-365-mobility-and-security/)
+* [MS-101 on DDLS](https://www.ddls.com.au/courses/microsoft/office-365/microsoft-ms-101-microsoft-365-mobility-and-security/)
 * [AZ-103 Exam Details](https://www.microsoft.com/en-us/learning/exam-ms-101.aspx)
 
 ## Timing
