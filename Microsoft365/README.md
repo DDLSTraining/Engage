@@ -66,10 +66,4 @@ Course Agenda Day 1 - Microsoft 365 Security Management
 |Elected Modules and Labs|||
 |Finish|4:30||
 
-## Day 4 - Elected Modules
 
-Module Popularity Contest:
-
-|M07|M08|M09|M10|M11|M12|
-|-|-|-|-|-|-|
-|1|1|2|2|2|1|
