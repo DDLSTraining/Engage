@@ -8,9 +8,12 @@
 
 ## Timing
 ## The contents of this 4 day course is taken from three separate courses:
-## * MS-101T01 ## Microsoft 365 Security Management – 1 Day
-* MS-101T02 Microsoft 365 Compliance Management – 2 Days
-* MS-101T03 Microsoft 365 Device Management - 1 Day
+## MS-101T01 
+* Microsoft 365 Security Management – 1 Day
+## MS-101T02 
+* Microsoft 365 Compliance Management – 2 Days
+## MS-101T03 
+* Microsoft 365 Device Management - 1 Day
 
 
 
