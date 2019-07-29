@@ -7,8 +7,12 @@
 * [AZ-103 Exam Details](https://www.microsoft.com/en-us/learning/exam-ms-101.aspx)
 
 ## Timing
+# The contents of this 4 day course is taken from three separate courses:
+* MS-101T01 Microsoft 365 Security Management – 1 Day
+* MS-101T02 Microsoft 365 Compliance Management – 2 Days
+* MS-101T03 Microsoft 365 Device Management - 1 Day
 
-The content for this course is organized into Modules, Lessons, and Topics. There are 12 modules. The first six modules are considered core or foundational to Azure administration.
+
 
 * M01– Azure Administration
 * M02 – Virtual Machines
