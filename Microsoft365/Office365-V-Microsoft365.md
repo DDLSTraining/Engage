@@ -1,6 +1,6 @@
 # Differences between Office 365 and Microsoft 365
-I have started prepping the MS-100 / MS-101 these aren’t just new Office 365 courses they concentrate more on MDM and Identity Protection / Threat management which you do not get with Office 365 subscriptions.  Just to clarify the differences see below
-Office 365
+The MS-100 / MS-101 these aren’t just new Office 365 courses they concentrate more on MDM and Identity Protection / Threat management which you do not get with Office 365 subscriptions.  Just to clarify the differences see below
+## Office 365
 Is a cloud-based suite of apps and services centered around business productivity.  Depending on the plan you Purchase, subscriptions include robust productivity, collaboration, and security features that include apps and services like:
 •  Exchange
 •  Skype for Business
@@ -11,7 +11,7 @@ Is a cloud-based suite of apps and services centered around business productivit
 •  Planner
 •  And much, much more, along with
 Office 365 has a variety of plans on a, per-user per-month subscription. Prices range from $5/user/month and plans can be mixed and matched in your business, and you can change plans at any time.
-Microsoft 365
+## Microsoft 365
 • Microsoft 365 is a bundle of services that includes Office 365.  It also includes Windows 10 Enterprise, Enterprise Mobility + Security (EMS), and machine learning.
 •  Like Office 365, there are multiple plans to choose from depending on your needs. Prices start at $20/user/month. 
 •  The services included in Microsoft 365 are also available as separate licenses. If you can’t find a plan that fits your needs, you can still achieve close to the same results by buying licenses for all the components (though you may miss out on some of the machine learning benefits).
