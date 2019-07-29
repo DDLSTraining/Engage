@@ -14,6 +14,6 @@ Please use it during your course and as a reference after completing the course.
 * [Internet](/Internet) - Internet Technical Resources
 * [MSServer](/MSServer) - Microsoft Windows Server
 * [Office365](/Office365) - Office 365
-* [Microsoft 365](/Microsoft365) - Microsoft 365
+* [Microsoft365](/Microsoft365) - Microsoft 365
 * [PowerBI](/PowerBI) - Microsoft Power BI
 * [Skype](/Skype) - Microsoft Skype for Business
