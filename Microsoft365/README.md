@@ -4,7 +4,7 @@
 ## Resources
 
 * [MS-101 on DDLS](https://www.ddls.com.au/courses/microsoft/office-365/microsoft-ms-101-microsoft-365-mobility-and-security/)
-* [AZ-103 Exam Details](https://www.microsoft.com/en-us/learning/exam-ms-101.aspx)
+* [MS-101 Exam Details](https://www.microsoft.com/en-us/learning/exam-ms-101.aspx)
 
 ## Timing
 ## The contents of this 4 day course is taken from three separate courses:
@@ -16,24 +16,7 @@
 * Microsoft 365 Device Management - 1 Day
 
 
-
-* M01– Azure Administration
-* M02 – Virtual Machines
-* M03 – Azure Storage
-* M04 – Virtual Networking 
-* M05 – Intersite Connectivity
-* M06 – Monitoring 
-
-The last six modules are considered feature-based content.
-
-* M07 – Data Protection
-* M08 – Network Traffic Management
-* M09 – Azure Active Directory
-* M10 – Securing Identities
-* M11 – Governance and Compliance
-* M12 – Data Services
-
-If we cover every slide, demonstration, and lab there is **more content than four days**. So, consider how important each lesson is to you.
+Course Agenda Day 1 - Microsoft 365 Security Management
 
 ## Day 1
 
