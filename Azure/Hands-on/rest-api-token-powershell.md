@@ -184,6 +184,16 @@ $actionHeaders = @{
 Invoke-RestMethod -Method POST -Uri $deallocateUri -Headers $actionHeaders -Verbose
 ```
 
+## Clean Up
+
+Execute the following commands to remove the resources:
+
+```powershell
+Get-AzRoleAssignment -RoleDefinitionName $roleName | Remove-AzRoleAssignment
+Get-AzRoleDefinition -Name $roleName | Remove-AzRoleDefinition
+Get-AzADApplication -DisplayName $appName | Remove-AzADApplication
+```
+
 ## Review
 
 In the above exercise you have created an OAuth 2.0 access token that can be used against the Azure Management API. Take a look at the `scope` value in **Step 10**.
