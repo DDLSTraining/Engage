@@ -202,7 +202,7 @@ Get-AzADApplication -DisplayName $appName | Remove-AzADApplication
 
 In the above exercise you have created an OAuth 2.0 access token that can be used against the Azure Management API. Take a look at the `scope` value in **Step 10**.
 
-Other actions are available. See the [Microsoft documentation](https://docs.microsoft.com/en-us/rest/api/compute/virtualmachines).
+Other Virtual Machine actions are available. See the [Microsoft documentation](https://docs.microsoft.com/en-us/rest/api/compute/virtualmachines).
 
 The access token generated can be used with any HTTP client that supports sending a POST request to the Management API endpoints. You will need to adjust the Role and Scope to work outside of the defined Resource Group.
 
