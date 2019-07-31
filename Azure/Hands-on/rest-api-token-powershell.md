@@ -184,6 +184,10 @@ $actionHeaders = @{
 Invoke-RestMethod -Method POST -Uri $deallocateUri -Headers $actionHeaders -Verbose
 ```
 
+## Optional
+
+If you wish to inspect the JSON Web Token generated, paste the token string into the [jwt.ms](http://jwt.ms/) page. Access the token string using `$token.access_token`.
+
 ## Clean Up
 
 Execute the following commands to remove the resources:
@@ -201,4 +205,5 @@ In the above exercise you have created an OAuth 2.0 access token that can be use
 Other actions are available. See the [Microsoft documentation](https://docs.microsoft.com/en-us/rest/api/compute/virtualmachines).
 
 The access token generated can be used with any HTTP client that supports sending a POST request to the Management API endpoints. You will need to adjust the Role and Scope to work outside of the defined Resource Group.
+
 
