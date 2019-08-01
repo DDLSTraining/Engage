@@ -24,9 +24,10 @@ Table of Contents
 
 ### Module 02: Implementing and Managing Storage
 
-Notes:
-  * The Data Replication subject is repeated in the slides.
-  * Monitoring Storage is a repeat of U01:M01.
+_Notes:_
+* _The Data Replication subject is repeated in the slides._
+* _Monitoring Storage is a repeat of U01:M01._
+
 
 * Azure Storage Accounts
   * **Practice**: Storage Account Management
