@@ -1,10 +1,29 @@
 # Azure Hands-on Labs and Exercises
 
+Table of Contents:
+
+* [APIs](#apis)
+* [Azure Management](#azure-management)
+* [Data and Databases](#data-and-databases)
+* [Internet of Things](#internet-of-things)
+* [Message Queues](#message-queues)
+* [Monitoring and Log Analytics](#monitoring-and-log-analytics)
+* [Networking](#networking)
+* [Security](#security)
+* [Serverless](#serverless)
+* [Storage](#storage)
+
 ## APIs
 
 * [Create an OpenAPI definition for a function](https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition)
 * [Create a custom connector from an OpenAPI definition](https://docs.microsoft.com/en-us/connectors/custom-connectors/define-openapi-definition)
 * [Create a new Azure API Management service instance](https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance) - Then do all tutorials
+
+## Azure Management
+
+* [Azure Resource Manager REST API using PowerShell](azure-resource-manager-rest-api-using-powershell.md)
+* [Create and manage policies to enforce compliance](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage)
+* [Create a custom policy definition](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-custom-policy-definition)
 
 ## Automation with Azure Resource Manager
 
@@ -21,12 +40,6 @@
 * [Raspberry Pi Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/#Getstarted)
 * [Use Cloud Explorer for Visual Studio to send and receive messages between your device and IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-visual-studio-cloud-device-messaging)
 * [IOT Windows Core Series](https://www.youtube.com/watch?v=A-kazyOiBvs)
-
-## Management
-
-* [Azure REST API Exercise using PowerShell](rest-api-token-powershell.md)
-* [Create and manage policies to enforce compliance](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage)
-* [Create a custom policy definition](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-custom-policy-definition)
 
 ## Message Queues
 
