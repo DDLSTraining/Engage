@@ -1,4 +1,4 @@
-# Azure REST API Exercise
+# Azure Resource Manager REST API using PowerShell
 
 This exercise will demonstrate how to call the Azure REST APIs by generating an OAuth access token and calling the Azure management virtual machine endpoint.
 
