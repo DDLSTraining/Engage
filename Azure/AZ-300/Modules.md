@@ -26,9 +26,9 @@ Table of Contents
 
 * Azure Storage Accounts
   * **Practice**: Storage Account Management
-* Data Replication
+* Data Replication **Subject is repeated in the slides**
 * Storing and Accessing Data
-* Monitoring Storage
+* Monitoring Storage **Repeat of U01:M01**
 
 ### Module 03: Deploying and Managing Virtual Machines
 
