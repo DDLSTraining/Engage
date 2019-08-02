@@ -13,7 +13,7 @@ Table of Contents
 
 ## Unit 1: Deploying and Configuring Infrastructure
 
-### Module 01: Managing Azure Subscriptions and Resources
+### Module 01[01]: Managing Azure Subscriptions and Resources
 
 * Exploring Monitoring Capabilities in Azure
 * Azure Alerts
@@ -22,7 +22,7 @@ Table of Contents
 * Subscriptions and Accounts
 * **Lab**: [Exploring Monitoring Capabilities in Azure](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T01_Lab_Mod01_Exploring%20Monitoring%20Capabilities%20in%20Azure.md)
 
-### Module 02: Implementing and Managing Storage
+### Module 02[02]: Implementing and Managing Storage
 
 > Notes:
 > * The Data Replication subject is repeated in the slides.
@@ -35,7 +35,7 @@ Table of Contents
 * Storing and Accessing Data
 * Monitoring Storage
 
-### Module 03: Deploying and Managing Virtual Machines
+### Module 03[03]: Deploying and Managing Virtual Machines
 
 * Creating Virtual Machines in the Azure Portal
 * Backup and Restore
@@ -43,7 +43,7 @@ Table of Contents
 * Monitoring Virtual Machines
 * **Lab**: [Implementing Custom Azure VM Images](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T01_Lab_Mod03_Implementing%20Custom%20Azure%20VM%20Images.md)
 
-### Module 04: Configuring and Managing Virtual Networks
+### Module 04[04]: Configuring and Managing Virtual Networks
 
 * Azure Virtual Networks
 * Review of IP Addressing
@@ -53,7 +53,7 @@ Table of Contents
   * **Practice**: VPN Gateways
 * Virtual Network Peering
 
-### Module 05: Managing Identities
+### Module 05[05]: Managing Identities
 
 * Managing Azure Active Directory
   * **Practice**: Self-Service Password Reset
@@ -62,7 +62,7 @@ Table of Contents
 
 ## Unit 2: Implementing Workloads and Security
 
-### Module 01: Evaluating and Performing Server Migration to Azure
+### Module 01[06]: Evaluating and Performing Server Migration to Azure
 
 * Migrate to Azure
 * Azure Migrate Process
@@ -71,7 +71,7 @@ Table of Contents
 * Datacenter Migration using Migration Factory
 * **Lab**: [Implementing Azure to Azure Migration](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T02_Lab_Mod01_Implementing%20Azure%20to%20Azure%20migration.md)
 
-### Module 02: Evaluating and Performing Server Migration to Azure
+### Module 02[07]: Evaluating and Performing Server Migration to Azure
 
 * Deploying Web Apps
   * **Optional Practice**: Deployment Slots
@@ -90,7 +90,7 @@ Table of Contents
 * Managing Logic App
   * **Optional Practice**: Logic App Workflow (Advanced)
 
-### Module 03: Implementing Advanced Virtual Networking
+### Module 03[08]: Implementing Advanced Virtual Networking
 
 * Azure Load Balancer
   * **Optional Practice**: Standard Load Balancer
@@ -101,7 +101,7 @@ Table of Contents
 * ExpressRoute Connections
 * **Lab**: [Configuring VNet Peering and Service Chaining](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T02_Lab_Mod03_Configuring%20VNet%20peering%20and%20service%20chaining.md)
 
-### Module 04: Determining Azure Workload Requirements
+### Module 04[09]: Determining Azure Workload Requirements
 
 * Overview of Customer Case Study
 * Determining Azure Workload Requirements Step-by-Step
@@ -109,23 +109,23 @@ Table of Contents
 
 ## Unit 3: Understanding Cloud Architect Technology Solutions
 
-### Module 01: Selecting Compute and Storage Solutions
+### Module 01[10]: Selecting Compute and Storage Solutions
 
 * Design and Connectivity Patterns
 * **Lab** - [Implementing Azure Storage Access Controls](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T03_Lab_Mod01_Implementing%20Azure%20Storage%20access%20controls.md)
 
-### Module 02: Hybrid Networking
+### Module 02[11]: Hybrid Networking
 
 * Hybrid Networking
 * Virtual Network-to-Network
 
-### Module 03: Measure Throughput and Structure of Data Access
+### Module 03[12]: Measure Throughput and Structure of Data Access
 
 * Address Durability of Data and Caching
 * Measure Throughput and Structure of Data Access
 * **Lab**: [Implementing Azure Load Balancer Standard](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T03_Lab_Mod03_Implementing%20Azure%20Load%20Balancer%20Standard.md)
 
-### Module 04: Implementing Authentication
+### Module 04[13]: Implementing Authentication
 
 * Implementing Authentication in Applications
 * Implement Multi-factor Authentication
@@ -135,7 +135,7 @@ Table of Contents
 * Implement managed identities for Azure resources
 * **Lab**: [Implementing Custom Role Based Access Control Roles](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T03_Lab_Mod04_Implementing%20custom%20Role%20Based%20Access%20Control%20roles.md)
 
-### Module 05: Implementing Secure Data
+### Module 05[14]: Implementing Secure Data
 
 * Encryption Options
 * End-to-end Encryption
@@ -143,7 +143,7 @@ Table of Contents
 * Implement SSL and TLS communications
 * Manage Cryptographic Keys in Azure Key Vault
 
-### Module 06: Business Continuity and Resiliency in Azure
+### Module 06[15]: Business Continuity and Resiliency in Azure
 
 * Business Continuity and Resiliency
 * High Availability and Disaster Recovery
@@ -155,7 +155,7 @@ Table of Contents
 
 ## Unit 4: Creating and Deploying Apps
 
-### Module 01: Creating Web Applications using PaaS
+### Module 01[16]: Creating Web Applications using PaaS
 
 * Introduction to Web Apps
 * Using shell commands to create an App Service Web App
@@ -164,21 +164,21 @@ Table of Contents
 * Creating an App Service Logic App
 * **Lab** - [Implementing Azure Logic Apps](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T04_Lab_Mod01_Implementing%20Azure%20Logic%20Apps.md)
 
-### Module 02: Creating Apps and Services Running on Service Fabric
+### Module 02[17]: Creating Apps and Services Running on Service Fabric
 
 * Understanding Azure Service Fabric
 * Creating a reliable service
 * Creating a Reliable Actors App
 * Working with Reliable Collections
 
-### Module 03: Using Azure Kubernetes Service
+### Module 03[18]: Using Azure Kubernetes Service
 
 * Creating an Azure Kubernetes Service Cluster
 * Deploy an AKS cluster
 * Publish a container image to Azure Container Registry
 * Create and run container images in Azure Container Instances
 
-### Module 04: Understanding Azure Functions
+### Module 04[19]: Understanding Azure Functions
 
 * Azure Functions Overview
 * Develop Azure Functions using Visual Studio
@@ -186,14 +186,14 @@ Table of Contents
 
 ## Unit 5: Developing for the Cloud
 
-### Module 01: Developing Long-Running Tasks and Distributed Transactions
+### Module 01[20]: Developing Long-Running Tasks and Distributed Transactions
 
 * Implement large-scale, parallel, and high-performance apps by using batches
 * Implement resilient apps by using queues
 * Implement code to address application events by using webhooks
 * **Lab**: [Configuring a Message-Based Integration Architecture](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T06_Lab_Mod01_Configuring%20a%20Message-Based%20Integration%20Architecture.md)
 
-### Module 02: Configuring a Message-Based Integration Architecture
+### Module 02[21]: Configuring a Message-Based Integration Architecture
 
 * Configure an app or service to send emails
 * Configure an event publish and subscribe model
@@ -203,20 +203,20 @@ Table of Contents
 * Create and configure a service bus
 * Configuring apps and services with Microsoft Graph
 
-### Module 03: Developing for Asynchronous Processing
+### Module 03[22]: Developing for Asynchronous Processing
 
 * Implement parallelism, multithreading, and processing
 * Implement Azure Functions and Azure Logic Apps
 * Implement interfaces for storage or data access
 * Implement appropriate asynchronous computing models
 
-### Module 04: Developing for Autoscaling
+### Module 04[23]: Developing for Autoscaling
 
 * Implement autoscaling rules and patterns
 * Implement code that addresses singleton instances
 * Implement code that addresses a transient state
 
-### Module 05: Developing Azure Cognitive Services Solutions
+### Module 05[24]: Developing Azure Cognitive Services Solutions
 
 * Cognitive Services Overview
 * Develop Solutions using Computer Vision
@@ -225,7 +225,7 @@ Table of Contents
 * Develop Solutions using QnA Maker
 * Working with the Azure IoT Hub
 
-### Module 06: Develop for Azure Storage
+### Module 06[25]: Develop for Azure Storage
 
 * Develop Solutions that use Azure Cosmos DB Storage
 * Develop Solutions that use a Relational Database
