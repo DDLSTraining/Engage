@@ -22,18 +22,16 @@ Course Agenda Day 1 - Microsoft 365 Security Management
 
 |Module|Activity|Duration|
 |-|-|-|
-|M00|Introductions and Setup|60|
-|M01|Azure Administration|30|
+|M01|Managing Your Security Metrics|60|
 |Break||15|
-|M01|Azure Administration|60|
+|M01|Managing Your Security Metrics|30|
+|M02|Configuring Your Microsoft 365 Security Services|30|
 |Lunch||60|
-|M01|Azure Administration|50|
-|M02|Azure Virtual Machines|60|
+|M02|Configuring Your Microsoft 365 Security Services|30|
+|M03|Using Microsoft 365 Threat Intelligence|60|
 |Break||15|
-|M02|Azure Virtual Machines|60|
-|Lab|Deploy and Manage Virtual Machines|45|
-|Lab|Virtual Machines and Scale Sets|45|
-|Finish|5:30||
+|Lab|Managing Microsoft 365 Security|60|
+|Finish|4:30||
 
 ## Day 2
 
