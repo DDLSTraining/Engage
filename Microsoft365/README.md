@@ -16,7 +16,7 @@
 * Microsoft 365 Device Management - 1 Day
 
 
-Course Agenda Day 1 - Microsoft 365 Security Management
+## Course Agenda Day 1 - Microsoft 365 Security Management
 
 ## Day 1
 
@@ -34,6 +34,8 @@ Course Agenda Day 1 - Microsoft 365 Security Management
 |Finish|4:30||
 
 ## Day 2
+
+## Microsoft 365 Compliance Management – 2 Days
 
 |Module|Activity|Duration|
 |-|-|-|
