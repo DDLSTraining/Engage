@@ -33,37 +33,33 @@
 |Lab|Managing Microsoft 365 Security|60|
 |Finish|4:30||
 
-## Day 2
+## Course Agenda Days 2 & 3 Microsoft 365 Compliance Management – 2 Days
 
-## Microsoft 365 Compliance Management – 2 Days
+## Day 2
 
 |Module|Activity|Duration|
 |-|-|-|
 |Review||15|
-|M03|Azure Storage|60|
+|M01|Introduction to Data Governance in Microsoft 365|60|
 |Break||15|
-|M03|Azure Storage|60|
+|M01|Introduction to Data Governance in Microsoft 365|60|
 |Lunch||60|
-|Lab|Implement and Manage Storage|45|
-|M04|Virtual Networking|60|
+|M02|Archiving and Retention in Microsoft 365|60|
 |Break||15|
-|M04|Virtual Networking|30|
-|Lab|Configure Azure DNS|60|
-|M05|Intersite Connectivity|60|
-|Finish|5:00||
+|M03|Implementing Data Governance in Microsoft 365 Intelligence|30|
+|Finish|4:00||
 
 ## Day 3
 
 |Module|Activity|Duration|
 |-|-|-|
-|M05|Intersite Connectivity|30|
-|Lab|VNet Peering and Service Chaining|60|
+|M04|Managing Data Governance in Microsoft 365|30|
 |Break||15|
-|M06|Monitoring|60|
+|M05|Managing Search and Investigations|60|
 |Lunch||60|
-|M06|Monitoring|30|
+|M06|Hands on Lab|60|
 |Break||15|
-|Elected Modules and Labs|||
-|Finish|4:30||
+|M06|Hands on Lab|60|
+|Finish|4:00||
 
 
