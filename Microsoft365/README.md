@@ -1,5 +1,5 @@
 
-# MS-100 Microsoft 365 Mobility and Security
+# MS-101 Microsoft 365 Mobility and Security
 
 ## Resources
 
