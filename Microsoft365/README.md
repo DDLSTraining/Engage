@@ -53,6 +53,7 @@
 
 |Module|Activity|Duration|
 |-|-|-|
+|Review||15|
 |M04|Managing Data Governance in Microsoft 365|30|
 |Break||15|
 |M05|Managing Search and Investigations|60|
@@ -62,4 +63,19 @@
 |M06|Hands on Lab|60|
 |Finish|4:00||
 
+## Course Agenda Day 4 - Microsoft 365 Device Management
 
+## Day 4
+
+|Module|Activity|Duration|
+|-|-|-|
+|Review||15|
+|M01|Planning for Device Management|60|
+|Break||15|
+|M02|Planning Your Windows 10 Deployment Strategy|60|
+|Lunch||60|
+|M03|Implementing Mobile Device Management|60|
+|Break||15|
+|Lab|Working with Microsft Store for Business|60|
+|Lab|Managing Devices by using Intune|60|
+|Finish|4:00||
