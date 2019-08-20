@@ -2,7 +2,7 @@
 
 * [Microsoft Learning AZ-300 GitHub Repository](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies)
 * [LabFiles](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/tree/master/allfiles)
-* [Microsoft Hands-on Labs](https://www.microsoft.com/handsonlabs)
+* [Microsoft Hands-on Labs (Self-paced Labs)](https://www.microsoft.com/handsonlabs/selfpacedlabs)
 
 Table of Contents
 
