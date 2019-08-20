@@ -47,6 +47,7 @@ Table of Contents:
 * [Get started with Service Bus topics](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions)
 * [Service Bus Code samples](https://codeload.github.com/Azure/azure-service-bus/zip/master)
 * [Route Blob storage events to web endpoint with the Azure portal and Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/blob-event-quickstart-portal)
+* [Route custom events to web endpoint with the Azure portal and Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal)
 
 
 ## Monitoring and Log Analytics
