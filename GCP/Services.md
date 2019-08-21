@@ -6,6 +6,8 @@ Under each service summary you will find a `🤔 Think of` point. You may also f
 
 For a more complete coverage of the GCP products available, checkout the [Products & Services](https://cloud.google.com/products/) documentation.
 
+[Every product in the Google Cloud family described in <=4 words.](https://github.com/gregsramblings/google-cloud-4-words)
+
 Service Categories:
 
 * [Data Analytics](#data-analytics)
