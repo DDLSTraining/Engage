@@ -4,6 +4,8 @@ Table of Contents:
 
 * [APIs](#apis)
 * [Azure Management](#azure-management)
+* [Automation](#automation)
+* [Containers](#containers)
 * [Data and Databases](#data-and-databases)
 * [Internet of Things](#internet-of-things)
 * [Message Queues](#message-queues)
@@ -25,7 +27,7 @@ Table of Contents:
 * [Create and manage policies to enforce compliance](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage)
 * [Create a custom policy definition](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-custom-policy-definition)
 
-## Automation with Azure Resource Manager
+## Automation
 
 * [Define resources in Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/templates/)
 
