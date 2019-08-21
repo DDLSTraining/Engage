@@ -29,6 +29,11 @@ Table of Contents:
 
 * [Define resources in Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/templates/)
 
+## Containers
+
+* [Azure Kubernetes Service (Step-by-Step Tutorials)](https://docs.microsoft.com/en-us/azure/aks/)
+* [Azure Container Instances (Step-by-Step Tutorials)](https://docs.microsoft.com/en-us/azure/container-instances/)
+
 ## Data and Databases
 
 * [Tutorial: Run a parallel workload with Azure Batch using the .NET API](https://docs.microsoft.com/en-us/azure/batch/tutorial-parallel-dotnet)
