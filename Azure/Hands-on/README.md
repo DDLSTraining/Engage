@@ -30,6 +30,7 @@ Table of Contents:
 ## Automation
 
 * [Define resources in Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/templates/)
+* [Terraform on Azure (Step-by-Step Tutorials)](https://docs.microsoft.com/en-us/azure/terraform/)
 
 ## Containers
 
