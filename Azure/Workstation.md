@@ -34,7 +34,7 @@ scoop bucket add extras
 Now install required applications:
 
 ```powershell
-scoop install dotnet-sdk azure-cli azure-ps azure-functions-core-tools vscode docker docker-compose ssh cat sed grep jq openssh git vim wget kubectl helm terraform
+scoop install dotnet-sdk azure-cli azure-ps azure-functions-core-tools vscode docker docker-compose sed grep jq openssh git vim wget kubectl helm terraform
 ```
 
 Other optional applications:
