@@ -1,4 +1,4 @@
-## Workstation Machine Setup
+# Workstation Machine Setup
 
 Suggested software packages to install on an Azure administrator workstation:
 
@@ -14,3 +14,37 @@ For Database management:
 
 * [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download)
 * [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+
+## Install with scoop
+
+The following eases the installation and setup of an Azure workstation using the [scoop](https://scoop.sh/) installation package.
+
+First, open PowerShell as Administrator and install `scoop`:
+
+```powershell
+iwr -useb get.scoop.sh | iex
+```
+
+Add the extras bucket:
+
+```powershell
+scoop bucket add extras
+```
+
+Now install required applications:
+
+```powershell
+scoop install dotnet-sdk azure-cli azure-ps azure-functions-core-tools vscode docker docker-compose ssh cat sed grep jq openssh git vim wget kubectl helm terraform
+```
+
+Other optional applications:
+
+```powershell
+scoop install packer puppet scriptcs marktext telnet unzip 7zip
+```
+
+Checkout the other software available via the [known buckets](https://github.com/lukesampson/scoop/blob/master/buckets.json):
+
+```powershell
+scoop bucket known
+```
