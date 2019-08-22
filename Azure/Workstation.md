@@ -43,8 +43,14 @@ Other optional applications:
 scoop install packer puppet scriptcs marktext telnet unzip 7zip
 ```
 
-Checkout the other software available via the [known buckets](https://github.com/lukesampson/scoop/blob/master/buckets.json):
+Checkout the other software available via the [known buckets](https://github.com/lukesampson/scoop#known-application-buckets):
 
 ```powershell
 scoop bucket known
+```
+
+Lastly, update all scoop installed applications:
+
+```powershell
+scoop update *
 ```
