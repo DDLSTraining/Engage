@@ -37,6 +37,8 @@ Now install required applications:
 scoop install dotnet-sdk azure-cli azure-ps azure-functions-core-tools vscode docker docker-compose sed grep nmap jq openssh git vim wget kubectl helm terraform
 ```
 
+_Since this document was last updated, Visual Studio, Azure Storage Explorer, Azure Data Studio, and SQL Server Management Studio are not supported in scoop yet._
+
 Other optional applications:
 
 ```powershell
