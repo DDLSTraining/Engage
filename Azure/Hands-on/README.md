@@ -3,13 +3,13 @@
 Table of Contents:
 
 * [APIs](#apis)
-* [Azure Management](#azure-management)
+* [Management](#management)
 * [Automation](#automation)
 * [Containers](#containers)
-* [Data and Databases](#data-and-databases)
+* [Data](#data)
 * [Internet of Things](#internet-of-things)
-* [Message Queues](#message-queues)
-* [Monitoring and Log Analytics](#monitoring-and-log-analytics)
+* [Messaging](#messaging)
+* [Monitoring](#monitoring)
 * [Networking](#networking)
 * [Security](#security)
 * [Serverless](#serverless)
@@ -21,7 +21,7 @@ Table of Contents:
 * [Create a custom connector from an OpenAPI definition](https://docs.microsoft.com/en-us/connectors/custom-connectors/define-openapi-definition)
 * [Create a new Azure API Management service instance](https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance) - Then do all tutorials
 
-## Azure Management
+## Management
 
 * [Azure Resource Manager REST API using PowerShell](azure-resource-manager-rest-api-using-powershell.md)
 * [Create and manage policies to enforce compliance](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage)
@@ -37,7 +37,7 @@ Table of Contents:
 * [Azure Kubernetes Service (Step-by-Step Tutorials)](https://docs.microsoft.com/en-us/azure/aks/)
 * [Azure Container Instances (Step-by-Step Tutorials)](https://docs.microsoft.com/en-us/azure/container-instances/)
 
-## Data and Databases
+## Data
 
 * [Tutorial: Run a parallel workload with Azure Batch using the .NET API](https://docs.microsoft.com/en-us/azure/batch/tutorial-parallel-dotnet)
 * [Analyze phone call data with Stream Analytics and visualize results in Power BI dashboard](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-manage-job)
@@ -49,7 +49,7 @@ Table of Contents:
 * [Use Cloud Explorer for Visual Studio to send and receive messages between your device and IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-visual-studio-cloud-device-messaging)
 * [IOT Windows Core Series](https://www.youtube.com/watch?v=A-kazyOiBvs)
 
-## Message Queues
+## Messaging
 
 * [Service Bus Explorer](https://www.microsoft.com/en-au/download/details.aspx?id=35374)
 * [Get started with Service Bus topics](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions)
@@ -58,7 +58,7 @@ Table of Contents:
 * [Route custom events to web endpoint with the Azure portal and Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal)
 
 
-## Monitoring and Log Analytics
+## Monitoring
 
 * [Log Analytics Demonstration Site](https://portal.loganalytics.io/demo)
 * [Get started with Azure Monitor log queries](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-queries?toc=%2Fazure%2Fazure-monitor%2Ftoc.json)
