@@ -10,7 +10,12 @@ Once Docker Toolbox is installed, follow these steps (all commands are in PowerS
 
 1. Run the script `Install-HyperVRole` and restart.
 1. Create a Hyper-V Virtual Switch connected to your NIC called `External`.
-1. Download a docker VM using: `docker-machine create -d hyperv --hyperv-virtual-switch "External" dockervm` ([Reference](https://docs.docker.com/v17.09/machine/drivers/hyper-v/))
-1. Set the docker environment using: `docker-machine env dockervm --shell powershell`
-1. Run the command displayed on the output: `& docker-machine env dockervm --shell powershell | Invoke-Expression`
+1. Download a docker VM using the following command ([Reference](https://docs.docker.com/v17.09/machine/drivers/hyper-v/)):
+   * `docker-machine create -d hyperv --hyperv-virtual-switch "External" dockervm` 
+1. Set the docker environment using:
+   * `docker-machine env dockervm --shell powershell`
+1. Run the command displayed on the output:
+   * `& docker-machine env dockervm --shell powershell | Invoke-Expression`
+
+The environment variables will only be available in the current PowerShell process.
 
