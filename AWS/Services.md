@@ -347,7 +347,10 @@ AWS CloudFormation provides a common language for you to describe and provision 
 
 🤔 Think of CloudFormation as complete application infrastructure design in simple text documents. It is used by AWS for boxed application deployment like Wordpress or Django deployments from the AWS Marketplace.
 
-🗺️ Related: [Engage CloudFormation Document](CloudFormation.md)
+🗺️ Related:
+
+* [AWS Cloud Development Kit (AWS CDK)](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
+* [Engage CloudFormation Document](CloudFormation.md)
 
 ### AWS Systems Manager
 
