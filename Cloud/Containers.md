@@ -1,3 +1,16 @@
 # Container Architecture Resources
 
 * [Kata Containers](https://katacontainers.io/): The speed of containers, the security of VMs.
+
+## Docker in DDLS
+
+The current Windows Server OS does not support [Docker for Windows Desktop](https://docs.docker.com/docker-for-windows/). Use the [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/) instead.
+
+Once Docker Toolbox is installed, follow these steps (all commands are in PowerShell):
+
+1. Run the script `Install-HyperVRole` and restart.
+1. Create a Hyper-V Virtual Switch connected to your NIC called `External`.
+1. Download a docker VM using: `docker-machine create -d hyperv --hyperv-virtual-switch "External" dockervm` ([Reference](https://docs.docker.com/v17.09/machine/drivers/hyper-v/))
+1. Set the docker environment using: `docker-machine env dockervm --shell powershell`
+1. Run the command displayed on the output: `& docker-machine env dockervm --shell powershell | Invoke-Expression`
+
