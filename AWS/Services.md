@@ -350,6 +350,7 @@ AWS CloudFormation provides a common language for you to describe and provision 
 🗺️ Related:
 
 * [AWS Cloud Development Kit (AWS CDK)](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
+* [Terraform](https://www.terraform.io/)
 * [Engage CloudFormation Document](CloudFormation.md)
 
 ### AWS Systems Manager
