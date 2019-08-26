@@ -8,3 +8,4 @@
 ## Third-Party Solutions
 
 * [Refinery](https://www.refinery.io/) - Write less code and get more done.
+* [Laconia](https://laconiajs.io/) - Create well-crafted serverless applications, effortlessly.
