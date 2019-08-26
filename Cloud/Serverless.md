@@ -1,6 +1,6 @@
 # Serverless Architecture
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Monoliths are the future, although you may have many of them.</p>&mdash; Kelsey Hightower (@kelseyhightower) <a href="https://twitter.com/kelseyhightower/status/1164928274247499777?ref_src=twsrc%5Etfw">August 23, 2019</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Monoliths are the future, although you may have many of them.</p>&mdash; Kelsey Hightower (@kelseyhightower) <a href="https://twitter.com/kelseyhightower/status/1164928274247499777">August 23, 2019</a></blockquote>
 
 * [Firecracker](https://firecracker-microvm.github.io/): Secure and fast microVMs for serverless computing.
 
