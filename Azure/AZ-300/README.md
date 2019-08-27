@@ -32,5 +32,6 @@
 |Lab||Implementing user-assigned managed identities for Azure resources|30|
 |Break|||15|
 |Lunch|||60|
+|02|01|Evaluating and Performing Server Migration to Azure|60|
 |Break|||15|
 |Finish||5:00||
