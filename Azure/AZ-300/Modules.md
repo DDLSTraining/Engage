@@ -72,7 +72,7 @@ Table of Contents
 * Datacenter Migration using Migration Factory
 * **Lab**: [Implementing Azure to Azure Migration](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies/blob/master/Instructions/AZ-300T02_Lab_Mod01_Implementing%20Azure%20to%20Azure%20migration.md)
 
-### Module 02[07]: Evaluating and Performing Server Migration to Azure
+### Module 02[07]: Implementing and Managing Application Services
 
 * Deploying Web Apps
   * **Optional Practice**: Deployment Slots
