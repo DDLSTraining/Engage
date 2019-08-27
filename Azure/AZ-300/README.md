@@ -29,7 +29,7 @@
 |Unit|Module|Activity|Duration|
 |-|-|-|-|
 |01|05|Managing Identities|60|
-|Lab||Implementing user-assigned managed identities for Azure resources|45|
+|Lab||Implementing user-assigned managed identities for Azure resources|30|
 |Break|||15|
 |Lunch|||60|
 |Break|||15|
