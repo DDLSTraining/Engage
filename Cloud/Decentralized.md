@@ -4,10 +4,7 @@
 
 * [IPFS (InterPlanetary File System)](https://ipfs.io/) - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
 
-## Cloud Storage
-
-* [Filecoin](https://filecoin.io/) - Built on top of IPFS by the same guys who build the IPFS protocol.
-* 
+## Cloud Platforms and Storage
 
 |Name|Type|Focus|Crypto Coin|Volume 24h|Storage Price|
 |-|-|-|-|-|-|
