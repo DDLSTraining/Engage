@@ -19,3 +19,7 @@ Example:
 For the lab content, keep the steps at a high level. Do not go into detail on where to click. Just supply enough detail so anyone with knowledge of AWS can complete the steps. This will keep maintenance to a minimum.
 
 See the [iam-role-ec2-to-s3](iam-role-ec2-to-s3.md) demonstration as an example or template.
+
+## API Gateway
+
+* [API Gateway + Vue JS + Express + PostgreSQL](https://github.com/allanchua101/api-gateway-vue-express-pg) - Showcases an API gateway using Vue JS, Express, and PostgreSQL on containers.
