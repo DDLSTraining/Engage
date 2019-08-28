@@ -10,7 +10,7 @@
 |-|-|-|-|-|-|
 |[Filecoin](https://filecoin.io/)|Storage||Filecoin|$3M||
 |[Sia](https://sia.tech/)|Storage|Security|Siacoin||$2/TB/Month|
-|[Tardigrade](https://tardigrade.io/)|Storage|Robust|Storj|$9M|$15/TB/Month|
+|[Tardigrade](https://tardigrade.io/)|Storage|Robust|STORJ|$9M|$15/TB/Month|
 |[PPIO](https://www.pp.io/)|Storage|Developers||||
 |[X Cloud](https://internxt.com/cloud)|Storage|Security|INXT||$11/TB/Month|
 |[0Box](https://0chain.net/page-0box.html)|Storage|Enterprise|ZCN|||
