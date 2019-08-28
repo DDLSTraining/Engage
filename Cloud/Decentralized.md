@@ -10,6 +10,7 @@
 
 |Name|Type|Focus|Crypto Coin|Volume 24h|Storage Price|
 |-|-|-|-|-|-|
+|[Ethereum](https://www.ethereum.org/)|Platform||ETH|||
 |[Filecoin](https://filecoin.io/)|Storage||Filecoin|$3M||
 |[Sia](https://sia.tech/)|Storage|Security|Siacoin||$2/TB/Month|
 |[Tardigrade](https://tardigrade.io/)|Storage|Robust|STORJ|$9M|$15/TB/Month|
@@ -18,5 +19,7 @@
 |[0Box](https://0chain.net/page-0box.html)|Storage|Enterprise|ZCN|||
 |[Opacity](https://www.opacity.io/)|Storage||OPQ|$48K||
 |[BTFS]()|Storage|||||
-|[NeoFS](https://neo.org/)||||||
+|[Neo](https://neo.org/)|Platform|||||
+|[NeoFS](https://medium.com/digital-asset-news/neo-announces-distributed-storage-system-neofs-3bf616abe818)||||||
 |[DFINITY](https://dfinity.org/)|Platform|Enterprise||||
+|[TRON](https://tron.network/)|Platform||TRX||
