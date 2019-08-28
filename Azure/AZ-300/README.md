@@ -34,4 +34,16 @@
 |Lunch|||60|
 |02|01|Evaluating and Performing Server Migration to Azure|60|
 |Break|||15|
+|02|02|Implementing and Managing Application Services|60|
+|Finish||5:00||
+
+### Day 3
+
+|Unit|Module|Activity|Duration|
+|-|-|-|-|
+|02|02|Implementing and Managing Application Services|60|
+|Break|||15|
+|02|03|Implementing Advanced Virtual Networking||
+|Lunch|||60|
+|Break|||15|
 |Finish||5:00||
