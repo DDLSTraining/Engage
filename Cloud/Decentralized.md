@@ -12,4 +12,5 @@
 |Name|Type|Focus|Crypto Coin|Volume 24h|Storage Price|
 |-|-|-|-|-|-|
 |[Filecoin](https://filecoin.io/)|Storage||Filecoin|$3M||
-|[Sia](https://sia.tech/)|Storage|Security|Siacoin||$2/TB/month|
+|[Sia](https://sia.tech/)|Storage|Security|Siacoin||$2/TB/Month|
+|[Tardigrade](https://tardigrade.io/)|Storage|||$9M|$15/TB/Month|
