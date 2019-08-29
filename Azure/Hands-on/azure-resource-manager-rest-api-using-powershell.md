@@ -34,9 +34,9 @@ To complete the following exercise you will need the following:
 
 ## Exercise Steps
 
-**Step 1**: Open PowerShell on your computer. If you wish to use the Azure Cloud Shell, change directory to your home path using `cd ~`.
+**Step 1**: Open PowerShell on your computer. _If you wish to use the [Azure Cloud Shell](https://shell.azure.com/), change directory to your home path using `cd ~`._
 
-**Step 2**: Login to the Azure AZ module:
+**Step 2**: Login to the Azure AZ module (skip this step if using Azure Cloud Shell):
 
 ```powershell
 Connect-AzAccount
