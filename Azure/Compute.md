@@ -16,3 +16,7 @@ Azure supports both [InfiniBand](https://en.wikipedia.org/wiki/InfiniBand) and [
 * [Azure VM Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
 * [Azure Batch](https://azure.microsoft.com/en-au/services/batch/)
 * [Azure CycleCloud](https://azure.microsoft.com/en-au/features/azure-cyclecloud/) - Create, manage, operate and optimise HPC and big compute clusters of any scale.
+
+## Scale Set
+
+* [Azure virtual machine scale set automatic OS image upgrades](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-automatic-upgrade)
