@@ -33,15 +33,10 @@ Table of Contents:
 * Creating Virtual Machines
 * Virtual Machine Availability
 * Virtual Machine Extensions
-* [Lab 1 - Deploy and Manage Virtual Machines](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/02a%20-%20Deploy%20and%20Manage%20Virtual%20Machines%20(az-100-03).md)
+* [Lab - Deploy and Manage Virtual Machines](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/02a%20-%20Deploy%20and%20Manage%20Virtual%20Machines%20(az-100-03).md)
   * Exercise 1. Deploy Azure VMs by using the Azure portal, Azure PowerShell, and Azure Resource Manager templates
   * Exercise 2. Configure networking settings of Azure VMs running Windows and Linux operating systems
   * Exercise 3. Deploy and configure Azure VM scale sets
-  * Time: 60 minutes
-* [Lab 2 - Virtual Machines and Scale Sets](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/blob/master/Instructions/Labs/02b%20-%20Virtual%20Machines%20and%20Scale%20Sets%20(az-100-03b).md)
-  * Exercise 0. Prepare the lab environment
-  * Exercise 1. Configure compute and storage resources of Azure VMs
-  * Exercise 2. Configure compute and storage resources of Azure VM scale sets
   * Time: 60 minutes
 
 ## Module 03 - Azure Storage
