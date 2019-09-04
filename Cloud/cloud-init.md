@@ -36,7 +36,7 @@ users:
       - ssh-rsa AAAAB3<snip>
 ```
 
-[Create swap partition](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/cloudinit-configure-swapfile#create-swap-partition-for-red-hat-and-centos-based-images) for Red Hat and CentOS based images:
+[Create swap partition for Red Hat and CentOS based images](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/cloudinit-configure-swapfile#create-swap-partition-for-red-hat-and-centos-based-images):
 
 ```yaml
 #cloud-config
