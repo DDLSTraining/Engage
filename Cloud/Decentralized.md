@@ -5,6 +5,7 @@
 ## Primary Technologies
 
 * [IPFS (InterPlanetary File System)](https://ipfs.io/) - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop)
 
 ## Cloud Platforms and Storage
 
