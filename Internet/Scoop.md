@@ -30,6 +30,7 @@ For any of the packages below, simply type `scoop install <package name>` from a
 * `copyq` - Clipboard manager.
 * `filezilla-server` - Open-source FTP server software.
 * `filezilla` - Fast and reliable cross-platform FTP, FTPS and SFTP client.
+* `firefox` - Popular open source web browser.
 * `grep` - Print lines matching a pattern.
 * `marktext` - A simple and elegant markdown editor.
 * `nmap` - Network exploration and security auditing utility.
