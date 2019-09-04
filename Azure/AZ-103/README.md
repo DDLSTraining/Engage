@@ -78,8 +78,17 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 
 ## Day 4 - Elected Modules
 
-Module Popularity Contest:
+Suggested Module Order:
 
-|M07|M08|M09|M10|M11|M12|
-|-|-|-|-|-|-|
-|1|1|2|2|2|1|
+|Module|Activity|Duration|
+|-|-|-|
+|M09|Active Directory|0|
+|M10|Securing Identities|0|
+|M11|Governance and Compliance|0|
+|M08|Network Traffic Management|0|
+|M12|Data Services|0|
+|M07|Data Protection|0|
+
+
+
+
