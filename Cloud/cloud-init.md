@@ -1,7 +1,10 @@
-# Documentation and Resources for `cloud-init`
+# `cloud-init` Resources
+
+Cloud-init is the defacto multi-distribution package that handles early initialization of a cloud instance.
 
 * [Main `cloud-init` Site](https://cloud-init.io/)
 * [Official Documentation](https://cloudinit.readthedocs.io/en/latest/index.html)
+  * [Modules](https://cloudinit.readthedocs.io/en/latest/topics/modules.html)
 * [Cloud-init support for virtual machines in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/using-cloud-init)
 
 ## `cloud-init` Examples
