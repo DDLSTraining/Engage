@@ -10,19 +10,19 @@ Open PowerShell as Administrator and run the following command to install `scoop
 iwr -useb get.scoop.sh | iex
 ```
 
-Add known [buckets](https://github.com/lukesampson/scoop#known-application-buckets):
+Restart PowerShell and add known [buckets](https://github.com/lukesampson/scoop#known-application-buckets):
 
 ```powershell
 scoop bucket add <bucket name>
 ```
 
-Suggested buckets to install the packages below are `extras`
+Suggested buckets to install the packages below are `extras`. The `versions` bucket can be handy to install beta packages such as PowerShell `pwsh-beta`.
 
 ## Scoop Packages for your Workstation
 
 Checkout the [buckets](https://github.com/lukesampson/scoop#known-application-buckets) for a full list, however here are some packages you might find interesting for your Workstation.
 
-For any of the packages below, simply type `scoop install <package name>` from a PowerShell prompt.
+For any of the packages below, simply type `scoop install <package name>` from a PowerShell prompt. To install multiple packages at once, put a space after each package name.
 
 ### Generic Packages
 
