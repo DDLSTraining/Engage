@@ -80,14 +80,14 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 
 Suggested Module Order:
 
-|Module|Activity|Duration|
-|-|-|-|
-|M09|Active Directory|0|
-|M10|Securing Identities|0|
-|M11|Governance and Compliance|0|
-|M08|Network Traffic Management|0|
-|M12|Data Services|0|
-|M07|Data Protection|0|
+|Module|Activity|
+|-|-|
+|M09|Active Directory|
+|M10|Securing Identities|
+|M11|Governance and Compliance|
+|M08|Network Traffic Management|
+|M12|Data Services|
+|M07|Data Protection|
 
 
 
