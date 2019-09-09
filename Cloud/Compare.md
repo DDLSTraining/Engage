@@ -31,7 +31,7 @@ The following links map services from one provider to the other:
 * [AWS to Azure (by Microsoft)](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
 * [AWS vs. Azure vs. Google: Cloud Comparison [2019 Update]](https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html) - Scroll to the bottom of the article.
 
-## Cloud Provider Price Links
+## Cloud Provider Pricing Table
 
 | Type | AWS | Azure | GCP | Compare |
 |-|-|-|-|-|
@@ -43,8 +43,9 @@ The following links map services from one provider to the other:
 |IaaS Batch|[Batch](https://aws.amazon.com/batch/pricing/)|[Batch](https://azure.microsoft.com/en-au/pricing/details/batch/)|[Cloud Dataflow](https://cloud.google.com/dataflow/pricing)||
 |IaaS Containers|[ECS (EC2)](https://aws.amazon.com/ecs/pricing/)|[Container Instances](https://azure.microsoft.com/en-au/pricing/details/container-instances/)|[App Engine Flexible](https://cloud.google.com/appengine/pricing)||
 |PaaS Web App|[Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/pricing/)|App Service [Win](https://azure.microsoft.com/en-au/pricing/details/app-service/windows/) : [Linux](https://azure.microsoft.com/en-au/pricing/details/app-service/linux/)|[App Engine Standard](https://cloud.google.com/appengine/pricing)|
-|Serverless Functions|[Lambda](https://aws.amazon.com/lambda/pricing/)*|[Functions](https://azure.microsoft.com/en-au/pricing/details/functions/)*|[Cloud Functions](https://cloud.google.com/functions/pricing)*||
 |Serverless Containers|[ECS (Fargate)](https://aws.amazon.com/fargate/pricing/)|[Container Instances](https://azure.microsoft.com/en-au/pricing/details/container-instances/)|[Cloud Run](https://cloud.google.com/run/pricing)*||
+|Serverless Functions|[Lambda](https://aws.amazon.com/lambda/pricing/)*|[Functions](https://azure.microsoft.com/en-au/pricing/details/functions/)*|[Cloud Functions](https://cloud.google.com/functions/pricing)*||
+|Serverless Workflow|[Step Functions](https://aws.amazon.com/step-functions/pricing/)*|[Logic Apps](https://azure.microsoft.com/en-au/pricing/details/logic-apps/)*|||
 
 [*] Pay per execution or invocation.
 
