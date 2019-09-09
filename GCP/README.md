@@ -1,17 +1,6 @@
 # Google Cloud Platform Course Notes
 
-Notes and resources for the following Google Cloud Platform courses:
-
-* [Google Cloud Fundamentals: Core Infrastructure](https://www.ddls.com.au/courses/google/cloud/google-cloud-fundamentals-core-infrastructure/)
-* [Architecting with Google Cloud Platform: Infrastructure](https://www.ddls.com.au/courses/google/cloud/architecting-with-google-cloud-platform-infrastructure/)
-* [Architecting with Google Cloud Platform: Design and Process](https://www.ddls.com.au/courses/google/cloud/architecting-with-google-cloud-platform-design-and-process/)
-
-## Contents
-
-* [Resources](/GCP/Resources.md)
-* [News](/GCP/News.md)
-* [Exam](/GCP/Exam.md)
-* [Course Timing](/GCP/Timing.md)
+[Cloud Infrastructure](https://cloud.google.com/training/cloud-infrastructure) - designed for IT professionals who are responsible for implementing, deploying, migrating and maintaining applications in the cloud.
 
 ## Lab Notes
 
