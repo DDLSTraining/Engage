@@ -14,3 +14,5 @@
 |IaaS Containers|[ECS (EC2)](https://aws.amazon.com/ecs/pricing/)|[Container Instances](https://azure.microsoft.com/en-au/pricing/details/container-instances/)|[App Engine Flexible](https://cloud.google.com/appengine/pricing)||
 
 [*] Pay per execution or invocation.
+
+* [Map AWS services to GCP](https://cloud.google.com/free/docs/map-aws-google-cloud-platform)
