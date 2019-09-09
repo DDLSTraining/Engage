@@ -78,3 +78,12 @@ Last updated: 2018-09-17
 | Regions | 18 | 54 | 17 |
 | Zones   | 55 |    | 52 |
 
+### Kubernetes
+
+Last updated: 2019-09-10
+
+| Component | AWS | Azure | GCP |
+|-|-|-|-|
+|Master|$144 USD|$0|$0|
+|Nodes|[EC2 Pricing](https://aws.amazon.com/ec2/pricing/on-demand/)|[VM Pricing](https://azure.microsoft.com/en-au/pricing/details/virtual-machines/series/)|[GCE Pricing](https://cloud.google.com/compute/all-pricing)|
+
