@@ -9,4 +9,5 @@
 |Serverless Functions|||[Cloud Functions](https://cloud.google.com/functions/pricing)|
 |Serverless Containers|||[Cloud Run](https://cloud.google.com/run/pricing)|
 |IaaS Compute|[EC2 On-Demand](https://aws.amazon.com/ec2/pricing/on-demand/)|[Virtual Machines](https://azure.microsoft.com/en-au/pricing/details/virtual-machines/series/)|[Compute Engine](https://cloud.google.com/compute/all-pricing)|
-|IaaS Containers|||[Kubernetes Engine](https://cloud.google.com/kubernetes-engine/pricing)|
+|IaaS Kubernetes|[EKS](https://aws.amazon.com/eks/pricing/)|[AKS](https://azure.microsoft.com/en-au/pricing/details/kubernetes-service/)|[Kubernetes Engine](https://cloud.google.com/kubernetes-engine/pricing)|
+|IaaS Containers||[Container Instances](https://azure.microsoft.com/en-au/pricing/details/container-instances/)||
