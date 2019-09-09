@@ -82,7 +82,7 @@ Last updated: 2018-09-17
 
 Last updated: 2019-09-10
 
-| Component | AWS | Azure | GCP |
+|Component|AWS [EKS](https://aws.amazon.com/eks/pricing/)|Azure [AKS](https://azure.microsoft.com/en-au/pricing/details/kubernetes-service/)|GCP [GKE](https://cloud.google.com/kubernetes-engine/pricing)|
 |-|-|-|-|
 |Master|$144 USD|$0|$0|
 |Nodes|[EC2 Pricing](https://aws.amazon.com/ec2/pricing/on-demand/)|[VM Pricing](https://azure.microsoft.com/en-au/pricing/details/virtual-machines/series/)|[GCE Pricing](https://cloud.google.com/compute/all-pricing)|
