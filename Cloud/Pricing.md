@@ -15,4 +15,10 @@
 
 [*] Pay per execution or invocation.
 
-* [Map AWS services to GCP](https://cloud.google.com/free/docs/map-aws-google-cloud-platform)
+## Cloud Service Mapping
+
+The following links map services from one provider to the other:
+
+* [AWS to GCP (by Google)](https://cloud.google.com/free/docs/map-aws-google-cloud-platform)
+* [Azure to GCP (by Google)](https://cloud.google.com/free/docs/map-azure-google-cloud-platform)
+* [AWS to Azure (by Microsoft)](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
