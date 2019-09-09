@@ -61,7 +61,7 @@ The following links map services from one provider to the other:
 
 Last updated: 2019-09-10
 
-|Component|[AWS](https://aws.amazon.com/lambda/pricing/)|[Azure](https://azure.microsoft.com/en-au/pricing/details/functions/)|[GCP](https://cloud.google.com/functions/pricing)|
+|Metric|[AWS](https://aws.amazon.com/lambda/pricing/)|[Azure](https://azure.microsoft.com/en-au/pricing/details/functions/)|[GCP](https://cloud.google.com/functions/pricing)|
 |-|-|-|-|
 |Free Invocations per Month|1M|1M|2M|
 |Million Invocations USD|$0.20|$0.275|$0.40|
