@@ -12,3 +12,5 @@
 |IaaS Compute|[EC2 On-Demand](https://aws.amazon.com/ec2/pricing/on-demand/)|[Virtual Machines](https://azure.microsoft.com/en-au/pricing/details/virtual-machines/series/) ([Compare](https://azureprice.net/?region=australiaeast&timeoption=month&currency=AUD))|[Compute Engine](https://cloud.google.com/compute/all-pricing)|
 |IaaS Kubernetes|[EKS](https://aws.amazon.com/eks/pricing/)|[AKS](https://azure.microsoft.com/en-au/pricing/details/kubernetes-service/)|[Kubernetes Engine](https://cloud.google.com/kubernetes-engine/pricing)|
 |IaaS Containers|[ECS (EC2 Launch Type)](https://aws.amazon.com/ecs/pricing/)|[Container Instances](https://azure.microsoft.com/en-au/pricing/details/container-instances/)|[App Engine Flexible](https://cloud.google.com/appengine/pricing)|
+
+[*] Pay per execution or invokation.
