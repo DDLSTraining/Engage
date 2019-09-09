@@ -1,6 +1,8 @@
 # Architecting with Google Compute Engine
 
-## Day One<a name="archinf-one"></a>
+## Timing
+
+### Day One<a name="archinf-one"></a>
 
 |Start|End|Duration|Module|Activity|
 |-----|---|--------|------|--------|
@@ -22,7 +24,7 @@
 |16:10|16:40|0:30|04-1|Cloud IAM|
 |16:40|17:25|0:45|05|Data Storage Services|
 
-## Day Two<a name="archinf-two"></a>
+### Day Two<a name="archinf-two"></a>
 
 |Start|End|Duration|Module|Activity|
 |-----|---|--------|------|--------|
@@ -41,7 +43,7 @@
 |16:20|16:50|0:30|08|Interconnecting Networks|
 |16:50|17:50|1:00|08-1|Virtual Private Networks (VPN)|
 
-## Day Three<a name="archinf-three"></a>
+### Day Three<a name="archinf-three"></a>
 
 |Start|End|Duration|Module|Activity|
 |-----|---|--------|------|--------|
