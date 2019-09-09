@@ -75,8 +75,9 @@ Last updated: 2018-09-17
 
 || [AWS](https://aws.amazon.com/about-aws/global-infrastructure/) | [Azure](https://azure.microsoft.com/en-au/global-infrastructure/regions/) | [GCP](https://cloud.google.com/about/locations/) |
 |---------|----|----|----|
-| Regions | 18 | 54 | 17 |
-| Zones   | 55 |    | 52 |
+| Regions | 22 | 54 | 20 |
+| Zones   | 69 | 10 Regions with Zones | 61 |
+| Edge (CDN) |190 [CloudFront](https://aws.amazon.com/cloudfront/features/)|[129](https://docs.microsoft.com/en-us/azure/cdn/cdn-pop-locations)|[134](https://cloud.google.com/about/locations/)|
 
 ### Kubernetes
 
