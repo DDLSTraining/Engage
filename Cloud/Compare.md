@@ -12,10 +12,11 @@ Most of the comparisons will be from the vendors documentation and are not guara
   * [AWS Infrastructure](https://www.infrastructure.aws/)
   * [GCP Infrastructure](https://cloud.google.com/about/locations/#regions-tab)
   * [Azure Infrastructure](https://azure.microsoft.com/en-au/global-infrastructure/regions/)
-* [AWS vs. Azure vs. Google: Cloud Comparison [2019 Update]](https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html) - Scroll to the bottom of the article.
+* [AWS vs. Azure vs. Google: Cloud Comparison [2019 Update]](https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html)
 
 ### Articles
 
+* 2019-01-22 - [AWS vs. Azure vs. Google: Cloud Comparison [2019 Update]](https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html)
 * 2018-12-14 - [Cockroach Labs - 2018 Cloud Report](https://www.cockroachlabs.com/blog/2018_cloud_report/) - AWS Outperforms GCP
   * 2018-12-14 - [Hacker News Related Thread](https://news.ycombinator.com/item?id=18673541)
 * 2018-06-06 - [Public Cloud Object-store Performance is Very Unequal across AWS S3, Google Cloud Storage, and Azure Blob Storage](https://dev.to/sachinkagarwal/public-cloud-object-store-performance-is-very-unequal-across-aws-s3-google-cloud-storage-and-azure-blob-storage-13do)
