@@ -22,3 +22,4 @@ The following links map services from one provider to the other:
 * [AWS to GCP (by Google)](https://cloud.google.com/free/docs/map-aws-google-cloud-platform)
 * [Azure to GCP (by Google)](https://cloud.google.com/free/docs/map-azure-google-cloud-platform)
 * [AWS to Azure (by Microsoft)](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
+* [AWS vs. Azure vs. Google: Cloud Comparison [2019 Update]](https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html) - Scroll to the bottom of the article.
