@@ -42,8 +42,9 @@ The following links map services from one provider to the other:
 |IaaS Kubernetes|[EKS](https://aws.amazon.com/eks/pricing/)|[AKS](https://azure.microsoft.com/en-au/pricing/details/kubernetes-service/)|[Kubernetes Engine](https://cloud.google.com/kubernetes-engine/pricing)||
 |IaaS Batch|[Batch](https://aws.amazon.com/batch/pricing/)|[Batch](https://azure.microsoft.com/en-au/pricing/details/batch/)|[Cloud Dataflow](https://cloud.google.com/dataflow/pricing)||
 |IaaS Containers|[ECS (EC2)](https://aws.amazon.com/ecs/pricing/)|[Container Instances](https://azure.microsoft.com/en-au/pricing/details/container-instances/)|[App Engine Flexible](https://cloud.google.com/appengine/pricing)||
-|Load Balancing|[ELB](https://aws.amazon.com/elasticloadbalancing/pricing/)|[Load Balancer](https://azure.microsoft.com/en-au/pricing/details/load-balancer/)|[Load Balancing](https://cloud.google.com/compute/all-pricing#lb)||
 |Network CDN|[CloudFront](https://aws.amazon.com/cloudfront/pricing/)|[CDN](https://azure.microsoft.com/en-au/pricing/details/cdn/)|[Cloud CDN](https://cloud.google.com/cdn/pricing)||
+|Network DNS(LB)|[Route 53](https://aws.amazon.com/route53/pricing/)|[Traffic Manager](https://azure.microsoft.com/en-au/pricing/details/traffic-manager/)|[Cloud DNS](https://cloud.google.com/dns/pricing)||
+|Network LB|[ELB](https://aws.amazon.com/elasticloadbalancing/pricing/)|[Load Balancer](https://azure.microsoft.com/en-au/pricing/details/load-balancer/)|[Load Balancing](https://cloud.google.com/compute/all-pricing#lb)||
 |Network Private|[Direct Connect](https://aws.amazon.com/directconnect/pricing/)|[Express Route](https://azure.microsoft.com/en-au/pricing/details/expressroute/)|[Interconnect](https://cloud.google.com/interconnect/pricing)||
 |Network Egress|[Data Transfer](https://aws.amazon.com/ec2/pricing/on-demand/)|[Bandwidth](https://azure.microsoft.com/en-au/pricing/details/bandwidth/)|[Service Tiers](https://cloud.google.com/network-tiers/pricing)||
 |Network VPN|[VPN](https://aws.amazon.com/vpn/pricing/)|[VPN Gateway](https://azure.microsoft.com/en-au/pricing/details/vpn-gateway/)|[Cloud VPN](https://cloud.google.com/vpn/pricing)||
