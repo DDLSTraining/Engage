@@ -5,9 +5,6 @@
   * [Day One](#archinf-one)
   * [Day Two](#archinf-two)
   * [Day Three](#archinf-three)
-* [Architecting Google Cloud Platform: Design and Process](#archdp)
-  * [Day One](#archdp-one)
-  * [Day Two](#archdp-two)
 
 ## Google Cloud Platform Fundamentals: Core Infrastructure<a name="funinf"></a>
 
