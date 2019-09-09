@@ -2,6 +2,7 @@
 
 | Type | AWS | Azure | GCP |
 |-|-|-|-|
+|Calculator|[Current](https://calculator.s3.amazonaws.com/index.html) - [New](https://calculator.aws/#/)| [Calculator](https://azure.microsoft.com/en-au/pricing/calculator/)| [Calculator](https://cloud.google.com/products/calculator/)|
 |PaaS Web App|||[App Engine](https://cloud.google.com/appengine/pricing)|
 |DBaaS Table|||[Bigtable](https://cloud.google.com/bigtable/pricing)|
 |DBaaS Document|||[Cloud Datastore](https://cloud.google.com/datastore/pricing)|
