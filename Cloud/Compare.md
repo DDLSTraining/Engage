@@ -59,19 +59,20 @@ The following links map services from one provider to the other:
 
 ### Functions (Lambda)
 
-Last updated: 2019-02-16
+Last updated: 2019-09-10
 
-_Note: Prices are USD_
+|Component|[AWS](https://aws.amazon.com/lambda/pricing/)|[Azure](https://azure.microsoft.com/en-au/pricing/details/functions/)|[GCP](https://cloud.google.com/functions/pricing)|
+|-|-|-|-|
+|Free Invocations per Month|1M|1M|2M|
+|Million Invocations USD|$0.20|$0.275|$0.40|
+|Free Compute per Month in GB-Sec|400,000|400,000|400,000|
+|Million Compute GB-Sec USD|$16.66|$22.00|$2.50|
+|Free Network Egress per Month|1GB|5GB|5GB|
+|Network Egress per GB USD|$0.114|$0.165|$0.12|
 
-| Platform | Free Inv | Invocations | Free Compute | Compute | Free Network | Network |
-|-|-|-|-|-|-|-|
-| AWS | 1M | $0.20 per 1M | 400,000 GB-s | $0.00001667 GB-s | 1GB | $0.09 per GB |
-| Azure | 1M | $0.275 per 1M | 400,000 GB-s | $0.000022 per GB-s | 5GB | $0.165 per GB |
-| GCP | 2M | $0.40 per 1M | 1M GB-s | $0.0000025 per GB-s | 5GB | $0.12 per GB |
+### Global Infrastructure
 
-### Regions
-
-Last updated: 2018-09-17
+Last updated: 2019-09-10
 
 || [AWS](https://aws.amazon.com/about-aws/global-infrastructure/) | [Azure](https://azure.microsoft.com/en-au/global-infrastructure/regions/) | [GCP](https://cloud.google.com/about/locations/) |
 |---------|----|----|----|
