@@ -4,7 +4,7 @@
 |-|-|-|-|
 |Calculator|[Current](https://calculator.s3.amazonaws.com/index.html) - [New](https://calculator.aws/#/)| [Calculator](https://azure.microsoft.com/en-au/pricing/calculator/)| [Calculator](https://cloud.google.com/products/calculator/)|
 |PaaS Web App|[Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/pricing/)|App Service [Win](https://azure.microsoft.com/en-au/pricing/details/app-service/windows/) : [Linux](https://azure.microsoft.com/en-au/pricing/details/app-service/linux/)|[App Engine Standard](https://cloud.google.com/appengine/pricing)|
-|DBaaS Table|||[Bigtable](https://cloud.google.com/bigtable/pricing)|
+|DBaaS Table|[DynamoDB](https://aws.amazon.com/dynamodb/pricing/)|[Tables Storage](https://azure.microsoft.com/en-au/pricing/details/storage/tables/)|[Bigtable](https://cloud.google.com/bigtable/pricing)|
 |DBaaS Document|||[Cloud Datastore](https://cloud.google.com/datastore/pricing)|
 |DBaaS Document|||[Cloud Firestore](https://cloud.google.com/firestore/pricing)|
 |Serverless Functions|[Lambda](https://aws.amazon.com/lambda/pricing/)*|[Functions](https://azure.microsoft.com/en-au/pricing/details/functions/)*|[Cloud Functions](https://cloud.google.com/functions/pricing)*|
