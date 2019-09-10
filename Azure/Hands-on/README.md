@@ -5,6 +5,7 @@ Table of Contents:
 * [APIs](#apis)
 * [Management](#management)
 * [Automation](#automation)
+* [Cognitive Services](#cognitive-services)
 * [Containers](#containers)
 * [Data](#data)
 * [Internet of Things](#internet-of-things)
@@ -31,6 +32,14 @@ Table of Contents:
 
 * [Define resources in Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/templates/)
 * [Terraform on Azure (Step-by-Step Tutorials)](https://docs.microsoft.com/en-us/azure/terraform/)
+
+## Cognitive Services
+
+* QnA Maker Quickstart:
+  1. [Create a knowledge base using the QnA Maker API service portal](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/create-knowledge-base)
+  1. [Add questions and answer with QnA Maker portal](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/quickstarts/add-question-metadata-portal)
+* [Use multiple LUIS and QnA models](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=js)
+
 
 ## Containers
 
