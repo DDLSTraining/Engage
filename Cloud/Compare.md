@@ -69,7 +69,7 @@ Prices are USD based on the following where applicable:
 * Australian Region
 * GCP reports usable rather than available RAM
 
-|vCPU|[AWS EC2](https://aws.amazon.com/ec2/pricing/on-demand/)|[Azure VM(https://azure.microsoft.com/en-au/pricing/details/virtual-machines/linux/#d-series)]|[GCP GCE](https://cloud.google.com/compute/all-pricing)|
+|vCPU|[AWS EC2](https://aws.amazon.com/ec2/pricing/on-demand/)|[Azure VM](https://azure.microsoft.com/en-au/pricing/details/virtual-machines/linux/#d-series)|[GCP GCE](https://cloud.google.com/compute/all-pricing)|
 |-|-|-|-|
 |2|t3a.large 8GB $68.40|B2S 8GB $52.9210|n1-standard-2 7.5GB $68.90|
 |4|t3a.xlarge 16GB $136.872|B4MS 16GB $211.4832|n1-standard-4 15GB $137.80|
