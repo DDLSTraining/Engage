@@ -4,6 +4,8 @@ This document contains simple comparisons between AWS, Azure, and GCP.
 
 Most of the comparisons will be from the vendors documentation and are not guaranteed to be accurate.
 
+Prices are in USD unless stated.
+
 ## Comparison Resources
 
 * [AWS - Google - Azure Cloud Comparison](https://caylent.com/aws-google-azure-cloud-comparison/)
@@ -61,7 +63,7 @@ The following links map services from one provider to the other:
 
 Last updated: 2019-09-10
 
-Prices are USD per month based on the following where applicable:
+Prices are based on the following where applicable:
 
 * Pay As You Go
 * Cheapest General Purpose Machine Type
@@ -82,11 +84,11 @@ Last updated: 2019-09-10
 |Metric|[AWS](https://aws.amazon.com/lambda/pricing/)|[Azure](https://azure.microsoft.com/en-au/pricing/details/functions/)|[GCP](https://cloud.google.com/functions/pricing)|
 |-|-|-|-|
 |Free Invocations per Month|1M|1M|2M|
-|Million Invocations USD|$0.20|$0.275|$0.40|
+|Million Invocations|$0.20|$0.275|$0.40|
 |Free Compute per Month in GB-Sec|400,000|400,000|400,000|
-|Million Compute GB-Sec USD|$16.66|$22.00|$2.50|
+|Million Compute GB-Sec|$16.66|$22.00|$2.50|
 |Free Network Egress per Month|1GB|5GB|5GB|
-|Network Egress per GB USD|$0.114|$0.165|$0.12|
+|Network Egress per GB|$0.114|$0.165|$0.12|
 
 ### Global Infrastructure
 
@@ -104,6 +106,6 @@ Last updated: 2019-09-10
 
 |Component|AWS [EKS](https://aws.amazon.com/eks/pricing/)|Azure [AKS](https://azure.microsoft.com/en-au/pricing/details/kubernetes-service/)|GCP [GKE](https://cloud.google.com/kubernetes-engine/pricing)|
 |-|-|-|-|
-|Master|$144 USD|$0|$0|
+|Master|$144|$0|$0|
 |Nodes|[EC2 Pricing](https://aws.amazon.com/ec2/pricing/on-demand/)|[VM Pricing](https://azure.microsoft.com/en-au/pricing/details/virtual-machines/series/)|[GCE Pricing](https://cloud.google.com/compute/all-pricing)|
 
