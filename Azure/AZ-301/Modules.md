@@ -57,7 +57,7 @@ Table of Contents:
 
 ## Unit 3: Designing for Deployment Migration and Integration
 
-### Module 01: Deploying Resources with Azure Resource Manager
+### Module 01: Deploying Resources with Azure Resource Manager
 
 * ARM Templates
 * Role-Based Access Control
