@@ -29,7 +29,7 @@ Table of Contents:
 
 ## Unit 2: Designing a Data Platform Solution
 
-### Module 01: Backing Azure Solutions with Azure Storage
+### Module 01: Backing Azure Solutions with Azure Storage
 
 * Pricing
 * Blob Storage
