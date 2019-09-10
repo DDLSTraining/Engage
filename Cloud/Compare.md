@@ -61,7 +61,7 @@ The following links map services from one provider to the other:
 
 Last updated: 2019-09-10
 
-Prices are USD based on the following where applicable:
+Prices are USD per month based on the following where applicable:
 
 * Pay As You Go
 * Cheapest General Purpose Machine Type
