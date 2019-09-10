@@ -69,11 +69,11 @@ Prices are USD based on the following where applicable:
 * Australian Region
 * GCP reports usable rather than available RAM
 
-|vCPU|RAM|[AWS EC2](https://aws.amazon.com/ec2/pricing/on-demand/)|[Azure VM](https://azure.microsoft.com/en-au/pricing/details/virtual-machines/linux/#d-series)|[GCP GCE](https://cloud.google.com/compute/all-pricing)|
-|-|-|-|-|-|
-|2|8GB|$68.40 t3a.large|$52.9210 B2S|$68.90 n1-standard-2|
-|4|16GB|$136.872 t3a.xlarge|$211.4832 B4MS|$137.80 n1-standard-4|
-|8|32GB|$273.744 t3a.2xlarge|$423.9687 B8MS|$275.60 n1-standard-8|
+|vCPU|RAM|[AWS EC2](https://aws.amazon.com/ec2/pricing/on-demand/)|Price|[Azure VM](https://azure.microsoft.com/en-au/pricing/details/virtual-machines/linux/#d-series)|Price|[GCP GCE](https://cloud.google.com/compute/all-pricing)|Price|
+|-|-|-|-|-|-|-|-|
+|2|8GB|t3a.large|$68.40|B2S|$52.9210|n1-standard-2|$68.90|
+|4|16GB|t3a.xlarge|$136.872|B4MS|$211.4832|n1-standard-4|$137.80|
+|8|32GB|t3a.2xlarge|$273.744|B8MS|$423.9687|n1-standard-8|$275.60|
 
 ### Functions (Lambda)
 
