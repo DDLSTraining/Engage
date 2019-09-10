@@ -61,12 +61,10 @@ The following links map services from one provider to the other:
 
 Last updated: 2019-09-10
 
-_Note: When there are multiple sizes of the same configuration, the cheapest is selected._
-
 Prices are USD based on the following where applicable:
 
 * Pay As You Go
-* General Purpose Machine Type
+* Cheapest General Purpose Machine Type
 * Linux Virtual Machines
 * Australian Region
 * GCP reports usable rather than available RAM
