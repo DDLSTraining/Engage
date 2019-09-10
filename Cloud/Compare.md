@@ -57,6 +57,26 @@ The following links map services from one provider to the other:
 
 ## Static Documented Comparisons
 
+### IaaS Compute Virtual Machines
+
+Last updated: 2019-09-10
+
+_Note: When there are multiple sizes of the same configuration, the cheapest is selected._
+
+Prices are USD based on the following where applicable:
+
+* Pay As You Go
+* General Purpose Machine Type
+* Linux Virtual Machines
+* Australian Region
+* GCP reports usable rather than available RAM
+
+|vCPU|[AWS EC2](https://aws.amazon.com/ec2/pricing/on-demand/)|[Azure VM(https://azure.microsoft.com/en-au/pricing/details/virtual-machines/linux/#d-series)]|[GCP GCE](https://cloud.google.com/compute/all-pricing)|
+|-|-|-|-|
+|2|t3a.large 8GB $68.40|B2S 8GB $52.9210|n1-standard-2 7.5GB $68.90|
+|4|t3a.xlarge 16GB $136.872|B4MS 16GB $211.4832|n1-standard-4 15GB $137.80|
+|8|t3a.2xlarge 32GB $273.744|B8MS 32GB $423.9687|n1-standard-8 30GB $275.60|
+
 ### Functions (Lambda)
 
 Last updated: 2019-09-10
