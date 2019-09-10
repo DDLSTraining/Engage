@@ -15,9 +15,9 @@ For Database management:
 * [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download)
 * [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 
-## Install with scoop
+## Install with Scoop
 
-The following eases the installation and setup of an Azure workstation using the [scoop](https://scoop.sh/) installation package.
+The following eases the installation and setup of an Azure workstation using the [Scoop](https://scoop.sh/) installation package management tool. See the [Scoop](/Internet/Scoop.md) Engage document for more packages.
 
 First, open PowerShell as Administrator and install `scoop`:
 
