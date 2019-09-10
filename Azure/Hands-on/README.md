@@ -39,6 +39,7 @@ Table of Contents:
   1. [Create a knowledge base using the QnA Maker API service portal](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/create-knowledge-base)
   1. [Add questions and answer with QnA Maker portal](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/quickstarts/add-question-metadata-portal)
 * [Use multiple LUIS and QnA models](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=js)
+* [Bot Framework Quick Starts](https://dev.botframework.com/#quick-starts)
 
 
 ## Containers
