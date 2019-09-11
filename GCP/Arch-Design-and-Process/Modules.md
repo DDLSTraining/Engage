@@ -1,4 +1,8 @@
-# Module List - Architecting with Google Cloud Platform: Design and Process
+# Architecting with Google Cloud Platform: Design and Process
+
+This document contains a list of the modules and lessons contained in the course.
+
+* [DDLS Qwiklabs](https://ddls.qwiklabs.com)
 
 ## Module 1: Defining the Service
 
