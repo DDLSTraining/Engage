@@ -19,4 +19,5 @@ Data:
 * [Scaling out with Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-elastic-scale-introduction)
   * [Multi-shard querying using elastic database tools](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-elastic-scale-multishard-querying)
 * [Azure Data Factory](https://adf.azure.com/)
+* [Azure Data Catalog](http://azuredatacatalog.com/)
  
