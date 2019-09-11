@@ -2,6 +2,7 @@
 
 This document contains a list of the modules and lessons contained in the course.
 
+* [DDLS Website](https://www.ddls.com.au/courses/google/cloud/architecting-with-google-cloud-platform-design-and-process/)
 * [DDLS Qwiklabs](https://ddls.qwiklabs.com)
 
 ## Module 1: Defining the Service
