@@ -32,6 +32,7 @@ Table of Contents:
 
 * [Define resources in Azure Resource Manager templates](https://docs.microsoft.com/en-us/azure/templates/)
 * [Terraform on Azure (Step-by-Step Tutorials)](https://docs.microsoft.com/en-us/azure/terraform/)
+* [Configure a virtual machine with Desired State Configuration](https://docs.microsoft.com/en-us/azure/automation/automation-quickstart-dsc-configuration)
 
 ## Cognitive Services
 
