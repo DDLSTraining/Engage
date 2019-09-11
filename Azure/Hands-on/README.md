@@ -52,6 +52,8 @@ Table of Contents:
 * [Tutorial: Run a parallel workload with Azure Batch using the .NET API](https://docs.microsoft.com/en-us/azure/batch/tutorial-parallel-dotnet)
 * [Analyze phone call data with Stream Analytics and visualize results in Power BI dashboard](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-manage-job)
 * [Quickstart: Create a data factory by using the Azure Data Factory UI](https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-portal)
+* [Quickstart: Create an Azure Data Catalog](https://docs.microsoft.com/en-us/azure/data-catalog/data-catalog-get-started)
+ 
 
 ## Internet of Things
 
