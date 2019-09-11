@@ -20,4 +20,9 @@ Data:
   * [Multi-shard querying using elastic database tools](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-elastic-scale-multishard-querying)
 * [Azure Data Factory](https://adf.azure.com/)
 * [Azure Data Catalog](http://azuredatacatalog.com/)
- 
+
+Deployment:
+* [Azure Quickstart Templates](https://azure.microsoft.com/en-au/resources/templates/)
+  * [GitHub: Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates)
+* [Azure Building Blocks: Simplifying Resource Deployment](https://github.com/mspnp/template-building-blocks/)
+* [Terraform](https://www.terraform.io/)
