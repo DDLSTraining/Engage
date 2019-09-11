@@ -13,4 +13,7 @@ Cognitive Services:
 Storage:
 * [Understanding Block Blobs, Append Blobs, and Page Blobs](https://docs.microsoft.com/en-us/rest/api/storageservices/understanding-block-blobs--append-blobs--and-page-blobs)
 * [Introduction to Azure managed disks](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview)
+* [Compare StorSimple with Azure File Sync and Data Box Edge data transfer options](https://docs.microsoft.com/en-us/azure/storsimple/storsimple-8000-choose-storage-solution)
 
+Databases:
+* [Scaling out with Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-elastic-scale-introduction)
