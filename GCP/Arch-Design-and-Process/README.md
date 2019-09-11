@@ -1,5 +1,8 @@
 # Architecting Google Cloud Platform: Design and Process
 
+* [Professional Cloud Architect Certification Details](https://cloud.google.com/certification/cloud-architect)
+* [DDLS Website](https://www.ddls.com.au/courses/google/cloud/architecting-with-google-cloud-platform-design-and-process/)
+* [DDLS Qwiklabs](https://ddls.qwiklabs.com)
 
 ## Timing
 
