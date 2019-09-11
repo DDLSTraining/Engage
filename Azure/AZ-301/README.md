@@ -17,3 +17,4 @@ Storage:
 
 Databases:
 * [Scaling out with Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-elastic-scale-introduction)
+  * [Multi-shard querying using elastic database tools](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-elastic-scale-multishard-querying)
