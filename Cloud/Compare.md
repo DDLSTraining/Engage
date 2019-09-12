@@ -54,6 +54,7 @@ The following links map services from one provider to the other:
 |Serverless Containers|[ECS (Fargate)](https://aws.amazon.com/fargate/pricing/)|[Container Instances](https://azure.microsoft.com/en-au/pricing/details/container-instances/)|[Cloud Run](https://cloud.google.com/run/pricing)*||
 |Serverless Functions|[Lambda](https://aws.amazon.com/lambda/pricing/)*|[Functions](https://azure.microsoft.com/en-au/pricing/details/functions/)*|[Cloud Functions](https://cloud.google.com/functions/pricing)*||
 |Serverless Workflow|[Step Functions](https://aws.amazon.com/step-functions/pricing/)*|[Logic Apps](https://azure.microsoft.com/en-au/pricing/details/logic-apps/)*|||
+|Storage Blob|[S3](https://aws.amazon.com/s3/pricing/)|[Block Blobs](https://azure.microsoft.com/en-au/pricing/details/storage/blobs/)|[Cloud Storage](https://cloud.google.com/storage/pricing)||
 
 [*] Pay per execution or invocation.
 
