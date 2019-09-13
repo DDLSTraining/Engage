@@ -8,6 +8,6 @@
 * [Qwiklab (Google)](https://google.qwiklabs.com)
 * [Qwiklab (GoogleCloud)](https://googlecloud.qwiklab.com)
 
-## Evaluations
+## Resources
 
-* [Google Cloud - Training Evaluation Form](http://g.co/cloudtraineval)
+* [42 Reasons to Fall in Love With GCP](https://deploy.live/blog/42-reasons-to-fall-in-love-with-gcp/)
