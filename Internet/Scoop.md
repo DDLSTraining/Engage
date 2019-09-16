@@ -28,6 +28,7 @@ For any of the packages below, simply type `scoop install <package name>` from a
 
 * `7zip` - A multi-format file archiver with high compression ratios.
 * `copyq` - Clipboard manager.
+* `coreutils` - A collection of GNU utilities such as bash, make, gawk and grep.
 * `filezilla-server` - Open-source FTP server software.
 * `filezilla` - Fast and reliable cross-platform FTP, FTPS and SFTP client.
 * `firefox` - Popular open source web browser.
