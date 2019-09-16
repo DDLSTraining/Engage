@@ -6,6 +6,8 @@
 * Skillpipe Courseware Code
 * Azure Pass Code
 
+_Note: Use a private or incongnito browser window if you have issues with accounts being cached._ 
+
 ## Courseware
 
 1. Go to [Skillpipe](https://skillpipe.com/).
@@ -39,7 +41,4 @@ Add the following bookmarks to your browser:
 * [Azure Portal](https://portal.azure.com/)
 * [Microsoft Learning on GitHub](https://github.com/MicrosoftLearning)
 * [Engage Azure Repository](/Azure)
-
-_Note: Use a private or incongnito browser window if you have issues with accounts being cached._ 
-
 
