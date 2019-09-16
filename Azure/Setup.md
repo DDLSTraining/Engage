@@ -19,15 +19,17 @@ _Note: Use a private or incongnito browser window if you have issues with accoun
 
 __Do not use your existing Microsoft accounts to work with the labs!__
 
-1. Create a throw away email for use in Azure. DO NOT USE YOUR EXISTING MICROSOFT ACCOUNTS.
+1. Create a throw away email for use in Azure.
+1. DO NOT USE YOUR EXISTING MICROSOFT ACCOUNTS.
 1. Open [Outlook.com](https://outlook.live.com/owa/).
 1. Create a new `Outlook.com` account. Use your last name with the date eg: lastname20180618@outlook.com
-1. Use this email address to create your Azure account.
 
 ## Azure Account ⚿
 
 To create an Azure subscription you need to prove you are a person and an adult. This is done with a credit card. If you have been supplied with an Azure Pass you can avoid the need to use a credit card:
 
+1. Use your new `outlook.com` email address in the following steps.
+1. DO NOT USE YOUR EXISTING MICROSOFT ACCOUNTS.
 1. Open one of the links below and create your Azure account:
    * Azure Pass: https://www.microsoftazurepass.com/
    * Trial Account (Credit Card Required): https://azure.microsoft.com/en-us/free/
