@@ -3,20 +3,21 @@
 ## Requirements
 
 * Modern Browser
-* Skillpipe Courseware
-* Azure Pass
+* Skillpipe Courseware Code
+* Azure Pass Code
 
 ## Courseware
 
 1. Go to [Skillpipe](https://skillpipe.com/).
-1. Register or login with your account. If registering use a personal email address.
+1. Use your personal email address. Not a work email.
+1. Register or login with your account.
 1. Select `Add a Course` and use the code given to you by the instructor.
 
 ## Email Address 📧
 
 __Do not use your existing Microsoft accounts to work with the labs!__
 
-1. In case you didn't read the above warning: DO NOT USE ANY EXISTING ACCOUNTS IN YOUR COURSE!
+1. Create a throw away email for use in Azure. DO NOT USE YOUR EXISTING MICROSOFT ACCOUNTS.
 1. Open [Outlook.com](https://outlook.live.com/owa/).
 1. Create a new `Outlook.com` account. Use your last name with the date eg: lastname20180618@outlook.com
 1. Use this email address to create your Azure account.
