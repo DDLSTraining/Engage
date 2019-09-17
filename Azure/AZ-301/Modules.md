@@ -35,7 +35,6 @@ Table of Contents:
 * Blob Storage
 * Files
 * StorSimple
-* **Lab**: [Deploying Database Instances in Azure](https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign/blob/master/Instructions/AZ-301T02_Lab_Mod02_Deploying%20Database%20Instances%20in%20Azure.md)
 
 ### Module 02: Comparing Database Options in Azure
 
