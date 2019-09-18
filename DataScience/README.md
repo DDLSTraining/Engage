@@ -1,5 +1,5 @@
-# Machine Learning Resources
+# Data Science Resources
 
-## Trained Models
+## Machine Learning Trained Models
 
 * [Pytorch-Transformers](https://github.com/huggingface/pytorch-transformers) - A library of state-of-the-art pretrained models for Natural Language Processing (NLP).
