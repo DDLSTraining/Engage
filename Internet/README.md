@@ -15,3 +15,7 @@ This directory contains handy generic internet tools and resources related to te
   * [AWS Infrastructure](https://www.infrastructure.aws/)
   * [GCP Infrastructure](https://cloud.google.com/about/locations/#regions-tab)
   * [Azure Infrastructure](https://azure.microsoft.com/en-au/global-infrastructure/regions/)
+
+## Distributed Peer-to-Peer
+
+* [OpenSea](https://opensea.io/) - The largest marketplace for crypto collectibles.
