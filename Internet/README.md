@@ -17,7 +17,8 @@ This directory contains handy generic internet tools and resources related to te
   * [Azure Infrastructure](https://azure.microsoft.com/en-au/global-infrastructure/regions/)
 
 ## Distributed Peer-to-Peer
-
+* [IPFS](https://ipfs.io/) - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
+  * [Awesome IPFS](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it.
 * [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone!
 * [OpenSea](https://opensea.io/) - The largest marketplace for crypto collectibles.
 
