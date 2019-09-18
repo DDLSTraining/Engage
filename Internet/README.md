@@ -18,4 +18,6 @@ This directory contains handy generic internet tools and resources related to te
 
 ## Distributed Peer-to-Peer
 
+* [Keybase](https://keybase.io/) - Secure groups, files, and chat for everyone!
 * [OpenSea](https://opensea.io/) - The largest marketplace for crypto collectibles.
+
