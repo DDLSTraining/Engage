@@ -4,7 +4,7 @@ This directory contains handy generic internet tools and resources related to te
 
 To start with, here are some good reasons to start using Firefox:
 
-* Mozilla's Mission: Keep the internet open and accessible to all.
+* [Mozilla's Mission](https://www.mozilla.org/en-US/about/): Keep the internet open and accessible to all.
 * [Firefox Quantum](https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/)
 * [Content Blocking](https://support.mozilla.org/en-US/kb/content-blocking)
 * [Google Says It Isn't Killing Ad Blockers. Ad Blockers Disagree](https://www.wired.com/story/google-chrome-ad-blockers-extensions-api/)
