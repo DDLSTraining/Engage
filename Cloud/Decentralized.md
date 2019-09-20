@@ -6,6 +6,7 @@
 
 * [IPFS (InterPlanetary File System)](https://ipfs.io/) - A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.
 * [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop)
+* [Open Index Protocol](https://oip.wiki/) -  Specification for a persistent worldwide index and file library.
 
 ## Cloud Platforms and Storage
 
