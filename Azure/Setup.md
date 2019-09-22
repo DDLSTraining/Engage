@@ -18,6 +18,13 @@ Upgrade Firefox ([why use firefox?](/Internet/Firefox.md)). If you haven't used 
 1. Wait for the download to finish, then click upgrade.
 1. Once upgraded, use the `Customize...` menu options to restore defaults.
 
+Some useful extensions:
+
+* [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) - Show tabs like a tree.
+* [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - Finally, an efficient blocker. Easy on CPU and memory.
+* [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) - Enlarge thumbnails, and show images/videos from links with a mouse hover.
+* [Octotree](https://addons.mozilla.org/en-US/firefox/addon/octotree/) - Add-on to display GitHub code in tree format.
+
 ## Courseware
 
 1. Go to [Skillpipe](https://skillpipe.com/).
@@ -54,7 +61,7 @@ Add the following bookmarks to your browser:
 * [Microsoft Learning on GitHub](https://github.com/MicrosoftLearning)
 * [Engage Azure Repository](/Azure)
 
-### Classroom Machine Setup (Optional)
+## Classroom Machine Setup (Optional)
 
 The following is specific to the DDLS classroom machines to add useful software packages for working with Azure. Most of the labs commands are run inside [Cloud Shell](https://shell.azure.com/), however you can run them locally with these software packages.
 
