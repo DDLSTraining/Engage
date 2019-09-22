@@ -10,7 +10,7 @@ _Note: Use a private or incongnito browser window if you have issues with accoun
 
 ## Firefox
 
-Upgrade Firefox ([why use firefox?](/Internet/Firefox.md)). If you haven't used it for a while, give it a try this week:
+Upgrade Firefox ([why use Firefox?](/Internet/Firefox.md)). If you haven't used it for a while, give it a try this week:
 
 1. Open Firefox.
 1. Open the Menu (three lines at the top right).
