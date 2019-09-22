@@ -8,6 +8,16 @@
 
 _Note: Use a private or incongnito browser window if you have issues with accounts being cached._ 
 
+## Firefox
+
+Upgrade Firefox ([why use firefox?](/Internet/Firefox.md)). If you haven't used it for a while, give it a try this week:
+
+1. Open Firefox.
+1. Open the Menu (three lines at the top right).
+1. Go to the About page from the help icon (?) on the bottom of the menu.
+1. Wait for the download to finish, then click upgrade.
+1. Once upgraded, use the `Customize...` menu options to restore defaults.
+
 ## Courseware
 
 1. Go to [Skillpipe](https://skillpipe.com/).
@@ -48,9 +58,7 @@ Add the following bookmarks to your browser:
 
 The following is specific to the DDLS classroom machines to add useful software packages for working with Azure. Most of the labs commands are run inside [Cloud Shell](https://shell.azure.com/), however you can run them locally with these software packages.
 
-1. Upgrade Firefox ([why use firefox?](/Internet/Firefox.md)):
-   * Go to the About page from the help icon (?) on the menu.
-   * Once upgraded, use the `Customize...` menu options to restore defaults.
+
 1. Upgrade VSCode:
    * Open VSCode from the start menu (search for code).
    * Go to the `Help` menu and then `Check For Updates`.
