@@ -1,6 +1,9 @@
 # Scoop
 
-* [scoop](https://scoop.sh/) - A command-line installer for Windows.
+* [Scoop Homepage](https://scoop.sh/) - A command-line installer for Windows.
+* [Scoop Docs (Unofficial)](https://scoop-docs.now.sh/)
+* [Scoop Apps](https://scoop-docs.now.sh/apps/) - Search for apps in multiple buckets.
+* [Scoop Awesome](https://github.com/ScoopInstaller/Awesome) - A curated list of awesome Scoop resources and more.
 
 ## Installation
 
