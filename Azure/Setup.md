@@ -44,3 +44,25 @@ Add the following bookmarks to your browser:
 * [Microsoft Learning on GitHub](https://github.com/MicrosoftLearning)
 * [Engage Azure Repository](/Azure)
 
+### Classroom Machine Setup (Optional)
+
+The following is specific to the DDLS classroom machines to add useful software packages for working with Azure. Most of the labs commands are run inside [Cloud Shell](https://shell.azure.com/), however you can run them locally with these software packages.
+
+1. Upgrade Firefox ([why use firefox?](/Internet/Firefox.md)). Go to the About page from the help icon (?) on the menu.
+1. Upgrade VSCode. Open code and go to the `Help` menu and then `Check For Updates`.
+1. Install scoop: `iwr -useb get.scoop.sh | iex`
+1. Run the following script:
+
+```powershell
+scoop bucket add extras
+scoop bucket add versions
+scoop install pwsh-beta
+```
+
+5. Open PowerShell Core from the start menu. _Note: the reason we are using PowerShell Core is because it does not need the latest .NET Framework installed to use the Azure AZ PowerShell module._
+6. Run the following script:
+
+```powershell
+scoop install 7zip copyq coreutils grep nmap openssh vim wget wireshark docker docker-compose git nodejs jq azure-cli storageexplorer
+install-module az -force
+```
