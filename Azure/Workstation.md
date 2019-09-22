@@ -69,12 +69,14 @@ The following is specific to the DDLS classroom machines to add useful software 
 ```powershell
 scoop bucket add extras
 scoop bucket add versions
-scoop install 7zip copyq coreutils grep nmap openssh vim wget wireshark docker docker-compose git nodejs jq azure-cli storageexplorer
+scoop install pwsh-beta
 ```
 
-Finally open PowerShell Core and install the Azure module: `install-module az -force`
+5. Open PowerShell Core from the start menu. _Note: the reason we are using PowerShell Core is because it does not need the latest .NET Framework installed to use the Azure AZ PowerShell module._
+6. Run the following script:
 
-
-
-
+```powershell
+scoop install 7zip copyq coreutils grep nmap openssh vim wget wireshark docker docker-compose git nodejs jq azure-cli storageexplorer
+install-module az -force
+```
 
