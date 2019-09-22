@@ -56,3 +56,25 @@ Lastly, update all scoop installed applications:
 ```powershell
 scoop update *
 ```
+
+### DDLS Classroom Machine Setup
+
+The following is specific to the DDLS classroom machines to add useful software packages for working with Azure.
+
+1. Upgrade Firefox. Go to the About page from the help icon (?) on the menu.
+1. Upgrade VSCode. Open code and go to the `Help` menu and then `Check For Updates`.
+1. Install scoop: `iwr -useb get.scoop.sh | iex`
+1. Run the following script:
+
+```powershell
+scoop bucket add extras
+scoop bucket add versions
+scoop install 7zip copyq coreutils grep nmap openssh vim wget wireshark docker docker-compose git nodejs jq azure-cli storageexplorer
+```
+
+Finally open PowerShell Core and install the Azure module: `install-module az -force`
+
+
+
+
+
