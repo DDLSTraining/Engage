@@ -23,3 +23,7 @@ See the [iam-role-ec2-to-s3](iam-role-ec2-to-s3.md) demonstration as an example 
 ## API Gateway
 
 * [API Gateway + Vue JS + Express + PostgreSQL](https://github.com/allanchua101/api-gateway-vue-express-pg) - Showcases an API gateway using Vue JS, Express, and PostgreSQL on containers.
+
+## Lambda
+
+* [Building serverless web applications on AWS without API Gateway](https://www.cloudreach.com/en/insights/blog/building-serverless-web-applications-on-aws-without-api-gateway/)
