@@ -4,6 +4,7 @@
 
 * [How Kubernetes Works](https://blog.sensu.io/how-kubernetes-works) - A 10 minute technology overview.
 * [Kubernetes Academy](https://kubernetes.academy/) - Bite-size video lessons developed by expert instructors.
+* [kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - A Gentle introduction to Kubernetes with more than just the basics.
 
 ## Projects and Services
 
