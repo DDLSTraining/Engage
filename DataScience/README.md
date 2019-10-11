@@ -2,6 +2,11 @@
 
 ## Machine Learning
 
+## News
+
+* [The State of Machine Learning Frameworks in 2019](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/)
+  * [Hacker News Discussion](https://news.ycombinator.com/item?id=21216200)
+
 ### Trained Models
 
 * [Pytorch-Transformers](https://github.com/huggingface/pytorch-transformers) - A library of state-of-the-art pretrained models for Natural Language Processing (NLP).
