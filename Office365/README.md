@@ -12,5 +12,6 @@ Notes and resources for Microsoft Office 365 official courses:
 * [Office 365 Portal](https://portal.office.com/)
 * [Office 365 Admin Portal](https://admin.microsoft.com/)
 * [10997 GitHub Repository](https://github.com/MicrosoftLearning/10997-O365AdministrationandTroubleshooting)
+* [Microsoft 365 licensing diagrams](https://github.com/AaronDinnage/Licensing)
 
 ## Resources
