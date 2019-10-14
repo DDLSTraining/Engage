@@ -1,4 +1,4 @@
-# Acronyms Reference
+# Acronym Reference
 ## IaaS – Infrastructure as a Service 
 is a cloud computing offering in which a vendor provides users access to computing resources such as servers, storage and networking. Organizations use their own platforms and applications within a service provider's infrastructure.
 ## PaaS – Platform as a Service 
