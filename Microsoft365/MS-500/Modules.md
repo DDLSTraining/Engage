@@ -12,13 +12,13 @@ Modules and Lessons
 * Azure AD Identity Protection
 * __Hands-on Lab – Managing your Microsoft 365 Identity environment__
 
-### Module 2: Module 1: User and Group Security
+### Module 2: Identity Synchronization
 
-* User Accounts in Microsoft 365 
-* Administrator Roles and Security Groups in Microsoft 365 
-* Password Management in Microsoft 365 
-* Azure AD Identity Protection
-* __Hands-on Lab – Managing your Microsoft 365 Identity environment__
+* Introduction to Identity Synchronization 
+* Planning for Azure AD Connect 
+* Implementing Azure AD Connect 
+* Managing Synchronized Identities
+* __Hands-on Lab – Implementing Identity Synchronization__
 
 ### Module 3: Federated Identities
 
