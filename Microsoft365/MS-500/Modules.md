@@ -2,7 +2,7 @@
 
 Modules and Lessons
 
-## Unit 1: Managing Microsoft 365 Identity and Access
+## MS-500T01: Managing Microsoft 365 Identity and Access
 
 ### Module 1: User and Group Security
 
@@ -33,7 +33,7 @@ Modules and Lessons
 * Role Based Access Control (RBAC) 
 * Solutions for External Access
 
-## Unit 2: Implementing Microsoft 365 Threat Protection
+## MS-500T02: Implementing Microsoft 365 Threat Protection
 
 ### Module 1: Security in Microsoft 365
 
@@ -59,7 +59,7 @@ Modules and Lessons
 * Using the Security Dashboard
 * Configuring Advanced Threat Analytics
 
-## Unit 3: Implementing Microsoft 365 Information Protection
+## MS-500T03: Implementing Microsoft 365 Information Protection
 
 ### Module 1: Information Protection
 
@@ -85,7 +85,7 @@ Modules and Lessons
 * Using Cloud Application Security Information 
 * Office 365 Cloud App Security
 
-## Unit 4: Administering Microsoft 365 Built-in Compliance
+## MS-500T04: Administering Microsoft 365 Built-in Compliance
 
 ### Module 1: Archiving and Retention
 
