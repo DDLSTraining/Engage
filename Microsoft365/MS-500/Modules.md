@@ -10,7 +10,7 @@ Modules and Lessons
 * Administrator Roles and Security Groups in Microsoft 365 
 * Password Management in Microsoft 365 
 * Azure AD Identity Protection
-* Hands-on Lab – Managing your Microsoft 365 Identity environment
+* __Hands-on Lab – Managing your Microsoft 365 Identity environment__
 
 ### Module 2: Module 1: User and Group Security
 
@@ -18,7 +18,7 @@ Modules and Lessons
 * Administrator Roles and Security Groups in Microsoft 365 
 * Password Management in Microsoft 365 
 * Azure AD Identity Protection
-* Hands-on Lab – Managing your Microsoft 365 Identity environment
+* __Hands-on Lab – Managing your Microsoft 365 Identity environment__
 
 ### Module 3: Federated Identities
 
