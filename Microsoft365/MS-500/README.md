@@ -17,3 +17,57 @@ Links and resources for Microsoft 365 security.
 * https://youtu.be/dgkLkxX_YrE
 * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
+
+## Timing
+
+### Day 1
+
+|Unit|Module|Activity|Duration|
+|-|-|-|-|
+|01|00|Introductions and Setup|60|
+|01|01||30|
+|Break|||15|
+|01|01||45|
+|Lab|||45|
+|Lunch|||60|
+|01|02||50|
+|01|03||45|
+|Break|||15|
+|Lab|||30|
+|01|04||60|
+|Finish||5:00||
+
+### Day 2
+
+|Unit|Module|Activity|Duration|
+|-|-|-|-|
+|01|05||60|
+|Lab|||30|
+|Break|||15|
+|Lunch|||60|
+|02|01||60|
+|Break|||15|
+|02|02||60|
+|Finish||5:00||
+
+### Day 3
+
+|Unit|Module|Activity|Duration|
+|-|-|-|-|
+|02|02||60|
+|Break|||15|
+|02|03|||
+|Lunch|||60|
+|Break|||15|
+|Finish||5:00||
+
+### Day 4
+
+|Unit|Module|Activity|Duration|
+|-|-|-|-|
+|02|02||60|
+|Break|||15|
+|02|03|||
+|Lunch|||60|
+|Break|||15|
+|Finish||5:00||
