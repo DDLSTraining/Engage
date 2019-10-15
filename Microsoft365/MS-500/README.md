@@ -2,6 +2,17 @@
 
 Links and resources for Microsoft 365 security.
 
+## Learn on Demand Hands-on
+
+* [Managing Microsoft 365 Identity and Access](https://ddls.learnondemand.net/Lab/30056)
+  * Duration: 3 Hours, 30 Minutes, 30 Seconds
+* [Implementing Microsoft 365 Threat Protection](https://ddls.learnondemand.net/Lab/30057)
+  * Duration: 2 Hours
+* [Implementing Microsoft 365 Information Protection](https://ddls.learnondemand.net/Lab/30058)
+  * Duration: 3 Hours
+* [Administering Microsoft 365 Built-in Compliance](https://ddls.learnondemand.net/Lab/30059)
+  * Duration: 1 Hour, 30 Minutes, 30 Seconds
+
 ## Videos
 
 * [Phishing](https://youtu.be/MCYC8kV1mmc)
