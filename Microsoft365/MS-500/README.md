@@ -5,6 +5,8 @@
 * [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/en-us/learning/m365-security-administrator.aspx)
 * [Exam MS-500: Microsoft 365 Security Administration](https://www.microsoft.com/en-us/learning/exam-ms-500.aspx)
 
+## Extra Reading
+* [Event Driven Retention](https://docs.microsoft.com/en-au/microsoft-365/compliance/event-driven-retention#how-to-set-up-event-driven-retention)
 
 ## Learn on Demand Hands-on
 
