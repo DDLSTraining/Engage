@@ -74,14 +74,13 @@ Modules and Lessons
 * Advanced Information Protection
 * Windows Information Protection
 
-### Module 1: Information Protection
+### Module 2: Data Loss Prevention
 
-* Information Rights Management 
-* Secure Multipurpose Internet Mail Extension 
-* Office 365 Message Encryption
-* Azure Information Protection
-* Advanced Information Protection
-* Windows Information Protection
+* Data Loss Prevention Explained
+* Data Loss Prevention Policies
+* Custom DLP Policies
+* Creating a DLP Policy to Protect Documents
+* Policy Tips
 
 ### Module 3: Cloud Application Security
 
