@@ -1,6 +1,8 @@
 # Microsoft 365 Security Administration
 
-Links and resources for Microsoft 365 security.
+* [DDLS: Microsoft 365 Security Administrator](https://www.ddls.com.au/courses/microsoft/office-365/microsoft-ms-500-microsoft-365-security-administrator/)
+* [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/en-us/learning/m365-security-administrator.aspx)
+* [Exam MS-500: Microsoft 365 Security Administration](https://www.microsoft.com/en-us/learning/exam-ms-500.aspx)
 
 ## Learn on Demand Hands-on
 
