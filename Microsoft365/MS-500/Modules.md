@@ -41,12 +41,14 @@ Modules and Lessons
 * Security Solutions in Microsoft 365
 * Microsoft Secure Score
 
-### Module 4: Mobile Device Management
+### Module 2: Advanced Threat Protection
 
-* Plan for Mobile Application Management 
-* Plan Mobile Device Management 
-* Deploy Mobile Device Management 
-* Enrolling Devices to Mobile Device Management
+* Exchange Online Protection
+* Office 365 Advanced Threat Protection
+* Managing Safe Attachments
+* Managing Safe Links
+* Azure Advanced Threat Protection
+* Windows Defender Advanced Threat Protection
 
 ### Module 3: Threat Intelligence
 
