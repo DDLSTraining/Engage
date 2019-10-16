@@ -29,7 +29,7 @@
 * [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
 * [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
 * [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
-* https://youtu.be/dgkLkxX_YrE
+* [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
 * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
 
