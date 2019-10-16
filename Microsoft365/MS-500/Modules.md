@@ -41,23 +41,25 @@ Modules and Lessons
 * Security Solutions in Microsoft 365
 * Microsoft Secure Score
 
-### Module 1: Security in Microsoft 365
+### Module 4: Mobile Device Management
 
-* Threat Vectors and Data Breaches
-* Security Solutions in Microsoft 365
-* Microsoft Secure Score
-
-### Module 3: Threat Intelligence
-
-* Microsoft 365 Threat Intelligence
-* Using the Security Dashboard
-* Configuring Advanced Threat Analytics
+* Plan for Mobile Application Management 
+* Plan Mobile Device Management 
+* Deploy Mobile Device Management 
+* Enrolling Devices to Mobile Device Management
 
 ### Module 3: Threat Intelligence
 
 * Microsoft 365 Threat Intelligence
 * Using the Security Dashboard
 * Configuring Advanced Threat Analytics
+
+### Module 4: Mobile Device Management
+
+* Plan for Mobile Application Management 
+* Plan Mobile Device Management 
+* Deploy Mobile Device Management 
+* Enrolling Devices to Mobile Device Management
 
 ## MS-500T03: Implementing Microsoft 365 Information Protection
 
