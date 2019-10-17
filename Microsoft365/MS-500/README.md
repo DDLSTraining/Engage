@@ -20,6 +20,11 @@
     * Exercise 1: Implement Identity Synchronization
 * [Implementing Microsoft 365 Threat Protection](https://ddls.learnondemand.net/Lab/30057)
   * Duration: 2 Hours
+  * Advanced Threat Protection
+    * Exercise 1: Setting up your lab environment
+    * Exercise 2: Editing an ATP Safe Links policy and create a Safe Attachment policy
+  * Advanced Threat Analytics
+    * Exercise 1: Enabling and installing the ATA Center
 * [Implementing Microsoft 365 Information Protection](https://ddls.learnondemand.net/Lab/30058)
   * Duration: 3 Hours
 * [Administering Microsoft 365 Built-in Compliance](https://ddls.learnondemand.net/Lab/30059)
