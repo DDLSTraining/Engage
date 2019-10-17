@@ -27,6 +27,14 @@
     * Exercise 1: Enabling and installing the ATA Center
 * [Implementing Microsoft 365 Information Protection](https://ddls.learnondemand.net/Lab/30058)
   * Duration: 3 Hours
+  * Set up Information Protection
+    * Exercise 1: Create and license users in your organization
+    * Exercise 2: Configure MDM auto-enrollment
+    * Exercise 3: Configure AIP and WIP
+  * Data Loss Prevention
+    * Exercise 1: Create and license users in your organization
+    * Exercise 2: Create a DLP policy
+    * Exercise 3: Testing DLP Policies
 * [Administering Microsoft 365 Built-in Compliance](https://ddls.learnondemand.net/Lab/30059)
   * Duration: 1 Hour, 30 Minutes, 30 Seconds
   * Archiving and Retention
