@@ -18,6 +18,25 @@
   * Duration: 3 Hours
 * [Administering Microsoft 365 Built-in Compliance](https://ddls.learnondemand.net/Lab/30059)
   * Duration: 1 Hour, 30 Minutes, 30 Seconds
+  * Archiving and Retention
+    * Exercise 1: Create and license users in your organization
+      * Task 1: Obtain your Office 365 credentials
+      * Task 2: Create the tenant account for Ramiro Armenta
+      * Task 3: Create the tenant account for Marguerite Ortiz
+    * Exercise 2: Configure Retention Tags and Policies
+      * Task 1: Activating In-Place Archiving
+      * Task 2: Create an MRM retention tag and policy in the Exchange Admin Center
+      * Task 3: Create a retention policy in the Security and Compliance Center
+    * Exercise 3: MRM Retention Policies
+      * Task 1: Create Custom Mail Retention tags
+  * eDiscovery
+    * Exercise 1: Create and license users in your organization
+      * Task 1: Obtain your Office 365 credentials
+      * Task 2: Create the tenant account for Ramiro Armenta
+      * Task 3: Create the tenant account for Marguerite Ortiz
+    * Exercise 2: Investigate your Microsoft 365 Data
+      * Task 1: Perform a content search for deleted emails
+      * Task 2: Create an eDiscovery case
 
 ## Videos
 
