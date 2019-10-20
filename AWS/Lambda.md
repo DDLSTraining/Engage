@@ -10,3 +10,4 @@
 
 * [Refinery](https://www.refinery.io/) - Write less code and get more done.
 * [Laconia](https://laconiajs.io/) - Create well-crafted serverless applications, effortlessly.
+* [middy](https://middy.js.org/) - The stylish Node.js middleware engine for AWS Lambda.
