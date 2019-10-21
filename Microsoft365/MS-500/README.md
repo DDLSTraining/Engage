@@ -6,7 +6,12 @@
 * [Exam MS-500: Microsoft 365 Security Administration](https://www.microsoft.com/en-us/learning/exam-ms-500.aspx)
 
 ## Extra Reading
+
 * [Event Driven Retention](https://docs.microsoft.com/en-au/microsoft-365/compliance/event-driven-retention#how-to-set-up-event-driven-retention)
+
+## References
+
+* [Accessing Secure Score via the Graph API](https://github.com/OfficeDev/O365-Cloud-Sec-Tooling/blob/master/Securescore/README.md)
 
 ## Learn on Demand Hands-on
 
