@@ -6,6 +6,7 @@ This directory contains handy generic internet tools and resources related to te
 
 * [ipinfo.io](https://ipinfo.io/): IP Data For All Your Business Needs (supports JSON GET requests).
 * [Web Browser Market Share (1996-2019)](https://www.youtube.com/watch?v=es9DNe0l0Qo)
+* [StatCounter Global Stats](https://gs.statcounter.com/)
 
 ## Maps
 
