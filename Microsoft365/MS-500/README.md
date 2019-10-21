@@ -9,7 +9,7 @@
 
 * [Event Driven Retention](https://docs.microsoft.com/en-au/microsoft-365/compliance/event-driven-retention#how-to-set-up-event-driven-retention)
 
-## References
+## Resources
 
 * [Accessing Secure Score via the Graph API](https://github.com/OfficeDev/O365-Cloud-Sec-Tooling/blob/master/Securescore/README.md)
 
