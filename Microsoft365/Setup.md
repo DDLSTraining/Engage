@@ -12,7 +12,7 @@ If using online labs follow these steps:
 
 ## Courseware
 
-1. Go to [Skillpipe](https://skillpipe.com/en-GB/).
+1. Go to [Skillpipe](https://skillpipe.com/).
 1. Register or login with your account. If registering use a personal email address.
 1. Select `Add a Course` and use the code given to you by the instructor.
 
