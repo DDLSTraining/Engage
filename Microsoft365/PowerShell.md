@@ -6,8 +6,9 @@
 
 ## Install the AzureAD PowerShell module for PowerShell Core
 
-* Source: https://blogs.endjin.com/2019/05/how-to-use-the-azuread-module-in-powershell-core/
-* Gallery: https://www.poshtestgallery.com/
+* [PowerShell Core](https://github.com/PowerShell/PowerShell) - Maybe use [scoop](/Internet/Scoop.md)!
+* [How to use the AzureAD module in PowerShell Core](https://blogs.endjin.com/2019/05/how-to-use-the-azuread-module-in-powershell-core/)
+* [Test PowerShell Gallery](https://www.poshtestgallery.com/)
 
 ```PowerShell
 Register-PackageSource -Trusted -ProviderName 'PowerShellGet' -Name 'Posh Test Gallery' -Location 'https://www.poshtestgallery.com/api/v2/'
