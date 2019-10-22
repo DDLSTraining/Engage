@@ -1,7 +1,9 @@
 # Manage Office 365 with PowerShell
 
-## SharePoint Module
-
+* [Introducing the new Azure PowerShell Az module](https://docs.microsoft.com/en-us/powershell/azure/new-azureps-module-az)
+* [AzureAD Module: Azure Active Directory PowerShell for Graph](https://docs.microsoft.com/en-us/powershell/module/azuread/)
+* [Connect to Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-office-365-powershell)
+* [Connect to all Office 365 services in a single Windows PowerShell window](https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-all-office-365-services-in-a-single-windows-powershell-window)
 * [Getting started with SharePoint Online Management Shell](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
 
 ## Install the AzureAD PowerShell module for PowerShell Core
