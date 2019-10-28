@@ -1,5 +1,6 @@
 # Technology News and Resources
 
+* [2019-10-27: Video - The Extreme Physics Pushing Moore’s Law to the Next Level](https://www.youtube.com/watch?v=f0gMdGrVteI)
 * [2019-10-26: What Media Gets Wrong about Predicting the Future](https://youtu.be/dq8aNqlK140)
 * [2019-10-25: Google T5 scores 88.9 on SuperGLUE Benchmark, approaching 89.8 human baseline](https://super.gluebenchmark.com/leaderboard/)
   * [Hacker News Discussion](https://news.ycombinator.com/item?id=21350290)
