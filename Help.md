@@ -93,4 +93,12 @@ Click one of the links below to add to your browser:
 * [Chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 * [Opera](https://addons.opera.com/en/extensions/details/octotree/)
 
+## Gitpod
+
+One-Click Online IDE for GitHub
+
+As with Octotree, Gitpod is not required. If you wish to make major changes to any GitHub repository you can either clone the repository to your desktop, or try Gitpod. Gitpod allows you to edit the repository in the browser using the Visual Studio Code application.
+
+Visit [Gitpod](https://www.gitpod.io/) or install the [browser extension](https://addons.mozilla.org/en-US/firefox/addon/gitpod/).
+
 
