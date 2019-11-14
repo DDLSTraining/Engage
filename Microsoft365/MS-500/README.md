@@ -59,6 +59,7 @@
 * [Advanced Threat Protection (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
 * [Windows defender Advanced Threat Protection](https://youtu.be/qxeGa3pxIwg)
 * [Advanced Threat Protection – Windows 10 etc](https://youtu.be/HkQZR9RBbPE)
+* [Microsft Graph](https://youtu.be/PI9NO5rayiY)
 * [Compliance Manager Demo](https://youtu.be/r1vs8NdSXKQ?list=PLXPr7gfUMmKyMW5RRW9kmLjX31OTwqhf5)
 * [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
 * [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
