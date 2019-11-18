@@ -67,6 +67,7 @@
 * [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
 * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
+* [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
 
 ## Timing
 
