@@ -8,7 +8,7 @@
 ## Extra Reading
 
 * [Event Driven Retention](https://docs.microsoft.com/en-au/microsoft-365/compliance/event-driven-retention#how-to-set-up-event-driven-retention)
-
+* [Azure Identity Protection Risk Events (What classes as High, Medium & Low)])https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-risk-events)
 ## Resources
 
 * [GitHub: Accessing Secure Score via the Graph API](https://github.com/OfficeDev/O365-Cloud-Sec-Tooling/blob/master/Securescore/README.md)
