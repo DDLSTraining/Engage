@@ -13,6 +13,8 @@
 
 * [GitHub: Accessing Secure Score via the Graph API](https://github.com/OfficeDev/O365-Cloud-Sec-Tooling/blob/master/Securescore/README.md)
   * [Related Document: Using the Office 365 Secure Score API](https://blogs.technet.microsoft.com/office365security/using-the-office-365-secure-score-api/)
+  * [InTune Best Practices](http://www.itpromentor.com/intune-best-practices/)
+* [Microsodt Docs - Intune Portal](https://docs.microsoft.com/en-us/intune/)
 
 ## Learn on Demand Hands-on
 
