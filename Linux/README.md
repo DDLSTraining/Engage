@@ -26,11 +26,13 @@ Choose a beginner distribution such as:
   * Desktop:  Awesome, bspwm, Budgie, Cinnamon, Deepin, GNOME, i3, KDE Plasma, LXQt, MATE, Openbox, Xfce
   * Good replacement for Windows.
 * [MX Linux](https://mxlinux.org/)
-  * Base: Deiban 
+  * Base: Debian
 * [Debian](https://www.debian.org/)
   * Base: Debian is the root of many other distributions. It is the base.
   * Desktop: AfterStep, Awesome, Blackbox, Cinnamon, Fluxbox, flwm, FVWM, GNOME, i3, IceWM, ion, JWM, KDE, LXDE, LXQt, MATE, Openbox, pekwm, Ratpoison, WMaker, XBMC, Xfce
   * This is the default server OS for Google Cloud Platform. It is slightly harder to manage.
+
+_Note: See [DistroWatch](https://distrowatch.com/) for more details about the distributions._
 
 Download the ISO files for your chosen distribution and create a bootable USB drive.
 
