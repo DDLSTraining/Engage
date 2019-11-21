@@ -4,7 +4,7 @@
 ## Resources
 
 * [The New Certification tracks](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
-* [MS-101 on DDLS](https://www.ddls.com.au/courses/microsoft/office-365/microsoft-ms-101-microsoft-365-mobility-and-security/)
+* [MS-101 on DDLS](https://www.ddls.com.au/courses/microsoft/office-365/microsoft-ms-101t00-microsoft-365-mobility-and-security/)
 * [MS-101 Exam Details](https://www.microsoft.com/en-us/learning/exam-ms-101.aspx)
 
 ## Timing
