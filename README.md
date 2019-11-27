@@ -1,5 +1,5 @@
 # Classroom Services
-![DDLSLogo](images/Leader_In_Corp_Training.png)
+![DDLSLogo](_images/Leader_In_Corp_Training.png)
 
 ***These are the weblinks that you may require for your course at DDLS***
 
