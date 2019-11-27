@@ -1,4 +1,4 @@
-![](_images/ddls_logo_text_darkgreen_high_qual.png)
+![](.\_images/ddls_logo_text_darkgreen_high_qual.png)
 # Classroom Services
 ***These are the weblinks that you may require for your course at DDLS***
 
@@ -26,11 +26,11 @@
 ## VMWARE Links
 - [MyLearn](http://mylearn.vmware.com/)
 - [Bookshelf](https://online.vitalsource.com/signin)
-## EC-Council
+## EC-Council Links
 - 
-## CompTIA
+## CompTIA Links
 - 
-## ISC<sup>2</sup>
+## ISC<sup>2</sup> Links
 - 
 ## Driver Info
 - [Dell Precision T5400 Video Driver](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2016/03/200014607_69c24b2b1acd811068d57d2630603959cb7b4290.cab)
