@@ -39,8 +39,6 @@ Adelaide Room 4|93352@didata.com.au
 Brisbane Room 2|93354@didata.com.au
 Brisbane Room 7|93371@didata.com.au
 Brisbane Room 8|93355@didata.com.au
-Site Resource|Uri
----|---
 Canberra Room 2|93351@didata.com.au
 Canberra Room 4|93357@didata.com.au
 Canberra Room 72|93372@didata.com.au
