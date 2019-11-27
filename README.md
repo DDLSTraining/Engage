@@ -39,23 +39,25 @@ Adelaide Room 4|93352@didata.com.au
 Brisbane Room 2|93354@didata.com.au
 Brisbane Room 7|93371@didata.com.au
 Brisbane Room 8|93355@didata.com.au
+Site Resource|Uri
+---|---
 Canberra Room 2|93351@didata.com.au
 Canberra Room 4|93357@didata.com.au
 Canberra Room 72|93372@didata.com.au
 Canberra Room 73|93373@didata.com.au
-Melbourne Room 10|93356@didata.com.au
-Melbourne Room 11|93350@didata.com.au
 Melbourne Room 5|93359@didata.com.au
 Melbourne Room 6|93148@didata.com.au
+Melbourne Room 10|93356@didata.com.au
+Melbourne Room 11|93350@didata.com.au
 Perth Meeting Room|93169@didata.com.au
 Perth Room 5|93358@didata.com.au
 Sydney Meeting Room|93160@didata.com.au
-Sydney Room 10|93360@didata.com.au
 Sydney Room 4|93364@didata.com.au
 Sydney Room 5|93367@didata.com.au
 Sydney Room 6|93366@didata.com.au
 Sydney Room 8|93368@didata.com.au
 Sydney Room 9|93369@didata.com.au
+Sydney Room 10|93360@didata.com.au
 VC Bridge 1|930041@didata.com.au
 VC Bridge 2|930042@didata.com.au
 VC Bridge 3|930043@didata.com.au
