@@ -1,5 +1,10 @@
 # DDLS Course Engagement
 
+Resource | Link to the URL
+---|---
+DDLS Schedules | [Schedules](https://www.ddls.com.au/schedules/)
+
+
 This repository holds notes and resources used for DDLS course delivery.
 
 Please use it during your course and as a reference after completing the course.
