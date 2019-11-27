@@ -25,7 +25,7 @@
 - [MyLearn](http://mylearn.vmware.com/)
 - [Bookshelf](https://online.vitalsource.com/signin)
 ## ITIL Links
-- [Exam Instructions]()
+- [Exam Instructions](https://www.youtube.com/watch?v=8N_tupPBtWQ)
 - [Exam Registration](https://candidate.peoplecert.org/)
 - [ITIL Exam](https://webates.peoplecert.org/)
 - [DDLS ITIL Portal](http://ddls.net.au/portal/)
