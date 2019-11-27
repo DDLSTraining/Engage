@@ -28,11 +28,13 @@
 - [MyLearn](http://mylearn.vmware.com/)
 - [Bookshelf](https://online.vitalsource.com/signin)
 ## EC-Council Links
-- 
+- [Manual](https://aspen.eccouncil.org)
+- [Labs](https://eccouncil.learnondemand.net/User/Register?OrganizationId=1133)
 ## CompTIA Links
-- 
+- [Manual](https://comptia.lochoice.com)
+- [Labs](https://comptialabs.learnondemand.net)
 ## ISC<sup>2</sup> Links
-- 
+- [Manual](http://isc2.redshelf.com)
 ## Driver Info
 - [Dell Precision T5400 Video Driver](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2016/03/200014607_69c24b2b1acd811068d57d2630603959cb7b4290.cab)
 ## TP Information
