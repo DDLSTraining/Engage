@@ -1,4 +1,4 @@
-![DDLSLogo](images/ddls_logo_text_darkgreen_high_qual.png)
+![DDLSLogo](_images/ddls_logo_text_darkgreen_high_qual.png)
 # Classroom Services
 ***These are the weblinks that you may require for your course at DDLS***
 
