@@ -1,6 +1,6 @@
-#
-![DDLSLogo](images/Leader_In_Corp_Training.png)
 # Classroom Services
+![DDLSLogo](images/Leader_In_Corp_Training.png)
+
 ***These are the weblinks that you may require for your course at DDLS***
 
 ## DDLS Resources
