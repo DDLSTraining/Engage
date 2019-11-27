@@ -1,12 +1,14 @@
 # DDLS Course Engagement
 
-Resource | Link to the URL
----|---
-DDLS Schedules | [Schedules](https://www.ddls.com.au/schedules/)
-DDLS Offers | [Specials on Offer](https://www.ddls.com.au/offers/)
-DDLS Contact Information | [Contact Us](https://www.ddls.com.au/contact-us/) 
-Course Evaluation | [Metrics that Matter](https://www.metricsthatmatter.com/dim319)
+## DDLS Resources
 
+[Schedules](https://www.ddls.com.au/schedules/)
+[Specials on Offer](https://www.ddls.com.au/offers/)
+[Contact Us](https://www.ddls.com.au/contact-us/) 
+[Metrics that Matter](https://www.metricsthatmatter.com/dim319)
+<BR>
+Microsoft Links |
+[SkillPipe Manuals](https://www.skillpipe.com/)
 This repository holds notes and resources used for DDLS course delivery.
 
 Please use it during your course and as a reference after completing the course.
