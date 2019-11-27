@@ -28,7 +28,7 @@
 - 
 ## CompTIA
 - 
-## ISC^2
+## ISC<sup>2</sup>
 - 
 ## Driver Info
 - [Dell Precision T5400 Video Driver](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2016/03/200014607_69c24b2b1acd811068d57d2630603959cb7b4290.cab)
