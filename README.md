@@ -34,30 +34,41 @@
 ## TP Information
 Site Resource|Uri
 ---|---
-Adelaide Room 2 |93353@didata.com.au
-Adelaide Room 4|93352@didata.com.au
-Brisbane Room 2|93354@didata.com.au
-Brisbane Room 7|93371@didata.com.au
-Brisbane Room 8|93355@didata.com.au
-Canberra Room 2|93351@didata.com.au
-Canberra Room 4|93357@didata.com.au
-Canberra Room 72|93372@didata.com.au
-Canberra Room 73|93373@didata.com.au
-Melbourne Room 5|93359@didata.com.au
-Melbourne Room 6|93148@didata.com.au
-Melbourne Room 10|93356@didata.com.au
-Melbourne Room 11|93350@didata.com.au
-Perth Meeting Room|93169@didata.com.au
-Perth Room 5|93358@didata.com.au
-Sydney Meeting Room|93160@didata.com.au
-Sydney Room 4|93364@didata.com.au
-Sydney Room 5|93367@didata.com.au
-Sydney Room 6|93366@didata.com.au
-Sydney Room 8|93368@didata.com.au
-Sydney Room 9|93369@didata.com.au
-Sydney Room 10|93360@didata.com.au
-VC Bridge 1|930041@didata.com.au
-VC Bridge 2|930042@didata.com.au
-VC Bridge 3|930043@didata.com.au
-
+Adelaide Room  1 |3501@tp.ddls.com.au
+Adelaide Room  2 |3502@tp.ddls.com.au
+Adelaide Room  3|3503@tp.ddls.com.au
+Adelaide Room  4|3504@tp.ddls.com.au
+Adelaide Room  5|3505@tp.ddls.com.au
+Adelaide Room  6|3506@tp.ddls.com.au
+Adelaide Room  7|3507@tp.ddls.com.au
+Brisbane Room  2|3702@tp.ddls.com.au
+Brisbane Room  3|3703@tp.ddls.com.au
+Brisbane Room  7|3707@tp.ddls.com.au
+Brisbane Room  8|3708@tp.ddls.com.au
+Brisbane Room  9|3709@tp.ddls.com.au
+Brisbane Room 10|3710@tp.ddls.com.au
+Brisbane Meeting Room|3720@tp.ddls.com.au
+Canberra Room  2|3402@tp.ddls.com.au
+Canberra Room  5|3405@tp.ddls.com.au
+Canberra Room  6|3406@tp.ddls.com.au
+Canberra Room 72|3472@tp.ddls.com.au
+Canberra Room 73|3473@tp.ddls.com.au
+Canberra Mobile |3504@tp.ddls.com.au
+Melbourne Room  5|3305@tp.ddls.com.au
+Melbourne Room  6|3306@tp.ddls.com.au
+Melbourne Room  9|3309@tp.ddls.com.au
+Melbourne Room 10|3310@tp.ddls.com.au
+Melbourne Mobile |3311@tp.ddls.com.au
+Perth Room  3|3603@tp.ddls.com.au
+Perth Room  5|3605@tp.ddls.com.au
+Perth Meeting Room|3600@tp.ddls.com.au
+Sydney Room  1|3201@tp.ddls.com.au
+Sydney Room  4|3204@tp.ddls.com.au
+Sydney Room  5|3205@tp.ddls.com.au
+Sydney Room  6|3206@tp.ddls.com.au
+Sydney Room  8|3208@tp.ddls.com.au
+Sydney Room  9|3209@tp.ddls.com.au
+Sydney Room 10|3210@tp.ddls.com.au
+Sydney Room 11|3211@tp.ddls.com.au
+Sydney Meeting Room|3200@tp.ddls.com.au
 
