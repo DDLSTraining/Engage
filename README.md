@@ -21,10 +21,10 @@
 ## Citrix Links
 - [Training Portal](https://training.citrix.com)
 - [Product Documentation](https://docs.citrix.com)
-## VMWARE
+## VMWARE Links
 - [MyLearn](http://mylearn.vmware.com/)
 - [Bookshelf](https://online.vitalsource.com/signin)
-## ITIL
+## ITIL Links
 - [Exam Instructions](ftp://gears.ddls.com.au/Resources/ITILExamInstructions.pdf)
 - [Exam Registration](https://candidate.peoplecert.org/)
 - [ITIL Exam](https://webates.peoplecert.org/)
