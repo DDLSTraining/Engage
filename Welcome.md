@@ -66,6 +66,7 @@
 [mseval]: https://www.metricsthatmatter.com/dim319
 [mtmeval]: https://www.metricsthatmatter.com/dim319
 [pvexam]: https://home.pearsonvue.com/test-taker.aspx
+[vmwarelabs]: ()
 [vmwarereg]: https://mylearn.vmware.com/
 [vmwarecw]: https://online.vitalsource.com/
 [vmwareexam]: https://www.vmware.com/education-services/certification.html
