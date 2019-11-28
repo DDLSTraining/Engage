@@ -21,7 +21,7 @@
 |-|-|-|-|-|-|
 |AWS|[Create Account][awsreg]|[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]||
 |Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|[MTM][ciscoeval]
-|Citrix|[Education][citrixreg]|||[Pearson-VUE][pvexam]||
+|Citrix|[Education][citrixreg]|||[Certifications][citrixexam]||
 |CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]||
 |EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]||
 |GCP|[GCP Free Tier][gcpreg]|[Qwiklabs][gcpcw]|[Qwiklabs][gcplabs]|[Certifications][gcpexam]||
@@ -41,6 +41,7 @@
 [ciscoexam]: https://learningnetwork.cisco.com/community/certifications
 [ciscoeval]: https://www.metricsthatmatter.com/dim319
 [citrixreg]: https://training.citrix.com/learning/landing
+[citrixexam]: https://training.citrix.com/learning/search?currentTab=EXAMS
 [comptiareg]: https://comptia.lochoice.com
 [comptiacw]: https://comptia.lochoice.com
 [comptialabs]: https://comptialabs.learnondemand.net
