@@ -12,7 +12,7 @@
 
 ## End of Course Activities
 
-- [Course Evaluations - Metrics That Matter](https://www.metricsthatmatter.com/dim319)
+- [Course Evaluation - Metrics That Matter](https://www.metricsthatmatter.com/dim319)
 
 ## Exam Links
 - [Pearson-VUE Exam Portal](https://home.pearsonvue.com/test-taker.aspx)
