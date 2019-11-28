@@ -20,7 +20,7 @@
 |Vendor|Register|Courseware|Labs|Exam|Evaluation|
 |-|-|-|-|-|-|
 |AWS|[Create Account][awsreg]|[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]||
-|Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|[MTM][ciscoeval]
+|Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|[MTM][mtmeval]
 |Citrix||[Student Resources][citrixcw]|[Student Resources][citrixcw]|[Certifications][citrixexam]|[Survey][citrixcw]|
 |CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]||
 |DevOps||||||
@@ -28,7 +28,7 @@
 |GCP|[GCP Free Tier][gcpreg]|[Qwiklabs][gcpcw]|[Qwiklabs][gcplabs]|[Certifications][gcpexam]||
 |ISC<sup>2</sup>|[ISC<sup>2</sup>][iscreg]|[RedShelf][isccw]||||
 |ITIL|[PeopleCert][itilreg]|||||
-|Microsoft|[Account][msreg]|[SkillPipe][mscw]|[Learn On Demand][mslabs]|[Certifications][msexam]|[MTM][mseval]|
+|Microsoft|[Account][msreg]|[SkillPipe][mscw]|[Learn On Demand][mslabs]|[Certifications][msexam]|[MTM][mtmeval]|
 |VMWare|[myLearn][vmwarereg]|[Bookshelf][vmwarecw]||[Certifications][vmwareexam]||
 
 
@@ -59,12 +59,13 @@
 [iscreg]: https://www.isc2.org/
 [isccw]: http://isc2.redshelf.com
 [itilreg]: https://www.peoplecert.org/en/register
-[pvexam]: https://home.pearsonvue.com/test-taker.aspx
 [msreg]: https://account.microsoft.com/account
 [mscw]: https://www.skillpipe.com/
 [mslabs]: https://ddls.learnondemand.net/
 [msexam]: https://www.microsoft.com/en-us/learning/exam-list.aspx
 [mseval]: https://www.metricsthatmatter.com/dim319
+[mtmeval]: https://www.metricsthatmatter.com/dim319
+[pvexam]: https://home.pearsonvue.com/test-taker.aspx
 [vmwarereg]: https://mylearn.vmware.com/
 [vmwarecw]: https://online.vitalsource.com/
 [vmwareexam]: https://www.vmware.com/education-services/certification.html
