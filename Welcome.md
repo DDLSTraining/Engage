@@ -20,14 +20,14 @@
 |Vendor|Register|Courseware|Labs|Exam|Evaluation|
 |-|-|-|-|-|-|
 |AWS|[Create Account][awsreg]|[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]||
-|Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|[MTM][mtmeval]
+|Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|[MTM][mtmeval]|
 |Citrix|Issued in course|[Student Resources][citrixcw]|[Student Resources][citrixcw]|[After Class Tasks][citrixexam]|[Survey][citrixcw]|
-|CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]||
+|CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]|[MTM][mtmeval]|
 |DevOps||||||
-|EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]||
+|EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]|[MTM][mtmeval]|
 |GCP|[GCP Free Tier][gcpreg]|[Qwiklabs][gcpcw]|[Qwiklabs][gcplabs]|[Certifications][gcpexam]||
 |ISC<sup>2</sup>|[ISC<sup>2</sup>][iscreg]|[RedShelf][isccw]||||
-|ITIL|[PeopleCert][itilreg]|||||
+|ITIL|[PeopleCert][itilreg]||||[MTM][mtmeval]|
 |Microsoft|[Account][msreg]|[SkillPipe][mscw]|[Learn On Demand][mslabs]|[Certifications][msexam]|[MTM][mtmeval]|
 |VMWare|[myLearn][vmwarereg]|[Bookshelf][vmwarecw]||[Certifications][vmwareexam]||
 
