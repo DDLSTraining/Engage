@@ -41,7 +41,7 @@
 [ciscoexam]: https://learningnetwork.cisco.com/community/certifications
 [ciscoeval]: https://www.metricsthatmatter.com/dim319
 [citrixreg]: https://training.citrix.com/learning/landing
-[citrixexam]: https://training.citrix.com/learning/search?currentTab=EXAMS
+[citrixexam]: https://training.citrix.com/learning/landing-badges/why-get-certified
 [comptiareg]: https://comptia.lochoice.com
 [comptiacw]: https://comptia.lochoice.com
 [comptialabs]: https://comptialabs.learnondemand.net
