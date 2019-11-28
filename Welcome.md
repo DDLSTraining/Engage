@@ -21,7 +21,7 @@
 |-|-|-|-|-|-|
 |AWS|[Create Account][awsreg]|[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]||
 |Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|[MTM][mtmeval]
-|Citrix|Issued in course|[Student Resources][citrixcw]|[Student Resources][citrixcw]|[Certifications][citrixexam]|[Survey][citrixcw]|
+|Citrix|Issued in course|[Student Resources][citrixcw]|[Student Resources][citrixcw]|[After Class Tasks][citrixexam]|[Survey][citrixcw]|
 |CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]||
 |DevOps||||||
 |EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]||
@@ -39,7 +39,7 @@
 [ciscoreg]: https://identity.cisco.com/ui/tenants/global/v1.0/enrollment-ui
 [ciscocw]: http://learningspace.cisco.com/
 [ciscolabs]: https://cll-auth.cisco.com/users/pblogin/
-[ciscoexam]: https://learningnetwork.cisco.com/community/certifications
+[ciscoexam]: https://training.citrix.com/learning/myaccountlanding/mytraining
 [ciscoeval]: https://www.metricsthatmatter.com/dim319
 [citrixreg]: https://training.citrix.com/learning/landing
 [citrixcw]:  https://training.citrix.com/learning/myaccountlanding/mytraining
