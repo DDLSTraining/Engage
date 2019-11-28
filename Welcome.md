@@ -1,3 +1,4 @@
+[COMMENT]: (DO NOT EDIT this net header in any way as it is linked to from the student desktop)
 # Welcome to DDLS
 
 ![DDLSLogo](_images/Leader_In_Corp_Training.png)
