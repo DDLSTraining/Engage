@@ -19,6 +19,7 @@
 |Citrix|[Education][citrixreg]|||||
 |CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]||
 |EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]||
+|GCP|[GCP Free Tier][gcpreg]|[Qwiklabs][gcpcw]|[Qwiklabs][gcplabs]|[Certifications][gcpexam]||
 |ISC<sup>2</sup>|[ISC<sup>2</sup>][iscreg]|[RedShelf][isccw]||||
 |ITIL|[PeopleCert][itilreg]|||[Pearson-VUE][itilexam]||
 |Microsoft|[Account][msreg]|[SkillPipe][mscw]|[Learn On Demand][mslabs]|[Certifications][msexam]|[MTM][mseval]|
@@ -43,6 +44,10 @@
 [ecccw]: https://aspen.eccouncil.org
 [ecclabs]: https://eccouncil.learnondemand.net/User/Register?OrganizationId=1133
 [eccexam]: https://www.eccexam.com/
+[gcpreg]: https://cloud.google.com/free/
+[gcpcw]: https://ddls.qwiklabs.com/
+[gcplabs]: https://ddls.qwiklabs.com/
+[gcpexam]: https://cloud.google.com/certification/
 [iscreg]: https://www.isc2.org/
 [isccw]: http://isc2.redshelf.com
 [itilreg]: https://www.peoplecert.org/en/register
