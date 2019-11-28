@@ -13,8 +13,9 @@
 
 - [Course Evaluations - Metrics That Matter](https://www.metricsthatmatter.com/dim319)
 
-## Book an Exam
+## Exam Links
 - [Pearson-VUE Exam Portal](https://home.pearsonvue.com/test-taker.aspx)
+- [ITIL - Create a PeopleCert Account](https://www.peoplecert.org/en/register)
 
 ## Microsoft Links
 
