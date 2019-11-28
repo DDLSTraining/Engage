@@ -18,45 +18,32 @@
 
 |Vendor|Register|Courseware|Labs|Exam|
 |-|-|-|-|-|
-|AWS||[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]|
-|Cisco||[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|
+|AWS|[Create Account][awsreg]|[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]|
+|Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|
+|Citrix|[Education][citrixreg]||||
 |ITIL|[PeopleCert][itilreg]|||[Pearson-VUE][itilexam]|
+|Microsoft|[Account][msreg]|[SkillPipe][mscw]|[Learn On Demand][mslabs]|[Certifications][msexam]|
+|VMWare|[myLearn][vmwarereg]|[Bookshelf][vmwarecw]||[Certifications][vmwareexam]|
 
+[awsreg]: https://aws.amazon.com/resources/create-account/
 [awscw]: https://evantage.gilmoreglobal.com/#/user/signin
 [awslabs]: https://ddls.qwiklabs.com/
 [awsexam]: https://aws.amazon.com/certification/
+[ciscoreg]: https://identity.cisco.com/ui/tenants/global/v1.0/enrollment-ui
 [ciscocw]: http://learningspace.cisco.com/
 [ciscolabs]: https://cll-auth.cisco.com/users/pblogin/
 [ciscoexam]: https://learningnetwork.cisco.com/community/certifications
+[citrixreg]: https://training.citrix.com/learning/landing
 [itilreg]: https://www.peoplecert.org/en/register
 [itilexam]: https://home.pearsonvue.com/test-taker.aspx
+[msreg]: https://account.microsoft.com/account
+[mscw]: https://www.skillpipe.com/
+[mslabs]: https://ddls.learnondemand.net/
+[msexam]: https://www.microsoft.com/en-us/learning/exam-list.aspx
+[vmwarereg]: https://mylearn.vmware.com/
+[vmwarecw]: https://online.vitalsource.com/
+[vwmareexam]: https://www.vmware.com/education-services/certification.html
 
-## Microsoft Links
-
-- [SkillPipe Manuals](https://www.skillpipe.com/)
-- [Azure Portal](https://portal.azure.com/)
-- [Office 365 Portal](https://portal.office.com/)
-- [MCP site](https://mcp.microsoft.com/)
-- [MSDN site](http://msdn.microsoft.com/)
-- [TechNet](http://technet.microsoft.com/)
-
-## CISCO Links
-
-- [Labs](http://ciscolabs.ddls.com.au/)
-- [Learning Space E-Reader](https://learningspace.cisco.com/)
-- [Learning Portal](https://cll1.cisco.com/users/pblogin)
-- [Certifications](http://www.cisco.com/go/certifications)
-
-## Citrix Links
-
-- [Citrix Education Portal](https://training.citrix.com)
-- [Student Training Portal](https://training.citrix.com/learning/myaccountlanding/mytraining)
-- [Product Documentation](https://docs.citrix.com)
-
-## VMWARE Links
-
-- [MyLearn](http://mylearn.vmware.com/)
-- [Bookshelf](https://online.vitalsource.com/signin)
 
 ## EC-Council Links
 
