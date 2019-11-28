@@ -31,7 +31,8 @@
 
 ## Citrix Links
 
-- [Training Portal](https://training.citrix.com)
+- [General Training Portal](https://training.citrix.com)
+- [My Training Portal](https://training.citrix.com/learning/myaccountlanding/mytraining)
 - [Product Documentation](https://docs.citrix.com)
 
 ## VMWARE Links
