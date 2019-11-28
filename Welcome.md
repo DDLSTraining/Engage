@@ -64,43 +64,43 @@
 
 ## TelePresence Contact Information
 
-Site Resource|Uri
----|---
-Adelaide Room  1 |3501@tp.ddls.com.au
-Adelaide Room  2 |3502@tp.ddls.com.au
-Adelaide Room  3|3503@tp.ddls.com.au
-Adelaide Room  4|3504@tp.ddls.com.au
-Adelaide Room  5|3505@tp.ddls.com.au
-Adelaide Room  6|3506@tp.ddls.com.au
-Adelaide Room  7|3507@tp.ddls.com.au
-Brisbane Room  2|3702@tp.ddls.com.au
-Brisbane Room  3|3703@tp.ddls.com.au
-Brisbane Room  7|3707@tp.ddls.com.au
-Brisbane Room  8|3708@tp.ddls.com.au
-Brisbane Room  9|3709@tp.ddls.com.au
-Brisbane Room 10|3710@tp.ddls.com.au
-Brisbane Meeting Room|3720@tp.ddls.com.au
-Canberra Room  2|3402@tp.ddls.com.au
-Canberra Room  5|3405@tp.ddls.com.au
-Canberra Room  6|3406@tp.ddls.com.au
-Canberra Room 72|3472@tp.ddls.com.au
-Canberra Room 73|3473@tp.ddls.com.au
-Canberra Mobile |3504@tp.ddls.com.au
-Melbourne Room  5|3305@tp.ddls.com.au
-Melbourne Room  6|3306@tp.ddls.com.au
-Melbourne Room  9|3309@tp.ddls.com.au
-Melbourne Room 10|3310@tp.ddls.com.au
-Melbourne Mobile |3311@tp.ddls.com.au
-Perth Room  3|3603@tp.ddls.com.au
-Perth Room  5|3605@tp.ddls.com.au
-Perth Meeting Room|3600@tp.ddls.com.au
-Sydney Room  1|3201@tp.ddls.com.au
-Sydney Room  4|3204@tp.ddls.com.au
-Sydney Room  5|3205@tp.ddls.com.au
-Sydney Room  6|3206@tp.ddls.com.au
-Sydney Room  8|3208@tp.ddls.com.au
-Sydney Room  9|3209@tp.ddls.com.au
-Sydney Room 10|3210@tp.ddls.com.au
-Sydney Room 11|3211@tp.ddls.com.au
-Sydney Meeting Room|3200@tp.ddls.com.au
+Location|Site Resource|Uri
+---|---|---
+Adelaide|Adelaide Room  1 |3501@tp.ddls.com.au
+|Adelaide Room  2 |3502@tp.ddls.com.au
+|Adelaide Room  3|3503@tp.ddls.com.au
+|Adelaide Room  4|3504@tp.ddls.com.au
+|Adelaide Room  5|3505@tp.ddls.com.au
+|Adelaide Room  6|3506@tp.ddls.com.au
+|Adelaide Room  7|3507@tp.ddls.com.au
+Brisbane|Brisbane Room  2|3702@tp.ddls.com.au
+|Brisbane Room  3|3703@tp.ddls.com.au
+|Brisbane Room  7|3707@tp.ddls.com.au
+|Brisbane Room  8|3708@tp.ddls.com.au
+|Brisbane Room  9|3709@tp.ddls.com.au
+|Brisbane Room 10|3710@tp.ddls.com.au
+|Brisbane Meeting Room|3720@tp.ddls.com.au
+Canberra|Canberra Room  2|3402@tp.ddls.com.au
+|Canberra Room  5|3405@tp.ddls.com.au
+|Canberra Room  6|3406@tp.ddls.com.au
+|Canberra Room 72|3472@tp.ddls.com.au
+|Canberra Room 73|3473@tp.ddls.com.au
+|Canberra Mobile |3504@tp.ddls.com.au
+Melbourne|Melbourne Room  5|3305@tp.ddls.com.au
+|Melbourne Room  6|3306@tp.ddls.com.au
+|Melbourne Room  9|3309@tp.ddls.com.au
+|Melbourne Room 10|3310@tp.ddls.com.au
+|Melbourne Mobile |3311@tp.ddls.com.au
+Perth|Perth Room  3|3603@tp.ddls.com.au
+|Perth Room  5|3605@tp.ddls.com.au
+|Perth Meeting Room|3600@tp.ddls.com.au
+Sydney|Sydney Room  1|3201@tp.ddls.com.au
+|Sydney Room  4|3204@tp.ddls.com.au
+|Sydney Room  5|3205@tp.ddls.com.au
+|Sydney Room  6|3206@tp.ddls.com.au
+|Sydney Room  8|3208@tp.ddls.com.au
+|Sydney Room  9|3209@tp.ddls.com.au
+|Sydney Room 10|3210@tp.ddls.com.au
+|Sydney Room 11|3211@tp.ddls.com.au
+|Sydney Meeting Room|3200@tp.ddls.com.au
 
