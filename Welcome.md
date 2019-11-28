@@ -1,4 +1,4 @@
-# Classroom Links and References
+# Welcome to DDLS
 
 ![DDLSLogo](_images/Leader_In_Corp_Training.png)
 
