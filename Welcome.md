@@ -21,7 +21,7 @@
 |-|-|-|-|-|-|
 |AWS|[Create Account][awsreg]|[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]||
 |Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|[MTM][mtmeval]|
-|Citrix|Issued in course|[Student Resources][citrixcw]|[Student Resources][citrixcw]|[After Class Tasks][citrixexam]|[Survey][citrixcw]|
+|Citrix|*Issued in course*|[Student Resources][citrixcw]|[Student Resources][citrixcw]|[After Class Tasks][citrixexam]|[Survey][citrixcw]|
 |CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]|[MTM][mtmeval]|
 |DevOps||||||
 |EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]|[MTM][mtmeval]|
@@ -66,7 +66,6 @@
 [mseval]: https://www.metricsthatmatter.com/dim319
 [mtmeval]: https://www.metricsthatmatter.com/dim319
 [pvexam]: https://home.pearsonvue.com/test-taker.aspx
-[vmwarelabs]: ()
 [vmwarereg]: https://mylearn.vmware.com/
 [vmwarecw]: https://online.vitalsource.com/
 [vmwareexam]: https://www.vmware.com/education-services/certification.html
