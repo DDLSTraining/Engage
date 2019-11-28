@@ -21,6 +21,9 @@
 |AWS|[Create Account][awsreg]|[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]|
 |Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|
 |Citrix|[Education][citrixreg]||||
+|CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]|
+|EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]|
+|ISC<sup>2</sup>||[RedShelf][isccw]|||
 |ITIL|[PeopleCert][itilreg]|||[Pearson-VUE][itilexam]|
 |Microsoft|[Account][msreg]|[SkillPipe][mscw]|[Learn On Demand][mslabs]|[Certifications][msexam]|
 |VMWare|[myLearn][vmwarereg]|[Bookshelf][vmwarecw]||[Certifications][vmwareexam]|
@@ -34,6 +37,15 @@
 [ciscolabs]: https://cll-auth.cisco.com/users/pblogin/
 [ciscoexam]: https://learningnetwork.cisco.com/community/certifications
 [citrixreg]: https://training.citrix.com/learning/landing
+[comptiareg]: https://comptia.lochoice.com
+[comptiacw]: https://comptia.lochoice.com
+[comptialabs]: https://comptialabs.learnondemand.net
+[comptiaexam]: https://www.comptia.org/testing
+[eccreg]: https://aspen.eccouncil.org
+[ecccw]: https://aspen.eccouncil.org
+[ecclabs]: https://eccouncil.learnondemand.net/User/Register?OrganizationId=1133
+[eccexam]: https://www.eccexam.com/
+[isccw]: http://isc2.redshelf.com
 [itilreg]: https://www.peoplecert.org/en/register
 [itilexam]: https://home.pearsonvue.com/test-taker.aspx
 [msreg]: https://account.microsoft.com/account
@@ -43,25 +55,6 @@
 [vmwarereg]: https://mylearn.vmware.com/
 [vmwarecw]: https://online.vitalsource.com/
 [vmwareexam]: https://www.vmware.com/education-services/certification.html
-
-
-## EC-Council Links
-
-- [Manual](https://aspen.eccouncil.org)
-- [Labs](https://eccouncil.learnondemand.net/User/Register?OrganizationId=1133)
-
-## CompTIA Links
-
-- [Manual](https://comptia.lochoice.com)
-- [Labs](https://comptialabs.learnondemand.net)
-
-## ISC<sup>2</sup> Links
-
-- [Manual](http://isc2.redshelf.com)
-
-## Driver Info
-
-- [Dell Precision T5400 Video Driver](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2016/03/200014607_69c24b2b1acd811068d57d2630603959cb7b4290.cab)
 
 ## TelePresence Contact Information
 
