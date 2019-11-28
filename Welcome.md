@@ -9,7 +9,7 @@
 - [DDLS Specials on Offer](https://www.ddls.com.au/offers/)
 - [Contact Us](https://www.ddls.com.au/contact-us/) 
 
-## End Of Course Activities
+## End of Course Activities
 
 - [Course Evaluations - Metrics That Matter](https://www.metricsthatmatter.com/dim319)
 
