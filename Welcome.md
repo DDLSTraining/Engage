@@ -67,9 +67,9 @@
 Location|Site Resource|Uri
 ---|---|---
 Adelaide|Adelaide Room  1 |3501@tp.ddls.com.au
-|Adelaide Room  2 |3502@tp.ddls.com.au
-|Adelaide Room  3|3503@tp.ddls.com.au
-|Adelaide Room  4|3504@tp.ddls.com.au
+ |Adelaide Room  2 |3502@tp.ddls.com.au
+ |Adelaide Room  3|3503@tp.ddls.com.au
+ |Adelaide Room  4|3504@tp.ddls.com.au
 |Adelaide Room  5|3505@tp.ddls.com.au
 |Adelaide Room  6|3506@tp.ddls.com.au
 |Adelaide Room  7|3507@tp.ddls.com.au
