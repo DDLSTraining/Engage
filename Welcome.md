@@ -13,6 +13,9 @@
 
 - [Course Evaluations - Metrics That Matter](https://www.metricsthatmatter.com/dim319)
 
+## Book an Exam
+- [Pearson-VUE Exam Portal](https://home.pearsonvue.com/test-taker.aspx)
+
 ## Microsoft Links
 
 - [SkillPipe Manuals](https://www.skillpipe.com/)
