@@ -2,7 +2,7 @@
 <BR>
 # Welcome to DDLS
 
-![DDLSLogo](_images/Leader_In_Corp_Training.png)
+[![DDLSLogo](_images/Leader_In_Corp_Training.png)](https://www.ddls.com.au)
 
 ## DDLS Resources
 
