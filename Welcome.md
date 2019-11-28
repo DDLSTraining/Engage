@@ -21,7 +21,7 @@
 |-|-|-|-|-|-|
 |AWS|[Create Account][awsreg]|[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]||
 |Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|[MTM][ciscoeval]
-|Citrix|[Education][citrixreg]||||[Pearson-VUE][pvexam]|
+|Citrix|[Education][citrixreg]|||[Pearson-VUE][pvexam]||
 |CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]||
 |EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]||
 |GCP|[GCP Free Tier][gcpreg]|[Qwiklabs][gcpcw]|[Qwiklabs][gcplabs]|[Certifications][gcpexam]||
