@@ -42,7 +42,7 @@
 [msexam]: https://www.microsoft.com/en-us/learning/exam-list.aspx
 [vmwarereg]: https://mylearn.vmware.com/
 [vmwarecw]: https://online.vitalsource.com/
-[vwmareexam]: https://www.vmware.com/education-services/certification.html
+[vmmareexam]: https://www.vmware.com/education-services/certification.html
 
 
 ## EC-Council Links
