@@ -4,11 +4,14 @@
 
 [![DDLSLogo](_images/Leader_In_Corp_Training.png)](https://www.ddls.com.au)
 
+
 ## DDLS Resources
+
+<a href="https://www.metricsthatmatter.com/dim319"><img align="right" width="100" src="_images/mtm.png"></img></a>
 
 - [DDLS Course Schedules](https://www.ddls.com.au/schedules/)
 - [DDLS Specials on Offer](https://www.ddls.com.au/offers/)
-- [Contact Us](https://www.ddls.com.au/contact-us/) 
+- [Contact Us](https://www.ddls.com.au/contact-us/)
 
 ## Quick Start
 
