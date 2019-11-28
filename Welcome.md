@@ -29,7 +29,7 @@
 |ISC<sup>2</sup>|[ISC<sup>2</sup>][iscreg]|[RedShelf][isccw]||||
 |ITIL|[PeopleCert][itilreg]|Paper Based||Issued in course|[MTM][mtmeval]|
 |Microsoft|[Account][msreg]|[SkillPipe][mscw]|[Learn On Demand][mslabs]|[Certifications][msexam]|[MTM][mtmeval]|
-|VMWare|[myLearn][vmwarereg]|[Bookshelf][vmwarecw]||[Certifications][vmwareexam]|[myLearn][vmwarereg]|
+|VMWare|[myLearn][vmwarereg]|[Bookshelf][vmwarecw]|Issued in course|[Certifications][vmwareexam]|[myLearn][vmwarereg]|
 
 
 [awsreg]: https://aws.amazon.com/resources/create-account/
