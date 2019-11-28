@@ -26,7 +26,7 @@
 |DevOps||||||
 |EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]|[MTM][mtmeval]|
 |GCP|[GCP Free Tier][gcpreg]|[Qwiklabs][gcpcw]|[Qwiklabs][gcplabs]|[Certifications][gcpexam]||
-|ISC<sup>2</sup>|[ISC<sup>2</sup>][iscreg]|[RedShelf][isccw]||||
+|I(SC)<sup>2</sup>|[ISC<sup>2</sup>][iscreg]|[RedShelf][isccw]||||
 |ITIL|[PeopleCert][itilreg]|Paper Based|Not Applicable|Issued in course|[MTM][mtmeval]|
 |Microsoft|[Account][msreg]|[SkillPipe][mscw]|[Learn On Demand][mslabs]|[Certifications][msexam]|[MTM][mtmeval]|
 |VMWare|[myLearn][vmwarereg]|[Bookshelf][vmwarecw]|Issued in course|[Certifications][vmwareexam]|[myLearn][vmwarereg]|
