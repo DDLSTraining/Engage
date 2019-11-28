@@ -10,23 +10,20 @@
 - [DDLS Specials on Offer](https://www.ddls.com.au/offers/)
 - [Contact Us](https://www.ddls.com.au/contact-us/) 
 
-## End of Course Activities
-
-- [Course Evaluation - Metrics That Matter](https://www.metricsthatmatter.com/dim319)
-
 ## Quick Start
 
-|Vendor|Register|Courseware|Labs|Exam|
-|-|-|-|-|-|
-|AWS|[Create Account][awsreg]|[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]|
-|Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|
-|Citrix|[Education][citrixreg]||||
-|CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]|
-|EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]|
-|ISC<sup>2</sup>|[ISC<sup>2</sup>][iscreg]|[RedShelf][isccw]|||
-|ITIL|[PeopleCert][itilreg]|||[Pearson-VUE][itilexam]|
-|Microsoft|[Account][msreg]|[SkillPipe][mscw]|[Learn On Demand][mslabs]|[Certifications][msexam]|
-|VMWare|[myLearn][vmwarereg]|[Bookshelf][vmwarecw]||[Certifications][vmwareexam]|
+|Vendor|Register|Courseware|Labs|Exam|Evaluation|
+|-|-|-|-|-|-|
+|AWS|[Create Account][awsreg]|[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]||
+|Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|[MTM][ciscoeval]
+|Citrix|[Education][citrixreg]|||||
+|CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]||
+|EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]||
+|ISC<sup>2</sup>|[ISC<sup>2</sup>][iscreg]|[RedShelf][isccw]||||
+|ITIL|[PeopleCert][itilreg]|||[Pearson-VUE][itilexam]||
+|Microsoft|[Account][msreg]|[SkillPipe][mscw]|[Learn On Demand][mslabs]|[Certifications][msexam]|[MTM][mseval]|
+|VMWare|[myLearn][vmwarereg]|[Bookshelf][vmwarecw]||[Certifications][vmwareexam]||
+
 
 [awsreg]: https://aws.amazon.com/resources/create-account/
 [awscw]: https://evantage.gilmoreglobal.com/#/user/signin
@@ -36,6 +33,7 @@
 [ciscocw]: http://learningspace.cisco.com/
 [ciscolabs]: https://cll-auth.cisco.com/users/pblogin/
 [ciscoexam]: https://learningnetwork.cisco.com/community/certifications
+[ciscoeval]: https://www.metricsthatmatter.com/dim319
 [citrixreg]: https://training.citrix.com/learning/landing
 [comptiareg]: https://comptia.lochoice.com
 [comptiacw]: https://comptia.lochoice.com
@@ -53,6 +51,7 @@
 [mscw]: https://www.skillpipe.com/
 [mslabs]: https://ddls.learnondemand.net/
 [msexam]: https://www.microsoft.com/en-us/learning/exam-list.aspx
+[mseval]: https://www.metricsthatmatter.com/dim319
 [vmwarereg]: https://mylearn.vmware.com/
 [vmwarecw]: https://online.vitalsource.com/
 [vmwareexam]: https://www.vmware.com/education-services/certification.html
