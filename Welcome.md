@@ -14,9 +14,22 @@
 
 - [Course Evaluation - Metrics That Matter](https://www.metricsthatmatter.com/dim319)
 
-## Exam Links 
-- [Pearson-VUE Exam Portal](https://home.pearsonvue.com/test-taker.aspx)
-- [ITIL - Create a PeopleCert Account](https://www.peoplecert.org/en/register)
+## Quick Start
+
+|Vendor|Register|Courseware|Labs|Exam|
+|-|-|-|-|-|
+|AWS||[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]|
+|Cisco||[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|
+|ITIL|[PeopleCert][itilreg]|||[Pearson-VUE][itilexam]|
+
+[awscw]: https://evantage.gilmoreglobal.com/#/user/signin
+[awslabs]: https://ddls.qwiklabs.com/
+[awsexam]: https://aws.amazon.com/certification/
+[ciscocw]: http://learningspace.cisco.com/
+[ciscolabs]: https://cll-auth.cisco.com/users/pblogin/
+[ciscoexam]: https://learningnetwork.cisco.com/community/certifications
+[itilreg]: https://www.peoplecert.org/en/register
+[itilexam]: https://home.pearsonvue.com/test-taker.aspx
 
 ## Microsoft Links
 
