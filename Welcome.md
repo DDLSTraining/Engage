@@ -19,17 +19,17 @@
 
 |Vendor|Register|Courseware|Labs|Exam|Evaluation|
 |-|-|-|-|-|-|
-|AWS|[Create Account][awsreg]|[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]||
+|AWS|[Create Account][awsreg]|[eVantage][awscw]|[Qwiklabs][awslabs]|[Certifications][awsexam]|*Issued in course*|
 |Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|[MTM][mtmeval]|
 |Citrix|*Issued in course*|[Student Resources][citrixcw]|[Student Resources][citrixcw]|[After Class Tasks][citrixexam]|[Survey][citrixcw]|
 |CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]|[MTM][mtmeval]|
-|DevOps||Paper Based|Not Applicable|||
+|DevOps||*Paper Based*|*Not Applicable*|||
 |EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]|[MTM][mtmeval]|
-|GCP|[GCP Free Tier][gcpreg]|[Qwiklabs][gcpcw]|[Qwiklabs][gcplabs]|[Certifications][gcpexam]||
-|(ISC)<sup>2</sup>|[ISC<sup>2</sup>][iscreg]|[RedShelf][isccw]|Not Applicable|[Pearson-VUE][pvexam]||
-|ITIL|[PeopleCert][itilreg]|Paper Based|Not Applicable|Issued in course|[MTM][mtmeval]|
+|GCP|[GCP Free Tier][gcpreg]|[Qwiklabs][gcpcw]|[Qwiklabs][gcplabs]|[Certifications][gcpexam]|*Issued in course*|
+|(ISC)<sup>2</sup>|[ISC<sup>2</sup>][iscreg]|[RedShelf][isccw]|*Not Applicable*|[Pearson-VUE][pvexam]||
+|ITIL|[PeopleCert][itilreg]|Paper Based|Not Applicable|*Issued in course*|[MTM][mtmeval]|
 |Microsoft|[Account][msreg]|[SkillPipe][mscw]|[Learn On Demand][mslabs]|[Certifications][msexam]|[MTM][mtmeval]|
-|VMWare|[myLearn][vmwarereg]|[Bookshelf][vmwarecw]|Issued in course|[Certifications][vmwareexam]|[myLearn][vmwarereg]|
+|VMWare|[myLearn][vmwarereg]|[Bookshelf][vmwarecw]|*Issued in course*|[Certifications][vmwareexam]|[myLearn][vmwarereg]|
 
 
 [awsreg]: https://aws.amazon.com/resources/create-account/
