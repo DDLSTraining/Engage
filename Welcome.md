@@ -1,5 +1,4 @@
-[//]: # (#### DO NOT EDIT the "# Welcome to DDLS" header in any way as it is linked from the LiteTouch student desktop ####) 
-<BR>
+[//]: # (#### DO NOT EDIT the "# Welcome to DDLS" header in any way as it is linked from the LiteTouch student desktop ####) <BR>
 # Welcome to DDLS
 
 ![DDLSLogo](_images/Leader_In_Corp_Training.png)
