@@ -65,7 +65,7 @@
 ## TelePresence Contact Information
 
 Location|Site Resource|Uri
----|---|---
+---:|---|---:
 Adelaide|Adelaide Room  1 |3501@tp.ddls.com.au
 <i></i>|Adelaide Room  2 |3502@tp.ddls.com.au
 <i></i>|Adelaide Room  3|3503@tp.ddls.com.au
