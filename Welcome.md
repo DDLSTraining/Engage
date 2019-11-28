@@ -23,7 +23,7 @@
 |Cisco|[Registration][ciscoreg]|[Learningspace][ciscocw]|[Online Labs][ciscolabs]|[Certifications][ciscoexam]|[MTM][mtmeval]|
 |Citrix|*Issued in course*|[Student Resources][citrixcw]|[Student Resources][citrixcw]|[After Class Tasks][citrixexam]|[Survey][citrixcw]|
 |CompTIA|[CompTIA][comptiareg]|[CompTIA][comptiacw]|[Learn On Demand][comptialabs]|[Testing][comptiaexam]|[MTM][mtmeval]|
-|DevOps||||||
+|DevOps||Paper Based||||
 |EC-Council|[ASPEN][eccreg]|[ASPEN][ecccw]|[Learn On Demand][ecclabs]|[Exam Center][eccexam]|[MTM][mtmeval]|
 |GCP|[GCP Free Tier][gcpreg]|[Qwiklabs][gcpcw]|[Qwiklabs][gcplabs]|[Certifications][gcpexam]||
 |(ISC)<sup>2</sup>|[ISC<sup>2</sup>][iscreg]|[RedShelf][isccw]|Not Applicable|[Pearson-VUE][pvexam]||
