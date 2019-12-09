@@ -2,6 +2,7 @@
 
 * [Git](Git.md)
 * [Most Popular Programming Languages on Stack Overflow Bar Chart Race](https://www.youtube.com/watch?v=cKzP61Gjf00)
+* [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate)
 
 ## Kubernetes
 
