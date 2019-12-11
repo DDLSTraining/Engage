@@ -19,7 +19,7 @@ git status
 git add .
 git commit -m "message"
 git log
-git checkout
+git checkout [-b]
 git merge
 git clone
 git push
