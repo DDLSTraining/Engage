@@ -1,6 +1,7 @@
 # Container Architecture Resources
 
 * [Kata Containers](https://katacontainers.io/): The speed of containers, the security of VMs.
+* [docker-slim](https://github.com/docker-slim/docker-slim) - Don't change anything in your Docker container image and minify it by up to 30x.
 
 ## Docker in DDLS
 
