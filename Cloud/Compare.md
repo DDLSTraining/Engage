@@ -8,6 +8,7 @@ Prices are in USD unless stated.
 
 ## Comparison Resources
 
+* [CockroachLabs 2020 Cloud Report (email required)](https://www.cockroachlabs.com/guides/2020-cloud-report/)
 * [AWS - Google - Azure Cloud Comparison](https://caylent.com/aws-google-azure-cloud-comparison/)
 * [AWS - Azure - Google Cloud - IBM Cloud (Right Scale)](https://www.rightscale.com/cloud-comparison-tool/)
 * Cloud Provider Regions:
