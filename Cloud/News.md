@@ -1,5 +1,6 @@
 # Cloud News
 
+* [2019-12-17: What's been the one open source project this year that has completely changed the way you work?](https://twitter.com/mattiasgeniar/status/1206316914789756928?s=09)
 * [2019-11-14: The Front-End Tooling Survey 2019 - Results](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results)
 * [2019-10-25: CloudEvents Specification hits version 1.0](https://github.com/cloudevents/spec)
 * [2019-09-18: Serverless: 15% slower and 8x more expensive](http://einaregilsson.com/serverless-15-percent-slower-and-eight-times-more-expensive/)
