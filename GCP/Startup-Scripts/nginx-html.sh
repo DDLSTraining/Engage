@@ -6,8 +6,8 @@ cat <<EOF > /var/www/html/index.nginx-debian.html
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>Hello from Mr Roo!/h1>
-    <img src="https://storage.googleapis.com/rooblue-static/images/roo.jpg"></img>
+    <h1>Hello from Mr Roo!</h1>
     <p>This page was created from a simple startup script!</p>
+    <img src="https://storage.googleapis.com/rooblue-static/images/roo.jpg"></img>
   </body>
 </html>
