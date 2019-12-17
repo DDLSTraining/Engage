@@ -1,7 +1,8 @@
 #! /bin/bash
 apt update
 apt install -y nginx
-cat <<EOF > /usr/share/nginx/html/index.html
+# The following path is correct for Debian Buster
+cat <<EOF > /var/www/html/index.nginx-debian.html
 <!DOCTYPE html>
 <html>
   <body>
