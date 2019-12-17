@@ -2,6 +2,7 @@
 apt update
 apt install -y nginx
 cat <<EOF > /usr/share/nginx/html/index.html
+<!DOCTYPE html>
 <html>
   <body>
     <h1>Hello from Mr Roo!/h1>
