@@ -10,3 +10,4 @@
   * [Reddit Discussion](https://www.reddit.com/r/gadgets/comments/dlz540/google_weve_made_quantum_supremacy_breakthrough/)
   * [Video: Demonstrating Quantum Supremacy](https://www.youtube.com/watch?v=-ZNEzzDcllU)
   * [Google: We've made 'quantum supremacy' breakthrough with 54-qubit Sycamore chip](https://www.zdnet.com/article/google-weve-made-quantum-supremacy-breakthrough-with-54-qubit-sycamore-chip/)
+* [2019-10-08: IPFS Browser Update](https://blog.ipfs.io/2019-10-08-ipfs-browsers-update/)
