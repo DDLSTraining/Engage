@@ -2,6 +2,8 @@
 
 This directory contains resources common to any cloud provider.
 
+* [The Cloud: What is happening behind the scenes](https://i.imgur.com/3Yiw2JH.mp4)
+
 ![Dilbert](https://pbs.twimg.com/media/ED0_GsqU0AAw0Z1?format=jpg)
 
 ## Cloud Computing Characteristics
@@ -22,6 +24,3 @@ The [National Institute of Standards and Technology's](https://www.nist.gov/) de
 
 [![Containers](https://imgs.xkcd.com/comics/containers.png)](https://xkcd.com/1988/)
 
-## What is happening behind the scenes
-
-![Pencil Sharpener](https://i.imgur.com/3Yiw2JH.gif)
