@@ -21,3 +21,7 @@ The [National Institute of Standards and Technology's](https://www.nist.gov/) de
 ## Containers
 
 [![Containers](https://imgs.xkcd.com/comics/containers.png)](https://xkcd.com/1988/)
+
+## What is happening behind the scenes
+
+![Pencil Sharpener](https://i.imgur.com/3Yiw2JH.mp4)
