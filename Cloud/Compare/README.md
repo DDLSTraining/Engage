@@ -1,14 +1,18 @@
 # Compare Cloud Products and Services
 
-This document contains simple comparisons between AWS, Azure, and GCP.
+This document contains comparisons between AWS, Azure, and GCP.
 
-Most of the comparisons will be from the vendors documentation and are not guaranteed to be accurate.
+## CochroachLabs Cloud Report
 
-Prices are in USD unless stated.
+CochroachLabs develop a NewSQL database called CochroachDB. Architected for the cloud, CockroachDB delivers resilient, consistent, distributed SQL at your scale.
+
+CochroachLabs have produced an in-depth technical performance analysis of their database operating in AWS, Azure, and GCP. Use the links below to access a copy from Engage or from CochroachLabs. The report is licensed under Creative Commons License (CC BY 4.0):
+
+* [2020 Cloud Remport](2020-Cloud-Report.pdf)
+* [2020 Cloud Report from CockroachLabs (email required)](https://www.cockroachlabs.com/guides/2020-cloud-report/)
 
 ## Comparison Resources
 
-* [CockroachLabs 2020 Cloud Report (email required)](https://www.cockroachlabs.com/guides/2020-cloud-report/)
 * [AWS - Google - Azure Cloud Comparison](https://caylent.com/aws-google-azure-cloud-comparison/)
 * [AWS - Azure - Google Cloud - IBM Cloud (Right Scale)](https://www.rightscale.com/cloud-comparison-tool/)
 * Cloud Provider Regions:
@@ -35,6 +39,8 @@ The following links map services from one provider to the other:
 * [AWS vs. Azure vs. Google: Cloud Comparison [2019 Update]](https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html) - Scroll to the bottom of the article.
 
 ## Cloud Provider Pricing Table
+
+_Most of the comparisons below will be from the vendors documentation and are not guaranteed to be accurate. Prices are in USD unless stated._
 
 | Type | AWS | Azure | GCP | Compare |
 |-|-|-|-|-|
