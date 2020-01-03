@@ -1,5 +1,6 @@
 # Technology News and Resources
 
+* [2020-01-04: A computer made from DNA can compute the square root of 900](https://www.newscientist.com/article/2228461-a-computer-made-from-dna-can-compute-the-square-root-of-900/)
 * [2019-12-10: A self-driving truck delivered butter from California to Pennsylvania in three days](https://www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/)
 * [2019-10-27: Video - The Extreme Physics Pushing Moore’s Law to the Next Level](https://www.youtube.com/watch?v=f0gMdGrVteI)
 * [2019-10-26: What Media Gets Wrong about Predicting the Future](https://youtu.be/dq8aNqlK140)
