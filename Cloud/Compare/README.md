@@ -8,8 +8,12 @@ CochroachLabs develop a NewSQL database called CochroachDB. Architected for the 
 
 CochroachLabs have produced an in-depth technical performance analysis of their database operating in AWS, Azure, and GCP. Use the links below to access a copy from Engage or from CochroachLabs. The report is licensed under Creative Commons License (CC BY 4.0):
 
-* [2020 Cloud Report](2020-Cloud-Report.pdf)
-* [2020 Cloud Report from CockroachLabs (email required)](https://www.cockroachlabs.com/guides/2020-cloud-report/)
+* 2020 Cloud Report:
+  * [PDF](2020-Cloud-Report.pdf)
+  * [Website (email required)](https://www.cockroachlabs.com/guides/2020-cloud-report/)
+* 2018 Cloud Report:
+  * [PDF](2018-Cloud-Report.pdf)
+  * [Website (email required)](https://www.cockroachlabs.com/guides/2018-cloud-report/)
 
 ## Comparison Resources
 
