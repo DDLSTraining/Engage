@@ -3,6 +3,7 @@
 Here are some good reasons to start using Firefox:
 
 * [Mozilla's Mission](https://www.mozilla.org/en-US/about/): Keep the internet open and accessible to all.
+* [2020-01-11: I finally switched from Chrome to Mozilla Firefox — and you should too](https://www.digitaltrends.com/computing/mozilla-firefox-chrome-review-comparison-2020/)
 * [2019-10-22: Firefox v70](https://www.mozilla.org/en-US/firefox/70.0/releasenotes/)
   * [Protect your privacy ](https://support.mozilla.org/en-US/products/firefox/protect-your-privacy)
     * [Enhanced Tracking Protection in Firefox for desktop](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)
