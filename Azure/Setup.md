@@ -69,9 +69,10 @@ The following is specific to the DDLS classroom machines to add useful software 
 1. Upgrade VSCode:
    * Open VSCode from the start menu (search for `code`).
    * Go to the `Help` menu and then `Check For Updates`.
-1. Install Scoop:
-   * Open PowerShell from the Start menu.
-   * Copy and paste the following: `iwr -useb get.scoop.sh | iex`
+1. Upgrade Scoop:
+   * Open PowerShell.
+   * Run the following command: `scoop update`
+   * If Scoop is not installed: `iwr -useb get.scoop.sh | iex`
 1. Run the following script:
 
 ```powershell
