@@ -7,3 +7,7 @@
 ## Kubernetes
 
 * [Hands-on guide: developing and deploying Node.js apps in Kubernetes](https://learnk8s.io/nodejs-kubernetes-guide/)
+
+## OAuth
+
+* [Implementing an OAuth Server With Node.js and Express](http://thecodebarbarian.com/oauth-with-node-js-and-express.html)
