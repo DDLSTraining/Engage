@@ -21,3 +21,7 @@
 ## Storage
 
 * [rclone](https://rclone.org/) - Rsync for cloud storage.
+
+## Logging
+
+* [DTail](https://github.com/mimecast/dtail) - Distributed DevOps tool for tailing, grepping, catting logs.
