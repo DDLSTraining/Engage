@@ -38,6 +38,7 @@ Modules and Lessons
 ### Module 1: Security in Microsoft 365
 
 * Threat Vectors and Data Breaches
+* Security Strategy and Principles
 * Security Solutions in Microsoft 365
 * Microsoft Secure Score
 
@@ -48,13 +49,13 @@ Modules and Lessons
 * Managing Safe Attachments
 * Managing Safe Links
 * Azure Advanced Threat Protection
-* Windows Defender Advanced Threat Protection
+* Microsoft Defender Advanced Threat Protection
 
-### Module 3: Threat Intelligence
+### Module 3: Threat Management
 
-* Microsoft 365 Threat Intelligence
 * Using the Security Dashboard
-* Configuring Advanced Threat Analytics
+* Microsoft 365 Threat Investigation and Response
+* Configuring Advanced Threat Analytics
 
 ### Module 4: Mobile Device Management
 
@@ -67,14 +68,18 @@ Modules and Lessons
 
 ### Module 1: Information Protection
 
-* Information Rights Management 
-* Secure Multipurpose Internet Mail Extension 
-* Office 365 Message Encryption
+* Information Protection Concepts
 * Azure Information Protection
 * Advanced Information Protection
 * Windows Information Protection
 
-### Module 2: Data Loss Prevention
+### Module 2: Rights Management and Encryption
+
+* Information Rights Management 
+* Secure Multipurpose Internet Mail Extension 
+* Office 365 Message Encryption
+
+### Module 3: Data Loss Prevention
 
 * Data Loss Prevention Explained
 * Data Loss Prevention Policies
@@ -82,11 +87,10 @@ Modules and Lessons
 * Creating a DLP Policy to Protect Documents
 * Policy Tips
 
-### Module 3: Cloud Application Security
+### Module 4: Cloud Application Security
 
 * Cloud Application Security Explained
 * Using Cloud Application Security Information 
-* Office 365 Cloud App Security
 
 ## MS-500T04: Administering Microsoft 365 Built-in Compliance
 
