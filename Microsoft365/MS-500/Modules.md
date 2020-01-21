@@ -6,11 +6,11 @@ Modules and Lessons
 
 ### Module 1: User and Group Security
 
+* Introduction to Identity and Access Management
 * User Accounts in Microsoft 365 
 * Administrator Roles and Security Groups in Microsoft 365 
 * Password Management in Microsoft 365 
 * Azure AD Identity Protection
-* __Hands-on Lab – Managing your Microsoft 365 Identity environment__
 
 ### Module 2: Identity Synchronization
 
@@ -18,15 +18,9 @@ Modules and Lessons
 * Planning for Azure AD Connect 
 * Implementing Azure AD Connect 
 * Managing Synchronized Identities
-* __Hands-on Lab – Implementing Identity Synchronization__
-
-### Module 3: Federated Identities
-
 * Introduction to Federated Identities 
-* Planning an AD FS Deployment
-* Implementing AD FS
 
-### Module 4: Access Management
+### Module 3: Access Management
 
 * Conditional Access 
 * Managing Device Access 
@@ -100,17 +94,17 @@ Modules and Lessons
 * Retention in Microsoft 365
 * Retention Policies in the Compliance Center
 * Archiving and Retention in Exchange
+* In-place records management in SharePoint
 
 ### Module 2: Data Governance in Microsoft 365
 
-* Planning Security and Compliance Needs
-* Building Ethical Walls in Exchange Online
+* Planning Compliance Needs
+* Building ethical walls in Exchange Online
 * Manage Retention in Email
 * Troubleshooting Data Governance
-* In-Place Records Management in SharePoint
 
 ### Module 3: Managing Search and Investigation
 
-* Search for Content in the Security and Compliance Center
+* Content Search
 * Audit Log Investigations
 * Advanced eDiscovery
