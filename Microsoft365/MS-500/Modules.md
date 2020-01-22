@@ -51,7 +51,7 @@ Modules and Lessons
 * Microsoft 365 Threat Investigation and Response
 * Configuring Advanced Threat Analytics
 
-### Module 4: Mobile Device Management
+### Module 4: Mobile Device Management (Endpoint Manager)
 
 * Plan for Mobile Application Management 
 * Plan Mobile Device Management 
