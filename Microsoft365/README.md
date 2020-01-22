@@ -9,6 +9,7 @@ Notes and resources for Microsoft Office 365 and Microsoft 365 courses.
 * [Security Centre (security.microsoft.com)](https://security.microsoft.com)
 * [Compliance Centre (compliance.microsoft.com)](https://compliance.microsoft.com)
 * [Device Management](https://devicemanagement.microsoft.com/)
+* [Cloud App Security](portal.cloudappsecurity.com)
 * [Defender Security Center](https://youtu.be/h9xS7mhi1BA)
 * [Microsoft 365 Roadmap](https://www.microsoft.com/en-au/microsoft-365/roadmap)
 
