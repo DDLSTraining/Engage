@@ -94,7 +94,7 @@ Modules and Lessons
 * Retention in Microsoft 365
 * Retention Policies in the Compliance Center
 * Archiving and Retention in Exchange
-* In-place records management in SharePoint
+* In-place records management in SharePoint
 
 ### Module 2: Data Governance in Microsoft 365
 
