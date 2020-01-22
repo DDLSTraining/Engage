@@ -49,7 +49,7 @@ Modules and Lessons
 
 * Using the Security Dashboard
 * Microsoft 365 Threat Investigation and Response
-* Configuring Advanced Threat Analytics
+* Configuring Advanced Threat Analytics
 
 ### Module 4: Mobile Device Management
 
