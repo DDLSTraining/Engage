@@ -11,6 +11,7 @@
 * [Apple Engineer Talks About New 2016 Macbook Pro](https://www.youtube.com/watch?v=-XSC_UG5_kU)
 * [Shampoo Prank Original](https://www.youtube.com/watch?v=6PKQE8FM2Uw)
 * [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs) - **WARNING coarse language**
+* [This is how you pronounce "hacker" - Tarah Wheeler](https://youtu.be/N6YRON0pI_E)
 
 ## One Liners
 
