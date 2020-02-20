@@ -18,10 +18,9 @@
 ## Extra Reading
 
 ## Resources
-  *[Github Course Resources](https://github.com/MicrosoftLearning/MS-700-Managing-Microsoft-Teams)
-  * [Teams Customer Success Kit Download](https://www.microsoft.com/en-us/download/details.aspx?id=54244)
+   * [Teams Customer Success Kit Download](https://www.microsoft.com/en-us/download/details.aspx?id=54244)
+   
 ## Learn on Demand Hands-on
-
 * [Managing Microsoft 365 Teams](https://ddls.learnondemand.net/)
 
 
