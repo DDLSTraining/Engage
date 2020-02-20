@@ -37,3 +37,8 @@ _Note: See [DistroWatch](https://distrowatch.com/) for more details about the di
 Download the ISO files for your chosen distribution and create a bootable USB drive.
 
 Boot to the USB drive and follow the steps provided.
+
+## Tools
+
+* [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI/blob/master/readme.md#you-dont-need-gui)
+* [TLDR: A collection of simplified and community-driven man pages](https://github.com/tldr-pages/tldr)
