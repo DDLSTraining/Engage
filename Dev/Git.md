@@ -9,6 +9,10 @@
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
+## Tools
+
+* [Git Explorer](https://gitexplorer.com/)
+
 ## Basic Command List
 
 Following are some of the common commands used to work with a git repository:
