@@ -19,6 +19,8 @@
 
 ## Resources
    * [Teams Customer Success Kit Download](https://www.microsoft.com/en-us/download/details.aspx?id=54244)
+   * [Call Quality Dashboard Paramters](https://docs.microsoft.com/en-us/microsoftteams/dimensions-and-measures-available-in-call-quality-dashboard#measurements
+)
    
 ## Learn on Demand Hands-on
 * [Managing Microsoft 365 Teams](https://ddls.learnondemand.net/)
