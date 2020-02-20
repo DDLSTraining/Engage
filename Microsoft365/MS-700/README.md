@@ -5,12 +5,16 @@
   * [Managing MS Teams](https://github.com/MicrosoftLearning/MS-700-Managing-Microsoft-Teams)
   * [QoS for Teams](https://docs.microsoft.com/en-us/microsoftteams/qos-in-teams-clients)
   * [Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/)
-
+  * [Microsoft Teams Docs](https://docs.microsoft.com/en-us/MicrosoftTeams/itadmin-readiness)
+  * [Teams Academy](Https://aka.ms/teamsacademy)
 ## Videos
   * [Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&feature=youtu.be&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=1356)
   * [Planning You Network for Teams](https://youtu.be/vi3M7ZzF2NU?list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=83)
-  
-  
+  * [Call Quality](https://youtu.be/m6LJM2hRYhc?list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=146)
+  * [Call Quality Dashboard](https://youtu.be/fyLU2IPAVRs)
+  * [Intro to Phone Systems](https://youtu.be/Iepnko_v0ro?list=PLZRdqpALCE18g9kdXQeHmWH43cF3VngF4)
+
+ 
 ## Extra Reading
 
 ## Resources
