@@ -13,6 +13,7 @@
   * [Video: Demonstrating Quantum Supremacy](https://www.youtube.com/watch?v=-ZNEzzDcllU)
   * [Google: We've made 'quantum supremacy' breakthrough with 54-qubit Sycamore chip](https://www.zdnet.com/article/google-weve-made-quantum-supremacy-breakthrough-with-54-qubit-sycamore-chip/)
 * [2019-10-08: IPFS Browser Update](https://blog.ipfs.io/2019-10-08-ipfs-browsers-update/)
+* [2019-06-05: Video - Moore's Law graphed vs real CPUs & GPUs 1965 - 2019](https://www.youtube.com/watch?v=7uvUiq_jTLM)
 
 ## Reference
 
