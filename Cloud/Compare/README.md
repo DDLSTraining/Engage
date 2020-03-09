@@ -2,6 +2,9 @@
 
 This document contains comparisons between AWS, Azure, and GCP.
 
+* [Historical trends in the usage statistics of web hosting providers](https://w3techs.com/technologies/history_overview/web_hosting)
+
+
 ## CochroachLabs Cloud Report
 
 CochroachLabs develop a NewSQL database called CochroachDB. Architected for the cloud, CockroachDB delivers resilient, consistent, distributed SQL at your scale.
@@ -27,6 +30,9 @@ CochroachLabs have produced an in-depth technical performance analysis of their 
 
 ### Articles
 
+* 2020-03-02 - [Cloud Market Share – a Look at the Cloud Ecosystem in 2020](https://kinsta.com/blog/cloud-market-share/)
+* 2019-07-29 - [Gartner Says Worldwide IaaS Public Cloud Services Market Grew 31.3% in 2018 ](https://www.gartner.com/en/newsroom/press-releases/2019-07-29-gartner-says-worldwide-iaas-public-cloud-services-market-grew-31point3-percent-in-2018)
+* 2019-07-13 - [Gartner Forecasts Worldwide Public Cloud Revenue to Grow 17% in 2020](https://www.gartner.com/en/newsroom/press-releases/2019-11-13-gartner-forecasts-worldwide-public-cloud-revenue-to-grow-17-percent-in-2020)
 * 2019-01-22 - [AWS vs. Azure vs. Google: Cloud Comparison [2019 Update]](https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html)
 * 2018-12-14 - [Cockroach Labs - 2018 Cloud Report](https://www.cockroachlabs.com/blog/2018_cloud_report/) - AWS Outperforms GCP
   * 2018-12-14 - [Hacker News Related Thread](https://news.ycombinator.com/item?id=18673541)
