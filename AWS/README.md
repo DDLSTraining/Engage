@@ -27,3 +27,7 @@ Service Specific Content:
 * [AWS Architecture Centre](https://aws.amazon.com/architecture/)
 * [AWS This is My Architecture](https://aws.amazon.com/this-is-my-architecture/)
 * [AWS FAQs](https://aws.amazon.com/faqs/)
+
+## Articles
+
+* [The good parts of AWS - A visual summary](https://hassenchaieb.com/aws-good-parts/)
