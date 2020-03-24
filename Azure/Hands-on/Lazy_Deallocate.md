@@ -87,7 +87,7 @@ $roleJson = @"
   ]
 }
 "@
-$temp=$roleJson|ConvertFrom-Json
+$roleJson=$roleJson|ConvertFrom-Json
 $scopes=@()
 $subscription = Get-AzSubscription
 Get-AzResourceGroup|foreach-object{
@@ -95,12 +95,11 @@ $resourceGroupName=$_.ResourceGroupName
 
 $scope = "/subscriptions/$subscriptionId/resourceGroups/$resourceGroupName"
 $scopes+=$scope
-$temp.AssignableScopes+="$scope"
+$roleJson.AssignableScopes+="$scope"
 
 
 }
 
-$roleJson = $temp
 try {New-AzRoleDefinition -Role $roleJson} 
 catch {
 $roleJson | Add-Member -NotePropertyName ID -NotePropertyValue $(Get-azroledefinition $roleJson.Name).ID
