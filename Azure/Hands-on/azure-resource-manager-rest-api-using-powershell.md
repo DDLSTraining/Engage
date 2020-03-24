@@ -140,8 +140,8 @@ $roleJson = @"
   ]
 }
 "@
-Out-File -FilePath ".\$roleName.json" -InputObject $roleJson
-New-AzRoleDefinition -InputFile ".\$roleName.json"
+$roleJson=$roleJson|ConvertFrom-JSON
+New-AzRoleDefinition -Role $roleJson
 ```
 
 **Step 9**: Create a new Azure AD App Registration with a Service Principle. This will also assign the custom role to the Service Principle and set the management scope:
