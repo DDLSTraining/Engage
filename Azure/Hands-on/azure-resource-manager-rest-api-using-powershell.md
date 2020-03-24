@@ -140,7 +140,7 @@ $roleJson = @"
   ]
 }
 "@
-$roleJson=$roleJson|ConvertFrom-JSON
+$roleJson = $roleJson|ConvertFrom-JSON
 New-AzRoleDefinition -Role $roleJson
 ```
 
