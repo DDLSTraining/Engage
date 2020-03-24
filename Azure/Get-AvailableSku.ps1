@@ -2,36 +2,44 @@
 .SYNOPSIS
   Lists available virtual machine sizes and locations for your subscription in Azure.
 .DESCRIPTION
-  The Azure platform sometimes restricts which virtual machine stock code units, or
-  sizes of machines, are available for different subscriptions.
+  The Azure platform sometimes restricts which virtual machine stock-keeping units, or
+  sizes of machines, are available for your subscription.
 
-  This script lists all the available virtual machine sizes (SKUs) that are
-  available for your subscription in each location.
+  This script lists all the available virtual machine stock-keeping units (SKUs), or sizes,
+  that are available for your current subscription in each location.
+.PARAMETER Location
+  Filters the output to the location value.
+.PARAMETER Sku
+  Filters the output to the stock-keeping unit (Sku) or size.
+.PARAMETER GroupByLocation
+  Aggregates the locations showing the count of available stock-keeping units.
+.PARAMETER GroupBySku
+  Aggregates the available stock-keeping units showing the count by location.
 .EXAMPLE
-  The following example lists all available virtual machine SKU and locations.
+  The following example lists all available virtual machine stock-keeping units
+  and locations:
+  
   Get-AvailableSku
 .EXAMPLE
-  This example will list only the SKUs for location 'australiaeast'.
+  This example will list only the stock-keeping units
+  for location 'australiaeast':
+  
   Get-AvailableSku -location australiaeast
 .EXAMPLE
-  This example will list only the locations for SKU 'Standard_D1'.
+  This example will list only the locations for the stock-keeping unit
+  named 'Standard_D1':
+  
   Get-AvailableSku -SKU Standard_D1
 .EXAMPLE
   This example groups the output by location showing the count of
-  available SKUs in each location.
+  available stock-keeping units in each location:
+  
   Get-AvailableSku -GroupByLocation
 .EXAMPLE
-  This example groups the output by available SKUs showing the count of
-  the locations.
+  This example groups the output by available stock-keeping units
+  showing the count of the locations:
+  
   Get-AvailableSku -GroupByLocation
-.PARAMETER Location
-  Filters the output to just the required location.
-.PARAMETER Sku
-  Filters the output to just the required stock code unit or size.
-.PARAMETER GroupByLocation
-  Aggregates the locations showing the count of available SKUs.
-.PARAMETER GroupBySku
-  Aggregates the available SKUs showing the count by location.
 #>
 
 [CmdletBinding(DefaultParameterSetName='Location')]
@@ -53,7 +61,6 @@ Param (
   [Switch]
   $GroupBySku
 )
-
 
 $allSku = Get-AzComputeResourceSku
 $vmSku = $allSku | Where-Object {
