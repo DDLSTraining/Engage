@@ -27,6 +27,7 @@ Good Luck
 
 ## Script
 ```powershell
+# Declare Functions
 function Decrypt-SecureString {
   param(
     [Parameter(ValueFromPipeline = $true, Mandatory = $true, Position = 0)]
@@ -57,11 +58,16 @@ Resource Group Name: $resourceGroupName
 "@
 Write-Host -Object $variables
 }
-
-$vmName = ''
+# Set required variables
 $appName = 'app-rest-api-exercise'
 $roleName = 'Virtual Machine Operator'
 
+# Set Script Variables
+$scopes=@()
+$subscription = Get-AzSubscription
+
+### Main Script
+# Create JSON object
 $roleJson = @"
 {
   "Name": "$roleName",
@@ -87,30 +93,29 @@ $roleJson = @"
   ]
 }
 "@
+# Convert from JSON to PSObject
 $roleJson=$roleJson|ConvertFrom-Json
-$scopes=@()
-$subscription = Get-AzSubscription
+# Get all scopes from all resource groups
 Get-AzResourceGroup|foreach-object{
-$resourceGroupName=$_.ResourceGroupName
-
-$scope = "/subscriptions/$subscriptionId/resourceGroups/$resourceGroupName"
-$scopes+=$scope
-$roleJson.AssignableScopes+="$scope"
-
-
+  $resourceGroupName=$_.ResourceGroupName
+  $scope = "/subscriptions/$subscriptionId/resourceGroups/$resourceGroupName"
+  $scopes+=$scope
+  $roleJson.AssignableScopes+="$scope"
 }
 
+# Create Role Definition
+# If the Role already exists, update it
 try {New-AzRoleDefinition -Role $roleJson} 
 catch {
 $roleJson | Add-Member -NotePropertyName ID -NotePropertyValue $(Get-azroledefinition $roleJson.Name).ID
 Set-AzRoleDefinition -Role $roleJson}
 
+# Create App Registration
 $app = New-AzADServicePrincipal -DisplayName $appName -Role $roleName
 $secret = Decrypt-SecureString -SecureString $app.Secret
 $clientId = $app.ApplicationId.Guid
 
-
-
+# Create Authorization Tokens from App Registration
 $tokenUri = "https://login.microsoftonline.com/$TenantId/oauth2/v2.0/token"
 $tokenHeaders = @{
   'Content-Type' = 'application/x-www-form-urlencoded'
@@ -125,26 +130,27 @@ $token = Invoke-RestMethod -Method POST -Uri $tokenUri -Headers $tokenHeaders -B
 $actionHeaders = @{
   Authorization = 'Bearer ' + $token.access_token
 }
+
+# Assign Role to App Registration in all Scopes
 $scopes|foreach-object{New-AzRoleAssignment -Scope $_ -RoleDefinitionName $roleName -ApplicationId $clientID}
 
-
-
+# Get all stopped but not deallocated VMs
 $VMs=Get-AzVM -status|?{$_.PowerState -eq "VM stopped"}
 
+# Query the stopped VMs health status to find when they were shut down and then deallocate them if they have been turned off longer than 1 hour.
 $vms|foreach-object{
-$URI="https://management.azure.com"+$_.ID+"/providers/Microsoft.ResourceHealth/availabilityStatuses/current?api-version=2018-07-01-preview"
-$response=Invoke-RestMethod -Uri $URI -Method GET -Headers $actionHeaders
-if($response.properties.title -eq "Stopped by user or process" -and [datetime]$response.properties.occuredTime -lt $(Get-Date).AddHours(-1)){
-
-$deallocateUri = "https://management.azure.com"+$_.ID+"/deallocate?api-version=2018-06-01"
-$actionHeaders = @{
-  Authorization = 'Bearer ' + $token.access_token
+  $URI="https://management.azure.com"+$_.ID+"/providers/Microsoft.ResourceHealth/availabilityStatuses/current?api-version=2018-07-01-preview"
+  $response=Invoke-RestMethod -Uri $URI -Method GET -Headers $actionHeaders
+  if($response.properties.title -eq "Stopped by user or process" -and [datetime]$response.properties.occuredTime -lt $(Get-Date).AddHours(-1)){
+    $deallocateUri = "https://management.azure.com"+$_.ID+"/deallocate?api-version=2018-06-01"
+    $actionHeaders = @{
+      Authorization = 'Bearer ' + $token.access_token
+    }
+    Invoke-RestMethod -Method POST -Uri $deallocateUri -Headers $actionHeaders -Verbose
+  }
 }
-Invoke-RestMethod -Method POST -Uri $deallocateUri -Headers $actionHeaders -Verbose
-}
-}
-###
-#Get-AzRoleAssignment -RoleDefinitionName $roleName | Remove-AzRoleAssignment -
-#Get-AzRoleDefinition -Name $roleName | Remove-AzRoleDefinition -Force
-#Get-AzADApplication -DisplayName $appName | Remove-AzADApplication -Force
+# Commands to clean up resources if needed
+# Get-AzRoleAssignment -RoleDefinitionName $roleName | Remove-AzRoleAssignment
+# Get-AzRoleDefinition -Name $roleName | Remove-AzRoleDefinition -Force
+# Get-AzADApplication -DisplayName $appName | Remove-AzADApplication -Force
 ```
