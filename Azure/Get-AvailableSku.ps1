@@ -74,10 +74,15 @@ if ($Location -ne 'All') {
   $vmSku = $vmSku | Where-Object { $_.Name -eq $Sku }
 }
 
-$result = $vmSku | Foreach-Object {
-  [PSCustomObject]@{ Location=[String]$_.Locations; SKU=$_.Name }
+$skus = $vmSku | Foreach-Object {
+  $_.Name
 }
 
+$sizes = get-azVmSize -location $Location
+
+$result = foreach ($vmSize in ($sizes | where-object {$skus -contains $_.Name  } )){
+      $vmSize
+}
 if ($GroupByLocation) {
   $result = $result | Group-Object -Property Location | `
     Select-Object -Property Count,Name | Sort-Object -Property Count
