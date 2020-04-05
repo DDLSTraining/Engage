@@ -8,8 +8,8 @@
 
 ## Resources
 
-* AWS X-Ray:
-  * [Video: Instrument Applications for AWS X-Ray](https://www.youtube.com/watch?v=JBOo2L4sqt8)
+* AWS X-Ray (Video): [Instrument Applications for AWS X-Ray](https://www.youtube.com/watch?v=JBOo2L4sqt8)
+* AWS CloudTrail (Video): [How can I use CloudTrail to review what API calls](https://www.youtube.com/watch?v=4ztTv5rIRv8)
 
 ## Course Timing
 
