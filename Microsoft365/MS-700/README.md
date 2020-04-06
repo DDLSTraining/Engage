@@ -17,7 +17,7 @@
   * [Microsoft Planner](https://youtu.be/65rMRZ_FH_U?t=512)
   * [Infomration Barriers](https://youtu.be/461LfU06RbA?t=416)
   * [Troubleshooting Teams - Qos](https://youtu.be/65rMRZ_FH_U?t=258)
-  
+  * [User Experience Skype Upgrade options](https://youtu.be/0COYetLjWmE)
  
 ## Extra Reading
 
