@@ -17,7 +17,7 @@
 * [InTune Best Practices](http://www.itpromentor.com/intune-best-practices/)
 * [Microsoft Docs - Intune Portal](https://docs.microsoft.com/en-us/intune/)
 * [Cloud App Security Docs](https://docs.microsoft.com/en-us/cloud-app-security/)
-
+* [Regular Expressions for Sensitive Info Types](https://regex101.com/)
 ## Learn on Demand Hands-on
 
 * [Managing Microsoft 365 Identity and Access](https://ddls.learnondemand.net/Lab/30056)
@@ -72,6 +72,7 @@
 * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
 * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
+* [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
 
 ## Timing
 
