@@ -16,6 +16,7 @@
 * [Related Document: Using the Office 365 Secure Score API](https://blogs.technet.microsoft.com/office365security/using-the-office-365-secure-score-api/)
 * [InTune Best Practices](http://www.itpromentor.com/intune-best-practices/)
 * [Microsoft Docs - Intune Portal](https://docs.microsoft.com/en-us/intune/)
+* [Cloud App Security Docs](https://docs.microsoft.com/en-us/cloud-app-security/)
 
 ## Learn on Demand Hands-on
 
