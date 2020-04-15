@@ -1,5 +1,11 @@
 # Designing and Implementing an Azure Data Science Solution
 
+## Resources
+
+* [DDLS: Microsoft DP-100 – Designing and Implementing an Azure Data Science Solution](https://www.ddls.com.au/courses/microsoft/azure/microsoft-dp-100t01-designing-and-implementing-a-data-science-solution-on-azure/)
+* [DP-100 GitHub Repository (Lab files and instructions)](https://github.com/MicrosoftLearning/DP100)
+* [Exam DP-100: Microsoft Azure Infrastructure and Deployment](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100)
+
 ## Timing
 
 ### Day 1
