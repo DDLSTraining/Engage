@@ -21,7 +21,7 @@ Matrix Definitions:
 * Error Rate: 0.29
 * Percision: 0.87
 * Recall: 0.68
-* F1 Score:
+* F1 Score: 0.76
 * AUC: 
 
 ## Accuracy
@@ -66,6 +66,17 @@ For the above example: 65 / 95 = 0.68
 ```
 
 ## F1 Score
+
+The F1 score is the harmonic mean of the precision and recall, where an F1 score reaches its best value at 1 (perfect precision and recall). - [Wikipedia](https://en.wikipedia.org/wiki/F1_score)
+
+```
+F1 score = 2 * ( (Precision * Recall) / (Precision + Recall) )
+
+Example:
+Precision * Recall = 0.59
+Percision + Recall = 1.55
+2 * ( 0.59 / 1.55 ) = 0.76
+```
 
 ## AUC
 
