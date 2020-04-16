@@ -4,25 +4,41 @@
 
 A confusion matrix is a table used to describe the performance of a classification model on a set of test data for which the true values are known (supervised learning).
 
+Matrix Definitions:
+
+* TP: True Positives - Predicted the result to be true and it was true.
+* TN: True Negatives - Predicted the result to be false and it was false.
+* FP: False Positives - Predicted the result to be true and it was false.
+* FN: False Negatives - Predicted the result to be false and it was true.
+
 |n = 140| Actual True | Actual False |
 |-|-|-|
-| Predicted True | True Positives: 50 | False Positives: 20 |
-| Predicted False | False Negatives: 40 | True Negatives: 30 |
+| Predicted<br/>True | TP: 50 | FP: 20 |
+| Predicted False | FN: 40 | TN: 30 |
 
 * Accurace: 0.57
+* Error Rate: 
 * Percision:
 * F1 Score:
 * AUC: 
 
 ## Accuracy
 
-Overall, how often is the classifer correct?
+How often is the classifer correct?
 
 ```
-Accuracy = (True Positives + True Negatives) / Total Classified
+Accuracy = (TP + TN) / Total
 
 For the above example: ( 50 + 30 ) / 140 = 0.57
 ```
+## Error Rate
+
+How often is the classifier incorrect?
+
+```
+Error Rate = (FP + FN) / Total
+```
+
 
 ## Precision
 
