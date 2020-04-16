@@ -2,7 +2,8 @@
 
 ## Confusion Matrix
 
-|| Actual True | Actual False |
+|n = 100| Actual True | Actual False |
 |-|-|-|
-| Predicted True | | |
-| Predicted False | | |
+| Predicted True | True Positives: 40 | False Positives: 10 |
+| Predicted False | False Positives: 30 | True Negatives: 20 |
+
