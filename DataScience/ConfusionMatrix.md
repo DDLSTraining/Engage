@@ -7,7 +7,7 @@ A confusion matrix is a table used to describe the performance of a classificati
 |n = 140| Actual True | Actual False |
 |-|-|-|
 | Predicted True | True Positives: 50 | False Positives: 20 |
-| Predicted False | False Positives: 40 | True Negatives: 30 |
+| Predicted False | False Negatives: 40 | True Negatives: 30 |
 
 * Accurace: 0.57
 * Percision:
@@ -20,7 +20,8 @@ Overall, how often is the classifer correct?
 
 ```
 Accuracy = (True Positives + True Negatives) / Total Classified
-( 50 + 30 ) / 140 = 0.57
+
+For the above example: ( 50 + 30 ) / 140 = 0.57
 ```
 
 ## Precision
