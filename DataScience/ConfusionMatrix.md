@@ -19,7 +19,8 @@ Matrix Definitions:
 
 * Accurace: 0.64
 * Error Rate: 0.29
-* Percision:
+* Percision: 0.87
+* Recall: 0.68
 * F1 Score:
 * AUC: 
 
@@ -50,10 +51,19 @@ When the classifier predicts true, how often is it correct?
 Precision = TP / Total Predicted True
 
 For the above example: 65 / 75 = 0.87
-
 ```
 
 ## Recall
+
+When the result actually is true, how often does it predict true? 
+
+Also called _True Positive Rate_ or _Sensitivity_.
+
+```
+Recall = TP / Actual True
+
+For the above example: 65 / 95 = 0.68
+```
 
 ## F1 Score
 
