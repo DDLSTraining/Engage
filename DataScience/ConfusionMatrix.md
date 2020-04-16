@@ -11,10 +11,10 @@ Matrix Definitions:
 * FP: False Positives - Predicted the result to be true and it was false.
 * FN: False Negatives - Predicted the result to be false and it was true.
 
-|n = 140| Actual True | Actual False |
+|n = 140| Actual<br/>True | Actual<br/>False |
 |-|-|-|
 | Predicted<br/>True | TP: 50 | FP: 20 |
-| Predicted False | FN: 40 | TN: 30 |
+| Predicted<br/> False | FN: 40 | TN: 30 |
 
 * Accurace: 0.57
 * Error Rate: 
