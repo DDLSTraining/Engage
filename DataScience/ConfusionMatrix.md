@@ -11,6 +11,8 @@ Matrix Definitions:
 * FP: False Positives - Predicted the result to be true and it was false.
 * FN: False Negatives - Predicted the result to be false and it was true.
 
+An Example Confusion Matrix:
+
 |n = 140| Actual:<br/>True | Actual:<br/>False | Row Total |
 |-|-|-|-|
 | Predicted:<br/>True | TP: 65 | FP: 10 | 75 |
