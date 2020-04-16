@@ -17,7 +17,7 @@ Matrix Definitions:
 | Predicted<br/> False | FN: 40 | TN: 30 |
 
 * Accurace: 0.57
-* Error Rate: 
+* Error Rate: 0.43
 * Percision:
 * F1 Score:
 * AUC: 
@@ -37,6 +37,8 @@ How often is the classifier incorrect?
 
 ```
 Error Rate = (FP + FN) / Total
+
+For the above example: (20 + 40) / 140 = 0.43
 ```
 
 
