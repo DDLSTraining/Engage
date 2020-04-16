@@ -11,14 +11,14 @@ Matrix Definitions:
 * FP: False Positives - Predicted the result to be true and it was false.
 * FN: False Negatives - Predicted the result to be false and it was true.
 
-|n = 140| Actual:<br/>True | Actual:<br/>False | Predicted Total |
+|n = 140| Actual:<br/>True | Actual:<br/>False | Row Total |
 |-|-|-|-|
-| Predicted:<br/>True | TP: 50 | FP: 20 | 70 |
-| Predicted:<br/> False | FN: 40 | TN: 30 | 70 |
-| Actual Total | 90 | 50 | |
+| Predicted:<br/>True | TP: 65 | FP: 10 | 75 |
+| Predicted:<br/> False | FN: 30 | TN: 35 | 65 |
+| Column Total | 95 | 45 | |
 
-* Accurace: 0.57
-* Error Rate: 0.43
+* Accurace: 0.64
+* Error Rate: 0.29
 * Percision:
 * F1 Score:
 * AUC: 
@@ -30,7 +30,7 @@ How often is the classifer correct?
 ```
 Accuracy = (TP + TN) / Total
 
-For the above example: ( 50 + 30 ) / 140 = 0.57
+For the above example: ( 65 + 35 ) / 140 = 0.68
 ```
 ## Error Rate
 
@@ -39,7 +39,7 @@ How often is the classifier incorrect?
 ```
 Error Rate = (FP + FN) / Total
 
-For the above example: (20 + 40) / 140 = 0.43
+For the above example: (10 + 30) / 140 = 0.29
 ```
 
 ## Precision
@@ -47,6 +47,9 @@ For the above example: (20 + 40) / 140 = 0.43
 When the classifier predicts true, how often is it correct?
 
 ```
+Precision = TP / Total Predicted True
+
+For the above example: 65 / 75 = 0.87
 
 ```
 
