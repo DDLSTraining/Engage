@@ -22,7 +22,7 @@ Matrix Definitions:
 * Percision: 0.87
 * Recall: 0.68
 * F1 Score: 0.76
-* AUC: 
+* AUC: _Not Calculated_
 
 ## Accuracy
 
@@ -31,7 +31,7 @@ How often is the classifer correct?
 ```
 Accuracy = (TP + TN) / Total
 
-For the above example: ( 65 + 35 ) / 140 = 0.68
+Example: ( 65 + 35 ) / 140 = 0.68
 ```
 ## Error Rate
 
@@ -40,7 +40,7 @@ How often is the classifier incorrect?
 ```
 Error Rate = (FP + FN) / Total
 
-For the above example: (10 + 30) / 140 = 0.29
+Example: (10 + 30) / 140 = 0.29
 ```
 
 ## Precision
@@ -50,7 +50,7 @@ When the classifier predicts true, how often is it correct?
 ```
 Precision = TP / Total Predicted True
 
-For the above example: 65 / 75 = 0.87
+Example: 65 / 75 = 0.87
 ```
 
 ## Recall
@@ -62,7 +62,7 @@ Also called _True Positive Rate_ or _Sensitivity_.
 ```
 Recall = TP / Actual True
 
-For the above example: 65 / 95 = 0.68
+Example: 65 / 95 = 0.68
 ```
 
 ## F1 Score
@@ -79,6 +79,18 @@ Percision + Recall = 1.55
 ```
 
 ## AUC
+
+Area Under the Receiver Operating Characteristic Curve
+
+ROC: A receiver operating characteristic curve, or ROC curve, is a graphical plot that illustrates the diagnostic ability of a binary classifier system as its discrimination threshold is varied. - [Wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+
+AUC: Area Under ROC curve - [Wikipedia](https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_the_curve)
+
+ROC AUC varies between 0 and 1 where 0 is the worst performance and 1 is the worst performance.
+
+AUC has not calculated for the above example.
+
+
 
 
 
