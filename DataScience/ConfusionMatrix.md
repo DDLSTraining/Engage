@@ -39,6 +39,8 @@ Example: ( 65 + 35 ) / 140 = 0.68
 
 How often is the classifier incorrect?
 
+Also known as _Misclassification Rate_.
+
 ```
 Error Rate = (FP + FN) / Total
 
@@ -59,7 +61,7 @@ Example: 65 / 75 = 0.87
 
 When the result actually is true, how often does it predict true? 
 
-Also called _True Positive Rate_ or _Sensitivity_.
+Also known as _True Positive Rate_ or _Sensitivity_.
 
 ```
 Recall = TP / Actual True
