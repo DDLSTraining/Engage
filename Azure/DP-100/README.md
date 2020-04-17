@@ -6,7 +6,7 @@
 * [DP-100 GitHub Repository (Lab files and instructions)](https://github.com/MicrosoftLearning/DP100)
 * [Exam DP-100: Microsoft Azure Infrastructure and Deployment](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100)
 
-Note: Use `East US` and `East US2` regions for all deployments.
+Note: Use `East US` and when applicable `East US2` regions for all deployments.
 
 ## Timing
 
