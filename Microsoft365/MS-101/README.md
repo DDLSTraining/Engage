@@ -27,7 +27,7 @@
 * [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
 * [Windows AutoPilot](https://youtu.be/4K4hC5NchbE)
 * [Co-Management](https://youtu.be/0jsNNrQNqog)
-* [Config Client Roll Out] (https://youtu.be/bHWRBaaVCPg)
+* [Config Client Roll Out](https://youtu.be/bHWRBaaVCPg)
 
 ## Timing
 ## This is now a 5 day course originally taken from three separate courses:
