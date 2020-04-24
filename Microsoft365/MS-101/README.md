@@ -6,6 +6,7 @@
 * [The New Certification tracks](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
 * [MS-101 on DDLS](https://www.ddls.com.au/courses/microsoft/office-365/microsoft-ms-101t00-microsoft-365-mobility-and-security/)
 * [MS-101 Exam Details](https://www.microsoft.com/en-us/learning/exam-ms-101.aspx)
+* [Out of Hours - Intune Stuff](https://oofhours.com/category/microsoft-intune/)
 
 ## Videos
 
@@ -33,7 +34,7 @@
 * [White Glove](https://youtu.be/nE5XSOBV0rI)
 * [Azure Analytics](https://youtu.be/T2Vpi6ph8ck)
 * [Windows Analytics](https://youtu.be/4Kb78NmfV6E)
-
+* [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
 
 ## Timing
 ## This is now a 5 day course originally taken from three separate courses:
