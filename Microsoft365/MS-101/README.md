@@ -30,6 +30,7 @@
 * [Co-Management](https://youtu.be/0jsNNrQNqog)
 * [Config Client Roll Out](https://youtu.be/bHWRBaaVCPg)
 * [AutoPilot Walkthrough](https://youtu.be/KYVptkpsOqs)
+* [White Glove](https://youtu.be/nE5XSOBV0rI)
 
 
 ## Timing
