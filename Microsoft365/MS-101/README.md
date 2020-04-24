@@ -28,6 +28,8 @@
 * [Windows AutoPilot](https://youtu.be/4K4hC5NchbE)
 * [Co-Management](https://youtu.be/0jsNNrQNqog)
 * [Config Client Roll Out](https://youtu.be/bHWRBaaVCPg)
+* [AutoPilot Walkthrough](https://youtu.be/KYVptkpsOqs)
+
 
 ## Timing
 ## This is now a 5 day course originally taken from three separate courses:
