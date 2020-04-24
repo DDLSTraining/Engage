@@ -31,6 +31,8 @@
 * [Config Client Roll Out](https://youtu.be/bHWRBaaVCPg)
 * [AutoPilot Walkthrough](https://youtu.be/KYVptkpsOqs)
 * [White Glove](https://youtu.be/nE5XSOBV0rI)
+* [Azure Analytics](https://youtu.be/T2Vpi6ph8ck)
+* [Windows Analytics](https://youtu.be/4Kb78NmfV6E)
 
 
 ## Timing
