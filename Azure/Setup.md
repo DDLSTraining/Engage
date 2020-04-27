@@ -33,8 +33,7 @@ Some useful extensions:
 1. Register or login with your account.
 1. Select `Add a Course` and use the code given to you by the instructor.
 
-## Learn on Demand Labs 
-#### (Optional - Check with the instructor whether this is needed)
+## Learn on Demand Labs  (Optional - Ask instructor if this is needed)
 
 ***A learn On Demand key would have been given to you either by email or from the instructor***
 
