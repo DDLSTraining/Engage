@@ -33,6 +33,16 @@ Some useful extensions:
 1. Register or login with your account.
 1. Select `Add a Course` and use the code given to you by the instructor.
 
+## Learn on Demand Labs (Optional - Check with the instructor whether this is needed)
+
+***A learn On Demand key would have been given to you either by email or from the instructor***
+
+1. Go to [Learn On Demand](https://ddls.learnondemand.net)
+1. Click `Register with Training Key`
+1. Use the training key yor were givien
+1. Fill in your registration details
+1. Take note what your username is (you will need it to log in every day)
+
 ## Email Address 📧
 
 __Do not use your existing Microsoft accounts to work with the labs!__
