@@ -17,7 +17,7 @@ The [author](https://github.com/kelseyhightower) of [Kubernetes the Hard Way](ht
 
 Generally he is a "who said" of the greatest magnatude when it comes to Kubernetes and microservices.
 
-Tweets from Kelsey regarding Monolithic Design: https://twitter.com/search?pf=on&q=(monolithic OR monoliths OR monolith) (from%3Akelseyhightower)
+[Tweets from Kelsey regarding Monolithic Design](https://twitter.com/search?pf=on&q=%28monolithic%20OR%20monoliths%20OR%20monolith%29%20%28from%3Akelseyhightower%29)
 
 [Pinned tweet as of 2020-04-30](https://twitter.com/kelseyhightower/status/940259898331238402)
 > 2020 prediction: Monolithic applications will be back in style after people discover the drawbacks of distributed monolithic applications.
