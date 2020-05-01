@@ -5,6 +5,7 @@
 * [How Kubernetes Works](https://blog.sensu.io/how-kubernetes-works) - A 10 minute technology overview.
 * [Kubernetes Academy](https://kubernetes.academy/) - Bite-size video lessons developed by expert instructors.
 * [kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - A Gentle introduction to Kubernetes with more than just the basics.
+* [Domesticating Kubernetes](https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41) - Kubernetes as home server on bare metal in 150 minutes.
 
 ## Projects and Services
 
