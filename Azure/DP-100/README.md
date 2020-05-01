@@ -8,6 +8,10 @@
 
 Note: Use `East US` and when applicable `East US2` regions for all deployments.
 
+### Documentation
+
+* [Detect data drift on datasets](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-monitor-datasets#understanding-data-drift-results)
+
 ## Timing
 
 ### Day 1
