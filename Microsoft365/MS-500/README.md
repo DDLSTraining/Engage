@@ -23,7 +23,7 @@
 
 ### MS500.1x: Managing your Microsoft 365 Identity environment
 
-* Lab - Managing your Microsoft 365 Identity environment
+#### Lab - Managing your Microsoft 365 Identity environment
 * Exercise 1: Setting up your lab environment
 * Task 1: Obtain your Office 365 credentials
 * Task 2: Create a Microsoft 365 tenant account
@@ -37,7 +37,7 @@
 * Task 1: Install Microsoft Azure Active
 * Task 2: Assign service administrators in the Microsoft 365 admin center
 * Task 3: Verify service administration
-* Module 1 - Lab 2 - Exercise 1 - Discover and Manage Azure Resources
+#### Module 1 - Lab 2 - Exercise 1 - Discover and Manage Azure Resources
 * Task 1: Discover resources
 * Module 1 - Lab 2 - Exercise 2 - Assign Directory Roles
 * Task 1: Make a user eligible for a role
@@ -61,12 +61,12 @@
 * Module 1 - Lab 2 - Exercise 6 - View audit history for Azure AD roles in PIM
 * Task 1: View audit history
 * Task 2: Filter audit history
-* Module 2 - Lab 3 - Exercise 1 - Setting up your organization for identity synchronization
+#### Module 2 - Lab 3 - Exercise 1 - Setting up your organization for identity synchronization
 * Task 1 - Configure your UPN suffix
 * Task 2 - Enable Directory Synchronization
 * Task 3 - Run Azure AD Connect
 * Task 4 - Validate the results of directory synchronization and license a user.
-* Module 3 - Lab 4 - Exercise 1 - MFA Authentication Pilot (Require MFA for specific apps with Azure Active Directory conditional access)
+#### Module 3 - Lab 4 - Exercise 1 - MFA Authentication Pilot (Require MFA for specific apps with Azure Active Directory conditional access)
 * Task 1: Create your conditional access policy
 * Task 2: Evaluate a simulated sign-in
 * Task 3: Test your conditional access policy
@@ -83,15 +83,15 @@
 * Exercise 2: Editing an ATP Safe Links policy and create a Safe Attachment policy
 * Task 1: Edit an ATP Safe Links policy
 * Task 2: Create a Safe Attachment policy and turn on ATP for SharePoint, OneDrive, and Microsoft Teams
-* Module 1: Lab 2 - Exercise 1 - Improve your secure score in Microsoft 365 Security Center
+#### Module 1: Lab 2 - Exercise 1 - Improve your secure score in Microsoft 365 Security Center
 * Task 1: View the secure score in the Microsoft 365 Security Portal.
 * Task 2: View the Microsoft Secure Score History.
 * Task 3: Improve your Secure Score
-* Module 2 - Lab 1 - Exercise 1 - Implement ATP Policies
+#### Module 2 - Lab 1 - Exercise 1 - Implement ATP Policies
 * Task 1 – Create a Safe Links Policy
 * Task 2 – Validate the Safe Links Policy
 * Task 3 – Create a Safe Attachment policy and turn on ATP for SharePoint, OneDrive, and Microsoft Teams
-* Module 3 - Lab 4 - Exercise 1 - Conduct a Spear phishing attack
+#### Module 3 - Lab 4 - Exercise 1 - Conduct a Spear phishing attack
 * Task 1: Enable Mulit-factor authentication for Holly Dickson
 * Task 2: Configure and launch a Spear Phishing attack
 * Task 3: Confirm target received phishing email attack
@@ -101,7 +101,7 @@
 * Task 2: Review the results
 * Task 3: Configure and launch a Password Spray attack
 * Task 4: Review the results
-* Module 4 - Lab 5 - Exercise 1 - Enable Device Management
+#### Module 4 - Lab 5 - Exercise 1 - Enable Device Management
 * Task 1: Verify and assign Enterprise Mobility + Security licenses
 * Task 2: Enable device management with Intune
 * Module 4 - Lab 5 - Exercise 2 - Configure Azure AD for Intune
