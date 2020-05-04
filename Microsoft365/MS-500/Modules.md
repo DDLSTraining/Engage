@@ -2,109 +2,113 @@
 
 Modules and Lessons
 
-## MS-500T01: Managing Microsoft 365 Identity and Access
+## Module 1: User and Group Management
 
-### Module 1: User and Group Security
+* Identity and Access Management Concepts
+* The Zero Trust model
+* Plan your identity and authentication solution
+* User accounts and roles
+* Identity Management
+* Lab – Initialize your lab
+* Lab – Configure Privileged Identity Management
 
-* Introduction to Identity and Access Management
-* User Accounts in Microsoft 365 
-* Administrator Roles and Security Groups in Microsoft 365 
-* Password Management in Microsoft 365 
+## Module 2: Identity Synchronization and Protection
+
+* Plan directory synchronization 
+* Configure and manage synchronized identities
+* Password management
 * Azure AD Identity Protection
+* Lab – Implementing Identity Synchronization
 
-### Module 2: Identity Synchronization
+## Module 3: Access Management
 
-* Introduction to Identity Synchronization 
-* Planning for Azure AD Connect 
-* Implementing Azure AD Connect 
-* Managing Synchronized Identities
-* Introduction to Federated Identities 
-
-### Module 3: Access Management
-
-* Conditional Access 
-* Managing Device Access 
+* Conditional access 
+* Manage device access 
 * Role Based Access Control (RBAC) 
-* Solutions for External Access
+* Solutions for external access
+* Lab – Use Conditional Access to enable MFA
 
-## MS-500T02: Implementing Microsoft 365 Threat Protection
+## Module 4: Security in Microsoft 365
 
-### Module 1: Security in Microsoft 365
+* Threat vectors and data breaches
+* Security strategy and principles
+* Security solutions for Microsoft 365
+* Secure Score
+* Lab – Use Microsoft Secure Score
 
-* Threat Vectors and Data Breaches
-* Security Strategy and Principles
-* Security Solutions in Microsoft 365
-* Microsoft Secure Score
+## Module 5: Threat Protection
 
-### Module 2: Advanced Threat Protection
-
-* Exchange Online Protection
+* Exchange Online Protection (EOP)
 * Office 365 Advanced Threat Protection
-* Managing Safe Attachments
-* Managing Safe Links
+* Manage Safe Attachments
+* Manage Safe Links
 * Azure Advanced Threat Protection
-* Microsoft Defender Advanced Threat Protection
+* Microsoft Defender Advanced Threat Protection 
+* Lab – Manage Microsoft 365 Security Services
 
-### Module 3: Threat Management
+## Module 6: Threat Management
 
-* Using the Security Dashboard
-* Microsoft 365 Threat Investigation and Response
-* Configuring Advanced Threat Analytics
+* Security dashboard
+* Threat investigation and response
+* Azure Sentinel
+* Advanced Threat Analytics
+* Lab – Use Attack Simulator
 
-### Module 4: Mobile Device Management (Endpoint Manager)
+## Module 7: Cloud Application Security
 
-* Plan for Mobile Application Management 
-* Plan Mobile Device Management 
-* Deploy Mobile Device Management 
-* Enrolling Devices to Mobile Device Management
+* Deploy Cloud Application Security
+* Use Cloud Application Security Information
 
-## MS-500T03: Implementing Microsoft 365 Information Protection
+## Module 8: Mobility
 
-### Module 1: Information Protection
+* Mobile Application Management (MAM)
+* Mobile Device Management (MDM)
+* Deploy mobile device services
+* Enroll devices to Mobile Device Management
+* Lab – Configure Azure AD for Intune 
 
-* Information Protection Concepts
-* Azure Information Protection
-* Advanced Information Protection
-* Windows Information Protection
+## Module 9: Information Protection
 
-### Module 2: Rights Management and Encryption
+* Information Protection concepts
+* Sensitivity Labels
+* Azure Information Protection (AIP)
+* Windows Information Protection (WIP)
+* Lab – Implement AIP and WIP
 
-* Information Rights Management 
-* Secure Multipurpose Internet Mail Extension 
+## Module 10: Rights Management and Encryption
+
+* Information Rights Management (IRM) 
+* Secure Multipurpose Internet Mail Extension (S-MIME)
 * Office 365 Message Encryption
+* Lab – Configure Office 365 Message Encryption
 
-### Module 3: Data Loss Prevention
+## Module 11: Data Loss Prevention
 
-* Data Loss Prevention Explained
-* Data Loss Prevention Policies
-* Custom DLP Policies
-* Creating a DLP Policy to Protect Documents
+* Data loss prevention fundamentals
+* Create a DLP policy
+* Customize a DLP policy
+* Create a DLP policy to protect documents
 * Policy Tips
+* Lab – Implement Data Loss Prevention policies
 
-### Module 4: Cloud Application Security
+## Module 12: Compliance in Microsoft 365
 
-* Cloud Application Security Explained
-* Using Cloud Application Security Information 
+* Compliance center
+* Compliance center solutions
+* Building ethical walls in Exchange Online
 
-## MS-500T04: Administering Microsoft 365 Built-in Compliance
-
-### Module 1: Archiving and Retention
+## Module 13: Archiving and Retention
 
 * Archiving in Microsoft 365
 * Retention in Microsoft 365
-* Retention Policies in the Compliance Center
-* Archiving and Retention in Exchange
+* Retention policies in the Microsoft 365 Compliance center
+* Archiving and retention in Exchange
 * In-place records management in SharePoint
+* Lab – Compliance and Retention
 
-### Module 2: Data Governance in Microsoft 365
-
-* Planning Compliance Needs
-* Building ethical walls in Exchange Online
-* Manage Retention in Email
-* Troubleshooting Data Governance
-
-### Module 3: Managing Search and Investigation
+## Module 14: Content Search and Investigations
 
 * Content Search
 * Audit Log Investigations
 * Advanced eDiscovery
+* Lab – Manage Search and Investigations
