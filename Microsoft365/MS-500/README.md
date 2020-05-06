@@ -20,6 +20,10 @@
 * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
 * [SecCon Framework](https://github.com/microsoft/SecCon-Framework)
 
+## Hands-On Labs
+
+* [Advanced Threat Analytics](https://docs.microsoft.com/en-us/advanced-threat-analytics/install-ata-step1)
+
 ## Learn on Demand Hands-on
 
 ### MS500.1x: Managing your Microsoft 365 Identity environment
