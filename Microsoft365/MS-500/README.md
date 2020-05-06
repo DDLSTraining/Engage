@@ -18,6 +18,7 @@
 * [Microsoft Docs - Intune Portal](https://docs.microsoft.com/en-us/intune/)
 * [Cloud App Security Docs](https://docs.microsoft.com/en-us/cloud-app-security/)
 * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
+* [SecCon Framework](https://github.com/microsoft/SecCon-Framework)
 
 ## Learn on Demand Hands-on
 
