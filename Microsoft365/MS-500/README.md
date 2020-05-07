@@ -161,6 +161,7 @@
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
 * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
 * [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
+* [Regular Expressions](https://youtu.be/sa-TUpSx1JA)
 
 ## Timing
 
