@@ -7,6 +7,7 @@
   * [Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/)
   * [Microsoft Teams Docs](https://docs.microsoft.com/en-us/MicrosoftTeams/itadmin-readiness)
   * [Teams Academy](Https://aka.ms/teamsacademy)
+  * [Information Barriers](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies)
 ## Videos
   * [Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&feature=youtu.be&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=1356)
   * [Planning You Network for Teams](https://youtu.be/vi3M7ZzF2NU?list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=83)
@@ -15,7 +16,7 @@
   * [Intro to Phone Systems](https://youtu.be/Iepnko_v0ro?list=PLZRdqpALCE18g9kdXQeHmWH43cF3VngF4)
   * [Changes to URLs via Flow](https://youtu.be/65rMRZ_FH_U?t=512)
   * [Microsoft Planner](https://youtu.be/65rMRZ_FH_U?t=512)
-  * [Infomration Barriers](https://youtu.be/461LfU06RbA?t=416)
+  * [Information Barriers](https://youtu.be/461LfU06RbA?t=416)
   * [Troubleshooting Teams - Qos](https://youtu.be/65rMRZ_FH_U?t=258)
   * [User Experience Skype Upgrade options](https://youtu.be/0COYetLjWmE)
  
