@@ -1,9 +1,13 @@
 # Architecting on AWS
 
-## Reference Links
+## Course Links
 
 * [Courseware at eVantage by Gilmore Global](https://evantage.gilmoreglobal.com/#/user/signin)
 * [Qwiklabs](https://ddls.qwiklabs.com/)
+
+## References
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 
 ## Course Timing
 
