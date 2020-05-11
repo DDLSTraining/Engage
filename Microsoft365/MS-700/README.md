@@ -19,6 +19,7 @@
   * [Information Barriers](https://youtu.be/461LfU06RbA?t=416)
   * [Troubleshooting Teams - Qos](https://youtu.be/65rMRZ_FH_U?t=258)
   * [User Experience Skype Upgrade options](https://youtu.be/0COYetLjWmE)
+  * [Enabling Sensitivity Labels](https://docs.microsoft.com/en-au/azure/active-directory/users-groups-roles/groups-assign-sensitivity-labels)
  
 ## Extra Reading
 
