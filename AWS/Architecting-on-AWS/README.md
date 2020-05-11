@@ -1,4 +1,4 @@
-# Architecting on AWS v6.4
+# Architecting on AWS
 
 ## Reference Links
 
