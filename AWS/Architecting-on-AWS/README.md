@@ -35,7 +35,7 @@
 |8|Elasticity, High Availability, and Monitoring|50|
 |Lab 4|Creating a Highly Available Environment|40|
 |Break||15|
-|9|Automation|35|
+|9|Automation|40|
 |Lab 5|Automating Infrastructure Deployment with AWS CloudFormation|30|
 
 ## Day Three
