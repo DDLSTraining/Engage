@@ -7,6 +7,13 @@
 * [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) - Cross-industry standard process for data mining.
 * [Team Data Science Process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) - An agile, iterative data science methodology to deliver predictive analytics solutions and intelligent applications efficiently.
 
+## Frameworks
+
+* [Top 7 Machine Learning Frameworks for 2020](https://medium.com/@ODSC/top-7-machine-learning-frameworks-for-2020-7e45164914e1)
+* [PyTorch](https://pytorch.org/)
+* [scikit-learn](https://scikit-learn.org/)
+* [TensorFlow](https://www.tensorflow.org/)
+
 ## News
 
 * [2019-11-10: Andrej Karpathy: How Tesla is developing Full Self-Driving](https://www.reddit.com/r/tech/comments/dtfhh7/bye_chrome_why_im_switching_to_firefox_and_you/)
