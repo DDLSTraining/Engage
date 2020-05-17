@@ -9,7 +9,7 @@
 
 Note: Use `East US` and when applicable `East US2` regions for all deployments.
 
-* [Data Science Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/) - Comprehensive pre-configured virtual machines for data science modelling, development and deployment.
+* [Data Science Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/) - Comprehensive pre-configured virtual machines for data science.
 * [Get started with Machine Learning with an Azure Data Science Virtual Machine](https://docs.microsoft.com/en-us/learn/paths/get-started-with-azure-dsvm/)
 
 ### Documentation
