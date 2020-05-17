@@ -63,6 +63,10 @@ Table of Contents:
 * [Use Cloud Explorer for Visual Studio to send and receive messages between your device and IoT Hub](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-visual-studio-cloud-device-messaging)
 * [IOT Windows Core Series](https://www.youtube.com/watch?v=A-kazyOiBvs)
 
+## Machine Learning
+
+* [Get started with Machine Learning with an Azure Data Science Virtual Machine](https://docs.microsoft.com/en-us/learn/paths/get-started-with-azure-dsvm/)
+
 ## Messaging
 
 * [Service Bus Explorer](https://www.microsoft.com/en-au/download/details.aspx?id=35374)
