@@ -9,6 +9,7 @@ Table of Contents:
 * [Containers](#containers)
 * [Data](#data)
 * [Internet of Things](#internet-of-things)
+* [Machine Learning](#machine-learning)
 * [Messaging](#messaging)
 * [Monitoring](#monitoring)
 * [Networking](#networking)
