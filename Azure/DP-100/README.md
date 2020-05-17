@@ -1,17 +1,21 @@
 # Designing and Implementing an Azure Data Science Solution
 
+Note: Use `East US` and when applicable `East US2` regions for all deployments.
+
 ## Resources
+
+Course Related:
 
 * [DDLS: Microsoft DP-100 – Designing and Implementing an Azure Data Science Solution](https://www.ddls.com.au/courses/microsoft/azure/microsoft-dp-100t01-designing-and-implementing-a-data-science-solution-on-azure/)
 * [DP-100 GitHub Repository (Lab files and instructions)](https://github.com/MicrosoftLearning/DP100)
 * [Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist)
 * [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100)
 
+Tools:
 
-Note: Use `East US` and when applicable `East US2` regions for all deployments.
-
+* [Azure Machine Learning Studio](https://ml.azure.com/)
+* [Azure Machine Learning Studio (classic)](https://studio.azureml.net/)
 * [Data Science Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/) - Comprehensive pre-configured virtual machines for data science.
-* [Get started with Machine Learning with an Azure Data Science Virtual Machine](https://docs.microsoft.com/en-us/learn/paths/get-started-with-azure-dsvm/)
 
 ### Documentation
 
