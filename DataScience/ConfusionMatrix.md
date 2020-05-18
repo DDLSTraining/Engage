@@ -92,7 +92,7 @@ AUC: Area Under ROC curve - [Wikipedia](https://en.wikipedia.org/wiki/Receiver_o
 
 ROC AUC varies between 0 and 1 where 0 is the worst performance and 1 is the worst performance.
 
-AUC has not calculated for the above example.
+AUC has not been calculated for the above example.
 
 
 
