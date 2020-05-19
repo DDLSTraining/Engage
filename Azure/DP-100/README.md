@@ -19,6 +19,7 @@ Tools:
 
 ### Documentation
 
+* [Azure Machine Learning documentation](https://docs.microsoft.com/en-us/azure/machine-learning/)
 * [Detect data drift on datasets](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-monitor-datasets#understanding-data-drift-results)
 
 ## Timing
