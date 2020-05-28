@@ -15,6 +15,10 @@
 * [cri-o](https://cri-o.io/) - Lightweight Container Runtime for Kubernetes.
 * [Operators](https://operatorhub.io/what-is-an-operator) - The goal of an Operator is to put operational knowledge into software.
 * [Portainer](https://github.com/portainer/portainer) - Making Docker management easy.
+* [Envoy Proxy](https://github.com/envoyproxy/envoy) - Edge and service proxy, designed for cloud-native applications.
+* [Knative](https://github.com/knative) - Kubernetes-based platform to deploy and manage modern serverless workloads.
+* [Istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+
 
 See [Serverless on Kubernetes](https://github.com/DDLSTraining/Engage/blob/master/Cloud/Serverless.md#serverless-on-kubernetes) from the Serverless document.
 
