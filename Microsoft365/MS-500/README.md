@@ -19,7 +19,7 @@
 * [Cloud App Security Docs](https://docs.microsoft.com/en-us/cloud-app-security/)
 * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
 * [SecCon Framework](https://github.com/microsoft/SecCon-Framework)
-* [Power BI Templates for Call Analysis](https://tomtalks.blog/2020/02/6-power-bi-reports-for-microsoft-teams-call-quality-dashboard-cqd/)
+
 
 
 ## Hands-On Labs
