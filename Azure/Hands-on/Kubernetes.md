@@ -19,6 +19,24 @@ Following are the steps to create a lab virtual machine to complete the Kubernet
    * Src Any SrcPort Any Dest Any DestPort 80
    * Src Any SrcPort Any Dest Any DestPort 8080
 
+## Connect to the Virtual Machine
+
+Using either the `ssh` command or [putty](), connect to the virtual machine:
+
+With the `ssh` command:
+
+```bash
+ssh <user>@<public ip address>
+# Example: ssh grant@1.2.3.4
+```
+With putty:
+
+1. Put the public IP address into the `Host Name` box.
+1. Select `SSH` as the connection type.
+1. Click Open.
+
+Enter your username or password as required.
+
 ## Install Docker
 
 Follow the instructions from the [Docker Website](https://docs.docker.com/engine/install/debian/).
