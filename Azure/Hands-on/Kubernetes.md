@@ -7,17 +7,17 @@ Following are the steps to create a lab virtual machine to complete the Kubernet
 1. Login to the Azure Portal.
 1. Go to Virtual Machines.
 1. Create a new virtual machine with these settings:
-  * Name: `vm-docker`
-  * Region: `East US`
-  * OS: `Debian Buster`
-  * Username / Password (Use SSH for better security).
+   * Name: `vm-docker`
+   * Region: `East US`
+   * OS: `Debian Buster`
+   * Username / Password (Use SSH for better security).
 1. Wait for the machine to be created.
 1. Go to the `vm-docker` virtual machine page.
 1. Record the public IP address.
 1. Under "Settings" click "Networking".
 1. Add the following inbound security group rules:
-  * Src Any SrcPort Any Dest Any DestPort 80
-  * Src Any SrcPort Any Dest Any DestPort 8080
+   * Src Any SrcPort Any Dest Any DestPort 80
+   * Src Any SrcPort Any Dest Any DestPort 8080
 
 ## Install Docker
 
