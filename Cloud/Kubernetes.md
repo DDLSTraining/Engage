@@ -6,6 +6,7 @@
 * [Kubernetes Academy](https://kubernetes.academy/) - Bite-size video lessons developed by expert instructors.
 * [kubernetes-workshop](https://github.com/eon01/kubernetes-workshop) - A Gentle introduction to Kubernetes with more than just the basics.
 * [Domesticating Kubernetes](https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41) - Kubernetes as home server on bare metal in 150 minutes.
+* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform.
 
 ## Projects and Services
 
