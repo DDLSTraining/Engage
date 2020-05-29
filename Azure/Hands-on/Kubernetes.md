@@ -21,7 +21,7 @@ Following are the steps to create a lab virtual machine to complete the Kubernet
 
 ## Connect to the Virtual Machine
 
-Using either the `ssh` command or [putty](), connect to the virtual machine:
+Using either the `ssh` command or [putty](https://www.putty.org/), connect to the virtual machine:
 
 With the `ssh` command:
 
