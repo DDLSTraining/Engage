@@ -1,5 +1,13 @@
 # AWS Cloud Practitioner Essentials
 
+With this course you will gain an overall understanding of AWS Cloud, independent of specific technical roles. It provides a detailed overview of cloud concepts, AWS services, security, architecture, pricing, and support. This course also helps you prepare for the AWS Certified Cloud Practitioner exam.
+
+* []()
+* [AWS Course Details](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials-classroom/)
+* []()
+
+## Timing
+
 |Module|Name|Duration|
 |-|-|-|
 |1|Introduction to the AWS Cloud|45|
