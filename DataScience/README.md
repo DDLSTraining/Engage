@@ -32,6 +32,7 @@ Support Tools:
 ## Reference
 
 * [Data science courses on edX](https://www.edx.org/course/subject/data-science)
+* [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 
 ### Trained Models
 
