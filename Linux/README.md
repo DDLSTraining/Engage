@@ -42,3 +42,7 @@ Boot to the USB drive and follow the steps provided.
 
 * [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI/blob/master/readme.md#you-dont-need-gui)
 * [TLDR: A collection of simplified and community-driven man pages](https://github.com/tldr-pages/tldr)
+
+## References
+
+* [Major Linux Problems on the Desktop, 2020 edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html)
