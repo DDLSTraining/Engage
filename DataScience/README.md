@@ -28,6 +28,7 @@ Support Tools:
 * [2019-11-10: Andrej Karpathy: How Tesla is developing Full Self-Driving](https://www.reddit.com/r/tech/comments/dtfhh7/bye_chrome_why_im_switching_to_firefox_and_you/)
 * [The State of Machine Learning Frameworks in 2019](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/)
   * [Hacker News Discussion](https://news.ycombinator.com/item?id=21216200)
+* [2019-04-29: Reinventing the Wheel: Discovering the Optimal Rolling Shape with PyTorch](https://blog.benwiener.com/programming/2019/04/29/reinventing-the-wheel.html)
   
 ## Reference
 
