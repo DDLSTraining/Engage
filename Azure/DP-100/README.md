@@ -22,6 +22,12 @@ Tools:
 * [Azure Machine Learning documentation](https://docs.microsoft.com/en-us/azure/machine-learning/)
 * [Detect data drift on datasets](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-monitor-datasets#understanding-data-drift-results)
 
+#### Distributed Training
+
+* [Build scikit-learn models at scale with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-train-scikit-learn)
+* [https://docs.microsoft.com/en-us/azure/machine-learning/concept-distributed-training](https://docs.microsoft.com/en-us/azure/machine-learning/concept-distributed-training)
+* [Dask](https://dask.org/) - Advanced parallelism for analytics, enabling performance at scale for the tools you love
+
 ## Timing
 
 ### Day 1
