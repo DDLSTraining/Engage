@@ -42,3 +42,8 @@ Support Tools:
 ### Media
 
 * [Multi-Agent Hide and Seek: Video (3min)](https://www.youtube.com/watch?v=kopoLzvh5jY) - OpenAI: Agents discovering progressively more complex tool use while playing a simple game of hide-and-seek.
+
+### Tools
+
+* [Spyder](https://www.spyder-ide.org/)
+  * [Spyder (GitHub)](https://github.com/spyder-ide/spyder)
