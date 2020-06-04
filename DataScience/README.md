@@ -45,9 +45,17 @@ Support Tools:
 
 ### Tools
 
+#### Integrated Development Environments
+
 * [Spyder](https://www.spyder-ide.org/)
   * [Spyder (GitHub)](https://github.com/spyder-ide/spyder)
-* [Anaconda](https://anaconda.org/)
+  
+#### Distributions and Installations
+
+* [Anaconda](https://anaconda.org/) - Your data science toolkit.
+* [Python](https://www.python.org/) - A programming language that lets you work quickly.
+  * [pip (pip3)](https://pypi.org/project/pip/) - Package installer for Python.
+* [R Language](https://www.r-project.org/) - A language and environment for statistical computing and graphics.
 
 #### Charts
 
