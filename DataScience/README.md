@@ -47,3 +47,4 @@ Support Tools:
 
 * [Spyder](https://www.spyder-ide.org/)
   * [Spyder (GitHub)](https://github.com/spyder-ide/spyder)
+* [Anaconda](https://anaconda.org/)
