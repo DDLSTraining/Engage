@@ -48,3 +48,11 @@ Support Tools:
 * [Spyder](https://www.spyder-ide.org/)
   * [Spyder (GitHub)](https://github.com/spyder-ide/spyder)
 * [Anaconda](https://anaconda.org/)
+
+#### Charts
+
+* [Matplotlib](https://matplotlib.org/) - A comprehensive library for creating static, animated, and interactive visualizations in Python.
+* [Altair](https://altair-viz.github.io/index.html) - Declarative Visualization in Python.
+
+
+
