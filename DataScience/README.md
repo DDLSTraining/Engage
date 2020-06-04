@@ -47,6 +47,7 @@ Support Tools:
 
 #### Integrated Development Environments
 
+* [Visual Studio Code](https://code.visualstudio.com/)
 * [Spyder](https://www.spyder-ide.org/)
   * [Spyder (GitHub)](https://github.com/spyder-ide/spyder)
   
