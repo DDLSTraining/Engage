@@ -25,7 +25,7 @@ Tools:
 #### Distributed Training
 
 * [Build scikit-learn models at scale with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-train-scikit-learn)
-* [https://docs.microsoft.com/en-us/azure/machine-learning/concept-distributed-training](https://docs.microsoft.com/en-us/azure/machine-learning/concept-distributed-training)
+* [Distributed training with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-distributed-training)
 * [Dask](https://dask.org/) - Advanced parallelism for analytics, enabling performance at scale for the tools you love
 
 ## Timing
