@@ -7,6 +7,7 @@
 * [PostgreSQL](https://www.postgresql.org/) - The World's Most Advanced Open Source Relational Database.
   * [Citus Data](https://www.citusdata.com/) - Citus is an extension to Postgres that transforms Postgres into a distributed database.
 * [ClickHouse](https://clickhouse.tech/) - Open source, real time, OLAP database.
+* [QuestDB](https://github.com/questdb/questdb) - SQL database designed to process time-series data, faster.
 
 ## Articles
 
