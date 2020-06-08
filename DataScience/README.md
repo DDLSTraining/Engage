@@ -29,6 +29,7 @@ Support Tools:
 * [The State of Machine Learning Frameworks in 2019](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/)
   * [Hacker News Discussion](https://news.ycombinator.com/item?id=21216200)
 * [2019-04-29: Reinventing the Wheel: Discovering the Optimal Rolling Shape with PyTorch](https://blog.benwiener.com/programming/2019/04/29/reinventing-the-wheel.html)
+* [2019-03-04: The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
   
 ## Reference
 
