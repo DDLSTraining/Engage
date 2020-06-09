@@ -57,6 +57,7 @@ Support Tools:
 * [Anaconda](https://anaconda.org/) - Your data science toolkit.
 * [Python](https://www.python.org/) - A programming language that lets you work quickly.
   * [pip (pip3)](https://pypi.org/project/pip/) - Package installer for Python.
+  * [Python3 in One Picture](https://raw.githubusercontent.com/coodict/python3-in-one-pic/master/py3%20in%20one%20pic.png)
 * [R Language](https://www.r-project.org/) - A language and environment for statistical computing and graphics.
 
 #### Charts
