@@ -53,6 +53,11 @@ Support Tools:
 |[Udacity](https://www.udacity.com/)|❌|❌|
 |[Udemy](https://www.udemy.com/)|❌|❌|
 
+### YouTube Channels
+
+* [3blue1brown!](https://www.youtube.com/c/3blue1brown) ([site](https://www.3blue1brown.com/))
+* [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 
 ### Trained Models
 
