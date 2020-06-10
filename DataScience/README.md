@@ -33,8 +33,23 @@ Support Tools:
   
 ## Reference
 
-* [Data science courses on edX](https://www.edx.org/course/subject/data-science)
 * [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+
+### Online Data Science Education
+
+* [AWS Free Machine Learning Training](https://www.aws.training/LearningLibrary?filters=classification%3A30&filters=language%3A1&filters=digital%3A1&tab=digital_courses)
+* [Coursera](https://www.coursera.org/)
+* [Databricks Academy](https://academy.databricks.com/)
+* [DataCamp](https://www.datacamp.com/)
+* [edX](https://www.edx.org/course/subject/data-science)
+* [fast.ai](https://www.fast.ai/)
+* [Google AI](https://ai.google/education/)
+* [Linux Academy](https://linuxacademy.com/)
+* [Microsoft AI School](https://aischool.microsoft.com/en-us/home)
+* [Pluralsight](https://www.pluralsight.com/)
+* [Udacity](https://www.udacity.com/)
+* [Udemy](https://www.udemy.com/)
+
 
 ### Trained Models
 
