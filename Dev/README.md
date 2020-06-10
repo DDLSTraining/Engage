@@ -15,3 +15,10 @@
 ## Security
 
 * [Secure Code Warrior](https://securecodewarrior.com/)
+
+## Level Up!
+
+* [TypingClub](https://www.typingclub.com/)
+* [Vim](https://www.vim.org/) - the ubiquitous text editor.
+  * [OpenVim](https://www.openvim.com/)
+  * [neovim](hyperextensible Vim-based text editor)
