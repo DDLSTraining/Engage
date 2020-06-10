@@ -53,19 +53,21 @@ Support Tools:
 |[Udacity](https://www.udacity.com/)|❌|❌|
 |[Udemy](https://www.udemy.com/)|❌|❌|
 
-### YouTube Channels
+### Media
 
-* [3blue1brown!](https://www.youtube.com/c/3blue1brown) ([site](https://www.3blue1brown.com/))
-* [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
-* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* YouTube Channels:
+  * [3blue1brown!](https://www.youtube.com/c/3blue1brown) ([site](https://www.3blue1brown.com/))
+  * [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+  * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* [Multi-Agent Hide and Seek: Video (3min)](https://www.youtube.com/watch?v=kopoLzvh5jY) - OpenAI: Agents discovering progressively more complex tool use while playing a simple game of hide-and-seek.
+
+### Books
+
+* [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
 ### Trained Models
 
 * [Pytorch-Transformers](https://github.com/huggingface/pytorch-transformers) - A library of state-of-the-art pretrained models for Natural Language Processing (NLP).
-
-### Media
-
-* [Multi-Agent Hide and Seek: Video (3min)](https://www.youtube.com/watch?v=kopoLzvh5jY) - OpenAI: Agents discovering progressively more complex tool use while playing a simple game of hide-and-seek.
 
 ### Tools
 
