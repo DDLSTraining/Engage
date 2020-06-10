@@ -22,3 +22,21 @@
 * [Vim](https://www.vim.org/) - the ubiquitous text editor.
   * [OpenVim](https://www.openvim.com/) - Tutorial.
   * [neovim](https://neovim.io/) - Hyperextensible Vim-based text editor.
+
+## Python
+
+### Online Education
+
+|Site|Free|
+|-|-|
+|[Coursera](https://www.coursera.org/)|❌|
+|[Databricks Academy](https://academy.databricks.com/)|❌|
+|[DataCamp](https://www.datacamp.com/)|❌|✔️|
+|[edX](https://www.edx.org/)|✔️|
+|[fast.ai](https://www.fast.ai/)|✔️|
+|[JetBrains Academy](https://www.jetbrains.com/academy/)|❌|
+|[Khan Academy](https://www.khanacademy.org/)|✔️|
+|[Linux Academy](https://linuxacademy.com/)|❌|
+|[Pluralsight](https://www.pluralsight.com/)|❌|
+|[Udacity](https://www.udacity.com/)|❌|
+|[Udemy](https://www.udemy.com/)|❌|
