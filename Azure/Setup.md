@@ -88,7 +88,7 @@ The following is specific to the DDLS classroom machines to add useful software 
 ```powershell
 scoop bucket add extras
 scoop bucket add versions
-scoop install pwsh-beta
+scoop install pwsh
 ```
 
 4. Open PowerShell Core from the start menu.
