@@ -37,18 +37,21 @@ Support Tools:
 
 ### Online Data Science Education
 
-* [AWS Free Machine Learning Training](https://www.aws.training/LearningLibrary?filters=classification%3A30&filters=language%3A1&filters=digital%3A1&tab=digital_courses)
-* [Coursera](https://www.coursera.org/)
-* [Databricks Academy](https://academy.databricks.com/)
-* [DataCamp](https://www.datacamp.com/)
-* [edX](https://www.edx.org/course/subject/data-science)
-* [fast.ai](https://www.fast.ai/)
-* [Google AI](https://ai.google/education/)
-* [Linux Academy](https://linuxacademy.com/)
-* [Microsoft AI School](https://aischool.microsoft.com/en-us/home)
-* [Pluralsight](https://www.pluralsight.com/)
-* [Udacity](https://www.udacity.com/)
-* [Udemy](https://www.udemy.com/)
+|Site|Free|Data Science Focus|
+|-|-|-|
+|[AWS ML Training](https://www.aws.training/LearningLibrary?filters=classification%3A30&filters=language%3A1&filters=digital%3A1&tab=digital_courses)|✔️|❌|
+|[Coursera](https://www.coursera.org/)|❌|❌|
+|[Databricks Academy](https://academy.databricks.com/)|❌|❌|
+|[DataCamp](https://www.datacamp.com/)|❌|✔️|
+|[edX](https://www.edx.org/course/subject/data-science)|✔️|❌|
+|[fast.ai](https://www.fast.ai/)|✔️|✔️|
+|[Google AI](https://ai.google/education/)|✔️|✔️|
+|[Khan Academy](https://www.khanacademy.org/)|✔️|❌|
+|[Linux Academy](https://linuxacademy.com/)|❌|❌|
+|[Microsoft AI School](https://aischool.microsoft.com/en-us/home)|✔️|✔️|
+|[Pluralsight](https://www.pluralsight.com/)|❌|❌|
+|[Udacity](https://www.udacity.com/)|❌|❌|
+|[Udemy](https://www.udemy.com/)|❌|❌|
 
 
 ### Trained Models
