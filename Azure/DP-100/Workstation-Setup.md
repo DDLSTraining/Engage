@@ -38,7 +38,7 @@ az extension add -n azure-cli-ml
 
 ```powershell
 pip install --upgrade azureml-sdk
-pip install pandas matplotlib azureml.widgets
+pip install pandas matplotlib joblib sklearn azureml.widgets
 ```
 
 7. Clone the GitHub DP100 repository:
@@ -80,7 +80,7 @@ git clone https://github.com/MicrosoftLearning/DP100.git
 cd DP100
 az ml workspace list --query '[?workspaceName==`YOUR_WORKSPACE_NAME`] | [0]' > config.json
 pip install --upgrade azureml-sdk
-pip install pandas matplotlib azureml.widgets
+pip install pandas matplotlib joblib sklearn azureml.widgets
 ```
 
 ## Notes
