@@ -76,8 +76,8 @@ cd /path/to/your/project/directory
 git clone https://github.com/MicrosoftLearning/DP100.git
 cd DP100
 az ml workspace list --query '[?workspaceName==`YOUR_WORKSPACE_NAME`] | [0]' > config.json
-pip3 install --upgrade azureml-sdk
-pip3 install pandas matplotlib azureml.widgets
+pip install --upgrade azureml-sdk
+pip install pandas matplotlib azureml.widgets
 ```
 
 ## Notes
