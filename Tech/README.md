@@ -21,7 +21,8 @@
 
 ## Interesting Technology
 
-### Charts and Graphs
+### Charts, Diagrams, and Visualization
 
+* [Online text to diagram tools](https://smusamashah.github.io/text-to-diagram)
 * [Graphviz](https://www.graphviz.org/) - Graph Visualization Software
   * [Graphviz Visual Editor](http://magjac.com/graphviz-visual-editor/)
