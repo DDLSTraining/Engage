@@ -11,5 +11,5 @@
    * `cd <location you want the files stored>`
    * `git clone https://github.com/MicrosoftLearning/DP100.git`
    * `pip3 install --upgrade azureml-sdk`
-   * `pip3 install pandas matplotlib`
+   * `pip3 install pandas matplotlib azureml.widgets`
 5. Download the `config.json` file from the Azure Portal.
