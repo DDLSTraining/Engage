@@ -1,6 +1,6 @@
 # Workstation Setup
 
-You can use your desktop or laptop go complete the labs. The below steps give you a good starting point, however it is highly likely you will need to work around issues as you go. Expect many issues.
+You can use your desktop or laptop to complete the labs. The below steps give you a good starting point, however it is highly likely you will need to work around issues as you go. Expect many issues.
 
 For reference: [Configure a development environment for Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-environment)
 
