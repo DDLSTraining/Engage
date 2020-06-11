@@ -18,3 +18,10 @@
 ## Reference
 
 * [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+
+## Interesting Technology
+
+### Charts and Graphs
+
+* [Graphviz](https://www.graphviz.org/) - Graph Visualization Software
+  * [Graphviz Visual Editor](http://magjac.com/graphviz-visual-editor/)
