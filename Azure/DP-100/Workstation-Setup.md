@@ -5,10 +5,11 @@
 1. Install the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest).
 2. Install [Python3](https://www.python.org/downloads/).
 3. Install [Git](https://git-scm.com/).
-4. Open PowerShell (or cmd.exe) and run the following commands:
+4. Open a command prompt and run the following commands:
    * `az login`
    * `az extension add -n azure-cli-ml`
    * `cd <location you want the files stored>`
    * `git clone https://github.com/MicrosoftLearning/DP100.git`
    * `pip3 install --upgrade azureml-sdk`
+   * `pip3 install pandas matplotlib`
 5. Download the `config.json` file from the Azure Portal.
