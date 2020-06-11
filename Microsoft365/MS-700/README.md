@@ -29,16 +29,7 @@
   * [Enabling Sensitivity Labels](https://docs.microsoft.com/en-au/azure/active-directory/users-groups-roles/groups-assign-sensitivity-labels)
  * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
  * [Regular Expressions](https://youtu.be/sa-TUpSx1JA)
- * [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
-* [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
-* [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
-* [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
-* [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
-* [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
-* [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
-* [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
-* [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
- 
+
 ## Extra Reading
 
 ## Resources
