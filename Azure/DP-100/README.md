@@ -22,6 +22,7 @@ Tools:
 * [Azure Machine Learning documentation](https://docs.microsoft.com/en-us/azure/machine-learning/)
 * [Algorithm & module reference for Azure Machine Learning designer](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/module-reference)
 * [Detect data drift on datasets](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-monitor-datasets#understanding-data-drift-results)
+* [Azure Machine Learning SDK for R](https://azure.github.io/azureml-sdk-for-r/index.html)
 
 #### Distributed Training
 
