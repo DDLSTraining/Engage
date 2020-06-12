@@ -87,3 +87,4 @@ pip install pandas matplotlib joblib sklearn azureml.widgets
 
 * File paths may need forward slashes changed to double back slashes. Eg ` /  =>  \\ `.
 * The `compute_target` may need to be changed from "local" to "NAME_OF_YOUR_INSTANCE".
+* Windows installations may have issues with some python package installations (automl as an example).
