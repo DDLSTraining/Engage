@@ -53,6 +53,8 @@ Support Tools:
 |[Udacity](https://www.udacity.com/)|❌|❌|
 |[Udemy](https://www.udemy.com/)|❌|❌|
 
+* [Stanford University - CS 330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
+
 ### Media
 
 * YouTube Channels:
