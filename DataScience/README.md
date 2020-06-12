@@ -57,6 +57,7 @@ Support Tools:
 * [MIT University - Deep Learning](https://deeplearning.mit.edu/)
 * [Stanford University - CS 330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 * [Coursera - Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
+* [Neural Networks in 100 lines of pure Python](https://eisenjulian.github.io/deep-learning-in-100-lines/index.html)
 
 ### Media
 
