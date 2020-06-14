@@ -1,4 +1,4 @@
-# Azure Course Student Account Setup
+# Azure DP-100 Student Setup
 
 ## Requirements
 
