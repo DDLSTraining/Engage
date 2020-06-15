@@ -47,6 +47,7 @@ Support Tools:
 |[edX](https://www.edx.org/course/subject/data-science)|✔️|❌|
 |[fast.ai](https://www.fast.ai/)|✔️|✔️|
 |[Google AI](https://ai.google/education/)|✔️|✔️|
+|[kaggle](https://www.kaggle.com/)|✔️|✔️|
 |[Khan Academy](https://www.khanacademy.org/)|✔️|❌|
 |[Linux Academy](https://linuxacademy.com/)|❌|❌|
 |[Microsoft AI School](https://aischool.microsoft.com/en-us/home)|✔️|✔️|
