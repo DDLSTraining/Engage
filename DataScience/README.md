@@ -83,6 +83,9 @@ Support Tools:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Spyder](https://www.spyder-ide.org/)
   * [Spyder (GitHub)](https://github.com/spyder-ide/spyder)
+* [Jupyter](https://jupyter.org/)
+  * [IPython Documentation](https://ipython.readthedocs.io/en/stable/index.html)
+  * [Built-in magic commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
   
 #### Distributions and Installations
 
