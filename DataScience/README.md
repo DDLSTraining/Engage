@@ -36,6 +36,7 @@ Support Tools:
 ## Reference
 
 * [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+* [2018-09-25: Video - Paris streets in the eyes of Tesla Autopilot](https://www.youtube.com/watch?v=_1MHGUC_BzQ)
 
 ### Online Data Science Education
 
