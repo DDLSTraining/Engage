@@ -16,6 +16,7 @@ Notes and resources for Microsoft Office 365 and Microsoft 365 courses.
 ## Resources
 
 * [Microsoft 365 licensing diagrams](https://github.com/AaronDinnage/Licensing)
+* [Connect to All Office 365 Services via PShell in one step[(https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-all-office-365-services-in-a-single-windows-powershell-window)
 
 ## News
 
