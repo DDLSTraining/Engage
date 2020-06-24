@@ -27,6 +27,7 @@ Support Tools:
 
 ## News
 
+* [2020-06-22: What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)
 * [2020-06-12: Machine-learning clusters in Azure hijacked to mine cryptocurrency](https://arstechnica.com/information-technology/2020/06/machine-learning-clusters-in-azure-hijacked-to-mine-cryptocurrency/)
 * [2020-01-30: OpenAI → PyTorch](https://openai.com/blog/openai-pytorch/)
 * [2019-11-10: Andrej Karpathy: How Tesla is developing Full Self-Driving](https://www.reddit.com/r/tech/comments/dtfhh7/bye_chrome_why_im_switching_to_firefox_and_you/)
