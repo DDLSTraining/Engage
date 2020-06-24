@@ -16,6 +16,7 @@ Machine Learning:
 * [Top 7 Machine Learning Frameworks for 2020](https://medium.com/@ODSC/top-7-machine-learning-frameworks-for-2020-7e45164914e1)
 * [PyTorch](https://pytorch.org/)
 * [scikit-learn](https://scikit-learn.org/)
+  * [auto-sklearn](https://github.com/automl/auto-sklearn)
 * [TensorFlow](https://www.tensorflow.org/)
 
 Support Tools:
