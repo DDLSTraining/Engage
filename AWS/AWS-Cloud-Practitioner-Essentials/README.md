@@ -7,6 +7,13 @@ With this course you will gain an overall understanding of AWS Cloud, independen
 * [Courseware by eVantage](https://evantage.gilmoreglobal.com/)
 * [Labs by Qwiklabs](https://ddls.qwiklabs.com/)
 
+## Resources
+
+* [AWS Cloud Products](https://aws.amazon.com/products/)
+* [AWS Pricing Calculator](https://calculator.aws/#/)
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+* [AWS Architecture Center](https://aws.amazon.com/architecture/)
+
 ## Timing
 
 |Module|Name|Duration|
