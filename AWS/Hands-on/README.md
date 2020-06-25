@@ -2,6 +2,11 @@
 
 Find in this directory extra hands-on you can do to expand your knowledge of AWS.
 
+## AWS CLI
+
+* `aws translate translate-text --text "Hello, welcome to AWS cloud practitioner essentials" --source-language-code=en --target-language=es`
+* `aws polly synthesize-speech --output-format mp3 --voice-id Joanna --text 'Hello, my name is Joanna. Welcome to the AWS CLI' hello.mp3`
+
 ## API Gateway
 
 * [API Gateway + Vue JS + Express + PostgreSQL](https://github.com/allanchua101/api-gateway-vue-express-pg) - Showcases an API gateway using Vue JS, Express, and PostgreSQL on containers.
