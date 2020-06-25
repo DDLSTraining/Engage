@@ -13,6 +13,7 @@ With this course you will gain an overall understanding of AWS Cloud, independen
 * [AWS Pricing Calculator](https://calculator.aws/#/)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
+* [AWS Quick Starts](https://aws.amazon.com/quickstart/) ([GitHub](https://github.com/aws-quickstart/))
 
 ## Timing
 
