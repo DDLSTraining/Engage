@@ -2,6 +2,8 @@
 
 Find in this directory extra hands-on you can do to expand your knowledge of AWS.
 
+* [AWS Samples on GitHub](https://github.com/aws-samples)
+
 ## AWS CLI
 
 * `aws translate translate-text --text "Hello, welcome to AWS cloud practitioner essentials" --source-language-code=en --target-language=es`
