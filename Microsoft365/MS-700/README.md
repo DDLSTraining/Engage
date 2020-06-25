@@ -16,7 +16,10 @@
   * [Power BI Templates for Call Analysis](https://tomtalks.blog/2020/02/6-power-bi-reports-for-microsoft-teams-call-quality-dashboard-cqd/)
   * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
   * [Qos](https://commsverse.blog/2018/07/24/microsoft-teams-quality-of-service/)
-  * [Callin Plan availability](https://docs.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+  * [Calling Plan availability](https://docs.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+  * [Auto attendant migration to cloud[(https://docs.microsoft.com/en-us/skypeforbusiness/plan/exchange-unified-messaging-online-migration-support#auto-attendant-migration-guidelines
+)
+
 
   
 ## Videos
