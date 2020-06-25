@@ -20,6 +20,7 @@
 ## Reference
 
 * [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+* [Geekbench Browser](https://browser.geekbench.com/)
 
 ## Interesting Technology
 
