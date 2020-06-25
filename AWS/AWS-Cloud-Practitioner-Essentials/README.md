@@ -18,6 +18,6 @@ With this course you will gain an overall understanding of AWS Cloud, independen
 |Lab 2|Build a Web Server on Amazon EC2|30|
 |4|Security|45|
 |5|Support and Pricing|30|
-|Lab 3|Auditing Your Security with AWS Trusted Advisor|30|
+|Lab 3|Auditing Security with AWS Trusted Advisor|30|
 |6|Architecture|30|
 |Finish||5:00|
