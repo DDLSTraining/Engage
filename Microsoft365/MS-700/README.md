@@ -17,9 +17,9 @@
   * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
   * [Qos](https://commsverse.blog/2018/07/24/microsoft-teams-quality-of-service/)
   * [Calling Plan availability](https://docs.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-  * [Auto attendant migration to cloud[(https://docs.microsoft.com/en-us/skypeforbusiness/plan/exchange-unified-messaging-online-migration-support#auto-attendant-migration-guidelines
-)
-
+  * [Auto attendant migration to cloud](https://docs.microsoft.com/en-us/skypeforbusiness/plan/exchange-unified-messaging-online-migration-support#auto-attendant-migration-guidelines)
+  * [Teams Storage](https://docs.microsoft.com/en-us/microsoftteams/location-of-data-in-teams)
+  * [VoiceMail Hybrid](https://docs.microsoft.com/en-us/microsoftteams/set-up-phone-system-voicemail)
 
   
 ## Videos
