@@ -16,6 +16,8 @@
   * [Power BI Templates for Call Analysis](https://tomtalks.blog/2020/02/6-power-bi-reports-for-microsoft-teams-call-quality-dashboard-cqd/)
   * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
   * [Qos](https://commsverse.blog/2018/07/24/microsoft-teams-quality-of-service/)
+  * [Callin Plan availability](https://docs.microsoft.com/en-us/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+
   
 ## Videos
   * [Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&feature=youtu.be&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=1356)
