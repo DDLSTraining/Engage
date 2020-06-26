@@ -6,6 +6,7 @@ With this course you will gain an overall understanding of AWS Cloud, independen
 * [AWS Cloud Practitioner Essentials Course on AWS](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials-classroom/)
 * [Courseware by eVantage](https://evantage.gilmoreglobal.com/)
 * [Labs by Qwiklabs](https://ddls.qwiklabs.com/)
+* [Exam: AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 ## Resources
 
