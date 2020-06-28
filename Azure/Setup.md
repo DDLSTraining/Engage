@@ -29,19 +29,27 @@ Some useful extensions:
 ## Courseware
 
 1. Go to [Skillpipe](https://skillpipe.com/).
-1. Use your personal email address. Not a work email.
-1. Register or login with your account.
-1. Select `Add a Course` and use the code given to you by the instructor.
+1. Register or login to your account. (When registering, a personal email address is preferred, try to avoid work email addresses)
+1. Select `Add a Course` and use the **skillpipe code** given to you by a DDLS email or in some cases from the instructor.
 
 ## Learn on Demand Labs  (Optional - Ask instructor if this is needed)
 
 ***A learn On Demand key would have been given to you either by email or from the instructor***
 
 1. Go to [Learn On Demand](https://ddls.learnondemand.net)
-1. Click `Register with Training Key`
-1. Use the training key yor were givien
-1. Fill in your registration details
-1. Take note what your username is (you will need it to log in every day)
+1. If this is the first time you have used LearOnDemand
+  1. Click `Register with Training Key`  
+  1. Use the LearnOnDemand training key you received in an email from DDLS staff or from your trainer
+  1. Fill in your registration details
+  1. Find your account details and take note of your username (if you do not you will not be able to login)
+1. If you have have an account with ddls.leanondemand.net
+  1. Click `Sign In`
+  1. Use your existing username and password
+  1. Click `Redeem Training Key`
+  1. Enter the LearnOnDemand key you received in an email from DDLS staff or from your trainer
+1. Click the *course name* 
+1. In the Activities section you will find your labs
+  
 
 ## Email Address 📧
 
