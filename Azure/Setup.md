@@ -37,18 +37,18 @@ Some useful extensions:
 ***A learn On Demand key would have been given to you either by email or from the instructor***
 
 - Go to [Learn On Demand](https://ddls.learnondemand.net)
-- If this is the first time you have used LearOnDemand
+- If this is the first time you have used ddls.learnondemand.net
   - Click `Register with Training Key`  
-  - Use the LearnOnDemand training key you received in an email from DDLS staff or from your trainer
+  - Use the LearnOnDemand key you received in an email from DDLS staff or from your trainer
   - Fill in your registration details
-  - Find your account details and take note of your username (if you do not you will not be able to login)
-- If you have have an account with ddls.leanondemand.net
+  - Find your account details and take note of your username (**if you do not, you will not be able to login**)
+- If you have have an account with ddls.learnondemand.net already
   - Click `Sign In`
   - Use your existing username and password
   - Click `Redeem Training Key`
   - Enter the LearnOnDemand key you received in an email from DDLS staff or from your trainer
 - Click the *course name* 
-- In the Activities section you will find your labs
+- In the Activities section, you will find your labs
   
 
 ## Email Address 📧
