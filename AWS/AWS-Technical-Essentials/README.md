@@ -4,6 +4,7 @@
 
 * [Courseware at eVantage by Gilmore Global](https://evantage.gilmoreglobal.com/#/user/signin)
 * [Qwiklabs](https://ddls.qwiklabs.com/)
+* [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 ## Course Timing
 
