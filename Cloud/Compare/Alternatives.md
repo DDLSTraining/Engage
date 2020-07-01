@@ -18,6 +18,7 @@ You also have alternatives if you do not need global scale.
 * [Heroku](https://www.heroku.com/)
 * [Hetzner](https://www.hetzner.com/)
 * [HostHatch](https://hosthatch.com/)
+* [Lightsail](https://aws.amazon.com/lightsail/)
 * [Linode](https://www.linode.com/)
 * [LowEndBox](https://lowendbox.com/)
 * [Netlify](https://www.netlify.com/)
