@@ -6,9 +6,13 @@
 * [Qwiklabs](https://ddls.qwiklabs.com/)
 * [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-## References
+## Resources
 
+* [AWS Cloud Products](https://aws.amazon.com/products/)
+* [AWS Pricing Calculator](https://calculator.aws/#/)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+* [AWS Architecture Center](https://aws.amazon.com/architecture/)
+* [AWS Quick Starts](https://aws.amazon.com/quickstart/) ([GitHub](https://github.com/aws-quickstart/))
 
 ## Course Timing
 
