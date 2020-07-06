@@ -20,6 +20,9 @@
 * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
 * [SecCon Framework](https://github.com/microsoft/SecCon-Framework)
 * [Out of Hours - Intune Stuff](https://oofhours.com/category/microsoft-intune/)
+* [Eliminate weak passwords on-premises](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad-on-premises)
+* [Eliminate weak passwords in the cloud](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad)
+
 
 
 
