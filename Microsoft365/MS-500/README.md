@@ -22,7 +22,7 @@
 * [Out of Hours - Intune Stuff](https://oofhours.com/category/microsoft-intune/)
 * [Eliminate weak passwords on-premises](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad-on-premises)
 * [Eliminate weak passwords in the cloud](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad)
-
+* [Enabling Sensitvity Labels](https://docs.microsoft.com/en-au/azure/active-directory/users-groups-roles/groups-assign-sensitivity-labels)
 
 
 
