@@ -177,7 +177,8 @@
 * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
 * [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
 * [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
- 
+* [Azure Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
+* [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
 
 ## Timing
 
