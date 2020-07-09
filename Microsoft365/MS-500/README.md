@@ -24,8 +24,8 @@
 * [Eliminate weak passwords in the cloud](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad)
 * [Enabling Sensitvity Labels](https://docs.microsoft.com/en-au/azure/active-directory/users-groups-roles/groups-assign-sensitivity-labels)
 * [The Office 365 ATP Recommended Configuration Analyzer (ORCA)](https://github.com/cammurray/orca)
-* [Custom Sensitive Information Types[(https://joannecklein.com/2018/08/07/build-and-use-custom-sensitive-information-types-in-office-365/)
-* [SharePoint Content Types in DLP[(https://joannecklein.com/2018/01/25/a-sharepoint-content-type-dlp-policy/)
+* [Custom Sensitive Information Types](https://joannecklein.com/2018/08/07/build-and-use-custom-sensitive-information-types-in-office-365/)
+* [SharePoint Content Types in DLP](https://joannecklein.com/2018/01/25/a-sharepoint-content-type-dlp-policy/)
 
 
 ## Hands-On Labs
