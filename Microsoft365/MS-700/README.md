@@ -8,6 +8,7 @@
   * [Limitations in Teams](https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams)
   * [Managing MS Teams](https://github.com/MicrosoftLearning/MS-700-Managing-Microsoft-Teams)
   * [QoS for Teams](https://docs.microsoft.com/en-us/microsoftteams/qos-in-teams-clients)
+  * [DSCP Values -Cisco](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus1000/sw/4_0_4_s_v_1_3/qos/configuration/guide/n1000v_qos/n1000v_qos_6dscpval.html)
   * [Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/)
   * [Microsoft Teams Docs](https://docs.microsoft.com/en-us/MicrosoftTeams/itadmin-readiness)
   * [Teams Academy](Https://aka.ms/teamsacademy)
