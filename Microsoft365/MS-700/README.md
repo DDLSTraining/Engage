@@ -21,6 +21,8 @@
   * [Auto attendant migration to cloud](https://docs.microsoft.com/en-us/skypeforbusiness/plan/exchange-unified-messaging-online-migration-support#auto-attendant-migration-guidelines)
   * [Teams Storage](https://docs.microsoft.com/en-us/microsoftteams/location-of-data-in-teams)
   * [VoiceMail Hybrid](https://docs.microsoft.com/en-us/microsoftteams/set-up-phone-system-voicemail)
+  * [Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/with-office-365)
+  * [Teams Room Requirements](https://docs.microsoft.com/en-us/microsoftteams/rooms/with-office-365)
 
   
 ## Videos
