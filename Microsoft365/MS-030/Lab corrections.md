@@ -1,11 +1,12 @@
-MS-030 Lab Issues
+# MS-030 Lab Issues
 
-Pays to UpDate Edge with Chrome engine or install Chrome on VM CLIs
+It pays to Update Edge with Chrome engine or install Chrome on VM CLIs
 
-PreLiminary Lab - Step 4 may fail (ignore)
+## PreLiminary Lab - 
+Step 4 may fail (ignore)
 Step 9 If DNS Registration Fails - restart OS
 
-Mod 1
+## Mod 1
 Step 27 should juts be Host name (or domain will be added twice)
 Task 2 - Step 2 Choose Skip This Step on Add other Records - (Under More options)
 
