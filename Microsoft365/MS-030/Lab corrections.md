@@ -84,6 +84,13 @@ __Step 4__ the Powershell command has 361 not 365 in the text
 __Step 7__ use change PShell to read admin@M365x....
 __Task 3 step 19__ - Use Discover Group - Search on Planning - then Join Group
 
+## Module 11:
+
+__Unified Labelling__ is the new way :-) this meant an extra step to get the PII label to work:
+
+Under Manage in the __Azure Information Protection__ click __Unified labeling__ then __Copy the policies__ and __Publish__
+
+
 ## Mod 12
 Some of the Reports are no longer available in Admin Centre. You can find euivalents in S&Compliance Centre un der Reports or Threat Management
 	
