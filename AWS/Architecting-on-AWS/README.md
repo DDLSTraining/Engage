@@ -14,6 +14,7 @@
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
 * [AWS Quick Starts](https://aws.amazon.com/quickstart/) ([GitHub](https://github.com/aws-quickstart/))
 * [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
+* [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 
 ## Course Timing
 
