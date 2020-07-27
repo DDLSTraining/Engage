@@ -1,4 +1,4 @@
-# Architecting on AWS Course v6.4
+# Architecting on AWS Course
 
 ## Module 1: Introduction
 
