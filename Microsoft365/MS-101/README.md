@@ -7,6 +7,7 @@
 * [MS-101 on DDLS](https://www.ddls.com.au/courses/microsoft/office-365/microsoft-ms-101t00-microsoft-365-mobility-and-security/)
 * [MS-101 Exam Details](https://www.microsoft.com/en-us/learning/exam-ms-101.aspx)
 * [Out of Hours - Intune Stuff](https://oofhours.com/category/microsoft-intune/)
+* [Common Passwords for Attack Simulator](https://github.com/jeanphorn/wordlist)
 
 ## Videos
 
