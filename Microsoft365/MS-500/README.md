@@ -32,6 +32,37 @@
 * [ArchivingAudit Logs](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-activity-logs-azure-monitor
 )
 
+## Videos
+
+* [Phishing](https://youtu.be/MCYC8kV1mmc)
+* [Secure Score](https://youtu.be/jzfpDJ9Kg-A)
+* [Secure score API (JSON)](https://youtu.be/vg3QKQWVD6Y)
+* [Advanced Threat Protection (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
+* [Windows defender Advanced Threat Protection](https://youtu.be/qxeGa3pxIwg)
+* [Advanced Threat Protection – Windows 10 etc](https://youtu.be/HkQZR9RBbPE)
+* [Microsft Graph](https://youtu.be/PI9NO5rayiY)
+* [Compliance Manager Demo](https://youtu.be/r1vs8NdSXKQ?list=PLXPr7gfUMmKyMW5RRW9kmLjX31OTwqhf5)
+* [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
+* [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
+* [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
+* [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
+* [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
+* [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
+* [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
+* [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
+* [Regular Expressions](https://youtu.be/sa-TUpSx1JA)
+* [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
+* [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
+* [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
+* [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
+* [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
+* [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
+* [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
+* [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
+* [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
+* [Azure Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
+* [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
+
 ## Hands-On Labs
 
 * [Advanced Threat Analytics](https://docs.microsoft.com/en-us/advanced-threat-analytics/install-ata-step1)
@@ -155,36 +186,6 @@
   * Task 7: Recover your data using the EFS DRA certificate in a test environment
   * Task 8: Configure enrollment restrictions
 
-## Videos
-
-* [Phishing](https://youtu.be/MCYC8kV1mmc)
-* [Secure Score](https://youtu.be/jzfpDJ9Kg-A)
-* [Secure score API (JSON)](https://youtu.be/vg3QKQWVD6Y)
-* [Advanced Threat Protection (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
-* [Windows defender Advanced Threat Protection](https://youtu.be/qxeGa3pxIwg)
-* [Advanced Threat Protection – Windows 10 etc](https://youtu.be/HkQZR9RBbPE)
-* [Microsft Graph](https://youtu.be/PI9NO5rayiY)
-* [Compliance Manager Demo](https://youtu.be/r1vs8NdSXKQ?list=PLXPr7gfUMmKyMW5RRW9kmLjX31OTwqhf5)
-* [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
-* [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
-* [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
-* [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
-* [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
-* [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
-* [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
-* [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
-* [Regular Expressions](https://youtu.be/sa-TUpSx1JA)
-* [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
-* [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
-* [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
-* [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
-* [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
-* [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
-* [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
-* [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
-* [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
-* [Azure Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
-* [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
 
 ## Timing
 
