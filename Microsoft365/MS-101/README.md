@@ -12,6 +12,12 @@
 * [The Office 365 ATP Recommended Configuration Analyzer (ORCA)](https://github.com/cammurray/orca)
 * [Custom Sensitive Information Types](https://joannecklein.com/2018/08/07/build-and-use-custom-sensitive-information-types-in-office-365/)
 * [SharePoint Content Types in DLP](https://joannecklein.com/2018/01/25/a-sharepoint-content-type-dlp-policy/)
+* [Cloud App Security Docs](https://docs.microsoft.com/en-us/cloud-app-security/)
+* [Regular Expressions for Sensitive Info Types](https://regex101.com/)
+* [Insider Risks](https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management-policies?view=o365-worldwide)
+* [Eliminate weak passwords on-premises](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad-on-premises)
+* [Eliminate weak passwords in the cloud](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad)
+
 
 ## Videos
 
