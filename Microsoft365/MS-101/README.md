@@ -46,6 +46,11 @@
 * [Azure Analytics](https://youtu.be/T2Vpi6ph8ck)
 * [Windows Analytics](https://youtu.be/4Kb78NmfV6E)
 * [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
+* [Regular Expressions](https://youtu.be/sa-TUpSx1JA)
+* [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
+* [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
+* [Azure Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
+* [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
 
 ## Timing
 ## This is now a 5 day course originally taken from three separate courses:
