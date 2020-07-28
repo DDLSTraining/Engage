@@ -53,7 +53,7 @@
 * [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
 
 ## Timing
-## This is now a 5 day course originally taken from three separate courses:
+## This is now a 4 day course originally taken from three separate courses:
 ## MS-101T01 
 * Microsoft 365 Security Management 
 ## MS-101T02 
