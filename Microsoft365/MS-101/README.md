@@ -37,6 +37,7 @@
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
 * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
 * [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
+* [Transfer Config Manager WorkLoads to Intune](How to Setup SCCM Co-Management to Offload 4 Workloads to Intune Co-Management Configuration Wizard)
 * [Windows AutoPilot](https://youtu.be/4K4hC5NchbE)
 * [Windows AutoPilot through Business Store](https://www.microsoft.com/en-us/videoplayer/embed/3b30f2c2-a3e2-4778-aa92-f65dbc3ecf54?autoplay=false)
 * [Co-Management](https://youtu.be/0jsNNrQNqog)
