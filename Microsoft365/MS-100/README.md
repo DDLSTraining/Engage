@@ -29,7 +29,7 @@
   * [Study Guide](https://www.skylinesacademy.com/ms100-m365-ultimate-study-guide)
   * [Exam MS Video](https://youtu.be/SgC52GxZRLs)
 ## Resources
-  
+   * [Portals](https://docs.microsoft.com/en-us/learn/modules/explore-portals/)
    * [Call Quality Dashboard Paramters](https://docs.microsoft.com/en-us/microsoftteams/dimensions-and-measures-available-in-call-quality-dashboard#measurements
 )
    
