@@ -13,6 +13,7 @@
 * [JSON Schema](https://json-schema.org/)
 * [Swagger](https://swagger.io/)
 * [Swagger Open Source Tools](https://swagger.io/tools/open-source/)
+* [gRPC](https://grpc.io/) - Universal RPC Framework
 
 ## Timing
 
