@@ -4,6 +4,11 @@
 * [DDLS Website](https://www.ddls.com.au/courses/google/cloud/architecting-with-google-cloud-platform-design-and-process/)
 * [DDLS Qwiklabs](https://ddls.qwiklabs.com)
 
+## Resources
+
+* [Google API Design Guide](https://cloud.google.com/apis/design)
+* [API Stylebook](http://apistylebook.com/) - [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
+
 ## Timing
 
 ### Day One
