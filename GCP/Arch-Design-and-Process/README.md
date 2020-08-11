@@ -14,6 +14,8 @@
 * [Swagger](https://swagger.io/)
 * [Swagger Open Source Tools](https://swagger.io/tools/open-source/)
 * [gRPC](https://grpc.io/) - Universal RPC Framework
+* [Google Cloud Build official builder images](https://github.com/GoogleCloudPlatform/cloud-builders)
+* [Kritis: Deployment Authorization for Kubernetes Applications](https://github.com/grafeas/kritis/blob/master/docs/binary-authorization.md)
 
 ## Timing
 
