@@ -22,13 +22,31 @@
 |Module|Activity|Duration|
 |-|-|-|
 |0|Course Intro|45|
+||Introductions||
+||Course Overview||
 ||Activity 1: Defining your case study||
 |1|Defining Services|75|
+||Requirements, Analysis, and Design||
 ||Activity 2: Analyzing your case study||
+||SLOs, SLIs, and SLAs||
 ||Activity 3: Defining SLIs and SLOs||
 |2|Microservices Design and Architecture|120|
+||Microservices||
+||Microservices Best Practices||
+||Activity 4: Design microservices for your application||
+||Lunch||
+||REST||
+||APIs||
+||Activity 5: Designing REST APIs||
 |3|DevOps Automation|75|
+||Continuous Integration Pipelines||
+||Infrastructure as Code||
+||Lab: Building a DevOps Pipeline||
 |4|Choosing Storage and Data Solutions|75|
+||Key Storage Characteristics||
+||Activity 6: Defining storage characteristics||
+||Choosing Google Cloud Storage and Data Solutions||
+||Activity 7: Choosing Google Cloud storage and data services||
 
 
 ### Day Two
