@@ -8,6 +8,11 @@
 
 * [Google API Design Guide](https://cloud.google.com/apis/design)
 * [API Stylebook](http://apistylebook.com/) - [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
+* [OpenAPI Initiative](https://www.openapis.org/)
+* [GitHub: The OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification)
+* [JSON Schema](https://json-schema.org/)
+* [Swagger](https://swagger.io/)
+* [Swagger Open Source Tools](https://swagger.io/tools/open-source/)
 
 ## Timing
 
