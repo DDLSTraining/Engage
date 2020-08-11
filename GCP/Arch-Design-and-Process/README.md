@@ -34,7 +34,7 @@
 ||Microservices||
 ||Microservices Best Practices||
 ||Activity 4: Design microservices for your application||
-||Lunch||
+|Lunch|||
 ||REST||
 ||APIs||
 ||Activity 5: Designing REST APIs||
@@ -51,24 +51,35 @@
 
 ### Day Two
 
-|Start|End|Duration|Module|Activity|
-|-----|---|--------|------|--------|
-|9:00|9:50|0:50|04|Deployment Manager - Adding Load Balancing|
-|9:50|10:50|1:00|05|Design for resiliency, scalability, and disaster recovery|
-|10:50|11:05|0:15||MORNING BREAK|
-|11:05|11:25|0:20||Photo service: Out of service!|
-|11:25|11:40|0:15||Design Challenge #4 - Redesign for time|
-|11:40|12:40|1:00||LUNCH|
-|12:40|13:25|0:45|06|Design for security|
-|13:25|13:55|0:30||Photo service: Intentional attack|
-|13:55|14:25|0:30||Design Challenge #5 - Defense in depth|
-|14:25|14:40|0:15||AFTERNOON BREAK|
-|14:40|15:10|0:30|07|Capacity planning and cost optimization|
-|15:10|15:25|0:15||Photo service: Cost and capacity|
-|15:25|15:40|0:15||Design Challenge #6 - Dimensioning|
-|15:40|16:10|0:30|08|Deployment, monitoring and alerting, and incident response|
-|16:10|16:25|0:15||Photo service: Stabilization and operation|
-|16:25|16:40|0:15||Design Challenge #7 - Monitoring and alerting|
-|16:25|17:00|0:35||Deployment Manager - Full Production + (Stackdriver)|
-|17:00|17:10|0:10|09|Completion|
-
+|Module|Activity|Duration|
+|-|-|-|
+|5|Google Cloud and Hybrid Network Architecture|90|
+||Designing Google Cloud Networks||
+||Activity 8: Defining network characteristics||
+||Connecting Networks||
+||Activity 9: Diagramming your network||
+|6|Deploying Applications to Google Cloud|90|
+||Google Cloud Infrastructure as a Service||
+||Google Cloud Deployment Platforms||
+||Lab: Deploying Apps to Google Cloud||
+|Lunch|||
+|7|Designing Reliable Systems|90|
+||Key Performance Metrics||
+||Designing for Reliability||
+||Activity 10: Designing Reliable, Scalable Applications||
+||Disaster Planning||
+||Activity 11: Disaster planning||
+|8|Security|60|
+||Security Concepts||
+||Securing People||
+||Securing Machine Access||
+||Network Security||
+||Encryption||
+||Activity 12: Modeling Secure Google Cloud Services||
+|9|Maintenance and Monitoring|90|
+||Managing Versions||
+||Cost Planning||
+||Stackdriver Dashboards||
+||Activity 13: Cost estimating and planning||
+||Student Presentations||
+||Lab: Monitoring Applications in Google Cloud||
