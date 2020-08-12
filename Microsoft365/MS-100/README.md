@@ -24,6 +24,7 @@
   * [Microsoft Planner](https://youtu.be/65rMRZ_FH_U?t=512)
   * [Troubleshooting Teams - Qos](https://youtu.be/65rMRZ_FH_U?t=258)
   * [User Experience Skype Upgrade options](https://youtu.be/0COYetLjWmE)
+  * [Windows Anaytics](https://youtu.be/xiRb8T4ohFc)
  
 
 ## Extra Reading
