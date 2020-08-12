@@ -1,5 +1,6 @@
 # Cloud News
 
+* [2020-08-10: Gartner Says Worldwide IaaS Public Cloud Services Market Grew 37.3% in 2019](https://www.gartner.com/en/newsroom/press-releases/2020-08-10-gartner-says-worldwide-iaas-public-cloud-services-market-grew-37-point-3-percent-in-2019)
 * [2020-08-07: Multi-Cloud is the Worst Practice](https://www.lastweekinaws.com/blog/multi-cloud-is-the-worst-practice/)
 * [2019-12-17: What's been the one open source project this year that has completely changed the way you work?](https://twitter.com/mattiasgeniar/status/1206316914789756928?s=09)
 * [2019-11-14: The Front-End Tooling Survey 2019 - Results](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results)
