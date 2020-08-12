@@ -13,6 +13,7 @@
   * [Teams Storage](https://docs.microsoft.com/en-us/microsoftteams/location-of-data-in-teams)
   * [Teams Storage Diagram](https://docs.microsoft.com/en-au/learn/m365/m365-teams-collab-prepare-deployment/media/logical-architecture.png)
   * [VoiceMail Hybrid](https://docs.microsoft.com/en-us/microsoftteams/set-up-phone-system-voicemail)
+  * [Deny Permission "Add, change, or delete HTML pages or Web Part Pages, and edit the Web site using a Microsoft SharePoint Foundation-compatible editor"](https://answers.microsoft.com/en-us/msoffice/forum/all/deny-permission-add-change-or-delete-html-pages-or/5846e332-5bcb-417a-99d3-c5d66dc54075)
   
 ## Videos
   * [Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&feature=youtu.be&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=1356)
