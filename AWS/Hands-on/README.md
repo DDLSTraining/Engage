@@ -15,6 +15,7 @@ Find in this directory extra hands-on you can do to expand your knowledge of AWS
 
 ## Lambda
 
+* [Build a Serverless Web Application](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
 * [Building serverless web applications on AWS without API Gateway](https://www.cloudreach.com/en/insights/blog/building-serverless-web-applications-on-aws-without-api-gateway/)
 
 ## Developing on AWS
