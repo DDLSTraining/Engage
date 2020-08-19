@@ -9,36 +9,35 @@
 
 ## Resources
 
+* [AWS Cloud Security](https://aws.amazon.com/security/)
 * [AWS Cloud Products](https://aws.amazon.com/products/)
 * [AWS Pricing Calculator](https://calculator.aws/#/)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
-* [AWS Quick Starts](https://aws.amazon.com/quickstart/) ([GitHub](https://github.com/aws-quickstart/))
-* [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
-* [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
+* [Security and Compliance - Whitepapers](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-and-compliance.html)
 
 ## Modules
 
-* Security on AWS
+1. Security on AWS
   * Security design principles
   * Shared responsibility model
-* Security of the Cloud
+2. Security of the Cloud
   * AWS Global Infrastructure
   * Data center security
   * Compliance and governance
-* Security in the Cloud – Part 1
+3. Security in the Cloud – Part 1
   * Identity and access management
   * Data protection essentials
   * **Lab 1** – Introduction to Security Policies
-* Security in the Cloud – Part 2
+4. Security in the Cloud – Part 2
   * Securing your infrastructure
   * Monitoring and detective controls
   * **Lab 2** – Securing VPC Resources withSecurity Groups
-* Security in the Cloud – Part 3
+5. Security in the Cloud – Part 3
   * DDoS mitigation
   * Incident response essentials
   * **Lab 3** – Remediating Issues with AWS Config
-* Course Wrap-Up
+6. Course Wrap-Up
   * AWS Well-Architected Tool
   * Next steps
 
