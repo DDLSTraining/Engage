@@ -18,26 +18,26 @@
 
 ## Modules
 
-1. Security on AWS
+* Security on AWS
   * Security design principles
   * Shared responsibility model
-2. Security of the Cloud
+* Security of the Cloud
   * AWS Global Infrastructure
   * Data center security
   * Compliance and governance
-3. Security in the Cloud – Part 1
+* Security in the Cloud – Part 1
   * Identity and access management
   * Data protection essentials
   * **Lab 1** – Introduction to Security Policies
-4. Security in the Cloud – Part 2
+* Security in the Cloud – Part 2
   * Securing your infrastructure
   * Monitoring and detective controls
   * **Lab 2** – Securing VPC Resources withSecurity Groups
-5. Security in the Cloud – Part 3
+* Security in the Cloud – Part 3
   * DDoS mitigation
   * Incident response essentials
   * **Lab 3** – Remediating Issues with AWS Config
-6. Course Wrap-Up
+* Course Wrap-Up
   * AWS Well-Architected Tool
   * Next steps
 
