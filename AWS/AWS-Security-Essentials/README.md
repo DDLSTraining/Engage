@@ -10,6 +10,7 @@
 ## Resources
 
 * [AWS Cloud Security](https://aws.amazon.com/security/)
+* [AWS Compliance Programs](https://aws.amazon.com/compliance/programs/)
 * [AWS Cloud Products](https://aws.amazon.com/products/)
 * [AWS Pricing Calculator](https://calculator.aws/#/)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
