@@ -11,6 +11,7 @@
 
 * [AWS Cloud Security](https://aws.amazon.com/security/)
 * [AWS Compliance Programs](https://aws.amazon.com/compliance/programs/)
+* [AWS Compliance Centre](https://www.atlas.aws/)
 * [AWS Cloud Products](https://aws.amazon.com/products/)
 * [AWS Pricing Calculator](https://calculator.aws/#/)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
