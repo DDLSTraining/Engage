@@ -43,9 +43,9 @@
 
 ### Day Three
 
-Module 6: Building Resilient Architectures
-Part A: Understanding and mitigating DDoS Attacks with AWS
-Lab 4: CloudFront Content Delivery and Automating AWS WAF Rules 
-Part B: High availability for Databases on Amazon EC2 and handling scaling constraints 
-Module 7: Encryption and security of data
-Lab 5: AWS Key Management Service (KMS) with Envelope Encryption
+* Module 6: Building Resilient Architectures
+  * Part A: Understanding and mitigating DDoS Attacks with AWS
+    * Lab 4: CloudFront Content Delivery and Automating AWS WAF Rules 
+  * Part B: High availability for Databases on Amazon EC2 and handling scaling constraints 
+* Module 7: Encryption and security of data
+  * Lab 5: AWS Key Management Service (KMS) with Envelope Encryption
