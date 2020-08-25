@@ -17,22 +17,35 @@
 * [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
 * [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 
-## Course Timing
+## Course Layout
 
-## Day One
+### Day One
 
-|Module|Activity|Duration|
-|-|-|-|
-|0||0|
+* Module 0: Architecting on AWS - Review
+* Module 1: AWS account management
+* Module 2: Advanced network architectures
+  * Part A: Network throughput, HPC, and VPN
+    * Lab 1: Multi-VPC connectivity using a VPN
+  * Part B: AWS Direct Connect and DNS resolution with on-premises and global transit networks 
+* Module 3: Deployment management on AWS
+* Exercise 1: Design a hybrid architecture
 
-## Day Two
+### Day Two
 
-|Module|Activity|Duration|
-|-|-|-|
-|0||0|
+* Module 4: Data
+  * Part A: Designing large data stores on AWS
+    * Lab 2: Build a failover solution with Amazon Route 53
+  * Part B: Migrating large data stores into AWS
+  * Part C: Big data architectures on AWS
+* Module 5: Designing for large scale applications
+  * Lab 3: Blue-green deployment with AWS Elastic Beanstalk
+* Exercise 2: All-in multi-region architectures
 
-## Day Three
+### Day Three
 
-|Module|Activity|Duration|
-|-|-|-|
-|0||0|
+Module 6: Building Resilient Architectures
+Part A: Understanding and mitigating DDoS Attacks with AWS
+Lab 4: CloudFront Content Delivery and Automating AWS WAF Rules 
+Part B: High availability for Databases on Amazon EC2 and handling scaling constraints 
+Module 7: Encryption and security of data
+Lab 5: AWS Key Management Service (KMS) with Envelope Encryption
