@@ -2,10 +2,13 @@
 
 With this course you will gain an overall understanding of AWS Cloud, independent of specific technical roles. It provides a detailed overview of cloud concepts, AWS services, security, architecture, pricing, and support. This course also helps you prepare for the AWS Certified Cloud Practitioner exam.
 
-* [AWS Cloud Practitioner Essentials Course on DDLS](https://www.ddls.com.au/courses/aws/foundational/aws-cloud-practitioner-essentials/)
-* [AWS Cloud Practitioner Essentials Course on AWS](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials-classroom/)
+Class Requirements:
 * [Courseware by eVantage](https://evantage.gilmoreglobal.com/)
 * [Labs by Qwiklabs](https://ddls.qwiklabs.com/)
+
+Course References:
+* [AWS Cloud Practitioner Essentials Course on DDLS](https://www.ddls.com.au/courses/aws/foundational/aws-cloud-practitioner-essentials/)
+* [AWS Cloud Practitioner Essentials Course on AWS](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials-classroom/)
 * [Exam: AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 ## Resources
