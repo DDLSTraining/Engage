@@ -18,4 +18,7 @@
 * [gRPC](https://grpc.io/) - Universal RPC Framework
 * [Google Cloud Build official builder images](https://github.com/GoogleCloudPlatform/cloud-builders)
 * [Kritis: Deployment Authorization for Kubernetes Applications](https://github.com/grafeas/kritis/blob/master/docs/binary-authorization.md)
-
+* [Kelsey Hightower (Monolithic)](https://twitter.com/search?pf=on&q=%28monolithic%20OR%20monoliths%20OR%20monolith%29%20%28from%3Akelseyhightower%29)
+* [Authenticating service-to-service calls with Google Cloud Endpoints](https://www.youtube.com/watch?v=4PgX3yBJEyw)
+* [DevOps](https://cloud.google.com/devops/)
+* [Getting started with Terraform on Google Cloud](https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform)
