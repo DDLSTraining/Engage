@@ -47,8 +47,12 @@ Some useful extensions:
   - Use your existing username and password
   - Click `Redeem Training Key`
   - Enter the LearnOnDemand key you received in an email from DDLS staff or from your trainer
-- Click the *course name* 
-- In the Activities section, you will find your labs
+- Once you have redeemed your code
+  - Click on My Training
+  - Click the *course name*
+  - ***Make sure you view and agree to the Licence agreement*** 
+    - Otherwise you will not be able to launch the lab machines
+  - In the Activities section, you will find your labs
   
 
 ## Email Address 📧
