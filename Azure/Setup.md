@@ -41,7 +41,7 @@ Some useful extensions:
   - Click `Register with Training Key`  
   - Use the LearnOnDemand key you received in an email from DDLS staff or from your trainer
   - Fill in your registration details
-  - You will be asked to create your own Login ID ***Do not forget this as it is needed to access the VMs***
+  - You will be asked to create your own Login ID. ***(Do not forget this as it is needed to access the VMs)***
 - If you have have an account with ddls.learnondemand.net already
   - Click `Sign In`
   - Use your existing username and password
