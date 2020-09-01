@@ -19,12 +19,23 @@ Upgrade Firefox ([why use Firefox?](/Internet/Firefox.md)). If you haven't used 
 1. Click `Restart to Upgrade`.
 1. Once upgraded, use the `Customize...` menu options to restore defaults.
 
-Some useful extensions:
+### Some useful extensions:
 
 * [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) - Show tabs like a tree.
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - Finally, an efficient blocker. Easy on CPU and memory.
 * [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) - Enlarge thumbnails, and show images/videos from links with a mouse hover.
 * [Octotree](https://addons.mozilla.org/en-US/firefox/addon/octotree/) - Add-on to display GitHub code in tree format.
+
+## Record your login details for access to course resources
+
+......Course Resources....... | ..........Username......... | ...........Password............
+---|---|---
+Skillpipe||
+LearnOnDemand||
+Outlook.com||
+
+- Use something like this table to record the credentials you will be building in the next few setup steps.
+- Because there are so many different resources you will use in the Azure courses its important to save these credentials
 
 ## Courseware
 
