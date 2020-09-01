@@ -4,7 +4,7 @@
 
 * [Courseware at eVantage by Gilmore Global](https://evantage.gilmoreglobal.com/#/user/signin)
 * [Qwiklabs](https://ddls.qwiklabs.com/)
-* [Solutions for All Labs - Developing on AWS v3.1](https://aws-tc-largeobjects.s3.amazonaws.com/AWS-100-DEV/v3.1/fullCodeForAllLabs.html)
+* [Solutions for All Labs - Developing on AWS](https://aws-tc-largeobjects.s3.amazonaws.com/AWS-100-DEV/v3.1/fullCodeForAllLabs.html)
 * [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
 
 ## Resources
