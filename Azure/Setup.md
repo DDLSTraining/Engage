@@ -28,9 +28,9 @@ Upgrade Firefox ([why use Firefox?](/Internet/Firefox.md)). If you haven't used 
 
 ## Record your login details for access to course resources
 
-......Course Resources....... | ..........Username......... | ...........Password............
+Course Resources| Username| Password
 ---|---|---
-Skillpipe||
+Skillpipe|<img width=200/>|<img width=200/>
 LearnOnDemand||
 Outlook.com||
 
