@@ -29,7 +29,7 @@ Some useful extensions:
 ## Courseware
 
 1. Go to [Skillpipe](https://skillpipe.com/).
-1. Register or login to your account. (When registering, a personal email address is preferred, try to avoid work email addresses)
+1. Register or login to your account. **(When registering, your own personal email address is preferred, try to avoid work email addresses)**
 1. Select `Add a Course` and use the **skillpipe code** given to you by a DDLS email or in some cases from the instructor.
 
 ## Learn on Demand Labs  (Optional - Ask instructor if this is needed)
@@ -40,7 +40,7 @@ Some useful extensions:
 - If this is the first time you have used ddls.learnondemand.net
   - Click `Register with Training Key`  
   - Use the LearnOnDemand key you received in an email from DDLS staff or from your trainer
-  - Fill in your registration details
+  - Fill in your registration details **(When registering, your own personal email address is preferred)**
   - You will be asked to create your own Login ID. ***(Do not forget this as it is needed to access the VMs)***
 - If you have have an account with ddls.learnondemand.net already
   - Click `Sign In`
@@ -51,7 +51,7 @@ Some useful extensions:
   - Click on My Training
   - Click the *course name*
   - ***Make sure you view and agree to the Licence agreement*** 
-    - Otherwise you will not be able to launch the lab machines
+    - Otherwise **you will not** be able to launch the lab machines
   - In the Activities section, you will find your labs
   
 
@@ -60,9 +60,9 @@ Some useful extensions:
 __Do not use your existing Microsoft accounts to work with the labs!__
 
 1. Create a throw away email for use in Azure.
-1. DO NOT USE YOUR EXISTING MICROSOFT ACCOUNTS.
+1. **DO NOT USE YOUR EXISTING MICROSOFT ACCOUNTS.**
 1. Open [Outlook.com](https://outlook.live.com/owa/).
-1. Create a new `Outlook.com` account. Use your last name with the date eg: lastname20180618@outlook.com
+1. Create a new `Outlook.com` account. For Example, use your last name with the date eg: lastname20180618@outlook.com
 
 ## Azure Account ⚿
 
@@ -71,10 +71,13 @@ To create an Azure subscription you need to prove you are a person and an adult.
 1. Use your new `outlook.com` email address in the following steps.
 1. DO NOT USE YOUR EXISTING MICROSOFT ACCOUNTS.
 1. Use one of the following to create a free Azure account (If you are on an Azure course use the [Azure Pass](https://www.microsoftazurepass.com/) option):
-   * Azure Pass: https://www.microsoftazurepass.com/
-   * Trial Account (Credit Card Required): https://azure.microsoft.com/en-us/free/
+   * Azure Pass: https://www.microsoftazurepass.com/ **Use this option for Azure Class**
+   * Trial Account (Credit Card Required): https://azure.microsoft.com/en-us/free/ 
 1. Follow the steps to create your Azure account.
-
+  - Click START on the webpage
+  - Verify your account
+  - Enter the AzurePass Code that was emailed to you
+  
 ## Bookmarks
 
 Add the following bookmarks to your browser:
