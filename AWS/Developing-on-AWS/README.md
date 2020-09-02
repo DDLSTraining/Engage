@@ -11,6 +11,8 @@
 
 * AWS X-Ray (Video): [Instrument Applications for AWS X-Ray](https://www.youtube.com/watch?v=JBOo2L4sqt8)
 * AWS CloudTrail (Video): [How can I use CloudTrail to review what API calls](https://www.youtube.com/watch?v=4ztTv5rIRv8)
+* [AWS Blog](https://aws.amazon.com/blogs/)
+* [What's New with AWS?](https://aws.amazon.com/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc)
 
 ## Course Timing
 
