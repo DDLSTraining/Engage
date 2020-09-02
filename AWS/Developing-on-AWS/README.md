@@ -4,8 +4,12 @@
 
 * [Courseware at eVantage by Gilmore Global](https://evantage.gilmoreglobal.com/#/user/signin)
 * [Qwiklabs](https://ddls.qwiklabs.com/)
-* [Solutions for All Labs - Developing on AWS](https://aws-tc-largeobjects.s3.amazonaws.com/AWS-100-DEV/v3.1/fullCodeForAllLabs.html)
 * [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
+
+### Lab Links
+
+* [Solutions for All Labs - Developing on AWS](https://aws-tc-largeobjects.s3.amazonaws.com/AWS-100-DEV/v3.1/fullCodeForAllLabs.html)
+* [Install Apache Maven on Amazon Linux](https://docs.aws.amazon.com/neptune/latest/userguide/iam-auth-connect-prerq.html)
 
 ## Resources
 
@@ -14,6 +18,8 @@
 * [AWS Blog](https://aws.amazon.com/blogs/)
 * [What's New with AWS?](https://aws.amazon.com/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc)
 * [AWS Config and Credentials file - Named Profiles](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)
+
+
 
 ## Course Timing
 
