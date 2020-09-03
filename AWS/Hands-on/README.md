@@ -24,5 +24,6 @@ Find in this directory extra hands-on you can do to expand your knowledge of AWS
 
 ## Developing on AWS
 
+* [Tutorial: Deploying a Hello World Application (SAM, API Gateway, Lambda)](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
 * [Getting Started with AWS X-Ray](https://docs.aws.amazon.com/xray/latest/devguide/xray-gettingstarted.html)
 * [DynamoDB Example Application Using AWS SDK for Python (Boto): Tic-Tac-Toe](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/TicTacToe.html)
