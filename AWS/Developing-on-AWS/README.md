@@ -18,8 +18,8 @@
 * [AWS Blog](https://aws.amazon.com/blogs/)
 * [What's New with AWS?](https://aws.amazon.com/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc)
 * [AWS Config and Credentials file - Named Profiles](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html)
-
-
+* [SAM - Serverless Application Model](https://aws.amazon.com/serverless/sam/)
+* [serverless.com - Serverless Application Framework](https://www.serverless.com/)
 
 ## Course Timing
 
