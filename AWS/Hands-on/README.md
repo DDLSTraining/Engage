@@ -21,9 +21,9 @@ Find in this directory extra hands-on you can do to expand your knowledge of AWS
 
 * [Build a Serverless Web Application](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
 * [Building serverless web applications on AWS without API Gateway](https://www.cloudreach.com/en/insights/blog/building-serverless-web-applications-on-aws-without-api-gateway/)
+* [Tutorial: Deploying a Hello World Application (SAM, API Gateway, Lambda)](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
 
 ## Developing on AWS
 
-* [Tutorial: Deploying a Hello World Application (SAM, API Gateway, Lambda)](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
 * [Getting Started with AWS X-Ray](https://docs.aws.amazon.com/xray/latest/devguide/xray-gettingstarted.html)
 * [DynamoDB Example Application Using AWS SDK for Python (Boto): Tic-Tac-Toe](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/TicTacToe.html)
