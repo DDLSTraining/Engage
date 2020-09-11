@@ -13,3 +13,8 @@
 
 * [OAuth 2.0 Debugger](https://oauthdebugger.com/)
 * [OpenID Connect Debugger](https://oidcdebugger.com/)
+
+## Open Policy Agent
+
+* [Open Policy Agent](https://www.openpolicyagent.org/)
+* [Open Policy Agent WebAssemby NPM Module](https://github.com/open-policy-agent/npm-opa-wasm)
