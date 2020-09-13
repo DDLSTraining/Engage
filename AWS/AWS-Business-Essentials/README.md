@@ -25,13 +25,9 @@ Course References:
 |0|Welcome|30|
 |1|Getting Started with the Cloud|30|
 |2a|Leveraging AWS for Competitive Advantages–Part 1: cloud computing framework|75|
-|2b|Leveraging AWS for Competitive Advantages–Parts 2,3, and 4: solutions of big data, mobile, and DR
-|45|
-
-|Workshop|/Group Discussions|30|
+|2b|Leveraging AWS for Competitive Advantages–Parts 2,3, and 4: solutions of big data, mobile, and DR|45|
+|Workshop|Group Discussions|30|
 |3|Cloud Economics|45|
-|Lab 2|Build a Web Server on Amazon EC2|30|
 |4|Security and Compliance|30|
 |5|Migrating to the Cloud|30|
-|Lab 3|Auditing Security with AWS Trusted Advisor|30|
 |Wrap-up|||
