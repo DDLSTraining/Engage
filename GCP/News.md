@@ -7,6 +7,7 @@
 
 ## News Articles
 
+* 2020-09-14: [Google says its carbon footprint is now zero](https://www.bbc.com/news/technology-54141899)
 * 2019-12-18: [Google Brass Set 2023 as Deadline to Beat Amazon, Microsoft in Cloud](https://www.theinformation.com/articles/google-brass-set-2023-as-deadline-to-beat-amazon-microsoft-in-cloud?utm_source=hackernews&utm_medium=unlock)
 * 2019-01-18: [Get Go-ing with Cloud Functions: Go 1.11 is now a supported language](https://cloud.google.com/blog/products/application-development/cloud-functions-go-1-11-is-now-a-supported-language)
 * 2018-07-27: [What a week! 105 announcements from Google Cloud Next '18](https://www.blog.google/products/google-cloud/100-plus-announcements-from-google-cloud-next-18/)
