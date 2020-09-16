@@ -1,6 +1,7 @@
 # AWS Virtual Private Cloud (VPC)
 
 * [A Day in the Life of a Billion Packets (CPN401) | AWS re:Invent 2013](https://www.youtube.com/watch?v=Zd5hsL-JNY4)
+* [Another Day, Another Billion Packets (NET401) | AWS re:Invent 2016](https://www.youtube.com/watch?v=St3SE4LWhKo)
 
 [![VPC Security](https://docs.aws.amazon.com/vpc/latest/userguide/images/security-diagram.png)](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html)
 
