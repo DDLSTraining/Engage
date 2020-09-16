@@ -1,5 +1,6 @@
 # Azure Related News
 
+* [2020-09-16: Microsoft submits Linux kernel patches for a 'complete virtualization stack' with Linux and Hyper-V](https://www.theregister.com/2020/09/15/microsoft_submits_linux_kernel_patches/)
 * [2019-11-04: Use the power of cloud intelligence to simplify and accelerate IT and the move to a modern workplace](https://www.microsoft.com/en-us/microsoft-365/blog/2019/11/04/use-the-power-of-cloud-intelligence-to-simplify-and-accelerate-it-and-the-move-to-a-modern-workplace/)
 * [2019-11-04: (Video) Announcing Microsoft Endpoint Manager](https://www.youtube.com/watch?v=GS7oNPInFuw)
   * [New Microsoft Endpoint Manager To Combine SCCM and Intune](https://redmondmag.com/articles/2019/11/04/microsoft-endpoint-manager.aspx)
