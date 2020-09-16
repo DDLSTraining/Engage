@@ -32,3 +32,4 @@ Service Specific Content:
 ## Articles
 
 * [The good parts of AWS - A visual summary](https://hassenchaieb.com/aws-good-parts/)
+* [YouTube: AWS re: Invent ENT 205 - Drinking Our Own Champagne](https://www.youtube.com/watch?v=f45Uo5rw6YY)
