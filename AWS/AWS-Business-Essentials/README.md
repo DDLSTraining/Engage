@@ -13,6 +13,7 @@ Course References:
 
 * [AWS Cloud Products](https://aws.amazon.com/products/)
 * [AWS Pricing Calculator](https://calculator.aws/#/)
+* [AWS Cloud Economics Center](https://aws.amazon.com/economics/)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
 * [AWS Quick Starts](https://aws.amazon.com/quickstart/) ([GitHub](https://github.com/aws-quickstart/))
