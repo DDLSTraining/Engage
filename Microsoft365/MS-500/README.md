@@ -31,6 +31,8 @@
 * [SharePoint Content Types in DLP](https://joannecklein.com/2018/01/25/a-sharepoint-content-type-dlp-policy/)
 * [ArchivingAudit Logs](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-activity-logs-azure-monitor
 )
+* [Block Allow URLs in Safe Links- New](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/tenant-allow-block-list?view=o365-worldwide)
+
 
 ## Videos
 
@@ -61,6 +63,7 @@
 * [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
 * [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
 * [Azure Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
+* [Azure Sentinel Setup](https://youtu.be/Cyd16wVwxZc)
 * [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
 
 ## Hands-On Labs
