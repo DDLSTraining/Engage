@@ -4,7 +4,6 @@ This course explores the advantages of cloud computing for your business and the
 
 Class Requirements:
 * [Courseware by eVantage](https://evantage.gilmoreglobal.com/)
-* [Labs by Qwiklabs](https://ddls.qwiklabs.com/)
 
 Course References:
 * [AWS Business Essentials Course on DDLS](https://www.ddls.com.au/courses/aws/foundational/aws-business-essentials/)
