@@ -15,7 +15,8 @@
   * [VoiceMail Hybrid](https://docs.microsoft.com/en-us/microsoftteams/set-up-phone-system-voicemail)
   * [Deny Permission "Add, change, or delete HTML pages or Web Part Pages, and edit the Web site using a Microsoft SharePoint Foundation-compatible editor"](https://answers.microsoft.com/en-us/msoffice/forum/all/deny-permission-add-change-or-delete-html-pages-or/5846e332-5bcb-417a-99d3-c5d66dc54075)
   * [Workplace Analytics requirements]( https://docs.microsoft.com/en-us/workplace-analytics/setup/environment-requirements)
-  *[Workplace Analytics FAQ](https://docs.microsoft.com/en-us/workplace-analytics/use/faq)
+  * [Workplace Analytics FAQ](https://docs.microsoft.com/en-us/workplace-analytics/use/faq)
+  * [Workplace Analytics - MS Docs](https://docs.microsoft.com/en-us/workplace-analytics/)
   
 ## Videos
   * [Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&feature=youtu.be&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=1356)
@@ -28,6 +29,10 @@
   * [User Experience Skype Upgrade options](https://youtu.be/0COYetLjWmE)
   * [Workplace Analytics](https://youtu.be/xiRb8T4ohFc)
   * [Workplace Analytics - New Features](https://youtu.be/QZg2YLcYl-A)
+  * [Workplace Analytics -Setup](https://docs.microsoft.com/en-us/workplace-analytics/setup/set-up-workplace-analytics)
+  * [Worklace Analytics - Data Analysis](https://docs.microsoft.com/en-us/Workplace-Analytics/overview/get-started)
+  
+  
  
 
 ## Extra Reading
