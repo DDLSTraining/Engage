@@ -92,9 +92,9 @@ Prices are based on the following where applicable:
 
 |vCPU|RAM|[AWS EC2](https://aws.amazon.com/ec2/pricing/on-demand/)|Price|[Azure VM](https://azure.microsoft.com/en-au/pricing/details/virtual-machines/linux/#d-series)|Price|[GCP GCE](https://cloud.google.com/compute/all-pricing)|Price|
 |-|-|-|-|-|-|-|-|
-|2|8GB|t4g.large|$48.38|B2MS|$82.30|e2-standard-2|$48.24|
-|4|16GB|t4g.xlarge|$96.77|B4MS|$164.16|e2-standard-4|$96.49|
-|8|32GB|t4g.2xlarge|$193.54|B8MS|$329.26|e2-standard-8|$192.98|
+|2|8GB|t4g.large|$48.38|B2MS|$82.30|e2-standard-2|$68.45|
+|4|16GB|t4g.xlarge|$96.77|B4MS|$164.16|e2-standard-4|$136.91|
+|8|32GB|t4g.2xlarge|$193.54|B8MS|$329.26|e2-standard-8|$273.82|
 
 ### Functions (Lambda)
 
