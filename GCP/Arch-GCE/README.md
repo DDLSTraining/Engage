@@ -11,5 +11,6 @@
 * [Cloud SDK](https://cloud.google.com/sdk)
 * [Cloud DNS SLA](https://cloud.google.com/dns/sla)
 * [Pricing Calculator](https://cloud.google.com/products/calculator)
+* [Virtual Private Cloud (VPC)](https://cloud.google.com/vpc)
 * [VPC All Network Pricing](https://cloud.google.com/vpc/network-pricing)
 
