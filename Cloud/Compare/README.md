@@ -98,16 +98,16 @@ Prices are based on the following where applicable:
 
 ### Functions (Lambda)
 
-Last updated: 2019-09-10
+Last updated: 2020-09-23
 
 |Metric|[AWS](https://aws.amazon.com/lambda/pricing/)|[Azure](https://azure.microsoft.com/en-au/pricing/details/functions/)|[GCP](https://cloud.google.com/functions/pricing)|
 |-|-|-|-|
 |Free Invocations per Month|1M|1M|2M|
 |Million Invocations|$0.20|$0.275|$0.40|
 |Free Compute per Month in GB-Sec|400,000|400,000|400,000|
-|Million Compute GB-Sec|$16.66|$22.00|$2.50|
+|Million Compute GB-Sec|$16.66|$16.00|$3.50|
 |Free Network Egress per Month|1GB|5GB|5GB|
-|Network Egress per GB|$0.114|$0.165|$0.12|
+|Network Egress per GB|$0.114|$0.12|$0.12|
 
 ### Global Infrastructure
 
