@@ -80,7 +80,7 @@ _Most of the comparisons below will be from the vendors documentation and are no
 
 ### IaaS Compute Virtual Machines
 
-Last updated: 2019-09-10
+Last updated: 2020-09-23
 
 Prices are based on the following where applicable:
 
@@ -92,9 +92,9 @@ Prices are based on the following where applicable:
 
 |vCPU|RAM|[AWS EC2](https://aws.amazon.com/ec2/pricing/on-demand/)|Price|[Azure VM](https://azure.microsoft.com/en-au/pricing/details/virtual-machines/linux/#d-series)|Price|[GCP GCE](https://cloud.google.com/compute/all-pricing)|Price|
 |-|-|-|-|-|-|-|-|
-|2|8GB|t3a.large|$68.40|B2S|$52.9210|n1-standard-2|$68.90|
-|4|16GB|t3a.xlarge|$136.872|B4MS|$211.4832|n1-standard-4|$137.80|
-|8|32GB|t3a.2xlarge|$273.744|B8MS|$423.9687|n1-standard-8|$275.60|
+|2|8GB|t4g.large|$48.38|B2MS|$82.30|e2-standard-2|$48.24|
+|4|16GB|t4g.xlarge|$96.77|B4MS|$164.16|e2-standard-4|$96.49|
+|8|32GB|t4g.2xlarge|$193.54|B8MS|$329.26|e2-standard-8|$192.98|
 
 ### Functions (Lambda)
 
