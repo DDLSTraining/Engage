@@ -111,13 +111,13 @@ Last updated: 2020-09-23
 
 ### Global Infrastructure
 
-Last updated: 2019-09-10
+Last updated: 2020-09-23
 
 || [AWS](https://aws.amazon.com/about-aws/global-infrastructure/) | [Azure](https://azure.microsoft.com/en-au/global-infrastructure/regions/) | [GCP](https://cloud.google.com/about/locations/) |
 |---------|----|----|----|
-| Regions | 22 | 54 | 20 |
-| Zones   | 69 | 10 Regions with Zones | 61 |
-| Edge (CDN) |190 [CloudFront](https://aws.amazon.com/cloudfront/features/)| 129 [CDN](https://docs.microsoft.com/en-us/azure/cdn/cdn-pop-locations)|134 [Edge](https://cloud.google.com/about/locations/)|
+| Regions | 24 | 57 | 24 |
+| Zones   | 77 | 10 Regions with Zones | 73 |
+| Edge (CDN) |216 [CloudFront](https://aws.amazon.com/cloudfront/features/)| 170 [CDN](https://docs.microsoft.com/en-us/azure/cdn/cdn-pop-locations)|144 [Edge](https://cloud.google.com/about/locations/)|
 
 ### Kubernetes
 
