@@ -20,6 +20,7 @@
 * [Microsoft Docs - Intune Portal](https://docs.microsoft.com/en-us/intune/)
 * [Cloud App Security Docs](https://docs.microsoft.com/en-us/cloud-app-security/)
 * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
+* [Regular Expression More](https://regexone.com/)
 * [SecCon Framework](https://github.com/microsoft/SecCon-Framework)
 * [Out of Hours - Intune Stuff](https://oofhours.com/category/microsoft-intune/)
 * [Insider Risks](https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management-policies?view=o365-worldwide)
