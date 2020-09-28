@@ -8,7 +8,7 @@ Course Related:
 
 * [DDLS: Microsoft DP-100 – Designing and Implementing an Azure Data Science Solution](https://www.ddls.com.au/courses/microsoft/azure/microsoft-dp-100t01-designing-and-implementing-a-data-science-solution-on-azure/)
 * [DP-100 GitHub Repository (Lab files and instructions)](https://github.com/MicrosoftLearning/DP100)
-* [Skillpipe ](https://www.skillpipe.com)
+* [Courseware at Skillpipe ](https://www.skillpipe.com)
 * [Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist)
 * [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100)
 
