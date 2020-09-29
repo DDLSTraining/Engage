@@ -18,6 +18,10 @@ Tools:
 * [Azure Machine Learning Studio (classic)](https://studio.azureml.net/)
 * [Data Science Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/) - Comprehensive pre-configured virtual machines for data science.
 
+Reference:
+
+* [Create & use software environments in Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-environments)
+
 ### Documentation
 
 * [Azure Machine Learning documentation](https://docs.microsoft.com/en-us/azure/machine-learning/)
