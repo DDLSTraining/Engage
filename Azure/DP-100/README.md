@@ -11,6 +11,8 @@ Course Related:
 * [Courseware at Skillpipe ](https://www.skillpipe.com)
 * [Microsoft Certified: Azure Data Scientist Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist)
 * [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100)
+* [MeasureUp Practice Exam](https://www.measureup.com/catalogsearch/result/?q=dp-100)
+* [DDLS: Microsoft DP-200 – Implementing an Azure Data Solution](https://www.ddls.com.au/courses/microsoft/azure/microsoft-dp-200t01-implementing-an-azure-data-solution/)
 
 Tools:
 
@@ -56,7 +58,7 @@ Reference:
 |Start|Module|
 |-|-|
 |9:00|Review|
-|9:15|Module 4: Working with Data (continued)|
+|9:15|Module 4: Working with Data|
 |10:30|Break|
 |12:30|Lunch|
 |1:00|Module 5: Compute Contexts|
