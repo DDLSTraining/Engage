@@ -70,3 +70,5 @@ While all are managed database services, Redshift’s complexity incurs some use
 * If you have enterprise-level requirements suited to key-value databases, then you’ll obviously pick DynamoDB
 * For an enterprise-level relational database with serverless options, there’s Aurora
 * Which database you use depends on your needs, and most people use multiple databases
+
+[AWS Database use cases](https://aws.amazon.com/products/databases/)
