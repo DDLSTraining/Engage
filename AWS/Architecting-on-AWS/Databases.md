@@ -49,7 +49,7 @@ Can be charged under an on-demand or provisioned model like RDS but with some va
 ## Aurora
 Pricing falls under RDS’s when run as such. When run serverless, you’re charged by ACUs, (Aurora capacity units) which equal 2GB of memory and corresponding compute and network.
 
-##Conclusion
+## Conclusion
 Redshift is more expensive at its base rate and has additional pricing models for additional features. DynamoDB’s pricing is similar to RDS but reflects its differing functionality. Aurora is priced as RDS when run as RDS but differently when run serverless.
 
 # 4. Maintenance 
@@ -64,9 +64,9 @@ Maintenance is synonymous with RDS’s when run with RDS. When run serverless, t
 ## Conclusion
 While all are managed database services, Redshift’s complexity incurs some user maintenance costs. Dynamo DB’s doesn’t. Aurora can be run as a managed database or serverless, requiring very little maintenance.
  
-# Summary
-If you’re most interested in offloading the management costs of a relatively simple database — one with a max volume in the terabytes and standard queries — you’ll probably pick RDS
-	* If you have the time, financial resources, and the requirement to invest in and maintain a DB service to deal with complex queries and vast amounts of storage need, then Redshift is the one for you
-	* If you have enterprise-level requirements suited to key-value databases, then you’ll obviously pick DynamoDB
-	* For an enterprise-level relational database with serverless options, there’s Aurora
-	* Which database you use depends on your needs, and most people use multiple databases
+# Summary #
+* If you’re most interested in offloading the management costs of a relatively simple database — one with a max volume in the terabytes and standard queries — you’ll probably pick RDS
+* If you have the time, financial resources, and the requirement to invest in and maintain a DB service to deal with complex queries and vast amounts of storage need, then Redshift is the one for you
+* If you have enterprise-level requirements suited to key-value databases, then you’ll obviously pick DynamoDB
+* For an enterprise-level relational database with serverless options, there’s Aurora
+* Which database you use depends on your needs, and most people use multiple databases
