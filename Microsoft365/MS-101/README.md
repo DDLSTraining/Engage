@@ -52,6 +52,7 @@
 * [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
 * [Azure Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
 * [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
+* [Information Barriers](https://youtu.be/461LfU06RbA?t=416)
 
 ## Timing
 ## This is now a 4 day course originally taken from three separate courses:
