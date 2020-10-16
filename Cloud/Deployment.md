@@ -13,4 +13,5 @@ Infrastructure as code (IaC) is the process of managing and provisioning compute
 
 ## Resources
 
+* [Terraform at Scale — Modualized Hierachical Layout and Continuous Delivery of Infrastructure](https://medium.com/faun/terraform-at-scale-modualized-hierachical-layout-cb5dbe5a368d)
 * [Ansible vs Salt vs StackStorm](https://medium.com/@anthonypjshaw/ansible-v-s-salt-saltstack-v-s-stackstorm-3d8f57149368)
