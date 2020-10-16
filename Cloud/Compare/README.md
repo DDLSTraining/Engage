@@ -30,6 +30,7 @@ CochroachLabs have produced an in-depth technical performance analysis of their 
 
 ### Articles
 
+* 2020-05-28: [Static webhosting benchmark: AWS, Google, Firebase, Netlify, GitHub & Cloudflare](https://www.savjee.be/2020/05/benchmarking-static-website-hosting-providers/)
 * 2020-03-02: [Cloud Market Share – a Look at the Cloud Ecosystem in 2020](https://kinsta.com/blog/cloud-market-share/)
 * 2020-09-27: [Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI, IBM Watson](https://www.altexsoft.com/blog/datascience/comparing-machine-learning-as-a-service-amazon-microsoft-azure-google-cloud-ai-ibm-watson/)
 * 2019-07-29: [Gartner Says Worldwide IaaS Public Cloud Services Market Grew 31.3% in 2018 ](https://www.gartner.com/en/newsroom/press-releases/2019-07-29-gartner-says-worldwide-iaas-public-cloud-services-market-grew-31point3-percent-in-2018)
