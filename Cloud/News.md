@@ -3,6 +3,7 @@
 * [2020-10-12: Why the Serverless Revolution Has Stalled](https://www.infoq.com/articles/serverless-stalled/) - [Hacker News](https://news.ycombinator.com/item?id=24758772)
 * [2020-09-21: 7+1 Serverless Trends You Need to Know in 2020](https://codingsans.com/blog/serverless-trends)
 * [2020-08-07: Multi-Cloud is the Worst Practice](https://www.lastweekinaws.com/blog/multi-cloud-is-the-worst-practice/)
+* [2020-06-12: Trying Ansible alternatives in python](http://blog.rfox.eu/en/Explorations/Trying_Ansible_alternatives_in_python.html)
 * [2020-05-31: Containers from first principles](https://fzakaria.com/2020/05/31/containers-from-first-principles.html)
 * [2019-12-17: What's been the one open source project this year that has completely changed the way you work?](https://twitter.com/mattiasgeniar/status/1206316914789756928?s=09)
 * [2019-11-14: The Front-End Tooling Survey 2019 - Results](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results)
