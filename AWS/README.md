@@ -28,9 +28,3 @@ Service Specific Content:
 * [AWS This is My Architecture](https://aws.amazon.com/this-is-my-architecture/)
 * [AWS FAQs](https://aws.amazon.com/faqs/)
 * [Amazon's Machine Learning University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
-
-## Articles
-
-* [The good parts of AWS - A visual summary](https://hassenchaieb.com/aws-good-parts/)
-* [YouTube: AWS re: Invent ENT 205 - Drinking Our Own Champagne](https://www.youtube.com/watch?v=f45Uo5rw6YY)
-* [2020-09-14: Reinventing virtualization with the AWS Nitro System](https://www.allthingsdistributed.com/2020/09/reinventing-virtualization-with-aws-nitro.html)
