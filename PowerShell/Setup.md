@@ -2,12 +2,12 @@
 
 ## Courseware
 
-1. Go to [Skillpipe](https://skillpipe.com/).
-1. If you already have a skillpipe account:
+- Go to [Skillpipe](https://skillpipe.com/).
+- If you already have a skillpipe account:
   - Login to your skillpipe account account.
-1. If you have never used skillpipe before
+- If you have never used skillpipe before
   - Register a new account. **(When registering, a personal email address is preferred, try to avoid work email addresses)**
-1. Once logged in select `Add a Course` and use the **skillpipe code** given to you by a DDLS email or in some cases from the instructor.
+- Once logged in select `Add a Course` and use the **skillpipe code** given to you by a DDLS email or in some cases from the instructor.
 
 ## Learn on Demand Labs  (Optional - Ask instructor if this is needed)
 
