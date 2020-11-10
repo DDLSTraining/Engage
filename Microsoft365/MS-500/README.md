@@ -53,6 +53,8 @@
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
 * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
 * [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
+* [Cloud Up Setup])https://youtu.be/ff4AR3GIR00)
+* [Cloud App Security Demo](https://youtu.be/RxW0bpXJd9A)
 * [Regular Expressions](https://youtu.be/sa-TUpSx1JA)
 * [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
 * [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
