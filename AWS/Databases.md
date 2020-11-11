@@ -10,6 +10,9 @@ Redshift is an enterprise-level data warehouse solution, mostly used by large co
 Is a key-value database that runs the NoSQL engine.  This makes the data stored in DynamoDB ‘dynamic’ which means it’s easier to modify. Key-value databases are best suited to certain use cases such as session data and shopping cart information and can achieve a fast throughput of read/write requests. It’s also an enterprise-level solution.
 ## Amazon Aurora 
 Amazon Aurora is a database engine that can be run on RDS or as Aurora Serverless. Aurora is MySQL and PostgreSQL compatible.  Further, Aurora has significantly higher performance stats compared to MySQL and PostgreSQL run on RDS.  It is designed to deliver the speed and reliability of high-end commercial databases in a simple and cost-effective manner.  It is designed to deliver the speed and reliability of high-end commercial databases in a simple and cost-effective manner.  Aurora is also an enterprise solution, even when used with RDS.
+
+[Why Aurora and not MySQL ](https://blog.shikisoft.com/why-choose-aurora-over-regular-rds/)
+
 How Do They Compare?
 
 # 1. Scaling 
