@@ -33,7 +33,7 @@
 * [ArchivingAudit Logs](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-activity-logs-azure-monitor
 )
 * [Block Allow URLs in Safe Links- New](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/tenant-allow-block-list?view=o365-worldwide)
-
+* [Information Barriers](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies)
 
 ## Videos
 
@@ -69,4 +69,5 @@
 * [Azure Sentinel Setup](https://youtu.be/Cyd16wVwxZc)
 * [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
 * [Advanced Threat Analytics](https://docs.microsoft.com/en-us/advanced-threat-analytics/install-ata-step1)
+* [Information Barriers](https://youtu.be/461LfU06RbA?t=416)
 
