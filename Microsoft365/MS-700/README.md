@@ -41,6 +41,8 @@
  * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
  * [Regular Expressions](https://youtu.be/sa-TUpSx1JA)
  * [Exam Prep Video - as of Jan 2020](https://www.youtube.com/watch?v=EIzyBmn6E10)
+ * [Microsoft Teams Rooms setup](https://youtu.be/In-SzWX1Gtw)
+ 
 
 ## Extra Reading
 
