@@ -21,31 +21,35 @@
 
 ### Day One
 
-* Module 0: Architecting on AWS - Review
-* Module 1: AWS account management
-* Module 2: Advanced network architectures
-  * Part A: Network throughput, HPC, and VPN
-    * Lab 1: Multi-VPC connectivity using a VPN
-  * Part B: AWS Direct Connect and DNS resolution with on-premises and global transit networks 
-* Module 3: Deployment management on AWS
-* Exercise 1: Design a hybrid architecture
+|Module|Name|Duration|
+|-|-|-|
+|0|Architecting on AWS Review|30|
+|1|AWS Account Management|45|
+|2a|Advanced Networking on AWS Part A|45|
+|Lab 1|Multi-VPC Connectivity Over VPN|45|
+|2b|Advanced Networking on AWS Part B|45|
+|3|Deployment Management on AWS|45|
+|Exercise 1|Build a Hybrid Architecture|60|
 
 ### Day Two
 
-* Module 4: Data
-  * Part A: Designing large data stores on AWS
-    * Lab 2: Build a failover solution with Amazon Route 53
-  * Part B: Migrating large data stores into AWS
-  * Part C: Big data architectures on AWS
-* Module 5: Designing for large scale applications
-  * Lab 3: Blue-green deployment with AWS Elastic Beanstalk
-* Exercise 2: All-in multi-region architectures
+|Module|Name|Duration|
+|-|-|-|
+|4a|Data Part A|60|
+|Lab 2|Build a Failover Solution with Amazon Route 53 and Amazon RDS Read Replication|45|
+|4b|Data Part B|60|
+|4c|Data Part C|45|
+|5|Designing for Large Scale Applications|60|
+|Lab 3: Blue-Green Deployment with Elastic Beanstalk and Amazon ElastiCache|45|
+|Exercise 2|All-in On AWS|45
 
 ### Day Three
 
-* Module 6: Building Resilient Architectures
-  * Part A: Understanding and mitigating DDoS Attacks with AWS
-    * Lab 4: CloudFront Content Delivery and Automating AWS WAF Rules 
-  * Part B: High availability for Databases on Amazon EC2 and handling scaling constraints 
-* Module 7: Encryption and security of data
-  * Lab 5: AWS Key Management Service (KMS) with Envelope Encryption
+|Module|Name|Duration|
+|-|-|-|
+|6a|Building Resilient Architectures Part A|45|
+|Lab 4|CloudFront Content Delivery and Automating WAF Rules|45|
+|6b|Building Resilient Architectures Part B|45|
+|7|Encryption and data security|60|
+|Lab 5|Using KMS Envelope Encryption|30|
+|8|Course Wrap-Up|20|
