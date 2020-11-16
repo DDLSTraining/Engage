@@ -40,8 +40,8 @@
 |4b|Data Part B|60|
 |4c|Data Part C|45|
 |5|Designing for Large Scale Applications|60|
-|Lab 3: Blue-Green Deployment with Elastic Beanstalk and Amazon ElastiCache|45|
-|Exercise 2|All-in On AWS|45
+|Lab 3|Blue-Green Deployment with Elastic Beanstalk and Amazon ElastiCache|45|
+|Exercise 2|All-in On AWS|45|
 
 ### Day Three
 
