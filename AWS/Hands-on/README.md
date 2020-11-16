@@ -22,6 +22,7 @@ Find in this directory extra hands-on you can do to expand your knowledge of AWS
 * [Build a Serverless Web Application](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/)
 * [Building serverless web applications on AWS without API Gateway](https://www.cloudreach.com/en/insights/blog/building-serverless-web-applications-on-aws-without-api-gateway/)
 * [Tutorial: Deploying a Hello World Application (SAM, API Gateway, Lambda)](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html)
+* [5 Minutes to Create an AWS Lambda Function to Stay Updated About COVID-19 in Your Area](https://towardsdatascience.com/5-minutes-to-create-an-aws-lambda-function-to-stay-updated-about-covid-19-in-your-area-88a4abe77a04)
 
 ## Developing on AWS
 
