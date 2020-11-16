@@ -535,6 +535,14 @@ Amazon Cognito lets you add user sign-up, sign-in, and access control to your we
 
 🗺️ Related: [AWS Landing Zone](https://aws.amazon.com/answers/aws-landing-zone/)
 
+### AWS Control Tower
+
+[AWS Control Tower](https://aws.amazon.com/controltower/) provides the easiest way to set up and govern a new, secure, multi-account AWS environment based on best practices established through AWS’ experience working with thousands of enterprises as they move to the cloud.
+
+🤔 Think of Control Tower as an automation layer over AWS Organizations
+
+🗺️ Related: [AWS Organizations](#aws-organizations)
+
 ### AWS Shield
 
 [AWS Shield](https://aws.amazon.com/shield/) is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS. AWS Shield provides always-on detection and automatic inline mitigations that minimize application downtime and latency, so there is no need to engage AWS Support to benefit from DDoS protection.

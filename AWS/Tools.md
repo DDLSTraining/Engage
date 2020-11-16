@@ -1,5 +1,8 @@
 # AWS Tools
 
+* [AWS Control Tower](https://aws.amazon.com/controltower/)
+  * [Control Tower Workshops](https://controltower.aws-management.tools/)
+
 ## AWS Command Line Interface
 
 * [What is the AWS Command Line Interface?](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
