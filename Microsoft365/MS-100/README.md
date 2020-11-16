@@ -18,8 +18,9 @@
   * [Workplace Analytics FAQ](https://docs.microsoft.com/en-us/workplace-analytics/use/faq)
   * [Workplace Analytics - MS Docs](https://docs.microsoft.com/en-us/workplace-analytics/)
   * [Licence Guide](https://lazyadmin.nl/it/office-365-comparison-chart-business-plans-vs-f1-e1-e3-and-e5/)
-  * [Licence Guide 2](https://www.infusedinnovations.com/blog/secure-modern-workplace/complete-office-365-and-microsoft-365-licensing-comparison
-)
+  * [Licence Guide 2](https://www.infusedinnovations.com/blog/secure-modern-workplace/complete-office-365-and-microsoft-365-licensing-comparison)
+  * [Dropping down a Licence Guide](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/back-up-data-before-switching-plans?view=o365-worldwide)
+  
   
   
 ## Videos
