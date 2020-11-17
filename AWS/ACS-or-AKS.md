@@ -30,6 +30,6 @@ EKS, conversely, does not have this integration.  However, an argument for EKS i
 **Compatibility**
 Since EKS is a **Kubernetes-as-a-service** offering for AWS, it can be run on any infrastructure, meaning that it’s much easier to run on-premises or with a different service provider. This isn’t the case for ECS, though, as it’s offered exclusively for AWS.
 
-##The Bigger Picture
+## The Bigger Picture
 Since Amazon ECS currently offers more in-depth AWS integration than Amazon EKS, it may be considered the advisable choice if you’re looking to work solely in the AWS cloud. However, if you’re looking to run container deployments across multiple infrastructure providers and need additional flexibility provided by Kubernetes, Amazon EKS offers more versatility.
 
