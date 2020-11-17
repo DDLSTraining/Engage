@@ -30,6 +30,9 @@ Other service references:
 * [AWS Regions and Endpoints](https://docs.aws.amazon.com/general/latest/gr/rande.html)
 * [AWS Service Limits](https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html)
 * [AWS Glossary](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
+* AWS Service Names Explained:
+  * [Why some services are called AWS XXX and the others Amazon XXX](https://stackoverflow.com/questions/33125790/why-some-services-are-called-aws-xxx-and-the-others-amazon-xxx)
+  * [Dear AWS, we need to talk about your service names](https://read.acloud.guru/dear-aws-we-need-to-talk-about-service-naming-d33ea68027d8)
 
 ## Analytics
 
