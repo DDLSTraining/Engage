@@ -28,3 +28,8 @@ Service Specific Content:
 * [AWS This is My Architecture](https://aws.amazon.com/this-is-my-architecture/)
 * [AWS FAQs](https://aws.amazon.com/faqs/)
 * [Amazon's Machine Learning University is making its online courses available to the public](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
+
+## Exam Resources
+
+* [Whizlabs](https://www.whizlabs.com/) [StackSocial - Whizlabs Lifetime Membership](https://stacksocial.com/sales/whizlabs-lifetime-membership)
+* [Tutorials Dojo](https://tutorialsdojo.com/)
