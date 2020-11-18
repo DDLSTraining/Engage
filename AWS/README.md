@@ -31,5 +31,5 @@ Service Specific Content:
 
 ## Exam Resources
 
-* [Whizlabs](https://www.whizlabs.com/) [StackSocial - Whizlabs Lifetime Membership](https://stacksocial.com/sales/whizlabs-lifetime-membership)
+* [Whizlabs](https://www.whizlabs.com/) ([StackSocial - Whizlabs Lifetime Membership](https://stacksocial.com/sales/whizlabs-lifetime-membership))
 * [Tutorials Dojo](https://tutorialsdojo.com/)
