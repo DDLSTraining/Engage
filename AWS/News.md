@@ -2,6 +2,9 @@
 
 ## Articles
 
+* 2020-05-19: [Amazon RDS for SQL Server now supports SQL Server Integration Services (SSIS)](https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-rds-for-sql-server-now-supports-sql-server-integration-services/)
+* 2020-05-15: [Amazon RDS for SQL Server now supports SQL Server Reporting Services (SSRS)](https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-rds-for-sql-server-now-supports-sql-server-reporting-services/)
+* 2020-04-20: [Amazon RDS for SQL Server now supports SQL Server Analysis Services (SSAS)](https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-rds-sql-server-now-supports-sql-server-analysis-service/)
 * 2020-10-29: [MDN Web Docs evolves! Lowdown on the upcoming new platform](https://hacks.mozilla.org/2020/10/mdn-web-docs-evolves-lowdown-on-the-upcoming-new-platform/)
 * 2020-09-14: [Reinventing virtualization with the AWS Nitro System](https://www.allthingsdistributed.com/2020/09/reinventing-virtualization-with-aws-nitro.html)
 * 2020-01-18: [The good parts of AWS - A visual summary](https://hassenchaieb.com/aws-good-parts/)
