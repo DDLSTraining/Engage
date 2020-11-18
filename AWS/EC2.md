@@ -5,6 +5,7 @@
 * [Running Commands on Your Linux Instance at Launch (User Data)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html)
 * [How can I execute user data after the initial launch of my EC2 instance?](https://aws.amazon.com/premiumsupport/knowledge-center/execute-user-data-ec2/)
 * [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
+* [CPU credits and baseline utilization for burstable performance instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-credits-baseline-concepts.html)
 
 ## Related Services
 
