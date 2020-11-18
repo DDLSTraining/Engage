@@ -33,3 +33,4 @@ Service Specific Content:
 
 * [Whizlabs](https://www.whizlabs.com/) ([StackSocial - Whizlabs Lifetime Membership](https://stacksocial.com/sales/whizlabs-lifetime-membership))
 * [Tutorials Dojo](https://tutorialsdojo.com/)
+* [Varun Karthik: Advanced Architect Certification Notes](https://github.com/vforvarun/AWS-SA-PRO-PREP)
