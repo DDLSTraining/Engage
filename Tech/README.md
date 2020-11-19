@@ -1,5 +1,6 @@
 # Technology News and Resources
 
+* [2020-11-19: Tesla Full Self Driving Beta Tackles Dirt Roads and More!](https://www.youtube.com/watch?v=xaRWlFswgbs)
 * [2020-06-23: Honeywell says it has the world's fastest quantum computer](https://www.newserector.com/honeywell-says-it-has-the-worlds-fastest-quantum-computer)
 * [2020-06-20: The Google ‘vs’ Trick](https://medium.com/applied-data-science/the-google-vs-trick-618c8fd5359f)
 * [2020-02-17: Tesla teardown finds electronics 6 years ahead of Toyota and VW](https://asia.nikkei.com/Business/Automobiles/Tesla-teardown-finds-electronics-6-years-ahead-of-Toyota-and-VW2)
