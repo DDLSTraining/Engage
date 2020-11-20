@@ -16,7 +16,8 @@ If you have multiple subscriptions run the following in the Azure Shell to use t
 
 ## Lab 1 – Ex2 Task 2 step 6
 6.	In the PowerShell session within the Cloud Shell pane, run the following to identify the name of your Azure AD tenant:
-  **$domainName = ((Get-AzureAdTenantDetail).VerifiedDomains)[0].Name*
+ 
+  **$domainName = ((Get-AzureAdTenantDetail).VerifiedDomains)[0].Name**
 
 **[0]** added mail into the DNS name I had to use **[1]** 
 
