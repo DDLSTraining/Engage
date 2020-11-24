@@ -54,10 +54,13 @@ We'll start by specifying our base image, using the **FROM** keyword this will g
 ## Building the image
 Now that you have your **Dockerfile**, we can build an image. 
 The docker build command is quite simple - it takes an optional tag name with the **-t** flag, and the location of the directory containing the Dockerfile - the **“.”** indicates the current directory:
-	**docker build -t html-image:v1 .**
+	
+   **docker build -t html-image:v1 .**
+
 Don’t forget the **“.”** it means current directory.  Also you can call it anything really 😊
 After a short while you should receive something like this:
-	**Successfully built 2f7357a0805d**
+
+   **Successfully built 2f7357a0805d**
 
 If you don't have the **nginx:latest** image, the client will first pull the image from the internet and then create your images**. If everything went well, your image should be ready! 
 
@@ -110,12 +113,14 @@ Take note of the **registry name** and the value of the **Login server**. You us
 Before pushing and pulling container images, you must log in to the registry instance. Sign into the Azure CLI on your local machine, then run the **az acr** login command. (Specify only the registry name when logging in with the Azure CLI. Don't include the 'azurecr.io' domain suffix.)
 
 Azure CLI
-	**az acr login --name _registry-name**_
+	
+   **az acr login --name _registry-name**_
 
 Example:
 
 Azure CLI
-	**az acr login --name _mycontainerregistry_**
+	
+   **az acr login --name _mycontainerregistry_**
 
 The command returns **Login Succeeded** once completed.
 
@@ -131,13 +136,13 @@ Tag the image using the **docker tag** command. Replace _**mycontainerregistry.a
 
 Example:
 
-**docker tag html-image:v1 mycontainerregistry.azurecr.io/html-image:v1**
+**docker tag html-image:v1 _mycontainerregistry.azurecr.io/html-image:v1_**
 
 Finally, use **docker push** to push the image to the registry instance. 
 
 Replace _**Login-server**_ with the login server name of your registry instance. 
 T
-his example creates the **web-html** repository, containing the **Web-html:v1 image.**
+his example creates the **html-image** repository, containing the **html-image:v1 image.**
 	
 **docker push _login-server_/html-image:v1**
 
