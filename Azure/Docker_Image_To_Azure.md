@@ -142,7 +142,9 @@ his example creates the **web-html** repository, containing the **Web-html:v1 im
 	**docker push _login-server_/html-image:v1**
 
 After pushing the image to your container registry, remove the html-image:v1 image from your local Docker environment. (Note that this **docker rmi** command does not remove the image from the repository in your Azure container registry.)
-	**docker rmi <login-server>/html-image:v1**
+	
+**docker rmi _login-server_/html-image:v1**
+
 ## Enable admin account
 You can deploy a container image from the registry directly to Web App but to enable this capability, you must also enable the registry's **admin account.**
 Navigate to your new container registry in the Azure portal and select **Access keys** under **Settings**. Under **Admin user**, select **Enable**. 
@@ -150,15 +152,18 @@ Navigate to your new container registry in the Azure portal and select **Access 
 ## Deploy a Web App for Containers instance
 In this step, you create a Web App for Containers instance in the West US region.
 Sign in to the **Azure portal** and navigate to the registry you created in the previous tutorial.
+
 Select **Repositories > html-image**, then right-click on the **v1** tag under **Tags** and select **Deploy to web app:**
  
 If **"Deploy to web app"** is disabled, you might not have enabled the registry admin user.
-Under **Web App for Containers** that's displayed after you select **"Deploy to web app,"** specify the following values for each setting:
+U
+nder **Web App for Containers** that's displayed after you select **"Deploy to web app,"** specify the following values for each setting:
 **Site Name** - A globally unique name for the web app. In this example, we use the format **<acrName>-westus** to easily identify the registry and region the web app is deployed from.
-**Resource Group**	 - Use existing > myResourceGroup
+
+**Resource Group**	 - Use existing > **myResourceGroup**
 **App service plan/Location**	Create a new plan named **plan-westus** in the **West US** region.
-**Image**	- acr-helloworld:v1
-**Operating system**	- Linux
+**Image**	- **html-imaged:v1**
+**Operating system**	- **Linux**
 
 
 ## Note:
