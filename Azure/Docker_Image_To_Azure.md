@@ -110,7 +110,7 @@ Take note of the **registry name** and the value of the **Login server**. You us
 Before pushing and pulling container images, you must log in to the registry instance. Sign into the Azure CLI on your local machine, then run the **az acr** login command. (Specify only the registry name when logging in with the Azure CLI. Don't include the 'azurecr.io' domain suffix.)
 
 Azure CLI
-	**az acr login --name <registry-name>**
+	**az acr login --name _registry-name**_
 
 Example:
 
@@ -130,13 +130,17 @@ _**registry-name_.azurecr.io** (all lowercase), for example, _**mycontainerregis
 Tag the image using the **docker tag** command. Replace _**mycontainerregistry.azurecr.io**_ with the login server name of your ACR instance.
 
 Example:
+
 **docker tag html-image:v1 mycontainerregistry.azurecr.io/html-image:v1**
 
 Finally, use **docker push** to push the image to the registry instance. 
 
-Replace _**Login-server>**_ with the login server name of your registry instance. 
-This example creates the **web-html** repository, containing the **hello-world:v1 image.**
-	**docker push <login-server>/html-image:v1**
+Replace _**Login-server**_ with the login server name of your registry instance. 
+T
+his example creates the **web-html** repository, containing the **Web-html:v1 image.**
+	
+	**docker push _login-server_/html-image:v1**
+
 After pushing the image to your container registry, remove the html-image:v1 image from your local Docker environment. (Note that this **docker rmi** command does not remove the image from the repository in your Azure container registry.)
 	**docker rmi <login-server>/html-image:v1**
 ## Enable admin account
