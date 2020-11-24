@@ -163,7 +163,7 @@ Select **Repositories > html-image**, then right-click on the **v1** tag under *
 If **"Deploy to web app"** is disabled, you might not have enabled the registry admin user.
 U
 nder **Web App for Containers** that's displayed after you select **"Deploy to web app,"** specify the following values for each setting:
-**Site Name** - A globally unique name for the web app. In this example, we use the format **<acrName>-westus** to easily identify the registry and region the web app is deployed from.
+**Site Name** - A globally unique name for the web app. In this example, we use the format **_acrName_-westus** to easily identify the registry and region the web app is deployed from.
 
 **Resource Group**	 - Use existing > **myResourceGroup**
 **App service plan/Location**	Create a new plan named **plan-westus** in the **West US** region.
