@@ -115,7 +115,7 @@ Azure CLI
 Example:
 
 Azure CLI
-	**az acr login --name **_mycontainerregistry_**
+	**az acr login --name _mycontainerregistry_**
 
 The command returns **Login Succeeded** once completed.
 
@@ -125,7 +125,7 @@ Before you can push an image to your registry, you must tag it with the fully qu
 
 The login server name is in the format: 
 
-_**registry-name_.azurecr.io** (all lowercase), for example, _**mycontainerregistry.azurecr.io.**_
+**_registry-name_.azurecr.io** (all lowercase), for example, _**mycontainerregistry.azurecr.io.**_
 
 Tag the image using the **docker tag** command. Replace _**mycontainerregistry.azurecr.io**_ with the login server name of your ACR instance.
 
