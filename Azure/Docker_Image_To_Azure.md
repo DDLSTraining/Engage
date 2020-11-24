@@ -139,7 +139,7 @@ Replace _**Login-server**_ with the login server name of your registry instance.
 T
 his example creates the **web-html** repository, containing the **Web-html:v1 image.**
 	
-	**docker push _login-server_/html-image:v1**
+**docker push _login-server_/html-image:v1**
 
 After pushing the image to your container registry, remove the html-image:v1 image from your local Docker environment. (Note that this **docker rmi** command does not remove the image from the repository in your Azure container registry.)
 	
