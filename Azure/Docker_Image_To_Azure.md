@@ -141,8 +141,8 @@ Example:
 Finally, use **docker push** to push the image to the registry instance. 
 
 Replace _**Login-server**_ with the login server name of your registry instance. 
-T
-his example creates the **html-image** repository, containing the **html-image:v1 image.**
+
+This example creates the **html-image** repository, containing the **html-image:v1 image.**
 	
 **docker push _login-server_/html-image:v1**
 
@@ -161,8 +161,8 @@ Sign in to the **Azure portal** and navigate to the registry you created in the 
 Select **Repositories > html-image**, then right-click on the **v1** tag under **Tags** and select **Deploy to web app:**
  
 If **"Deploy to web app"** is disabled, you might not have enabled the registry admin user.
-U
-nder **Web App for Containers** that's displayed after you select **"Deploy to web app,"** specify the following values for each setting:
+
+Under **Web App for Containers** that's displayed after you select **"Deploy to web app,"** specify the following values for each setting:
 **Site Name** - A globally unique name for the web app. In this example, we use the format **_acrName_-westus** to easily identify the registry and region the web app is deployed from.
 
 **Resource Group**	 - Use existing > **myResourceGroup**
