@@ -64,17 +64,17 @@ Worked the second time through…
 # Lab 9
 To Clean up also delete the resource group **MC_AZ500LAB09_MyKubernetesCluster_eastus**
 
-#Lab 11
+# Lab 11
 Server Auditing was disabled for me
 
 # Lab 14
 ## Ex 1 Task 2 Step 7
 The Install option has moved
 
-##Ex1 Task 3 step 4
+## Ex1 Task 3 step 4
 Can’t add “Management ports of virtual machines should be protected with just-in-time network access control” entry.
 
-#Lab 15
+# Lab 15
 ## Ex1 Task 3 Step 3 
 Can’t sort by “Data Sources”
 Very slow to activate **JIT**
