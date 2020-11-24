@@ -125,13 +125,16 @@ Before you can push an image to your registry, you must tag it with the fully qu
 
 The login server name is in the format: 
 
-**<registry-name>.azurecr.io** (all lowercase), for example, **_mycontainerregistry.azurecr.io._**
+_**registry-name_.azurecr.io** (all lowercase), for example, _**mycontainerregistry.azurecr.io.**_
 
 Tag the image using the **docker tag** command. Replace _**mycontainerregistry.azurecr.io**_ with the login server name of your ACR instance.
+
 Example:
 **docker tag html-image:v1 mycontainerregistry.azurecr.io/html-image:v1**
+
 Finally, use **docker push** to push the image to the registry instance. 
-Replace **_<login-server>_** with the login server name of your registry instance. 
+
+Replace _**Login-server>**_ with the login server name of your registry instance. 
 This example creates the **web-html** repository, containing the **hello-world:v1 image.**
 	**docker push <login-server>/html-image:v1**
 After pushing the image to your container registry, remove the html-image:v1 image from your local Docker environment. (Note that this **docker rmi** command does not remove the image from the repository in your Azure container registry.)
