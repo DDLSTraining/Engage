@@ -62,6 +62,8 @@ Also need to supply region **“East US”**
 Worked the second time through…
 
 # Lab 9
+##Ex 1 Task 1 Step 6 
+For the name of the ACR replace **AZ500$RANDON$RANDOM** with a name that is globally unique 
 To Clean up also delete the resource group **MC_AZ500LAB09_MyKubernetesCluster_eastus**
 
 # Lab 11
