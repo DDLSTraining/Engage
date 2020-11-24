@@ -8,6 +8,7 @@ I have already installed [Docker Desktop for Windows](https://hub.docker.com/edi
 I have also created a very simple **HTML website** and installed **Azure Command Line** locally.
 
 **Write a Dockerfile**
+
 We want to create a Docker image with this web app and since the app is written in HTML, I’ll build an image based on **nginx** using a **Dockerfile**.
 
 A **Dockerfile** is a text file that contains a list of commands that the Docker daemon calls while creating an image. The **Dockerfile** contains all the information that Docker needs to know to run the app:
@@ -27,9 +28,9 @@ It is a simple way to automate the image creation process. The best part is that
 
 Then type **Notepad Dockerfile**
 
-We'll start by specifying our base image, using the FROM keyword this will go and retrieve the image from the internet if you don’t already have a local copy.
+We'll start by specifying our base image, using the **FROM** keyword this will go and retrieve the image from the internet if you don’t already have a local copy.
 
-    **FROM nginx:latest**
+   **FROM nginx:latest**
     
 2.	The next step is usually to write the commands for copying the files and installing the dependencies. (Remember that different base images have different web engines and will require files to be placed in different locations.)
 
@@ -52,47 +53,80 @@ We'll start by specifying our base image, using the FROM keyword this will go an
 4. Now save the **Dockerfile**  _(capital D and no extension)_
 ## Building the image
 Now that you have your **Dockerfile**, we can build an image. 
-The docker build command is quite simple - it takes an optional tag name with **the -t** flag, and the location of the directory containing the Dockerfile - the “.” indicates the current directory:
+The docker build command is quite simple - it takes an optional tag name with the **-t** flag, and the location of the directory containing the Dockerfile - the **“.”** indicates the current directory:
 	**docker build -t html-image:v1 .**
-Don’t forget the “.” it means current directory.  Also you can call it anything really 😊
+Don’t forget the **“.”** it means current directory.  Also you can call it anything really 😊
 After a short while you should receive something like this:
 	**Successfully built 2f7357a0805d**
 
 If you don't have the **nginx:latest** image, the client will first pull the image from the internet and then create your images**. If everything went well, your image should be ready! 
-type **docker images and see if your image **(html-image:v1)** is there.
+
+Now type **docker images** and see if your image **(html-image:v1)** is there.
+
 ## Running your image
+
 The next step is to run the image and see if it actually works.
-	**docker run -d -p 80:80 --name html html-image:v1** 
+
+**docker run -d -p 80:80 --name html html-image:v1** 
+
 There are a couple of common flags here:
+
 **--p** or **--publish** asks Docker to forward traffic incoming on the host’s port 80 to the container’s port 80. Containers have their own private set of ports, so if you want to reach one from the network, you must forward traffic to it in this way. Otherwise, firewall rules will prevent all network traffic from reaching your container, as a default security posture.
+
 **--d** or **--detach** asks Docker to run this container in the background.
+
 **--name** specifies a name with which you can refer to your container in subsequent commands, in this case **html**.
+
 Type **http://localhost** in your favorite browser and your app should be live. 
+
 Once you’re satisfied that your Web App container works correctly, you can delete it:
+
 **docker rm --force html**
-The **--force option** stops a running container, so it can be removed. If you stop the container running with docker stop first, then you do not need to use **--force** to remove it.  Remember **html** was my app container name.
+
+The **--force option** stops a running container, so it can be removed. If you stop the container running with docker stop first, then you do not need to use **--force** to remove it.  Remember _**html**_ was my app container name.
+
 ## Running the Container on Azure 
+
 ### Sign-in to Azure
+
 Sign into the Azure portal at (https://portal.azure.com).
+
 ### Create a container registry
+
 Select **Create a resource > Containers > Container Registry.**
+
 In the **Basics** tab, enter values for **Resource group** and **Registry name**. The registry name must be unique within Azure, and contain 5-50 alphanumeric characters.  
  
 Accept default values for the remaining settings. Then select **Review + create**. After reviewing the settings, select **Create**.
+
 A **Basic** registry, is a cost-optimized option for developers learning about Azure Container Registry.
+
 When the **Deployment succeeded** message appears, select the container registry in the portal.
  
 Take note of the **registry name** and the value of the **Login server**. You use these values in the following steps when you push and pull images with Docker.
+
 ## Log in to registry
+
 Before pushing and pulling container images, you must log in to the registry instance. Sign into the Azure CLI on your local machine, then run the **az acr** login command. (Specify only the registry name when logging in with the Azure CLI. Don't include the 'azurecr.io' domain suffix.)
+
 Azure CLI
 	**az acr login --name <registry-name>**
+
 Example:
+
 Azure CLI
 	**az acr login --name **_mycontainerregistry_**
+
 The command returns **Login Succeeded** once completed.
+
 ## Push image to registry
-Before you can push an image to your registry, you must tag it with the fully qualified name of your registry login server. The login server name is in the format **<registry-name>.azurecr.io** (all lowercase), for example, **_mycontainerregistry.azurecr.io._**
+
+Before you can push an image to your registry, you must tag it with the fully qualified name of your registry login server. 
+
+The login server name is in the format: 
+
+**<registry-name>.azurecr.io** (all lowercase), for example, **_mycontainerregistry.azurecr.io._**
+
 Tag the image using the **docker tag** command. Replace _**mycontainerregistry.azurecr.io**_ with the login server name of your ACR instance.
 Example:
 **docker tag html-image:v1 mycontainerregistry.azurecr.io/html-image:v1**
