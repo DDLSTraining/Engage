@@ -1,36 +1,6 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@CallanTurner 
-DDLSTraining
-/
-Engage
-17
-3718
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Engage/Microsoft365/MS-030/Extra Info
-@CallanTurner
-CallanTurner Update Extra Info
-Latest commit 6d549dd 4 minutes ago
- History
- 1 contributor
-41 lines (35 sloc)  2.86 KB
-  
 
-# MS-101 Microsoft 365 Mobility and Security
+# MS-030 Microsoft 365 Administration
 
 ## Resources
 
@@ -70,16 +40,4 @@ Latest commit 6d549dd 4 minutes ago
 * [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
 * [Information Barriers](https://youtu.be/461LfU06RbA?t=416)
 
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
