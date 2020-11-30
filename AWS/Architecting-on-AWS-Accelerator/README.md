@@ -37,6 +37,7 @@
 |Module|Activity|Duration|
 |-|-|-|
 |6|Networking in AWS Part 2|55|
+|Lab 3|Creating a VPC|60|
 |7|AWS Identity and Access Management (IAM)|50|
 |8|Organizations|40|
 |9|Elasticity, High Availability, and Monitoring|50|
