@@ -36,7 +36,7 @@
   * [Workplace Analytics - New Features](https://youtu.be/QZg2YLcYl-A)
   * [Workplace Analytics -Setup](https://docs.microsoft.com/en-us/workplace-analytics/setup/set-up-workplace-analytics)
   * [Worklace Analytics - Data Analysis](https://docs.microsoft.com/en-us/Workplace-Analytics/overview/get-started)
-  
+  * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
   
  
 
