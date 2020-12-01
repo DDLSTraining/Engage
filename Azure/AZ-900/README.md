@@ -10,4 +10,4 @@
  
 * [Azure Cognitive Services demo](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#features)
 
-* [How Bots Work] (https://docs.microsoft.com/en-au/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0)
+* [Azure - How Bots Work ](https://docs.microsoft.com/en-au/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0)
