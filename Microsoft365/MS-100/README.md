@@ -14,13 +14,7 @@
   * [Teams Storage Diagram](https://docs.microsoft.com/en-au/learn/m365/m365-teams-collab-prepare-deployment/media/logical-architecture.png)
   * [VoiceMail Hybrid](https://docs.microsoft.com/en-us/microsoftteams/set-up-phone-system-voicemail)
   * [Deny Permission "Add,change, or delete pages or Web Part Pages, and edit the Web site using a Microsoft SharePoint Foundation-compatible editor"](https://answers.microsoft.com/en-us/msoffice/forum/all/deny-permission-add-change-or-delete-html-pages-or/5846e332-5bcb-417a-99d3-c5d66dc54075)
-  * [Workplace Analytics requirements]( https://docs.microsoft.com/en-us/workplace-analytics/setup/environment-requirements)
-  * [Workplace Analytics FAQ](https://docs.microsoft.com/en-us/workplace-analytics/use/faq)
-  * [Workplace Analytics - MS Docs](https://docs.microsoft.com/en-us/workplace-analytics/)
-  * [Licence Guide](https://lazyadmin.nl/it/office-365-comparison-chart-business-plans-vs-f1-e1-e3-and-e5/)
-  * [Licence Guide 2](https://www.infusedinnovations.com/blog/secure-modern-workplace/complete-office-365-and-microsoft-365-licensing-comparison)
-  * [Dropping down a Licence Guide](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/back-up-data-before-switching-plans?view=o365-worldwide) 
-* [Configuration XML Creator](https://config.office.com/)
+   * [Configuration XML Creator](https://config.office.com/)
 * [Out of Hours - Intune Stuff](https://oofhours.com/category/microsoft-intune/)
 * [SharePoint Content Types in DLP](https://joannecklein.com/2018/01/25/a-sharepoint-content-type-dlp-policy/)
 * [Insider Risks](https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management-policies?view=o365-worldwide)
@@ -28,6 +22,14 @@
 * [Blocking O365 Group Creation](https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
 * [Free/Busy time troubleshooter](https://docs.microsoft.com/en-us/exchange/troubleshoot/calendars/troubleshoot-freebusy-issues-in-exchange-hybrid)
   
+## WorkPlace Analytics  
+  * [Workplace Analytics requirements]( https://docs.microsoft.com/en-us/workplace-analytics/setup/environment-requirements)
+  * [Workplace Analytics FAQ](https://docs.microsoft.com/en-us/workplace-analytics/use/faq)
+  * [Workplace Analytics - MS Docs](https://docs.microsoft.com/en-us/workplace-analytics/)
+## License
+  * [Licence Guide](https://lazyadmin.nl/it/office-365-comparison-chart-business-plans-vs-f1-e1-e3-and-e5/)
+  * [Licence Guide 2](https://www.infusedinnovations.com/blog/secure-modern-workplace/complete-office-365-and-microsoft-365-licensing-comparison)
+  * [Dropping down a Licence Guide](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/back-up-data-before-switching-plans?view=o365-worldwide) 
 ## Videos
   * [Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&feature=youtu.be&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=1356)
   * [Planning You Network for Teams](https://youtu.be/vi3M7ZzF2NU?list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=83)
