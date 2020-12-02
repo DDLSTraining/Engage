@@ -22,7 +22,8 @@
 * [Blocking O365 Group Creation](https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
 * [Free/Busy time troubleshooter](https://docs.microsoft.com/en-us/exchange/troubleshoot/calendars/troubleshoot-freebusy-issues-in-exchange-hybrid)
 * [Power Apps Customising a SharePoint form](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/customize-list-form)
-  
+ * [Laura Rogers Power Hour](https://www.youtube.com/watch?v=lyRxZ560zx8&list=PLtx4MPCKmPulTidrqsBCFZqF9yJJxwExU)
+ 
 ## WorkPlace Analytics  
   * [Workplace Analytics requirements]( https://docs.microsoft.com/en-us/workplace-analytics/setup/environment-requirements)
   * [Workplace Analytics FAQ](https://docs.microsoft.com/en-us/workplace-analytics/use/faq)
