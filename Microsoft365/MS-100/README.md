@@ -21,6 +21,7 @@
 * [Information Barriers](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies)
 * [Blocking O365 Group Creation](https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
 * [Free/Busy time troubleshooter](https://docs.microsoft.com/en-us/exchange/troubleshoot/calendars/troubleshoot-freebusy-issues-in-exchange-hybrid)
+* [Power Apps Customising a SharePoint form](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/customize-list-form)
   
 ## WorkPlace Analytics  
   * [Workplace Analytics requirements]( https://docs.microsoft.com/en-us/workplace-analytics/setup/environment-requirements)
