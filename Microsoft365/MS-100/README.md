@@ -19,9 +19,14 @@
   * [Workplace Analytics - MS Docs](https://docs.microsoft.com/en-us/workplace-analytics/)
   * [Licence Guide](https://lazyadmin.nl/it/office-365-comparison-chart-business-plans-vs-f1-e1-e3-and-e5/)
   * [Licence Guide 2](https://www.infusedinnovations.com/blog/secure-modern-workplace/complete-office-365-and-microsoft-365-licensing-comparison)
-  * [Dropping down a Licence Guide](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/back-up-data-before-switching-plans?view=o365-worldwide)
-  
-  
+  * [Dropping down a Licence Guide](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/back-up-data-before-switching-plans?view=o365-worldwide) 
+* [Configuration XML Creator](https://config.office.com/)
+* [Out of Hours - Intune Stuff](https://oofhours.com/category/microsoft-intune/)
+* [SharePoint Content Types in DLP](https://joannecklein.com/2018/01/25/a-sharepoint-content-type-dlp-policy/)
+* [Insider Risks](https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management-policies?view=o365-worldwide)
+* [Information Barriers](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies)
+* [Blocking O365 Group Creation](https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
+* [Free/Busy time troubleshooter](https://docs.microsoft.com/en-us/exchange/troubleshoot/calendars/troubleshoot-freebusy-issues-in-exchange-hybrid)
   
 ## Videos
   * [Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&feature=youtu.be&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=1356)
