@@ -46,7 +46,7 @@
   * [Workplace Analytics -Setup](https://docs.microsoft.com/en-us/workplace-analytics/setup/set-up-workplace-analytics)
   * [Worklace Analytics - Data Analysis](https://docs.microsoft.com/en-us/Workplace-Analytics/overview/get-started)
   * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
-  
+  * [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA) 
  
 
 ## Extra Reading
