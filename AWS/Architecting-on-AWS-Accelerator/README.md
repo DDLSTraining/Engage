@@ -73,6 +73,6 @@
 |Module|Activity|Duration|
 |-|-|-|
 |21|Migration Strategies|40|
-|Lab 8|Application Deployment using AWS Fargate|90|
+|Lab 8|Application Deployment using AWS Fargate|45|
 |22|RTO / RPO and Backup Recovery Setup|40|
 |23|Final Review|10|
