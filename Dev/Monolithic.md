@@ -21,5 +21,6 @@ Generally he is a "who said" of the greatest magnatude when it comes to Kubernet
 
 [Pinned tweet as of 2020-04-30](https://twitter.com/kelseyhightower/status/940259898331238402)
 > 2020 prediction: Monolithic applications will be back in style after people discover the drawbacks of distributed monolithic applications.
+[Response](https://twitter.com/kelseyhightower/status/1336049788295413760?s=09)
 
 
