@@ -18,6 +18,7 @@
 * [Eliminate weak passwords on-premises](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad-on-premises)
 * [Eliminate weak passwords in the cloud](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad)
 * [Information Barriers](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies)
+* [Windows as a Service Resources](https://docs.microsoft.com/en-us/windows/deployment/update/waas-mobile-updates)
 
 ## Videos
 
