@@ -83,7 +83,7 @@ To create an Azure subscription you need to prove you are a person and an adult.
 1. DO NOT USE YOUR EXISTING MICROSOFT ACCOUNTS.
 1. Use one of the following to create a free Azure account (If you are on an Azure course use the [Azure Pass](https://www.microsoftazurepass.com/) option):
    * **Azure Pass**: https://www.microsoftazurepass.com/ **Use this option for Azure Class**
-   * Trial Account **(Credit Card Required):** https://azure.microsoft.com/en-us/free/ *This is not generally used in class*
+   * Trial Account **(Credit Card Required):** https://azure.microsoft.com/en-us/free/ ***This is not generally used in class***
 1. Follow the steps to create your Azure account.
   - Once you are at the AzurePass web site https://www.microsoftazurepass.com/
     - Click Start (if needed)
