@@ -34,6 +34,8 @@
 )
 * [Block Allow URLs in Safe Links- New](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/tenant-allow-block-list?view=o365-worldwide)
 * [Information Barriers](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies)
+* [Assigning Roles to a Group](https://docs.microsoft.com/en-us/azure/active-directory/roles/groups-concept
+)
 
 ## Videos
 
