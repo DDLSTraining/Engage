@@ -91,7 +91,8 @@ To create an Azure subscription you need to prove you are a person and an adult.
       - **if it is not**, logout and login as the new outlook account on this same website before continuing 
     - Click Verify button to allow you to enter the Azure Pass Code 
     - Enter the AzurePass Code that was emailed to you 
-    - Complete the process by typing in your details (**do not give false information here as it may stop you from verifying you account later if required**)
+    - Complete the process by typing in your details 
+      - (**do not give false information here as it may stop you from verifying you account later if required**)
   - This process will take a few minutes to complete  
   
 ## Bookmarks
