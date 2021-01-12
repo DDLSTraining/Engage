@@ -61,7 +61,7 @@ Outlook.com||
 - Once you have redeemed your code
   - Click on My Training
   - Click the *course name*
-  - ***Make sure you view and agree to the Licence agreement*** 
+  - ***Click on ```View Agreement``` and then choose Agree*** 
     - Otherwise **you will not** be able to launch the lab machines
   - In the Activities section, you will find your labs
   
