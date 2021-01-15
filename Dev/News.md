@@ -1,5 +1,6 @@
 # Developer News
 
+* [2021-01-16: The State of JavaScript 2020](https://2020.stateofjs.com/)
 * [2020-05-29: Linus Torvalds on 80-character line limit](https://www.reddit.com/r/programming/comments/gt4wgn/linus_torvalds_on_80character_line_limit/)
 * [2019-12-19: The State of JavaScript 2019](https://2019.stateofjs.com/)
 
