@@ -15,6 +15,7 @@ You also have alternatives if you do not need global scale.
 * [CloudSigma](https://www.cloudsigma.com/)
 * [Contabo](https://contabo.com/)
 * [DigitalOcean](https://www.digitalocean.com/)
+* [fly.io](https://fly.io/) - Launch your apps as Firecracker VMs in 20+ regions. No ops required. 
 * [Heroku](https://www.heroku.com/)
 * [Hetzner](https://www.hetzner.com/)
 * [HostHatch](https://hosthatch.com/)
