@@ -3,6 +3,10 @@
 * [Kata Containers](https://katacontainers.io/): The speed of containers, the security of VMs.
 * [docker-slim](https://github.com/docker-slim/docker-slim) - Don't change anything in your Docker container image and minify it by up to 30x.
 
+## Running Containers
+
+* [fly.io](https://fly.io/) - Launch your apps as Firecracker VMs in 20+ regions. No ops required. 
+
 ## Docker in DDLS
 
 The current Windows Server OS does not support [Docker for Windows Desktop](https://docs.docker.com/docker-for-windows/). Use the [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/) instead.
