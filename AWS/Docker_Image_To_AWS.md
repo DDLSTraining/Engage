@@ -90,95 +90,80 @@ The **--force option** stops a running container, so it can be removed. If you s
 
 ## Running the Container on AWS 
 
-### Sign-in to Azure
+Creating a Repository
+Before you can push your Docker images to Amazon ECR, you must create a repository to store them in. You can create Amazon ECR repositories with the AWS Management Console, or with the AWS CLI and AWS SDKs.
+To create a repository
+1.	Open the Amazon ECR console at https://console.aws.amazon.com/ecr/repositories.
+2.	From the navigation bar, choose the Region to create your repository in.
+3.	In the navigation pane, choose Repositories.
+4.	On the Repositories page, choose Create repository.
+5.	For Repository name, enter a unique name for your repository.
+6.	For Tag immutability, choose the tag mutability setting for the repository. Repositories configured with immutable tags will prevent image tags from being overwritten. For more information, see Image tag mutability.
+7.	For Scan on push, choose the image scanning setting for the repository. Repositories configured to scan on push will start an image scan whenever an image is pushed, otherwise image scans need to be started manually. For more information, see Image scanning.
+8.	For KMS encryption, choose whether to enable encryption of the images in the repository using AWS Key Management Service. By default, when KMS encryption is enabled Amazon ECR uses an AWS managed customer master key (CMK) with alias aws/ecr, which is created in your account the first time that you create a repository with KMS encryption enabled. For more information, see Encryption at rest.
+9.	When KMS encryption is enabled, select Customer encryption settings (advanced) to choose your own CMK. The CMK must exist in the same Region as the cluster. Choose Create an AWS KMS key to navigate to the AWS KMS console to create your own key.
+10.	Choose Create repository.
 
-Sign into the Azure portal at (https://portal.azure.com).
+Use the following steps to authenticate and push an image to your repository. 
+Retrieve an authentication token and authenticate your Docker client to your registry.
+Use the AWS CLI:
+aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 741004157452.dkr.ecr.us-east-1.amazonaws.com
 
-### Create a container registry
+Note: for this example, my Repository is in us-east-1 and its URI is 741004157452.dkr.ecr.us-east-1.amazonaws.com yours will be different
+Note: If you receive an error using the AWS CLI, make sure that you have the latest version of the AWS CLI and Docker installed.
+As I already have an image built on my PC, I now only need to Tag it before Pushing it to the Repository on AWS.
+To tag your image so you can push the image to this repository:
+docker tag html-image:v1 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers
+Note: for this example, my image is called html-image:v1 and the repository URI is 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers again yours will be different
+Run the following command to push this image to your newly created AWS repository:
+docker push 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers
+Note: Yet again your repository URI will be different.
+AWS Concepts
+So, we’ve got a Docker image ready to be deployed to AWS. Before we start working with AWS, let’s learn some high-level AWS vocabulary that we’ll need.
+ECS - Elastic Container Service
+ECS is the “entry point” service that allows us to run Docker containers on AWS infrastructure. Under the hood, it uses a bunch of other AWS services to get things done.
+Task
+A task is AWS domain language for a wrapper around one or more Docker containers. A task instance is what AWS considers an instance of our application.
+Service
+A service wraps a task and provides security rules to control access and potentially load balancing rules to balance traffic across multiple task instances.
+Cluster
+A cluster provides a network and scaling rules for the tasks of a service.
+Deploying a Docker Image Using the Management Console
+We’ll configure a task, service, and cluster using the “Get Started” wizard provided in the web-based management console. This wizard is very convenient to use, but it’s very limited in its feature set. We don’t have all the configuration options available.
+Also, by definition, deploying containers via the web-based wizard is a manual process and cannot be automated. In real-world scenarios, we want to automate deployments and will need to use the AWS CLI.
 
-Select **Create a resource > Containers > Container Registry.**
-
-In the **Basics** tab, enter values for **Resource group** and **Registry name**. The registry name must be unique within Azure, and contain 5-50 alphanumeric characters.  
+Configuring the Container
+First, we configure the Docker container:
  
-Accept default values for the remaining settings. Then select **Review + create**. After reviewing the settings, select **Create**.
+We can select a pre-defined Docker image or choose our own. We want to use the Docker image we published previously, so we’ll click on the “Configure” button in the “custom” box to open the “Edit container” form and will be prompted to enter a bunch of information:
+Container name: An arbitrary name for the container.
+Image: The URL to the Docker image in AWS ECR If you have published your image in a Docker registry different from Docker Hub, check with that registry what the URL to your image looks like. For me it’s:
+ 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers:latest
+Memory Limits: We’ll leave the default (i.e. no memory limits). This should definitely be thought out and set in a production deployment, though!
+Port mappings: Here we can define the container port, i.e. the port that our application exposes. Here I have started with port 80:
 
-A **Basic** registry, is a cost-optimized option for developers learning about Azure Container Registry.
-
-When the **Deployment succeeded** message appears, select the container registry in the portal.
+Configuring the Task
+Next, we configure the task, which wraps our Docker image:
  
-Take note of the **registry name** and the value of the **Login server**. You use these values in the following steps when you push and pull images with Docker.
-
-## Log in to registry
-
-Before pushing and pulling container images, you must log in to the registry instance. Sign into the Azure CLI on your local machine, then run the **az acr** login command. (Specify only the registry name when logging in with the Azure CLI. Don't include the 'azurecr.io' domain suffix.)
-
-Azure CLI
-	
-   **az acr login --name _registry-name**_
-
-Example:
-
-Azure CLI
-	
-   **az acr login --name _mycontainerregistry_**
-
-The command returns **Login Succeeded** once completed.
-
-## Push image to registry
-
-Before you can push an image to your registry, you must tag it with the fully qualified name of your registry login server. 
-
-The login server name is in the format: 
-
-**_registry-name_.azurecr.io** (all lowercase), for example, _**mycontainerregistry.azurecr.io.**_
-
-Tag the image using the **docker tag** command. Replace _**mycontainerregistry.azurecr.io**_ with the login server name of your ACR instance.
-
-Example:
-
-**docker tag html-image:v1 _mycontainerregistry.azurecr.io/html-image:v1_**
-
-Finally, use **docker push** to push the image to the registry instance. 
-
-Replace _**Login-server**_ with the login server name of your registry instance. 
-
-This example creates the **html-image** repository, containing the **html-image:v1 image.**
-	
-**docker push _login-server_/html-image:v1**
-
-After pushing the image to your container registry, remove the html-image:v1 image from your local Docker environment. (Note that this **docker rmi** command does not remove the image from the repository in your Azure container registry.)
-	
-**docker rmi _login-server_/html-image:v1**
-
-## Enable admin account
-You can deploy a container image from the registry directly to Web App but to enable this capability, you must also enable the registry's **admin account.**
-Navigate to your new container registry in the Azure portal and select **Access keys** under **Settings**. Under **Admin user**, select **Enable**. 
-
-## Deploy a Web App for Containers instance
-In this step, you create a Web App for Containers instance in the West US region.
-Sign in to the **Azure portal** and navigate to the registry you created in the previous tutorial.
-
-Select **Repositories > html-image**, then right-click on the **v1** tag under **Tags** and select **Deploy to web app:**
+We leave everything in the default setting except the name, so we can find the task later.
+Configuring the Service
+Next, the wizard takes us to a screen configuring the service that’s going to wraps the task we just configured:
  
-If **"Deploy to web app"** is disabled, you might not have enabled the registry admin user.
-
-Under **Web App for Containers** that's displayed after you select **"Deploy to web app,"** specify the following values for each setting:
-**Site Name** - A globally unique name for the web app. In this example, we use the format **_acrName_-westus** to easily identify the registry and region the web app is deployed from.
-
-**Resource Group**	 - Use existing > **myResourceGroup**
-**App service plan/Location**	Create a new plan named **plan-westus** in the **West US** region.
-**Image**	- **html-imaged:v1**
-**Operating system**	- **Linux**
-
-
-## Note:
-When you create a new app service plan to deploy your containerized app, a default plan is automatically selected to host your application. The default plan depends on the operating system setting.
-Select **Create** to provision the web app to the **West US** region.
+Again, we just change the name and leave everything in the default setting.
+Configuring the Cluster
+We do the same with the cluster configuration:
  
-## View the deployed web app
-When deployment is complete, you can view the running application by navigating to its URL in your browser.
-In the portal, select **App Services**, then the web app you provisioned in the previous step. In this example, the web app is named **_uniqueregistryname-westus_**.
-Select the **hyperlinked URL** of the web app in the top-right of the **App Service** overview to view the running application in your browser.
+Change the name, leave the rest on default, hit “Next”.
+Testing the Service
+After checking everything again and hitting the “Create” button, we’ll be redirected to a screen showing the steps AWS performs to set everything up:
  
-Once the Docker image is deployed from your geo-replicated container registry, the site displays an image representing the Azure region hosting the container registry.
-
+When all steps are completed, hit the “View service” button, and we’ll a screen like this:
+ 
+This screen shows a whole bunch of information about the status of the service we have just started. 
+But where do we find the URL it’s available at so that I can test it out?
+To find the URL of our application in the web console, do the following:
+	Click on the cluster name to see the status of the cluster.
+	In the “Tasks” tab, click the name of the task to see the status of the task.
+	Click the “ENI Id” of the task to see the status of the network interface of that task (ENI = Elastic Network Interface).
+	On the status page of the network interface, we finally find the public IPv4 address we can use to access our freshly deployed service.
+Just enter the public IPv4 address in in your browser, and you should see the web site.
