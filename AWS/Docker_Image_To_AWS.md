@@ -96,8 +96,8 @@ You can create Amazon ECR repositories with the AWS Management Console, or with 
 ## To create a repository
 1.	Open the Amazon ECR console at **https://console.aws.amazon.com/ecr/repositories**.
 2.	From the navigation bar, choose the Region to create your repository in.
-3.	In the navigation pane, choose Repositories.
-4.	On the Repositories page, choose Create repository.
+3.	In the navigation pane, choose **Repositories**.
+4.	On the Repositories page, choose **Create repository**.
 5.	For Repository name, enter a unique name for your repository.
 6.	For Tag immutability, choose the tag mutability setting for the repository. 
 	Repositories configured with immutable tags will prevent image tags from being overwritten. For more information, see Image tag mutability.
@@ -106,77 +106,89 @@ You can create Amazon ECR repositories with the AWS Management Console, or with 
 8.	For KMS encryption, choose whether to enable encryption of the images in the repository using AWS Key Management Service. 
 	By default, when KMS encryption is enabled Amazon ECR uses an AWS managed customer master key (CMK) with alias aws/ecr, which is created in your account the first time 	that you create a repository with KMS encryption enabled. For more information, see Encryption at rest.
 9.	When KMS encryption is enabled, select Customer encryption settings (advanced) to choose your own CMK. The CMK must exist in the same Region as the cluster. 
-	Choose Create an AWS KMS key to navigate to the AWS KMS console to create your own key.
-10.	Choose Create repository.
+	Choose **Create an AWS KMS key** to navigate to the AWS KMS console to create your own key.
+10.	Choose **Create repository**.
 
 ## Use the following steps to authenticate and push an image to your repository. 
 
 **Retrieve an authentication token and authenticate your Docker client to your registry.**
 
-Use the AWS CLI:
+Use the **AWS CLI:**
 
 **aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 741004157452.dkr.ecr.us-east-1.amazonaws.com**
 
-**Note:** for this example, my Repository is in us-east-1 and its URI is 741004157452.dkr.ecr.us-east-1.amazonaws.com yours will be different
+**Note:** for this example, my Repository is in **us-east-1** and its URI is **7410041574--.dkr.ecr.us-east-1.amazonaws.com** yours will be different
 
 **Note:** If you receive an error using the AWS CLI, make sure that you have the latest version of the AWS CLI and Docker installed.
 
-As I already have an image built on my PC, I now only need to Tag it before Pushing it to the Repository on AWS.
+As I already have an image built on my PC, I now only need to **Tag** it before Pushing it to the Repository on AWS.
 
-To tag your image so you can push the image to this repository:
+## To tag your image so you can push the image to this repository:
 
-**docker tag html-image:v1 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers**
+**docker tag html-image:v1 7410041574--.dkr.ecr.us-east-1.amazonaws.com/adriancontainers**
 
-**Note:** for this example, my image is called html-image:v1 and the repository URI is 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers again yours will be different
+**Note:** for this example, my image is called **html-image:v1** and the repository URI is **7410041574--.dkr.ecr.us-east-1.amazonaws.com/adriancontainers** again yours will be different
+
 Run the following command to push this image to your newly created AWS repository:
-docker push 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers
-Note: Yet again your repository URI will be different.
-AWS Concepts
+
+**docker push 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers**
+
+**Note:** Yet again your repository URI will be different.
+
+## AWS Concepts
 So, we’ve got a Docker image ready to be deployed to AWS. Before we start working with AWS, let’s learn some high-level AWS vocabulary that we’ll need.
-ECS - Elastic Container Service
+## ECS - Elastic Container Service
+
 ECS is the “entry point” service that allows us to run Docker containers on AWS infrastructure. Under the hood, it uses a bunch of other AWS services to get things done.
-Task
+## Task
 A task is AWS domain language for a wrapper around one or more Docker containers. A task instance is what AWS considers an instance of our application.
-Service
+## Service
 A service wraps a task and provides security rules to control access and potentially load balancing rules to balance traffic across multiple task instances.
-Cluster
+## Cluster
 A cluster provides a network and scaling rules for the tasks of a service.
-Deploying a Docker Image Using the Management Console
-We’ll configure a task, service, and cluster using the “Get Started” wizard provided in the web-based management console. This wizard is very convenient to use, but it’s very limited in its feature set. We don’t have all the configuration options available.
+
+## Deploying a Docker Image Using the Management Console
+We’ll configure a task, service, and cluster using the **“Get Started”** wizard provided in the web-based management console. This wizard is very convenient to use, but it’s very limited in its feature set. We don’t have all the configuration options available.
 Also, by definition, deploying containers via the web-based wizard is a manual process and cannot be automated. In real-world scenarios, we want to automate deployments and will need to use the AWS CLI.
 
-Configuring the Container
+## Configuring the Container
+
 First, we configure the Docker container:
  
-We can select a pre-defined Docker image or choose our own. We want to use the Docker image we published previously, so we’ll click on the “Configure” button in the “custom” box to open the “Edit container” form and will be prompted to enter a bunch of information:
-Container name: An arbitrary name for the container.
-Image: The URL to the Docker image in AWS ECR If you have published your image in a Docker registry different from Docker Hub, check with that registry what the URL to your image looks like. For me it’s:
- 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers:latest
-Memory Limits: We’ll leave the default (i.e. no memory limits). This should definitely be thought out and set in a production deployment, though!
-Port mappings: Here we can define the container port, i.e. the port that our application exposes. Here I have started with port 80:
+We can select a pre-defined Docker image or choose our own. We want to use the Docker image we published previously, so we’ll click on the **“Configure”** button in the **“custom”** box to open the **“Edit container”** form and will be prompted to enter a bunch of information:
+**Container name: An arbitrary name for the container.**
+**Image:** The URL to the Docker image in AWS ECR If you have published your image in a Docker registry different from Docker Hub, check with that registry what the URL to your image looks like. For me it’s:
+ **7410041574--.dkr.ecr.us-east-1.amazonaws.com/adriancontainers:latest**
+**Memory Limits:** We’ll leave the default (i.e. no memory limits). This should definitely be thought out and set in a production deployment, though!
+**Port mappings:** Here we can define the container port, i.e. the port that our application exposes. Here I have started with port 80:
 
-Configuring the Task
+## Configuring the Task
 Next, we configure the task, which wraps our Docker image:
  
-We leave everything in the default setting except the name, so we can find the task later.
-Configuring the Service
+We will leave everything in the default setting except the name, so we can find the task later.
+
+## Configuring the Service
 Next, the wizard takes us to a screen configuring the service that’s going to wraps the task we just configured:
- 
 Again, we just change the name and leave everything in the default setting.
-Configuring the Cluster
+
+## Configuring the Cluster
 We do the same with the cluster configuration:
  
-Change the name, leave the rest on default, hit “Next”.
-Testing the Service
-After checking everything again and hitting the “Create” button, we’ll be redirected to a screen showing the steps AWS performs to set everything up:
+Change the name, leave the rest on default, hit **“Next”**.
+
+## Testing the Service
+After checking everything again and hitting the **“Create”** button, we’ll be redirected to a screen showing the steps AWS performs to set everything up:
  
-When all steps are completed, hit the “View service” button, and we’ll a screen like this:
- 
+When all steps are completed, hit the **“View service”** button, and we’ll a screen like this:
+ ....
+
 This screen shows a whole bunch of information about the status of the service we have just started. 
-But where do we find the URL it’s available at so that I can test it out?
-To find the URL of our application in the web console, do the following:
-	Click on the cluster name to see the status of the cluster.
-	In the “Tasks” tab, click the name of the task to see the status of the task.
-	Click the “ENI Id” of the task to see the status of the network interface of that task (ENI = Elastic Network Interface).
-	On the status page of the network interface, we finally find the public IPv4 address we can use to access our freshly deployed service.
+
+**But where do we find the URL it’s available at so that I can test it out?**
+
+## To find the URL of our application in the web console, do the following:
+Click on the **cluster name** to see the status of the cluster.
+In the **“Tasks”** tab, click the name of the task to see the status of the task.
+Click the **“ENI Id”** of the task to see the status of the network interface of that task **(ENI = Elastic Network Interface)**.
+On the status page of the network interface, we finally find the public IPv4 address we can use to access our freshly deployed service.
 Just enter the public IPv4 address in in your browser, and you should see the web site.
