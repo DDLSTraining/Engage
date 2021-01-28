@@ -45,7 +45,7 @@ pip install pandas matplotlib joblib sklearn azureml.widgets
 
 ```powershell
 cd \path\to\your\project\directory
-git clone https://github.com/MicrosoftLearning/mslearn-dp100.git
+git clone https://github.com/MicrosoftLearning/mslearn-dp100.git DP100
 ```
 
 8. Get the workspace config and launch VSCode:
@@ -76,7 +76,7 @@ az login
 az extension add -n azure-cli-ml
 cd /path/to/your/project/directory
 # cd \path\to\your\project\directory
-git clone https://github.com/MicrosoftLearning/mslearn-dp100.git
+git clone https://github.com/MicrosoftLearning/mslearn-dp100.git DP100
 cd DP100
 az ml workspace list --query '[?workspaceName==`YOUR_WORKSPACE_NAME`] | [0]' > config.json
 pip install --upgrade azureml-sdk
