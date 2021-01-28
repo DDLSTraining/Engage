@@ -111,11 +111,11 @@ You can create Amazon ECR repositories with the AWS Management Console, or with 
 
 ## Use the following steps to authenticate and push an image to your repository. 
 
-## Retrieve an authentication token and authenticate your Docker client to your registry.
+**Retrieve an authentication token and authenticate your Docker client to your registry.**
 
 Use the AWS CLI:
 
-## aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 741004157452.dkr.ecr.us-east-1.amazonaws.com
+**aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 741004157452.dkr.ecr.us-east-1.amazonaws.com**
 
 **Note:** for this example, my Repository is in us-east-1 and its URI is 741004157452.dkr.ecr.us-east-1.amazonaws.com yours will be different
 
@@ -124,7 +124,8 @@ Use the AWS CLI:
 As I already have an image built on my PC, I now only need to Tag it before Pushing it to the Repository on AWS.
 
 To tag your image so you can push the image to this repository:
-## docker tag html-image:v1 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers
+
+**docker tag html-image:v1 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers**
 
 **Note:** for this example, my image is called html-image:v1 and the repository URI is 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers again yours will be different
 Run the following command to push this image to your newly created AWS repository:
