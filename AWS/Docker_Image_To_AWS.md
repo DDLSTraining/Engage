@@ -88,33 +88,45 @@ Once you’re satisfied that your Web App container works correctly, you can del
 
 The **--force option** stops a running container, so it can be removed. If you stop the container running with docker stop first, then you do not need to use **--force** to remove it.  Remember _**html**_ was my app container name.
 
-## Running the Container on AWS 
+# Running the Container on AWS 
 
-Creating a Repository
-Before you can push your Docker images to Amazon ECR, you must create a repository to store them in. You can create Amazon ECR repositories with the AWS Management Console, or with the AWS CLI and AWS SDKs.
-To create a repository
-1.	Open the Amazon ECR console at https://console.aws.amazon.com/ecr/repositories.
+## Creating a Repository
+Before you can push your Docker images to Amazon ECR, you must create a repository to store them in. 
+You can create Amazon ECR repositories with the AWS Management Console, or with the AWS CLI and AWS SDKs.
+## To create a repository
+1.	Open the Amazon ECR console at **https://console.aws.amazon.com/ecr/repositories**.
 2.	From the navigation bar, choose the Region to create your repository in.
 3.	In the navigation pane, choose Repositories.
 4.	On the Repositories page, choose Create repository.
 5.	For Repository name, enter a unique name for your repository.
-6.	For Tag immutability, choose the tag mutability setting for the repository. Repositories configured with immutable tags will prevent image tags from being overwritten. For more information, see Image tag mutability.
-7.	For Scan on push, choose the image scanning setting for the repository. Repositories configured to scan on push will start an image scan whenever an image is pushed, otherwise image scans need to be started manually. For more information, see Image scanning.
-8.	For KMS encryption, choose whether to enable encryption of the images in the repository using AWS Key Management Service. By default, when KMS encryption is enabled Amazon ECR uses an AWS managed customer master key (CMK) with alias aws/ecr, which is created in your account the first time that you create a repository with KMS encryption enabled. For more information, see Encryption at rest.
-9.	When KMS encryption is enabled, select Customer encryption settings (advanced) to choose your own CMK. The CMK must exist in the same Region as the cluster. Choose Create an AWS KMS key to navigate to the AWS KMS console to create your own key.
+6.	For Tag immutability, choose the tag mutability setting for the repository. 
+	Repositories configured with immutable tags will prevent image tags from being overwritten. For more information, see Image tag mutability.
+7.	For Scan on push, choose the image scanning setting for the repository. 
+	Repositories configured to scan on push will start an image scan whenever an image is pushed, otherwise image scans need to be started manually. For more information, 		see Image scanning.
+8.	For KMS encryption, choose whether to enable encryption of the images in the repository using AWS Key Management Service. 
+	By default, when KMS encryption is enabled Amazon ECR uses an AWS managed customer master key (CMK) with alias aws/ecr, which is created in your account the first time 	that you create a repository with KMS encryption enabled. For more information, see Encryption at rest.
+9.	When KMS encryption is enabled, select Customer encryption settings (advanced) to choose your own CMK. The CMK must exist in the same Region as the cluster. 
+	Choose Create an AWS KMS key to navigate to the AWS KMS console to create your own key.
 10.	Choose Create repository.
 
-Use the following steps to authenticate and push an image to your repository. 
-Retrieve an authentication token and authenticate your Docker client to your registry.
-Use the AWS CLI:
-aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 741004157452.dkr.ecr.us-east-1.amazonaws.com
+## Use the following steps to authenticate and push an image to your repository. 
 
-Note: for this example, my Repository is in us-east-1 and its URI is 741004157452.dkr.ecr.us-east-1.amazonaws.com yours will be different
-Note: If you receive an error using the AWS CLI, make sure that you have the latest version of the AWS CLI and Docker installed.
+## Retrieve an authentication token and authenticate your Docker client to your registry.
+
+Use the AWS CLI:
+
+## aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 741004157452.dkr.ecr.us-east-1.amazonaws.com
+
+**Note:** for this example, my Repository is in us-east-1 and its URI is 741004157452.dkr.ecr.us-east-1.amazonaws.com yours will be different
+
+**Note:** If you receive an error using the AWS CLI, make sure that you have the latest version of the AWS CLI and Docker installed.
+
 As I already have an image built on my PC, I now only need to Tag it before Pushing it to the Repository on AWS.
+
 To tag your image so you can push the image to this repository:
-docker tag html-image:v1 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers
-Note: for this example, my image is called html-image:v1 and the repository URI is 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers again yours will be different
+## docker tag html-image:v1 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers
+
+**Note:** for this example, my image is called html-image:v1 and the repository URI is 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers again yours will be different
 Run the following command to push this image to your newly created AWS repository:
 docker push 741004157452.dkr.ecr.us-east-1.amazonaws.com/adriancontainers
 Note: Yet again your repository URI will be different.
