@@ -23,7 +23,10 @@ Tools:
 
 Reference:
 
+* [Interpret Community SDK](https://github.com/interpretml/interpret-community)
 * [Create & use software environments in Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-environments)
+* [Version and track Azure Machine Learning datasets](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-version-track-datasets)
+* [Mitigate unfairness in machine learning models](https://docs.microsoft.com/en-us/azure/machine-learning/concept-fairness-ml)
 
 ### Documentation
 
