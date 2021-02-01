@@ -1,0 +1,80 @@
+https://docs.microsoft.com/en-us/cloud-app-security/getting-started-with-cloud-app-security
+Cloud App Security Lab 
+To access the Cloud App Security portal, go to https://portal.cloudappsecurity.com as Holly.
+ You can also access the portal through the Microsoft 365 admin center, as follows:
+1.	In the Microsoft 365 admin center, click the App launcher icon  , and then select Security.
+ 
+2.	In the Microsoft 365 security page, click More resources, and then select Cloud App Security.
+ 
+Step 1. Set instant visibility, protection, and governance actions for your apps
+Required task: Connect apps
+1.	From the settings cog, select App connectors.
+2.	Click the plus sign to add an app and select Office 365 and Microsoft Azure.
+3.	Follow the configuration steps to connect the app.
+Why connect an app? After you connect an app, you can gain deeper visibility so you can investigate activities, files, and accounts for the apps in your cloud environment.
+Step 2. Control cloud apps with policies
+Required task: Create policies
+To create policies
+1.	Go to Control > Templates.
+2.	Select the “Mass download by a single user” policy template from the list, and then choose (+) Create policy.
+3.	Customize the policy (select filters, actions, and other settings), and then choose Create.
+4.	On the Policies tab, choose the policy to see the relevant matches   (activities, files, alerts).  As you just enabled this Policies there won’t be any matches yet 😊
+Tip: To cover all your cloud environment security scenarios, create a policy for each risk category.
+
+How can policies help your organization?
+You can use policies to help you monitor trends, see security threats, and generate customized reports and alerts. With policies, you can create governance actions, and set data loss prevention and file-sharing controls.
+Step 3. Set up Cloud Discovery
+Required task: Enable Cloud App Security to view your cloud app use
+1.	Integrate with Microsoft Defender ATP to automatically enable Cloud App Security to monitor your Windows 10 devices inside and outside your corporation.
+2.	If you use Zscaler, integrate it with Cloud App Security.
+3.	To achieve full coverage, create a continuous Cloud Discovery report
+1.	From the settings cog, select Cloud Discovery settings.
+2.	Choose Automatic log upload.
+3.	On the Data sources tab, add your sources.
+4.	On the Log collectors tab, configure the log collector.
+
+To create a snapshot Cloud Discovery report
+Go to Discover > Snapshot report and follow the steps shown.
+Why should you configure Cloud Discovery reports?
+Having visibility into shadow IT in your organization is critical. After your logs are analyzed, you can easily find which cloud apps are being used, by which people, and on which devices.
+Step 4. Personalize your experience
+Recommended task: Add your organization details
+To enter email settings
+1.	From the settings cog, select Mail settings.
+2.	Under Email sender identity, enter your email addresses and display name.
+3.	Under Email design, upload your organization's email template.
+To set admin notifications
+1.	In the navigation bar, choose your user name, and then go to User settings.
+2.	Under Notifications, configure the methods you want to set for system notifications.
+3.	Choose Save.
+
+To customize the score metrics
+1.	From the settings cog, select Cloud Discovery settings.
+2.	From the settings cog, select Cloud Discovery settings.
+3.	Under Score metrics, configure the importance of various risk values.
+4.	Choose Save.
+Now the risk scores given to discovered apps are configured precisely according to your organization needs and priorities.
+Why personalize your environment?
+Some features work best when they're customized to your needs. Provide a better experience for your users with your own email templates. Decide what notifications you receive and customize your risk score metric to fit your organization’s preferences.
+Step 5. Organize the data according to your needs
+Recommended task: Configure important settings
+To create IP address tags
+1.	From the settings cog, select Cloud Discovery settings.
+2.	From the settings cog, select IP address ranges.
+3.	Click the plus sign to add an IP address range.
+4.	Enter the IP range details, location, tags, and category.
+5.	Choose Create.
+Now you can use IP tags when you create policies, and when you filter and create continuous reports.
+To create continuous reports
+1.	From the settings cog, Cloud Discovery settings.
+2.	Under Continuous reports, choose Create report.
+3.	Follow the configuration steps.
+4.	Choose Create.
+Now you can view discovered data based on your own preferences, such as business units or IP ranges.
+To add domains
+1.	From the settings cog, select Settings.
+2.	Under Organization details, add your organization's internal domains.
+3.	Choose Save.
+Why should you configure these settings?
+These settings help give you better control of features in the console. With IP tags, it's easier to create policies that fit your needs, to accurately filter data, and more. Use Data views to group your data into logical categories.
+
