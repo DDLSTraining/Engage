@@ -63,7 +63,7 @@
 * [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
 * [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
 * [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
-* [Cloud Up Setup](https://youtu.be/ff4AR3GIR00)
+* [Cloud App Setup](https://youtu.be/ff4AR3GIR00)
 * [Cloud App Security Demo](https://youtu.be/RxW0bpXJd9A)
 * [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
 * [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
