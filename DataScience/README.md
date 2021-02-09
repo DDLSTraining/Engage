@@ -94,6 +94,7 @@ Support Tools:
 * [Jupyter](https://jupyter.org/)
   * [IPython Documentation](https://ipython.readthedocs.io/en/stable/index.html)
   * [Built-in magic commands](https://ipython.readthedocs.io/en/stable/interactive/magics.html)
+* [Zeppelin](https://zeppelin.apache.org/)
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
   
 #### Distributions and Installations
