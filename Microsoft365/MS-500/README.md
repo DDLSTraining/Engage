@@ -32,6 +32,7 @@
 * [The Office 365 ATP Recommended Configuration Analyzer (ORCA)](https://github.com/cammurray/orca)
 * [Custom Sensitive Information Types](https://joannecklein.com/2018/08/07/build-and-use-custom-sensitive-information-types-in-office-365/)
 * [SharePoint Content Types in DLP](https://joannecklein.com/2018/01/25/a-sharepoint-content-type-dlp-policy/)
+* [Creating content types](https://sharegate.com/blog/sharepoint-content-types-understand-use-create) - please also research Hub Content Type
 * [ArchivingAudit Logs](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-activity-logs-azure-monitor
 )
 * [Block Allow URLs in Safe Links- New](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/tenant-allow-block-list?view=o365-worldwide)
