@@ -1,4 +1,4 @@
-# AZ-300 Microsoft Azure Solutions Architect – Technologies
+# AZ-303 Microsoft Azure Solutions Architect – Technologies
 
 * [Microsoft Learning AZ-303 GitHub Repository](https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies)
 * [Microsoft Hands-on Labs (Self-paced Labs)](https://www.microsoft.com/handsonlabs/selfpacedlabs)
