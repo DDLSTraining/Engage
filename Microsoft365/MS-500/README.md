@@ -70,6 +70,9 @@
 * [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
 * [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
 * [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
+* [Conditional Access App Control with CAS](https://youtu.be/CvsjM8TX81c)
+* [Session Policy in CAS](https://youtu.be/hPW3E51cIac)
+* [Block Uploads in CAS](https://youtu.be/nGg2XyQWJ4o)
 
 ## Cloud App Security Demo Lab
 * [Microsoft Cloud App Security Demo Lab](https://docs.microsoft.com/en-us/cloud-app-security/getting-started-with-cloud-app-security)
