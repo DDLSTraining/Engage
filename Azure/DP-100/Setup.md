@@ -29,7 +29,6 @@ Some useful extensions:
 ## Email Address 📧
 
 1. Create a throw away email for use in Azure if you wish.
-1. DO NOT USE YOUR EXISTING MICROSOFT ACCOUNTS.
 1. Open [Outlook.com](https://outlook.live.com/owa/).
 1. Create a new `Outlook.com` account. Use your last name with the date eg: lastname20180618@outlook.com
 
