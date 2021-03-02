@@ -6,6 +6,7 @@ This document holds references related to the trend away from microservices back
 
 ## News
 
+* [2021-02-23: Modules, monoliths, and microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
 * [To Microservices and Back Again - Why Segment Went Back to a Monolith](https://www.infoq.com/news/2020/04/microservices-back-again/)
   * [Hacker News Discussion](https://news.ycombinator.com/item?id=23017160)
 
