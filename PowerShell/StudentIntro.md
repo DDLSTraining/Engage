@@ -9,15 +9,3 @@
 - How many years have you been working in IT professionally
 - What takes up your time outside of work, family, hobbies, cars, etc.
 
-
-
-
-
-
-
-
-
-
-
-
-### .
