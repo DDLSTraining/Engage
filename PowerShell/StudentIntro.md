@@ -3,7 +3,7 @@
 ### Please introduce yourself and briefly tell us a little about your experiences including
 
 - Name
-- Current Role at work
+- Current role at work
 - Your experience with any scripting or programming you have done
 - How is PowerShell used in your current role
 - How many years have you been working in IT professionally
