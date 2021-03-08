@@ -34,7 +34,7 @@
 * Security in the Cloud – Part 2
   * Securing your infrastructure
   * Monitoring and detective controls
-  * **Lab 2** – Securing VPC Resources withSecurity Groups
+  * **Lab 2** – Securing VPC Resources with Security Groups
 * Security in the Cloud – Part 3
   * DDoS mitigation
   * Incident response essentials
