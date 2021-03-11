@@ -89,7 +89,7 @@ Enter the following commands:
 
   **$dnsopssession = New-PSSession -ComputerName SEA-SVR1 -ConfigurationName DNSOps**
   
-  **Import-PSSession -Session $dnsopssession -Prefix DNSOps 
+  **Import-PSSession -Session $dnsopssession -Prefix DNSOps** 
   
   **Get-DNSOpsCommand**
 
