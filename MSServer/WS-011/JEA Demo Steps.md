@@ -31,7 +31,7 @@ Enter the following commands:
 
   **New-PSRoleCapabilityFile -Path .\DNSOps.psrc**
 
-In **SEA-ADM1**, open **File Explorer**, and then navigate to **\\sea-svr1\c$\Program Files\WindowsPowerShell\Modules\DNSops\rolecapabilities**.
+In **SEA-ADM1**, open **File Explorer**, and then navigate to **\\\sea-svr1\c$\Program Files\WindowsPowerShell\Modules\DNSops\rolecapabilities**.
 
 Open **DNSOps.psrc** in **Notepad**.
 
