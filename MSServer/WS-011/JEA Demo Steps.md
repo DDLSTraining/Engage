@@ -7,7 +7,7 @@ Open **Windows PowerShell**.
 
 Enter the following commands to create the **DNSOps security group** and add your account to it.
 
-  **New-ADGroup -Name "DNSOps" -path "OU=IT,DC=Contoso,DC=com" -GroupScope Global | Add-ADGroupMember -Members (Get-AdUser -Filter 'name -like "Administrator")** 
+  **New-ADGroup -Name "DNSOps" -path "OU=IT,DC=Contoso,DC=com" -GroupScope Global | Add-ADGroupMember -Members (Get-AdUser -Filter 'name -like "Administrator"')** 
 
 Open **Microsoft Edge**, and then in the Favorites toolbar, select **Windows Admin Center**.
 
