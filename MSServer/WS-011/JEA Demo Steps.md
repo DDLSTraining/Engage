@@ -1,11 +1,13 @@
 # Preparation
-To continue with this demonstration, you need the following virtual VMs: ** WS-011T00A-SEA-DC1, WS-011T00A-SEA-SVR1, and WS-011T00A-SEA-ADM1.**
+To continue with this demonstration, you need the following virtual VMs: **WS-011T00A-SEA-DC1, WS-011T00A-SEA-SVR1, and WS-011T00A-SEA-ADM1.**
 
-Sign in to ** SEA-ADM1 ** as Contoso\Administrator with the password Pa55w.rd.
-Open Windows PowerShell.
-Enter the following commands to create the DNSOps security group and add your account to it.
-New-ADGroup -Name "DNSOps" -path "OU=IT,DC=Contoso,DC=com" -GroupScope Global | Add-ADGroupMember -Members (Get-AdUser -Filter 'name -like "Administrator") 
-Open Microsoft Edge, and then in the Favorites toolbar, select Windows Admin Center.
+Sign in to **SEA-ADM1** as **Contoso\Administrator** with the password **Pa55w.rd**.
+Open **Windows PowerShell**.
+Enter the following commands to create the **DNSOps security group** and add your account to it.
+
+**New-ADGroup -Name "DNSOps" -path "OU=IT,DC=Contoso,DC=com" -GroupScope Global | Add-ADGroupMember -Members (Get-AdUser -Filter 'name -like "Administrator")** 
+
+Open **Microsoft Edge**, and then in the Favorites toolbar, select **Windows Admin Center**.
 Select SEA-SVR1, sign in with the previous credentials, and then select Connect.
 Under Tools, select PowerShell, and then enter the password Pa55w.rd.
 Enter the following commands:
