@@ -87,7 +87,9 @@ Select **Start**.
 
 Enter the following commands:
 
-  **$dnsopssession = New-PSSession -ComputerName SEA-SVR1 -ConfigurationName DNSOps Import-PSSession -Session $dnsopssession -Prefix DNSOps Get-DNSOpsCommand**
+  **$dnsopssession = New-PSSession -ComputerName SEA-SVR1 -ConfigurationName DNSOps**
+  
+  **Import-PSSession -Session $dnsopssession -Prefix DNSOps Get-DNSOpsCommand**
 
 Review the list of available commands.
 
