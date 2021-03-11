@@ -17,7 +17,7 @@ Under **Tools**, select **PowerShell**, and then enter the password **Pa55w.rd**
 
 Enter the following commands:
 
-   **Cd 'c:\Program Files\WindowsPowerShell\Modules** 
+   **Cd 'c:\Program Files\WindowsPowerShell\Modules'** 
 
   **Mkdir DNSOps**
 
