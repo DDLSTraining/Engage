@@ -2,6 +2,8 @@
 
 ## Articles
 
+* 2021-02-02: [AWS PrivateLink for Amazon S3 is Now Generally Available (S3 Interface Endpoint)](https://aws.amazon.com/blogs/aws/aws-privatelink-for-amazon-s3-now-available/)
+* 2020-09-30: [AWS Client VPN now supports client to client connectivity](https://aws.amazon.com/about-aws/whats-new/2020/09/aws-client-vpn-now-supports-client-to-client-connectivity/)
 * 2020-05-19: [Amazon RDS for SQL Server now supports SQL Server Integration Services (SSIS)](https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-rds-for-sql-server-now-supports-sql-server-integration-services/)
 * 2020-05-15: [Amazon RDS for SQL Server now supports SQL Server Reporting Services (SSRS)](https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-rds-for-sql-server-now-supports-sql-server-reporting-services/)
 * 2020-04-20: [Amazon RDS for SQL Server now supports SQL Server Analysis Services (SSAS)](https://aws.amazon.com/about-aws/whats-new/2020/04/amazon-rds-sql-server-now-supports-sql-server-analysis-service/)
