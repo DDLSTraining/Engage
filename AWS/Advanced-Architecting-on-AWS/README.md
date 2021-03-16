@@ -21,35 +21,46 @@
 
 ### Day One
 
-|Module|Name|Duration|
-|-|-|-|
-|0|Architecting on AWS Review|30|
-|1|AWS Account Management|45|
-|2a|Advanced Networking on AWS Part A|45|
-|Lab 1|Multi-VPC Connectivity Over VPN|45|
-|2b|Advanced Networking on AWS Part B|45|
-|3|Deployment Management on AWS|45|
-|Exercise 1|Build a Hybrid Architecture|60|
+|Module|Duration|
+|-|-|
+|Module 0: Introductions and Course Overview|30|
+|Module 1: Review Architecting Concepts|40|
+|Lab 1: Securing Amazon S3 VPC Endpoint Communications|45|
+|Break (Coffee)|15|
+|Module 2: Single to Multiple Accounts|35|
+|Module 3: Hybrid Connectivity|45|
+|Break (Lunch)|60|
+|Module 4: Specialized Infrastructure|30|
+|Module 5: Connecting Networks|40|
+|Lab 2: Configuring AWS Transit Gateways|60|
 
 ### Day Two
 
-|Module|Name|Duration|
-|-|-|-|
-|4a|Data Part A|60|
-|Lab 2|Build a Failover Solution with Amazon Route 53 and Amazon RDS Read Replication|45|
-|4b|Data Part B|60|
-|4c|Data Part C|45|
-|5|Designing for Large Scale Applications|60|
-|Lab 3|Blue-Green Deployment with Elastic Beanstalk and Amazon ElastiCache|45|
-|Exercise 2|All-in On AWS|45|
+|Module|Duration|
+|-|-|
+|Introduction, poll, icebreaker|10|
+|Module 6: Containers|40|
+|Lab 3: Application Deployment with Amazon EKS on Fargate|90|
+|Break (Coffee)|15|
+|Module 7: Continuous Integration/Continuous Delivery (CI/CD)|30|
+|Module 8: Architecting for high availability and DDoS protection|55|
+|Module 9: Securing Data|60|
+|Break (Lunch)|60|
+|Module 10: Large-Scale Data Stores
+|Break (Coffee)|15|
+|Lab 4: Setting Up a Data Lake with Lake Formation|60|
 
 ### Day Three
 
-|Module|Name|Duration|
-|-|-|-|
-|6a|Building Resilient Architectures Part A|45|
-|Lab 4|CloudFront Content Delivery and Automating WAF Rules|45|
-|6b|Building Resilient Architectures Part B|45|
-|7|Encryption and data security|60|
-|Lab 5|Using KMS Envelope Encryption|30|
-|8|Course Wrap-Up|20|
+|Module|Duration|
+|-|-|
+|Introduction, poll, icebreaker|10|
+|Module 11: Large-Scale Applications|45|
+|Lab 5: Migrating an On-Premises NFS Share Using DataSync and Storage Gateway|60|
+|Break (Coffee)|15|
+|Module 12: Optimizing Cost|55|
+|Module 13: Migrating Workloads|45|
+|Survey, feedback, and discussion|15|
+|Break (Lunch)|60|
+|Capstone and Online Course Supplement (OCS)|20|
+|Module 14: Capstone Project|90|
