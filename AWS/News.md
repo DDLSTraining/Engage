@@ -2,6 +2,7 @@
 
 ## Articles
 
+* 2021-03-18: [Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
 * 2021-02-02: [AWS PrivateLink for Amazon S3 is Now Generally Available (S3 Interface Endpoint)](https://aws.amazon.com/blogs/aws/aws-privatelink-for-amazon-s3-now-available/)
 * 2020-09-30: [AWS Client VPN now supports client to client connectivity](https://aws.amazon.com/about-aws/whats-new/2020/09/aws-client-vpn-now-supports-client-to-client-connectivity/)
 * 2020-05-19: [Amazon RDS for SQL Server now supports SQL Server Integration Services (SSIS)](https://aws.amazon.com/about-aws/whats-new/2020/05/amazon-rds-for-sql-server-now-supports-sql-server-integration-services/)
