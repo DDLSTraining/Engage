@@ -81,12 +81,17 @@ accessed from any browser or mobile device.
 
 ## Application Services
 
+### Amazon AppFlow
+
+[Amazon AppFlow](https://aws.amazon.com/AppFlow/) is a fully managed integration service that enables you to securely transfer data between Software-as-a-Service (SaaS) applications like Salesforce, Zendesk, Slack, and ServiceNow, and AWS services like Amazon S3 and Amazon Redshift, in just a few clicks.
+
+🤔 Think of AppFlow as a service to set up secure data flows in minutes, without managing complex connectors or writing code.
+
 ### Amazon API Gateway
 
 [Amazon API Gateway](https://aws.amazon.com/api-gateway/) is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. With a few clicks in the AWS Management Console, you can create an API that acts as a “front door” for applications to access data, business logic, or functionality from your back-end services, such as workloads running on Amazon Elastic Compute Cloud (Amazon EC2), code running on AWS Lambda, or any web application.
 
 🤔 Think of API Gateway as a front door to your browser or mobile application backend data.
-
 ### Amazon AppStream
 
 [Amazon AppStream](https://aws.amazon.com/appstream2/) 2.0 is a fully managed application streaming service. You centrally manage your desktop applications on AppStream 2.0 and securely deliver them to any computer. You can easily scale to any number of users across the globe without acquiring, provisioning, and operating hardware or infrastructure.
