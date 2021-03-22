@@ -139,7 +139,7 @@ If you require external signals to intervene in your processes, or you would lik
 
 🤔 Think of WorkMail as cloud-based email and personal management software, calendar etc.
 
-### Amazon WorkMail
+### Amazon AppStream 2.0
 
 [Amazon AppStream 2.0](https://aws.amazon.com/appstream2/) AppStream 2.0 is a fully managed application streaming service that provides users instant access to their desktop applications from anywhere. AppStream 2.0 simplifies application management, improves security, and reduces costs by moving a company's applications from their users' physical devices to the AWS Cloud.
 
