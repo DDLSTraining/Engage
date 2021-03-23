@@ -4,6 +4,7 @@
 
 * [Courseware at eVantage by Gilmore Global](https://evantage.gilmoreglobal.com/#/user/signin)
 * [Qwiklabs](https://ddls.qwiklabs.com/)
+* [Advanced Architecting on AWS - Online Course Supplement](https://www.aws.training/Details/eLearning?id=56205)
 * [AWS Certification](https://aws.amazon.com/certification/)
 * [AWS Certified Solutions Architect - Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 
