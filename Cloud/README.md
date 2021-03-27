@@ -4,6 +4,8 @@ This directory contains resources common to any cloud provider.
 
 * [The Cloud: What is happening behind the scenes](https://i.imgur.com/3Yiw2JH.mp4)
 
+![Cloud](https://imgs.xkcd.com/comics/the_cloud.png)
+
 ![Dilbert](https://pbs.twimg.com/media/ED0_GsqU0AAw0Z1?format=jpg)
 
 ## Cloud Computing Characteristics
