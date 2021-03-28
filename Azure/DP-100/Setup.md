@@ -28,15 +28,18 @@ Some useful extensions:
 
 ## Email Address 📧
 
-1. Create a throw away email for use in Azure if you wish.
-1. Open [Outlook.com](https://outlook.live.com/owa/).
+You have two options here: use a work or personal email address, or create a throwaway email address.
+
+If you wish to keep the Azure Machine Learning workspace after the course as a reference, then use a work or personal email address and skip to the `Azure Account` setup.
+
+1. To create a throwaway email address, open [Outlook.com](https://outlook.live.com/owa/).
 1. Create a new `Outlook.com` account. Use your last name with the date eg: lastname20180618@outlook.com
 
 ## Azure Account ⚿
 
 To create an Azure subscription you need to prove you are a person and an adult. This is done with a credit card. If you have been supplied with an Azure Pass you can avoid the need to use a credit card:
 
-1. Use your new `outlook.com` email address in the following steps.
+1. When prompted in the below steps, login with your chosen email address.
 1. Open one of the links below and create your Azure account:
    * Azure Pass: https://www.microsoftazurepass.com/
    * Trial Account (Credit Card Required): https://azure.microsoft.com/en-us/free/
