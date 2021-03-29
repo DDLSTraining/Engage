@@ -2,12 +2,6 @@
 
 This directory contains resources common to any cloud provider.
 
-* [The Cloud: What is happening behind the scenes](https://i.imgur.com/3Yiw2JH.mp4)
-
-![Cloud](https://imgs.xkcd.com/comics/the_cloud.png)
-
-![Dilbert](https://pbs.twimg.com/media/ED0_GsqU0AAw0Z1?format=jpg)
-
 ## Cloud Computing Characteristics
 
 The [National Institute of Standards and Technology's](https://www.nist.gov/) definition of cloud computing identifies "five essential characteristics":
@@ -22,7 +16,17 @@ The [National Institute of Standards and Technology's](https://www.nist.gov/) de
 
 * __Measured service__: Cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, and active user accounts). Resource usage can be monitored, controlled, and reported, providing transparency for both the provider and consumer of the utilized service.
 
-## Containers
+## Learning Resources
+
+* [DevOps Exercises (GitHub)](https://github.com/bregman-arie/devops-exercises)
+
+## Fun
+
+* [The Cloud: What is happening behind the scenes](https://i.imgur.com/3Yiw2JH.mp4)
+
+![Cloud](https://imgs.xkcd.com/comics/the_cloud.png)
+
+![Dilbert](https://pbs.twimg.com/media/ED0_GsqU0AAw0Z1?format=jpg)
 
 [![Containers](https://imgs.xkcd.com/comics/containers.png)](https://xkcd.com/1988/)
 
