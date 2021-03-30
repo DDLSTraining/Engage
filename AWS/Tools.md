@@ -34,3 +34,4 @@ Default output format [None]: ENTER
 * [Spotinst: Cloud Workload Automation](https://spotinst.com/)
 * [Cloud Conformity](https://www.cloudconformity.com/)
 * [RBAC Management Pipeline](https://github.com/mechanicalpete/rbac-management-pipeline)
+* [LocalStack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack.
