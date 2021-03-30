@@ -24,6 +24,10 @@
 
 See [Serverless on Kubernetes](https://github.com/DDLSTraining/Engage/blob/master/Cloud/Serverless.md#serverless-on-kubernetes) from the Serverless document.
 
+### Resources
+
+* [Awesome Kubernetes (GitHub)](https://github.com/ramitsurana/awesome-kubernetes)
+
 ## Learn Kubernetes Cluster Management with Minikube
 
 The [Kubernetes](https://github.com/kubernetes) organization on GitHub manages a learning tool called [Minikube](https://github.com/kubernetes/minikube).
