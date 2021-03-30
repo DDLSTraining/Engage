@@ -2,9 +2,15 @@
 
 Here are some good reasons to start using Firefox:
 
-* [State Partitioning](https://hacks.mozilla.org/2021/02/introducing-state-partitioning/)
+
 * [Mozilla's Mission](https://www.mozilla.org/en-US/about/): Keep the internet open and accessible to all.
-* [2020-02-25: Firefox continues push to bring DNS over HTTPS by default for US users](https://blog.mozilla.org/blog/2020/02/25/firefox-continues-push-to-bring-dns-over-https-by-default-for-us-users/)
+* [Browser Market Share Worldwide](https://gs.statcounter.com/) - Chrome is becoming the new IE (control).
+  * [Video: Browser Market Share (1996-2019)](https://www.youtube.com/watch?v=es9DNe0l0Qo)
+* [Install Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
+Articles:
+
+* [2021-02-23: State Partitioning](https://hacks.mozilla.org/2021/02/introducing-state-partitioning/)* [2020-02-25: Firefox continues push to bring DNS over HTTPS by default for US users](https://blog.mozilla.org/blog/2020/02/25/firefox-continues-push-to-bring-dns-over-https-by-default-for-us-users/)
 * [2020-01-11: I finally switched from Chrome to Mozilla Firefox — and you should too](https://www.digitaltrends.com/computing/mozilla-firefox-chrome-review-comparison-2020/)
 * [2019-10-22: Firefox v70](https://www.mozilla.org/en-US/firefox/70.0/releasenotes/)
   * [Protect your privacy ](https://support.mozilla.org/en-US/products/firefox/protect-your-privacy)
@@ -14,9 +20,6 @@ Here are some good reasons to start using Firefox:
 * [2019-10-22: Latest Firefox Brings Privacy Protections Front and Center Letting You Track the Trackers](https://blog.mozilla.org/blog/2019/10/22/latest-firefox-brings-privacy-protections-front-and-center-letting-you-track-the-trackers/)
 * [2019-06-12: Google Says It Isn't Killing Ad Blockers. Ad Blockers Disagree](https://www.wired.com/story/google-chrome-ad-blockers-extensions-api/)
 * [2018-05-30: Bye, Chrome: Why I’m switching to Firefox and you should too](https://www.fastcompany.com/90174010/bye-chrome-why-im-switching-to-firefox-and-you-should-too)
-* [Browser Market Share Worldwide](https://gs.statcounter.com/) - Chrome is becoming the new IE (control).
-  * [Video: Browser Market Share (1996-2019)](https://www.youtube.com/watch?v=es9DNe0l0Qo)
-* [Install Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 Some useful extensions:
 
