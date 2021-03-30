@@ -13,6 +13,7 @@
 * [BitBucket - Atlassian](https://www.atlassian.com/software/bitbucket) - SCM.
 * [Bamboo - Atlassian](https://www.atlassian.com/software/bamboo) - CI/CD.
 * [JAMS](http://www.jamsscheduler.com/) - IT Automation Solutions.
+* [Pulumi](https://github.com/pulumi/pulumi) - Modern Infrastructure as Code. Any cloud, any language.
 
 ## Benchmarking
 
