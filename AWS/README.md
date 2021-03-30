@@ -6,6 +6,7 @@
 * [AWS Application Architecture](https://aws.amazon.com/architecture/)
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 * [10-Minute Tutorials](https://aws.amazon.com/getting-started/tutorials/)
+* [Awesome AWS (GitHub)](https://github.com/donnemartin/awesome-aws)
 
 ## Content
 
