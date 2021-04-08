@@ -22,6 +22,10 @@
 * [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
 * [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 
+## Extra Content
+
+* [StackOverflow: Parameter Store vs Secrets Manager vs Environment Variation in Lambda](https://stackoverflow.com/questions/63235425/aws-system-manager-parameter-store-vs-secrets-manager-vs-environment-variation-i)
+
 ## Course Layout
 
 ### Day One
