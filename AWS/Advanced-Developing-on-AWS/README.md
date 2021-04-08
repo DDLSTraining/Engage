@@ -24,7 +24,7 @@
 
 ## Extra Content
 
-* [StackOverflow: Parameter Store vs Secrets Manager vs Environment Variation in Lambda](https://stackoverflow.com/questions/63235425/aws-system-manager-parameter-store-vs-secrets-manager-vs-environment-variation-i)
+* [StackOverflow: Parameter Store vs Secrets Manager vs Environment Variables in Lambda](https://stackoverflow.com/questions/63235425/aws-system-manager-parameter-store-vs-secrets-manager-vs-environment-variation-i)
 
 ## Course Layout
 
