@@ -6,6 +6,10 @@
 * [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
 * [AZ-303 Exam Details](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
 
+## Resources
+
+* [Azure Subcription Service Limits](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
+
 ## Modules
 
 * Module 1: Implement Azure Active Directory
