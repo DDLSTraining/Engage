@@ -12,23 +12,38 @@
 
 ## Modules
 
+### Day 1
+
+* Introductions and Setup
 * Module 1: Implement Azure Active Directory
 * Module 2: Implement and Manage Hybrid Identities
 * Module 3: Implement Virtual Networking
+
+### Day 2
+
 * Module 4: Implement VMs for Windows and Linux
 * Module 5: Implement Load Balancing and Network Security
   * Lab: Implementing Highly Available Azure IaaS Compute Architecture
 * Module 6: Implement Storage Accounts
   * Lab: Implementing and configuring Azure Storage File and Blob Services
+
+### Day 3
+
 * Module 7: Implement NoSQL Databases
 * Module 8: Implement Azure SQL Databases
 * Module 9: Automate Deployment and Configuration of Resources
 * Module 10: Implement and Manage Azure Governance Solutions
   * Lab: Managing Azure Role-Based Access Control
+
+### Day 4
+
 * Module 11: Manage Security for Applications
 * Module 12: Manage Workloads in Azure
   * Lab: Protecting Hyper-V VMs by using Azure Site Recovery
 * Module 13: Implement Container-Based Applications
+ 
+### Day 5
+
 * Module 14: Implement an Application Infrastructure
   * Lab: Implementing an Azure App Service Web App with a staging slot
   * Lab: Configure a message-based integration architecture
