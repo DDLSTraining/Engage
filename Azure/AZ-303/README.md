@@ -10,6 +10,7 @@
 
 * [Azure Subcription Service Limits](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
 * [Regions and Availability Zones in Azure](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
+* [cloud init](https://cloud-init.io/)
 
 ## Modules
 
