@@ -28,11 +28,11 @@
 * Module 4: Implement VMs for Windows and Linux
 * Module 5: Implement Load Balancing and Network Security
   * Lab: Implementing Highly Available Azure IaaS Compute Architecture
-* Module 6: Implement Storage Accounts
-  * Lab: Implementing and configuring Azure Storage File and Blob Services
 
 ### Day 3
 
+* Module 6: Implement Storage Accounts
+  * Lab: Implementing and configuring Azure Storage File and Blob Services
 * Module 7: Implement NoSQL Databases
 * Module 8: Implement Azure SQL Databases
 * Module 9: Automate Deployment and Configuration of Resources
