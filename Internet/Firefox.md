@@ -10,6 +10,7 @@ Here are some good reasons to start using Firefox:
 
 Articles:
 
+* [2021-04-10: uBlock Origin works best on Firefox](https://news.ycombinator.com/item?id=26755252)
 * [2021-02-23: State Partitioning](https://hacks.mozilla.org/2021/02/introducing-state-partitioning/)* [2020-02-25: Firefox continues push to bring DNS over HTTPS by default for US users](https://blog.mozilla.org/blog/2020/02/25/firefox-continues-push-to-bring-dns-over-https-by-default-for-us-users/)
 * [2020-01-11: I finally switched from Chrome to Mozilla Firefox — and you should too](https://www.digitaltrends.com/computing/mozilla-firefox-chrome-review-comparison-2020/)
 * [2019-10-22: Firefox v70](https://www.mozilla.org/en-US/firefox/70.0/releasenotes/)
