@@ -2,6 +2,7 @@
 
 * [Microsoft Learning AZ-303 GitHub Repository](https://github.com/MicrosoftLearning/AZ-303-Microsoft-Azure-Architect-Technologies)
 * [Microsoft Hands-on Labs (Self-paced Labs)](https://www.microsoft.com/handsonlabs/selfpacedlabs)
+* [Learn On Demand Labs (DDLS)](https://ddls.learnondemand.net/)
 * [AZ-303 on DDLS](https://www.ddls.com.au/courses/microsoft/azure/microsoft-az-303t00-microsoft-azure-architect-technologies/)
 * [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
 * [AZ-303 Exam Details](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
