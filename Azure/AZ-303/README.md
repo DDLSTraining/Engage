@@ -15,12 +15,15 @@
 * [Security services and technologies available on Azure](https://docs.microsoft.com/en-us/azure/security/fundamentals/services-technologies)
 * [Use Azure Spot Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms)
 * [Rclone](https://rclone.org/)
+* [PowerShell Gallery](https://www.powershellgallery.com/)
 * Database Management:
   * [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
   * [DBeaver](https://dbeaver.io/)
 * Deployment:
   * [Quickstart Templates](https://azure.microsoft.com/en-au/resources/templates/) ([GitHub](https://github.com/Azure/azure-quickstart-templates))
   * [Packer](https://www.packer.io/)
+  * [Terraform](https://www.terraform.io/)
+  * [Pulumi](https://www.pulumi.com/)
 
 ## Modules
 
@@ -44,11 +47,11 @@
 * Module 7: Implement NoSQL Databases
 * Module 8: Implement Azure SQL Databases
 * Module 9: Automate Deployment and Configuration of Resources
-* Module 10: Implement and Manage Azure Governance Solutions
-  * Lab: Managing Azure Role-Based Access Control
 
 ### Day 4
 
+* Module 10: Implement and Manage Azure Governance Solutions
+  * Lab: Managing Azure Role-Based Access Control
 * Module 11: Manage Security for Applications
 * Module 12: Manage Workloads in Azure
   * Lab: Protecting Hyper-V VMs by using Azure Site Recovery
