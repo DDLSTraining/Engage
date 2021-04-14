@@ -15,6 +15,9 @@
 * [Security services and technologies available on Azure](https://docs.microsoft.com/en-us/azure/security/fundamentals/services-technologies)
 * [Use Azure Spot Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms)
 * [Rclone](https://rclone.org/)
+* Database Management:
+  * [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+  * [DBeaver](https://dbeaver.io/)
 
 ## Modules
 
