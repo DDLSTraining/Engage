@@ -18,7 +18,9 @@
 * Database Management:
   * [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
   * [DBeaver](https://dbeaver.io/)
-* [Quickstart Templates](https://azure.microsoft.com/en-au/resources/templates/) ([GitHub](https://github.com/Azure/azure-quickstart-templates))
+* Deployment:
+  * [Quickstart Templates](https://azure.microsoft.com/en-au/resources/templates/) ([GitHub](https://github.com/Azure/azure-quickstart-templates))
+  * [Packer](https://www.packer.io/)
 
 ## Modules
 
