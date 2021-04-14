@@ -13,6 +13,7 @@
 * [cloud init](https://cloud-init.io/)
 * [Security services and technologies available on Azure](https://docs.microsoft.com/en-us/azure/security/fundamentals/services-technologies)
 * [Use Azure Spot Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms)
+* [Rclone](https://rclone.org/)
 
 ## Modules
 
