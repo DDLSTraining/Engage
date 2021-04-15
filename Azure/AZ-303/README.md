@@ -59,10 +59,10 @@
 * Module 11: Manage Security for Applications
 * Module 12: Azure Migrate Server Migration
   * Lab: Protecting Hyper-V VMs by using Azure Site Recovery
-* Module 13: Implement Container-Based Applications
  
 ### Day 5
 
+* Module 13: Implement Container-Based Applications
 * Module 14: Implement an Application Infrastructure
   * Lab: Implementing an Azure App Service Web App with a staging slot
   * Lab: Configure a message-based integration architecture
