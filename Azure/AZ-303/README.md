@@ -15,7 +15,9 @@
 * [Security services and technologies available on Azure](https://docs.microsoft.com/en-us/azure/security/fundamentals/services-technologies)
 * [Use Azure Spot Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms)
 * [Rclone](https://rclone.org/)
-* [PowerShell Gallery](https://www.powershellgallery.com/)
+* Command Line:
+  * [Install the Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
+  * [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/?view=azps-5.8.0) - [PowerShell Gallery](https://www.powershellgallery.com/)
 * Database Management:
   * [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
   * [DBeaver](https://dbeaver.io/)
@@ -24,6 +26,7 @@
   * [Packer](https://www.packer.io/)
   * [Terraform](https://www.terraform.io/)
   * [Pulumi](https://www.pulumi.com/)
+* [Azure Migrate](https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview)
 
 ## Modules
 
