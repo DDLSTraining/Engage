@@ -53,7 +53,7 @@
 * Module 10: Implement and Manage Azure Governance Solutions
   * Lab: Managing Azure Role-Based Access Control
 * Module 11: Manage Security for Applications
-* Module 12: Manage Workloads in Azure
+* Module 12: Azure Migrate Server Migration
   * Lab: Protecting Hyper-V VMs by using Azure Site Recovery
 * Module 13: Implement Container-Based Applications
  
