@@ -27,6 +27,7 @@
   * [Terraform](https://www.terraform.io/)
   * [Pulumi](https://www.pulumi.com/)
 * [Azure Migrate](https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview)
+* [Quickstart: Deploy an Azure Kubernetes Service cluster using the Azure CLI](https://docs.microsoft.com/en-au/azure/aks/kubernetes-walkthrough)
 
 ## Modules
 
