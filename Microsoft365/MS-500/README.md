@@ -40,6 +40,7 @@
 * [Assigning Roles to a Group](https://docs.microsoft.com/en-us/azure/active-directory/roles/groups-concept)
 * [Blocking O365 Group Creation](https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
 * [AD Cloud Sync](https://azure.microsoft.com/en-us/overview/security/azure-security-expert-series/)
+* [AD Sloud Sync - Deep Dive](https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/concept-how-it-works)
 * 
 
 ## Videos
