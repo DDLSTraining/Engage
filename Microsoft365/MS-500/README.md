@@ -39,7 +39,8 @@
 * [Information Barriers](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies)
 * [Assigning Roles to a Group](https://docs.microsoft.com/en-us/azure/active-directory/roles/groups-concept)
 * [Blocking O365 Group Creation](https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
-
+* [AD Cloud Sync](https://azure.microsoft.com/en-us/overview/security/azure-security-expert-series/)
+* 
 
 ## Videos
 
@@ -82,6 +83,7 @@
 * [Azure Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
 * [Azure Sentinel Setup](https://youtu.be/Cyd16wVwxZc)
 * [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
+* [Sentinel Resource Centre]https://azure.microsoft.com/en-us/overview/security/azure-security-expert-series/)
 
 ## AutoPilot & Config Mgr
 * [Transfer Config Manager WorkLoads to Intune](https://www.anoopcnair.com/sccm-co-management-configuration-8/)
