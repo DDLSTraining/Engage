@@ -41,25 +41,38 @@
 * [Blocking O365 Group Creation](https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
 * [AD Cloud Sync](https://azure.microsoft.com/en-us/overview/security/azure-security-expert-series/)
 * [AD Sloud Sync - Deep Dive](https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/concept-how-it-works)
-* 
 
 ## Videos
 
 * [Phishing](https://youtu.be/MCYC8kV1mmc)
 * [Secure Score](https://youtu.be/jzfpDJ9Kg-A)
 * [Secure score API (JSON)](https://youtu.be/vg3QKQWVD6Y)
-* [Advanced Threat Protection (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
-* [Windows defender Advanced Threat Protection](https://youtu.be/qxeGa3pxIwg)
-* [Advanced Threat Protection – Windows 10 etc](https://youtu.be/HkQZR9RBbPE)
+
 * [Microsft Graph](https://youtu.be/PI9NO5rayiY)
 * [Compliance Manager Demo](https://youtu.be/r1vs8NdSXKQ?list=PLXPr7gfUMmKyMW5RRW9kmLjX31OTwqhf5)
-* [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
+
 * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
 * [Regular Expressions](https://youtu.be/sa-TUpSx1JA)
 * [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
 * [Advanced Threat Analytics](https://docs.microsoft.com/en-us/advanced-threat-analytics/install-ata-step1)
 * [Information Barriers](https://youtu.be/461LfU06RbA?t=416)
 * [Azure Analytics](https://youtu.be/T2Vpi6ph8ck)
+
+
+## Defender
+* [Advanced Threat Protection (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
+* [Windows defender Advanced Threat Protection](https://youtu.be/qxeGa3pxIwg)
+* [Advanced Threat Protection – Windows 10 etc](https://youtu.be/HkQZR9RBbPE)
+* [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
+* [Configuring Defender for Identity](https://youtu.be/rMHNJb2IXJ0?t=229)
+* [Defnder for Endpoint Evaluation Demo](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/evaluation-lab?view=o365-worldwide)
+* [Advanced Threat Hund Defender for Endpoint](https://youtu.be/4NQphnL0YR8)
+* [Defender for Endpoint Resources](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647
+)
+* [Defender for Endpoint as a StandAlone Licence](https://www.infusedinnovations.com/blog/secure-intelligent-workplace/microsoft-defender-atp-standalone-is-now-available
+)
+* [Defender for Endpont Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
+
 
 
 ## Cloud App Security Videos
