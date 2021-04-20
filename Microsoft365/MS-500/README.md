@@ -97,7 +97,7 @@
 * [Azure Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
 * [Azure Sentinel Setup](https://youtu.be/Cyd16wVwxZc)
 * [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
-* [Sentinel Resource Centre]https://azure.microsoft.com/en-us/overview/security/azure-security-expert-series/)
+* [Sentinel Resource Centre](https://azure.microsoft.com/en-us/overview/security/azure-security-expert-series/)
 
 ## AutoPilot & Config Mgr
 * [Transfer Config Manager WorkLoads to Intune](https://www.anoopcnair.com/sccm-co-management-configuration-8/)
