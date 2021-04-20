@@ -14,8 +14,8 @@ Notes and resources for Microsoft Office 365 and Microsoft 365 courses.
 * [Microsoft 365 Roadmap](https://www.microsoft.com/en-au/microsoft-365/roadmap)
 
 ## Resources
-* [LICENCING GUIDE](https://docs.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#microsoft-defender-for-identity)
 * [Microsoft 365 licensing diagrams](https://github.com/AaronDinnage/Licensing)
+* [LICENCING GUIDE](https://docs.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#microsoft-defender-for-identity)
 * [Connect to All Office 365 Services via PShell in one step[(https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-all-office-365-services-in-a-single-windows-powershell-window)
 
 ## News
