@@ -34,7 +34,7 @@
 |-|-|
 |Course Introduction|30 min|
 |Module 1: The Cloud Journey|2.5 hrs|
-|Lab 1: Deploy your monolith application using AWS Elastic Beanstalk|1 - 1.5 hrs|
+|Lab 1: Deploy your monolith application using AWS Elastic Beanstalk|2.5 hrs|
 |Module 2: Gaining Agility|1.5 hrs|
 
 ### Day Two
@@ -44,7 +44,7 @@
 |Module 3: Monolith to microservices|2 hrs|
 |Lab 2: Using AWS Lambda to develop microservices|1.5 hrs|
 |Module 4: Polyglot persistence and distributed complexity|2 hrs|
-|Lab 3: Introduction to the Cloud Development Kit|1 hr|
+|Lab 3: Introduction to the Cloud Development Kit|2 hr|
 
 ### Day Three
 
