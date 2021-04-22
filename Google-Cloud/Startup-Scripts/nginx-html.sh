@@ -1,13 +1,24 @@
 #! /bin/bash
 apt update
 apt install -y nginx
-# The following path is correct for Debian Buster
-cat <<EOF > /var/www/html/index.nginx-debian.html
+# The following path is the nginx default site location
+cat <<EOF > /var/www/html/index.html
 <!DOCTYPE html>
-<html>
-  <body>
-    <h1>Hello from Mr Roo!</h1>
-    <p>This page was created from a simple startup script!</p>
-    <img src="https://storage.googleapis.com/rooblue-static/images/roo.jpg"></img>
-  </body>
+<html lang="en">
+<head>
+  <style>
+    html,
+    body {
+      height: 100%;
+      text-align: center;
+    }
+    img {
+      max-height: 80%;
+    }
+  </style>
+</head>
+<body>
+  <h1>G'Day from Eastern Grey!</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Macropus_giganteus_-_Brunkerville.jpg"></img>
+</body>
 </html>
