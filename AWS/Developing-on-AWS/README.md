@@ -8,7 +8,7 @@
 
 ### Lab Links
 
-* [Solutions for All Labs - Developing on AWS v3.4](https://aws-tc-largeobjects.s3.amazonaws.com/AWS-100-DEV/v3.3/fullCodeForAllLabs.html) [Archived v3.1](https://aws-tc-largeobjects.s3.amazonaws.com/AWS-100-DEV/v3.1/fullCodeForAllLabs.html)
+* [Solutions for All Labs - Developing on AWS v3.4](https://aws-tc-largeobjects.s3.amazonaws.com/AWS-100-DEV/v3.3/fullCodeForAllLabs.html)
 * [Install Apache Maven on Amazon Linux](https://docs.aws.amazon.com/neptune/latest/userguide/iam-auth-connect-prerq.html)
 
 ## Resources
