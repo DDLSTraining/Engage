@@ -19,6 +19,7 @@
 * [Eliminate weak passwords in the cloud](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-password-ban-bad)
 * [Information Barriers](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies)
 * [Windows as a Service Resources](https://docs.microsoft.com/en-us/windows/deployment/update/waas-mobile-updates)
+* [Cloud App Security Stuff](https://docs.microsoft.com/en-us/cloud-app-security/)
 
 ## Videos
 
@@ -31,6 +32,8 @@
 * [Microsft Graph](https://youtu.be/PI9NO5rayiY)
 * [Compliance Manager Demo](https://youtu.be/r1vs8NdSXKQ?list=PLXPr7gfUMmKyMW5RRW9kmLjX31OTwqhf5)
 * [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
+* [Cloud App Security Guided Demonstration](https://mslearn.cloudguides.com/en-us/guides/Discover,%20protect,%20and%20control%20your%20apps%20with%20Microsoft%20Cloud%20App%20Security)
+
 * [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
 * [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
 * [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
