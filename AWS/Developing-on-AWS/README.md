@@ -45,18 +45,16 @@
 |7|Developing Solutions with AWS Lambda|45|
 |8|Developing Solutions with Amazon API Gateway|45|
 |Lab 4|Developing Event-Driven Solutions with AWS Lambda|60|
-|9|Developing Solutions with Amazon SQS & SNS|60|
-|Lab 5|Developing Messaging Solutions with Amazon SQS & SNS|60|
-|10|Developing Solutions with AWS Step Functions|30|
+|9|Developing Solutions with AWS Step Functions|30|
 
 ## Day Three
 
 |Module|Activity|Duration|
 |-|-|-|
+|10|Developing Solutions with Amazon SQS & SNS|60|
+|Lab 5|Developing Messaging Solutions with Amazon SQS & SNS|45|
 |11|Caching Information with Amazon ElastiCache|20|
-|12|Getting Started with Containers|30|
-|Lab 6|Getting Started with Docker Containers|45|
-|13|Developing Secure Solutions|30|
-|14|Deploying Applications|45|
-|Lab 7|Building an End to End Application|120|
-|15|Course Wrap-Up|15|
+|12|Developing Secure Solutions|30|
+|13|Deploying Applications|45|
+|Lab 6|Building an End to End Application|120|
+|14|Course Wrap-Up|15|
