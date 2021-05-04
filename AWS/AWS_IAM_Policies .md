@@ -24,19 +24,28 @@ But an explicit deny in either of these policies overrides the allow.
 
 # Choosing between managed policies & inline policies
 
-In most cases, we recommend that you use Managed policies instead of Inline policies as Managed policies provide the following features:
-Reusability - A single managed policy can be attached to multiple principal entities (users, groups, and roles).  You can create a library of policies that define permissions that are useful for your AWS account, and then attach these policies to principal entities as needed.
-Central change management - When you change a managed policy, the change is applied to all principal entities that the policy is attached to. In contrast, to change an inline policy you must individually edit each identity that contains the policy. 
-Versioning and rolling back - When you change a customer managed policy, IAM creates a new version of the managed policy and stores up to 5 versions which you can revert back to.
-Delegating permissions management -  You can designate some users as full administrators - that is, administrators that can create, update, and delete policies. You can then designate other users as limited administrators that can attach policies to other principal entities, but only the policies that you have allowed them to attach.
-Automatic updates for AWS managed policies - AWS maintains AWS managed policies and updates them when necessary.  The updates are automatically applied to the principal entities that you have attached the AWS managed policy to.
+In most cases, we recommend that you use **Managed policies** instead of **Inline policies** as **Managed policies** provide the following features:
+
+* **Reusability -** A single managed policy can be attached to multiple principal entities (users, groups, and roles).  You can create a library of policies that define permissions that are useful for your AWS account, and then attach these policies to principal entities as needed.
+
+* **Central change management -** When you change a managed policy, the change is applied to all principal entities that the policy is attached to. In contrast, to change an inline policy you must individually edit each identity that contains the policy. 
+
+* **Versioning and rolling back -** When you change a customer managed policy, IAM creates a new version of the managed policy and stores up to 5 versions which you can revert back to.
+
+* **Delegating permissions management -**  You can designate some users as full administrators - that is, administrators that can create, update, and delete policies. You can then designate other users as limited administrators that can attach policies to other principal entities, but only the policies that you have allowed them to attach.
+
+* **Automatic updates for AWS managed policies -** AWS maintains AWS managed policies and updates them when necessary.  The updates are automatically applied to the principal entities that you have attached the AWS managed policy to.
 
 # Choosing between managed policies & inline policies
 
-Using Inline policies
+**Using Inline policies**
+
 Inline policies are useful if you want to maintain a strict one-to-one relationship between a policy and the identity that it's applied to. 
+
 For example, you want to be sure that the permissions in a policy are not inadvertently assigned to an identity other than the one they're intended for. 
+
 When you use an inline policy, the permissions in the policy cannot be inadvertently attached to the wrong identity. 
+
 In addition, when you use the AWS Management Console to delete that identity, the policies embedded in the identity are deleted as well. That's because they are part of the principal entity.
 
 
