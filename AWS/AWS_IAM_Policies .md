@@ -4,10 +4,10 @@
 
    **Managed policies** – Are standalone policies that you attach to multiple users, groups and roles.
 
-    There are two types of managed policies:
+   There are two types of managed policies:
     
-**AWS managed policies** – Created and managed by AWS.
-**Customer managed policies** –created and managed by you & provide a more precise control
+..* **AWS managed policies** – Created and managed by AWS.
+..* **Customer managed policies** –created and managed by you & provide a more precise control
 Inline policies – Are added directly to a single user, group, or role. They maintain a strict one-to-one relationship between a policy and an identity. They are deleted when you delete the identity.
 Resource-based policies - are attached to a resource such as an Amazon S3 bucket. These policies grant the specified principal permission to perform specific actions on that resource and defines under what conditions this applies. Resource-based policies are inline policies. There are no managed resource-based policies.
 
