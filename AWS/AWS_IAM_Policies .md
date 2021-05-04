@@ -1,8 +1,8 @@
 # AWS IAM Policies - Summary
-============================
+
 **Identity-based policies:-** are JSON documents that control what actions an identity (users, groups of users, and roles) can perform, on which resources, and under what conditions.  **Identity-based policies** can be further categorized:
 
-**Managed policies* – Are standalone policies that you attach to multiple users, groups and roles.
+**Managed policies** – Are standalone policies that you attach to multiple users, groups and roles.
 
     There are two types of managed policies:
     
