@@ -17,7 +17,9 @@
 **Identity-based policies** and **resource-based policies** grant permissions to the identities or resources to which they are attached. 
 
 When an IAM entity (user or role) requests access to a resource within the same account, AWS evaluates all the permissions granted by the identity-based and resource-based policies. 
+
 The resulting permissions are the total permissions of the two types. If an action is allowed by an identity-based policy, a resource-based policy, or both, then AWS allows the action. 
+
 But an explicit deny in either of these policies overrides the allow.
 
 # Choosing between managed policies & inline policies
