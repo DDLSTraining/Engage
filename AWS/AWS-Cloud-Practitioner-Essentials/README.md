@@ -33,5 +33,4 @@ Course References:
 |9|Migration and Innovation|?|
 |10|The Cloud Journey|?|
 |11|AWS Certified Cloud Practitioner Basics|?|
-
 |Finish||4:45|
