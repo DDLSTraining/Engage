@@ -6,14 +6,17 @@
 
    There are two types of managed policies:
     
-..* **AWS managed policies** – Created and managed by AWS.
-..* **Customer managed policies** –created and managed by you & provide a more precise control
-Inline policies – Are added directly to a single user, group, or role. They maintain a strict one-to-one relationship between a policy and an identity. They are deleted when you delete the identity.
-Resource-based policies - are attached to a resource such as an Amazon S3 bucket. These policies grant the specified principal permission to perform specific actions on that resource and defines under what conditions this applies. Resource-based policies are inline policies. There are no managed resource-based policies.
+   **AWS managed policies** – Created and managed by AWS.
+   **Customer managed policies** –created and managed by you & provide a more precise control
+
+**Inline policies** – Are added directly to a single user, group, or role. They maintain a strict one-to-one relationship between a policy and an identity. They are deleted when you delete the identity.
+
+**Resource-based policies** - are attached to a resource such as an Amazon S3 bucket. These policies grant the specified principal permission to perform specific actions on that resource and defines under what conditions this applies. Resource-based policies are inline policies. There are no managed resource-based policies.
 
 # Evaluating identity-based policies with resource-based policies!
 
-Identity-based policies and resource-based policies grant permissions to the identities or resources to which they are attached. 
+**Identity-based policies** and **resource-based policies** grant permissions to the identities or resources to which they are attached. 
+
 When an IAM entity (user or role) requests access to a resource within the same account, AWS evaluates all the permissions granted by the identity-based and resource-based policies. 
 The resulting permissions are the total permissions of the two types. If an action is allowed by an identity-based policy, a resource-based policy, or both, then AWS allows the action. 
 But an explicit deny in either of these policies overrides the allow.
