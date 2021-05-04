@@ -2,11 +2,11 @@
 
 **Identity-based policies:-** are JSON documents that control what actions an identity (users, groups of users, and roles) can perform, on which resources, and under what conditions.  **Identity-based policies** can be further categorized:
 
-*. **Managed policies** – Are standalone policies that you attach to multiple users, groups and roles.
+* .**Managed policies** – Are standalone policies that you attach to multiple users, groups and roles.
 
    There are two types of managed policies:
-*. **AWS managed policies** – Created and managed by AWS.
-*. **Customer managed policies** –created and managed by you & provide a more precise control
+* . **AWS managed policies** – Created and managed by AWS.
+* . **Customer managed policies** –created and managed by you & provide a more precise control
 
 **Inline policies** – Are added directly to a single user, group, or role. They maintain a strict one-to-one relationship between a policy and an identity. They are deleted when you delete the identity.
 
