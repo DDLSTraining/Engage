@@ -23,6 +23,10 @@
 * [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 * [Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 * [The Twelve-Factor App](https://12factor.net)
+* DDD:
+  * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
+
+
 
 ## Extra Content
 
