@@ -22,6 +22,7 @@
 * [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
 * [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 * [Amazon Builders' Library](https://aws.amazon.com/builders-library/)
+* [The Twelve-Factor App](https://12factor.net)
 
 ## Extra Content
 
