@@ -21,6 +21,7 @@
 * [AWS Samples](https://github.com/aws-samples)
 * [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
 * [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
+* [Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
 ## Extra Content
 
