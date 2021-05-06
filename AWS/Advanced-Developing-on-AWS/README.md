@@ -53,7 +53,7 @@
 |Module 3: Monolith to microservices|2 hrs|
 |Lab 2: Using AWS Lambda to develop microservices|1.5 hrs|
 |Module 4: Polyglot persistence and distributed complexity|2 hrs|
-|Lab 3: Introduction to the Cloud Development Kit|2 hr|
+|Lab 3: Introduction to the Cloud Development Kit|1 hr|
 
 ### Day Three
 
