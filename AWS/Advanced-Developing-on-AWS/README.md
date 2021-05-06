@@ -28,6 +28,7 @@
 * [Serverless](https://www.serverless.com/)
 * [Pulumi](https://www.pulumi.com/)
 * [Terraform](https://www.terraform.io/)
+* [CDK for Terraform](https://github.com/hashicorp/terraform-cdk)
 
 ## Extra Content
 
