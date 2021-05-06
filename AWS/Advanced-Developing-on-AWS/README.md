@@ -25,6 +25,7 @@
 * [The Twelve-Factor App](https://12factor.net)
 * DDD:
   * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
+* [Serverless](https://www.serverless.com/)
 
 
 
