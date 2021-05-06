@@ -26,8 +26,8 @@
 * DDD:
   * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
 * [Serverless](https://www.serverless.com/)
-
-
+* [Pulumi](https://www.pulumi.com/)
+* [Terraform](https://www.terraform.io/)
 
 ## Extra Content
 
