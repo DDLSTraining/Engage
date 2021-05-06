@@ -26,7 +26,7 @@
 * DDD:
   * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
 * [Serverless](https://www.serverless.com/)
-* [CDK API Reference](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-construct-library.html)
+* [CDK Reference Documentation](https://docs.aws.amazon.com/cdk/api/latest/)
 * [Pulumi](https://www.pulumi.com/)
 * [Terraform](https://www.terraform.io/)
 * [CDK for Terraform](https://github.com/hashicorp/terraform-cdk)
