@@ -32,7 +32,7 @@
 * [Lambda: Creating and sharing Lambda layers](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
 
-## Labs
+## Extra Hands-On
 
 * [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 * [Qwiklabs Introductory Labs](https://run.qwiklab.com/searches/lab?keywords=introduction&qlcampaign=intro-labs-sm)
