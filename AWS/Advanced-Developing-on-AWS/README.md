@@ -23,6 +23,10 @@
 * [Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 * [The Twelve-Factor App](https://12factor.net)
 * [Domain-Driven Design - Martin Fowler](https://martinfowler.com/tags/domain%20driven%20design.html):
+
+## Extra Content
+
+* [StackOverflow: Parameter Store vs Secrets Manager vs Environment Variables in Lambda](https://stackoverflow.com/questions/63235425/aws-system-manager-parameter-store-vs-secrets-manager-vs-environment-variation-i)
 * [Serverless](https://www.serverless.com/)
 * Cloud Development Kit:
   * [CDK Reference Documentation](https://docs.aws.amazon.com/cdk/api/latest/)
@@ -36,10 +40,6 @@
 
 * [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 * [Qwiklabs Introductory Labs](https://run.qwiklab.com/searches/lab?keywords=introduction&qlcampaign=intro-labs-sm)
-
-## Extra Content
-
-* [StackOverflow: Parameter Store vs Secrets Manager vs Environment Variables in Lambda](https://stackoverflow.com/questions/63235425/aws-system-manager-parameter-store-vs-secrets-manager-vs-environment-variation-i)
 
 ## Course Layout
 
