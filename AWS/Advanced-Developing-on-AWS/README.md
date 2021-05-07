@@ -32,6 +32,7 @@
 * [CDK for Terraform](https://github.com/hashicorp/terraform-cdk)
 * [Lambda: Creating and sharing Lambda layers](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
+* [AWS Self Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 
 ## Extra Content
 
