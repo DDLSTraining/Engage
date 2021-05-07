@@ -68,4 +68,4 @@
 |Module 5: Resilience and scale|1 hr|
 |Lab 4: Exploring the AWS messaging options|1.5 hr|
 |Module 6: Security and observability|1.5 hrs|
-|Lab 5 : Developing Microservices on AWS|3 hrs|
+|Lab 5 : Developing Microservices on AWS|3.5 hrs|
