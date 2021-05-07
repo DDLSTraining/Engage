@@ -31,6 +31,7 @@
 * [Terraform](https://www.terraform.io/)
 * [CDK for Terraform](https://github.com/hashicorp/terraform-cdk)
 * [Lambda: Creating and sharing Lambda layers](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html)
+* [Open Policy Agent](https://www.openpolicyagent.org/)
 
 ## Extra Content
 
