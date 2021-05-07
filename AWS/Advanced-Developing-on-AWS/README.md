@@ -20,19 +20,22 @@
 * [AWS Quick Starts](https://aws.amazon.com/quickstart/) ([GitHub](https://github.com/aws-quickstart/))
 * [AWS Samples](https://github.com/aws-samples)
 * [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
-* [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 * [Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 * [The Twelve-Factor App](https://12factor.net)
-* DDD:
-  * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
+* [Domain-Driven Design - Martin Fowler](https://martinfowler.com/tags/domain%20driven%20design.html):
 * [Serverless](https://www.serverless.com/)
-* [CDK Reference Documentation](https://docs.aws.amazon.com/cdk/api/latest/)
-* [Pulumi](https://www.pulumi.com/)
+* Cloud Development Kit:
+  * [CDK Reference Documentation](https://docs.aws.amazon.com/cdk/api/latest/)
+  * [CDK for Terraform](https://github.com/hashicorp/terraform-cdk)
+  * [Pulumi](https://www.pulumi.com/)
 * [Terraform](https://www.terraform.io/)
-* [CDK for Terraform](https://github.com/hashicorp/terraform-cdk)
 * [Lambda: Creating and sharing Lambda layers](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html)
 * [Open Policy Agent](https://www.openpolicyagent.org/)
-* [AWS Self Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
+
+## Labs
+
+* [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
+* [Qwiklabs Introductory Labs](https://run.qwiklab.com/searches/lab?keywords=introduction&qlcampaign=intro-labs-sm)
 
 ## Extra Content
 
