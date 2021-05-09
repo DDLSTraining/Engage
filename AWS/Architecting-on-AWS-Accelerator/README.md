@@ -2,7 +2,7 @@
 
 ## Course Links
 
-* [Courseware at eVantage by Gilmore Global](https://evantage.gilmoreglobal.com/#/user/signin)
+* [VitalSource Bookshelf](https://online.vitalsource.com)
 * [Qwiklabs](https://ddls.qwiklabs.com/)
 * [AWS Certification](https://aws.amazon.com/certification/)
 * [AWS Certified Solutions Architect - Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
