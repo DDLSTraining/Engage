@@ -17,6 +17,11 @@
 * [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
 * [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 * [A Detailed Overview of AWS API Gateway](https://www.alexdebrie.com/posts/api-gateway-elements/)
+* [AWS Quiz 1](https://amazonmr.au1.qualtrics.com/jfe/form/SV_cBxlHT9WVfsYXrL)
+* [AWS Quiz 2](https://amazonmr.au1.qualtrics.com/jfe/form/SV_3b1fFgDyl5f1vbT)
+* [AWS Quiz 3](https://amazonmr.au1.qualtrics.com/jfe/form/SV_6lOGY88On739Jid)
+* [AWS Quiz 4](https://amazonmr.au1.qualtrics.com/jfe/form/SV_3DzZczjg6FDMaXz)
+* [AWS other questions](https://amazonmr.au1.qualtrics.com/jfe/form/SV_bkIygesuUPJ6Wbj)
 
 ## Course Timing
 
