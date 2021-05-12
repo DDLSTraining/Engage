@@ -62,6 +62,7 @@
 
 ## Defender
 * [Advanced Threat Protection (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
+* [Defender for Identity Set up](https://www.youtube.com/watch?v=rMHNJb2IXJ0&t=226s)
 * [Windows defender Advanced Threat Protection](https://youtu.be/qxeGa3pxIwg)
 * [Advanced Threat Protection – Windows 10 etc](https://youtu.be/HkQZR9RBbPE)
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
