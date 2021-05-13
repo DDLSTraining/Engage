@@ -16,7 +16,10 @@
 * [AWS Quick Starts](https://aws.amazon.com/quickstart/) ([GitHub](https://github.com/aws-quickstart/))
 * [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
 * [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
-
+* [Kubernetes](https://kubernetes.io/):
+  * [Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
+  * [MicroK8s](https://microk8s.io/)
+  * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 ## Course Layout
 
 ### Day One
