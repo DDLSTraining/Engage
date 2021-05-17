@@ -97,7 +97,7 @@ To create an Azure subscription you need to prove you are a person and an adult.
     - Complete the process by typing in your details 
       - (**do not give false information here as it may stop you from verifying you account later if required**)
   - This process will take a few minutes to complete  
-  - **Wait until the setup is complete and you are redirected to the Azure poptal**
+  - **Wait until the setup is complete and you are redirected to the Azure Portal**
   
 ## Bookmarks (optional)
 
