@@ -6,7 +6,7 @@
 
 ## Resources
 
-* [Azure Virtual Desktop Overview](https://www.youtube.com/watch?v=NQFtI3JLtaU&feature=emb_logo&app=desktop)
+* [Azure Virtual Desktop Overview [Video 9:14]](https://www.youtube.com/watch?v=NQFtI3JLtaU&feature=emb_logo&app=desktop)
 * [Azure Sphere Overview](https://azure.microsoft.com/en-au/services/azure-sphere/)
 * [Azure Cognitive Services: Computer Vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/)
 * [Azure - How Bots Work ](https://docs.microsoft.com/en-au/azure/bot-service/bot-builder-basics)
