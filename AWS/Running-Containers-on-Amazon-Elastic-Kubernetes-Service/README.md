@@ -12,6 +12,8 @@
 * [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
 * [Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 * [The Twelve-Factor App](https://12factor.net)
+* [Containers from the Couch](https://www.youtube.com/c/ContainersfromtheCouch)
+* [Additional Hands-on](../Hands-on/README.md)
 
 ## Modules
 
