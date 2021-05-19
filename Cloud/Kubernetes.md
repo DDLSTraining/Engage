@@ -69,3 +69,63 @@ The fix for this is as follows:
 1. Run the `minikube start` command again.
 
 The [GitHub Issue](https://github.com/kubernetes/minikube/issues/459) for reference.
+
+## Kubernetes Architecture
+
+* ConfigMap:
+  * YAML File.
+  * An API object that stores data as key-value pairs.
+  * Store non-confidential configuration data.
+  * Use for environment variables, command line arguments, or configuration files.
+
+* Secret:
+  * YAML File.
+  * Stores sensitive information in key-value pairs.
+  * Protects and encrypts credential data.
+
+* Pod:
+  * Pods are the basic building blocks within Kubernetes.
+  * A pod is a group of one or more containers.
+  * Defined in a PodSpec file which is a specification for how to run the containers.
+
+* Namespace:
+  * Allow you to create virtual clusters backed by the same physical cluster.
+  * They prevent resource name conflicts.
+
+* Deployment:
+  * A ReplicaSet ensures that a specific number of pod replicas are running at any given time.
+  * Deployments own and manages ReplicaSets.
+
+* Pod Scheduling:
+  * Checks the resources required by your pods and uses that information to influence scheduling decisions.
+  * Runs a series of filters to exclude ineligible nodes for pod placement.
+  * Filters include CPU, memory, disk, ports, and volumes.
+  * After applying filters, the scheduler calculates a score for each node that has not been filtered out.
+  * Pods get placed on the highest-scoring node.
+  * You can set up scheduling constraints at the node and pod level.
+
+* ResourceQuota:
+  * Support the request and limit settings.
+  * Request allows you to specify how many resources are assigned.
+  * Limits define what a running container can burst up to.
+  * CPU is measured in millicpu (1000 = 1 vCPU).
+  * Memory is measured in bytes.
+
+* Taints and Tolerations:
+  * Taints are a property of nodes that prevent the placement of pods.
+  * A tainted node accepts only pods that specifically tolerate the taint.
+
+* nodeAffinity:
+  * Ensures that only pods with a correct toleration can be scheduled to a node.
+  * There are two types: requiredDuringSchedulingIgnoredDuringExecution (hard), preferredDuringSchedulingIgnoredDuringExecution (soft).
+  * The "IgnoredDuringExecution" component means that changes to affinity rules druing runtime will not affect running pods.
+  * Anti-affinity can be used to make sure that your pods don't end up on the same node.
+
+* DaemonSet:
+  * Ensures that all nodes have a copy of the requested pod.
+  * Useful for common functionality such as logging, monitoring, backups, etc.
+  * If you delete a DaemonSet, you also delete any pods it created.
+
+
+
+
