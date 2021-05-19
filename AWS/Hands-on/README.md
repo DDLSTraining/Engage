@@ -3,6 +3,15 @@
 Find in this directory extra hands-on you can do to expand your knowledge of AWS.
 
 * [AWS Samples on GitHub](https://github.com/aws-samples)
+* [AWS Workshops](https://workshops.aws/)
+* [AWS Partner Workshops](https://awsworkshop.io/)
+* Other Workshops:
+  *  [AWS App Runner Workshop](https://www.apprunnerworkshop.com/)
+  *  [Amazon EKS Workshop](https://www.eksworkshop.com/)
+  *  [Amazon ECS Workshop](https://ecsworkshop.com/)
+     * [ECS Cats and Dogs Workshop](https://ecs-cats-dogs.workshop.aws/en/)
+  *  [AWS App Mesh Workshop](https://www.appmeshworkshop.com/)
+
 
 ## AWS CLI
 
