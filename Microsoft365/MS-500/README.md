@@ -25,7 +25,7 @@
 * [Cloud App Security Docs](https://docs.microsoft.com/en-us/cloud-app-security/)
 * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
 * [Regular Expression More](https://regexone.com/)
-* [Regular Expression Help Doc](* https://help.relativity.com/9.6/Content/Relativity/Regular_expressions/Searching_with_regular_expressions.htm)
+* [Regular Expression Help Doc](https://help.relativity.com/9.6/Content/Relativity/Regular_expressions/Searching_with_regular_expressions.htm)
 * [SecCon Framework](https://github.com/microsoft/SecCon-Framework)
 * [Out of Hours - Intune Stuff](https://oofhours.com/category/microsoft-intune/)
 * [Insider Risks](https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management-policies?view=o365-worldwide)
