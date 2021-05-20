@@ -1,4 +1,4 @@
-# Google Cloud Platform Fundamentals: Core Infrastructure<a name="funinf"></a>
+# Google Cloud Fundamentals: Core Infrastructure<a name="funinf"></a>
 
 # Timing
 
