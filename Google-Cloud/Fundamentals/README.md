@@ -1,56 +1,31 @@
 # Google Cloud Fundamentals: Core Infrastructure<a name="funinf"></a>
 
-# Timing
+* [DDLS Qwiklabs](https://ddls.qwiklabs.com/)
+* [DDLS Google Cloud Courses](https://www.ddls.com.au/courses/google/)
+* [Infrastructure Modernization Learning Track](https://cloud.google.com/training/cloud-infrastructure)
+* [Application Modernization Learning Track](https://cloud.google.com/training/application-development)
 
-|Start|End|Duration|Module|Activity|
-|-----|---|--------|------|--------|
-|9:00|9:15|0:15|00|Course Intro|||
-|9:15|9:30|0:15|01|Introduction to GCP|
-|9:30|10:00|0:30|02|Getting Started with GCP|
-|10:00|10:20|0:20||Lab 2 Cloud Launcher|
-|10:20|10:35|0:15||15 MINUTE BREAK|
-|10:35|11:05|0:30|03|Virtual Machines in the Cloud|
-|11:05|11:20|0:15||Lab 3 Compute Engine|
-|11:20|12:05|0:45|04|Storage in the Cloud|
-|12:05|12:50|0:45||Lab 4 Cloud Storage and Cloud SQL|
-|12:50|13:35|0:45||45 MINUTE LUNCH|
-|13:35|13:55|0:20|05|Containers in the Cloud|
-|13:55|14:25|0:30||Lab 5 Container Engine|
-|14:25|14:45|0:20|06|Applications in the Cloud|
-|14:45|15:00|0:15||Lab 6 App Engine|
-|15:00|15:15|0:15||15 MINUTE BREAK|
-|15:15|15:30|0:15|07|Developing Deploying Monitoring in the Cloud|
-|15:30|15:55|0:25||Lab 7 Deployment Manager and Stackdriver|
-|15:55|16:25|0:30|08|Big Data and Machine Learning in the Cloud|
-|16:25|16:40|0:15||Lab 8 BigQuery|
-|16:40|17:00|0:20|09|Summary and Review|
 
-Suggested Replacement (no breaks included except lunch, fit them in):
+# Modules
 
-|Start|End|Duration|Module|Activity|
-|-----|---|--------|------|--------|
-|9:00|9:45|0:45|00|Course Intro and Lab Setup|||
-|9:45|10:30|0:45|01|Introduction to GCP|
-|10:30|11:30|1:00|02|Getting Started with GCP|
-|11:30|11:50|0:20||Lab 2 Cloud Launcher|
-|11:50|12:00|0:10|03|Virtual Machines in the Cloud|
-|12:00|12:45|0:45||45 MINUTE LUNCH|
-|12:45|12:55|0:10|03|Continued - Virtual Machines in the Cloud|
-|12:55|13:15|0:15||Lab 3 Compute Engine|
-|13:15|13:40|0:25|04|Storage in the Cloud|
-|13:40|14:25|0:45||Lab 4 Cloud Storage and Cloud SQL|
-|14:35|14:50|0:20|05|Containers in the Cloud|
-|14:50|15:00|0:10||Lab 5 Container Engine|
-|15:00|15:15|0:20|06|Applications in the Cloud|
-|15:15|15:30|0:15||Lab 6 App Engine|
-
-From 15:30 till 17:00 I finished modules 7, 8, and 9.
-I forgot to write down the times however they were not rushed.
-
-Do 8 and 9 and Evals prior to the BigQuery lab.
-
-|15:30|15:30|0:15|07|Developing Deploying Monitoring in the Cloud|
-|15:30|15:55|0:25||Lab 7 Deployment Manager and Stackdriver|
-|15:55|16:25|0:30|08|Big Data and Machine Learning in the Cloud|
-|16:25|16:40|0:15||Lab 8 BigQuery|
-|16:40|17:00|0:20|09|Summary and Review|
+|Module|Name|
+|-|-|
+|00|Course Introduction|
+|01|Introduction to Google Cloud|
+|02|Getting Started with Google Cloud|
+|02 Lab|Getting Started with Cloud Marketplace|
+|Break|15 Minutes|
+|03|Virtual Machine in the Cloud|
+|03 Lab|Getting Started with Compute Engine|
+|04|Storage in the Cloud|
+|04 Lab|Getting Started with Cloud Storage and Cloud SQL|
+|Lunch|45 Minutes|
+|05|Containers in the Cloud|
+|05 Lab|Getting Started with GKE|
+|06|Applications in the Cloud|
+|06 Lab|Getting Started with App Engine|
+|07|Developing, Deploying, and Monitoring in the Cloud|
+|07 Lab|Getting started with Deployment Manager and Cloud Monitoring|
+|08|Big Data and Machine Learning in the Cloud|
+|08 Lab|Getting Started with BigQuery|
+|09|Summary and Review|
