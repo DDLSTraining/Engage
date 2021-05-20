@@ -13,6 +13,7 @@
 * [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs) - **WARNING coarse language**
 * [This is how you pronounce "hacker" - Tarah Wheeler](https://youtu.be/N6YRON0pI_E)
 * [DOLKEN SPISER SURSTRØMNING!!!!](https://www.youtube.com/watch?v=hRAluSEqufs) ([Reddit](https://www.reddit.com/r/videos/comments/mbcz4k/a_swedish_man_opening_preparing_and_enjoying/))
+* [Brain Surgeon](https://www.youtube.com/watch?v=THNPmhBl-8I)
 
 ## One Liners
 
