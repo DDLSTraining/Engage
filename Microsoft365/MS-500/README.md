@@ -25,6 +25,7 @@
 * [Cloud App Security Docs](https://docs.microsoft.com/en-us/cloud-app-security/)
 * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
 * [Regular Expression More](https://regexone.com/)
+* [Regular Expression Help Doc](* https://help.relativity.com/9.6/Content/Relativity/Regular_expressions/Searching_with_regular_expressions.htm)
 * [SecCon Framework](https://github.com/microsoft/SecCon-Framework)
 * [Out of Hours - Intune Stuff](https://oofhours.com/category/microsoft-intune/)
 * [Insider Risks](https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management-policies?view=o365-worldwide)
@@ -62,13 +63,13 @@
 
 
 ## Defender
-* [Advanced Threat Protection (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
+* [Defender for Identity (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
 * [Defender for Identity Set up](https://www.youtube.com/watch?v=rMHNJb2IXJ0&t=226s)
+* [Configuring Defender for Identity](https://youtu.be/rMHNJb2IXJ0?t=229)
 * [Windows defender Advanced Threat Protection](https://youtu.be/qxeGa3pxIwg)
 * [Advanced Threat Protection – Windows 10 etc](https://youtu.be/HkQZR9RBbPE)
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
-* [Configuring Defender for Identity](https://youtu.be/rMHNJb2IXJ0?t=229)
-* [Defnder for Endpoint Evaluation Demo](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/evaluation-lab?view=o365-worldwide)
+* [Defender for Endpoint Evaluation Demo](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/evaluation-lab?view=o365-worldwide)
 * [Advanced Threat Hund Defender for Endpoint](https://youtu.be/4NQphnL0YR8)
 * [Defender for Endpoint Resources](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647
 )
@@ -86,8 +87,6 @@
 * [Cloud App Setup](https://youtu.be/ff4AR3GIR00)
 * [Cloud App Security Demo](https://youtu.be/RxW0bpXJd9A)
 * [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
-* [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
-* [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
 * [Conditional Access App Control with CAS](https://youtu.be/CvsjM8TX81c)
 * [Session Policy in CAS](https://youtu.be/hPW3E51cIac)
 * [Block Uploads in CAS](https://youtu.be/nGg2XyQWJ4o)
@@ -113,7 +112,7 @@
 * [White Glove](https://youtu.be/nE5XSOBV0rI)
 
 ## EDiscovery
- * [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
+* [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
 * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
 * [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
 * [Do more with Advanced EDiscovery](https://youtu.be/-25S-Vz7u1Q)
