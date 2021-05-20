@@ -50,17 +50,14 @@
 * [Phishing](https://youtu.be/MCYC8kV1mmc)
 * [Secure Score](https://youtu.be/jzfpDJ9Kg-A)
 * [Secure score API (JSON)](https://youtu.be/vg3QKQWVD6Y)
-
 * [Microsft Graph](https://youtu.be/PI9NO5rayiY)
 * [Compliance Manager Demo](https://youtu.be/r1vs8NdSXKQ?list=PLXPr7gfUMmKyMW5RRW9kmLjX31OTwqhf5)
-
 * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
 * [Regular Expressions](https://youtu.be/sa-TUpSx1JA)
 * [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
 * [Advanced Threat Analytics](https://docs.microsoft.com/en-us/advanced-threat-analytics/install-ata-step1)
 * [Information Barriers](https://youtu.be/461LfU06RbA?t=416)
 * [Azure Analytics](https://youtu.be/T2Vpi6ph8ck)
-
 
 ## Defender
 * [Defender for Identity (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
