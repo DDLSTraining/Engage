@@ -1,5 +1,7 @@
 # MS-500 Guided Demo links and more
+
 **Mod 1**
+
 * [Zero-Trust overview](aka.ms/zero-trust)
 * [Zero-Trust device management overview](aka.ms/zero-trust-device)
 * [How-To documentation #MSIntune](aka.ms/device-security-docs)
@@ -11,10 +13,10 @@
 * [Identity models and authentication for Microsoft 365](https://www.microsoft.com/en-us/videoplayer/embed/RE2Pjwu)
 * [Demonstration: Implement Multi-factor authentication](https://youtu.be/SN-J7L1na34)
 * [Describing Smart Lockout](https://youtu.be/aeuFaG8ZJnY)
-
 * [Interactive Guide: Self-service password reset](https://aka.ms/AA6xlpx)
  
 **Mod 2**
+
 * [Interactive Guide: Establish hybrid identity](https://www.microsoft.com/videoplayer/embed/RE44DnV)
 * [Azure Active Directory Connect Health for AD Federated Services](https://youtu.be/-V0qIrNNKtU)
 * [Azure Active Directory Connect Health for AD Domain Services](https://youtu.be/8btc5qHq9Ms)
@@ -25,7 +27,6 @@
 
 
 **Mod 3**
-
 * [Conditional access with Intune](https://aka.ms/AA6xdu0) 
 * [Interactive guide: Enable B2B collaboration in Azure AD](https://aka.ms/AADandB2B)
 * [Guided demonstration](https://aka.ms/AA6y80m)
