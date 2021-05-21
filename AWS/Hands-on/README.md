@@ -3,6 +3,7 @@
 Find in this directory extra hands-on you can do to expand your knowledge of AWS.
 
 * [AWS Samples on GitHub](https://github.com/aws-samples)
+* [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 * [AWS Workshops](https://workshops.aws/)
 * [AWS Partner Workshops](https://awsworkshop.io/)
 * Other Workshops:
