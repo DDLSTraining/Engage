@@ -4,7 +4,14 @@
  
 **Mod 2**
 * [Interactive Guide: Establish hybrid identity](https://www.microsoft.com/videoplayer/embed/RE44DnV)
- 
+* [Azure Active Directory Connect Health for AD Federated Services](https://youtu.be/-V0qIrNNKtU)
+* [Azure Active Directory Connect Health for AD Domain Services](https://youtu.be/8btc5qHq9Ms)
+* [What is Azure Active Directory Identity Protection?](https://youtu.be/1REQYdZ6364)
+* [Azure Active Directory Identity Protection](https://youtu.be/zI3jn_G0_Ns)
+* [How to deploy Identity Protection | Azure Active Directory](https://www.youtube.com/watch?v=zEsbbik-BTE)
+* [Demonstration: Using Identity Protection](https://youtu.be/zvCMpkOwRPs)
+
+
 **Mod 3**
 
 * [Conditional access with Intune](https://aka.ms/AA6xdu0) 
