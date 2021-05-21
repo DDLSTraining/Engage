@@ -2,6 +2,9 @@
 **Mod 1**
 * [Self-service password reset](https://aka.ms/AA6xlpx)
  
+**Mod 2**
+* [Interactive Guide: Establish hybrid identity](https://www.microsoft.com/videoplayer/embed/RE44DnV)
+ 
 **Mod 3**
 
 * [Conditional access with Intune](https://aka.ms/AA6xdu0) 
