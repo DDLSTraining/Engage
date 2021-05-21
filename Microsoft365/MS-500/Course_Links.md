@@ -27,9 +27,13 @@
 
 
 **Mod 3**
+
+* [Interactive guide: Provide secure remote access to on-premises apps with Azure AD Application Proxy (12 minute interaction)](https://aka.ms/AADandAppProxy_InteractiveGuide)
+* [Securing mobile devices with Conditional Access](https://youtu.be/VDzvO6gszgk)
+* [Interactive guide: Configure Conditional Access in Azure AD](https://www.microsoft.com/videoplayer/embed/RE44laI)
 * [Conditional access with Intune](https://aka.ms/AA6xdu0) 
-* [Interactive guide: Enable B2B collaboration in Azure AD](https://aka.ms/AADandB2B)
-* [Guided demonstration](https://aka.ms/AA6y80m)
+* [Interactive guide: Enable B2B collaboration in Azure AD](aka.ms/AADandB2B_InteractiveGuide)
+* [Guided demonstration: Azure B2B collaboration](https://aka.ms/AA6y80m)
 * [Interactive guide: Reduce security risk with Azure AD Privileged Identity Management](https://www.microsoft.com/videoplayer/embed/RE44vAQ)
 
 **Mod 4**
