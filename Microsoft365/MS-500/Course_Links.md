@@ -54,6 +54,7 @@
 * [Microsoft Defender for Endpoint explained](https://www.microsoft.com/en-us/videoplayer/embed/RE4wDob)
 * [Microsoft Defender for Endpoint Architecture Overview](https://www.microsoft.com/en-us/videoplayer/embed/RE4vnC4?rel=0)
 * [**Interactive Guide:** Reduce organizational risk with Threat & Vulnerability Management](https://aka.ms/MSDE_TVM_IG) 
+* [**Guided demonstration –** Microsoft Defender for Endpoint Threat and Vulnerability Management](https://aka.ms/MDATP_TVM_InteractiveGuide)
 
 **Mod 6**
 
