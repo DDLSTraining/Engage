@@ -8,6 +8,6 @@
 **Moad 5**
 
 * [Exchange Online Protection](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M02_L01_tile_EOPtutorial.html)
-* [Managing Safe Attachments](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M02_L03_flip_Attachmentstutorial.html0
+* [Managing Safe Attachments](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M02_L03_flip_Attachmentstutorial.html)
 * [Safe links](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M02_L04_fill_Linkstutorial.html)
 * 
