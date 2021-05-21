@@ -1,6 +1,18 @@
 # MS-500 Guided Demo links and more
 **Mod 1**
-* [Self-service password reset](https://aka.ms/AA6xlpx)
+* [Zero-Trust overview](aka.ms/zero-trust)
+* [Zero-Trust device management overview](aka.ms/zero-trust-device)
+* [How-To documentation #MSIntune](aka.ms/device-security-docs)
+* [Azure AD conditional access enabling Zero Trust networks](https://youtu.be/XruceejcCKQ?list=PLXtHYVsvn_b8dbRbnL19GUPcBH1UQ7c4x)
+* [Zero-Trust Assessment tool](https://info.microsoft.com/ww-landing-Zero-Trust-Assessment.html)
+* [Identity models and authentication for Microsoft 365](https://www.microsoft.com/en-us/videoplayer/embed/RE2Pjwu)
+* [Azure Active Directory: Choosing the right authentication for your organization](https://youtu.be/oPeKXefxEgg)
+* [Azure Active Directory explained](https://youtu.be/6MSrkUDOqsE)
+* [Identity models and authentication for Microsoft 365](https://www.microsoft.com/en-us/videoplayer/embed/RE2Pjwu)
+* [Demonstration: Implement Multi-factor authentication](https://youtu.be/SN-J7L1na34)
+* [Describing Smart Lockout](https://youtu.be/aeuFaG8ZJnY)
+
+* [Interactive Guide: Self-service password reset](https://aka.ms/AA6xlpx)
  
 **Mod 2**
 * [Interactive Guide: Establish hybrid identity](https://www.microsoft.com/videoplayer/embed/RE44DnV)
