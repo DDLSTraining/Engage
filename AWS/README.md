@@ -7,6 +7,7 @@
 
 ## AWS Resources
 
+* [AWS Documentation](https://docs.aws.amazon.com/index.html)
 * [AWS Management Console](https://console.aws.amazon.com/)
 * [AWS News Blog](https://aws.amazon.com/blogs/aws/)
 * [What's New with AWS](https://aws.amazon.com/new/)
