@@ -49,7 +49,7 @@ Reference:
 |Start|Module|
 |-|-|
 |9:00|Introduction|
-|9:30|Module 1: Getting Started withAzure Machine Learning|
+|9:30|Module 1: Getting Started with Azure Machine Learning|
 |11:30|Module 2: No-code Machine Learning|
 |2:30|Module 3: Running Experiments and Training Models|
 |5:00|Finish|
