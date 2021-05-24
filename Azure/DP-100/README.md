@@ -27,7 +27,8 @@ Reference:
 * [Create & use software environments in Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-environments)
 * [Version and track Azure Machine Learning datasets](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-version-track-datasets)
 * [Mitigate unfairness in machine learning models](https://docs.microsoft.com/en-us/azure/machine-learning/concept-fairness-ml)
-* [Configure your local Python dev environment for Azure](https://docs.microsoft.com/en-us/azure/developer/python/configure-local-development-environment)
+* [How to authenticate and authorize Python apps on Azure](https://docs.microsoft.com/en-us/azure/developer/python/azure-sdk-authenticate)
+  * [Configure your local Python dev environment for Azure](https://docs.microsoft.com/en-us/azure/developer/python/configure-local-development-environment)
   * [Set up authentication for Azure Machine Learning resources and workflows](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-setup-authentication)
 
 ### Documentation
