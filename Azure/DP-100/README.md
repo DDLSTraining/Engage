@@ -20,6 +20,7 @@ Tools:
 * [Azure Machine Learning Studio](https://ml.azure.com/)
 * [Azure Machine Learning Studio (classic)](https://studio.azureml.net/)
 * [Data Science Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/) - Comprehensive pre-configured virtual machines for data science.
+* [Anaconda](https://anaconda.org/) - [Miniconda](https://docs.conda.io/en/latest/index.html)
 
 Reference:
 
