@@ -44,6 +44,8 @@
 * [Blocking O365 Group Creation](https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
 * [AD Cloud Sync](https://azure.microsoft.com/en-us/overview/security/azure-security-expert-series/)
 * [AD Sloud Sync - Deep Dive](https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/concept-how-it-works)
+* [Managing Meeting Polics - Per User vs Organizer](![image](https://user-images.githubusercontent.com/42951775/119470362-9bfbb400-bd8b-11eb-8de3-3c388006a72d.png)
+)
 
 ## Videos
 
