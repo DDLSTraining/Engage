@@ -35,3 +35,10 @@ Default output format [None]: ENTER
 * [Cloud Conformity](https://www.cloudconformity.com/)
 * [RBAC Management Pipeline](https://github.com/mechanicalpete/rbac-management-pipeline)
 * [LocalStack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack.
+
+## Automation Tools
+
+* [Terraform](https://www.terraform.io/)
+* [Pulumi](https://www.pulumi.com/)
+* [CDK](https://aws.amazon.com/cdk/)
+* [Architect](https://arc.codes/docs/en/guides/get-started/quickstart)
