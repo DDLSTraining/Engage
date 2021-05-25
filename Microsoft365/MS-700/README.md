@@ -42,6 +42,9 @@
  * [Regular Expressions](https://youtu.be/sa-TUpSx1JA)
  * [Exam Prep Video - as of Jan 2020](https://www.youtube.com/watch?v=EIzyBmn6E10)
  * [Microsoft Teams Rooms setup](https://youtu.be/In-SzWX1Gtw)
+* [Webinars](https://youtu.be/9t6cggKuCGo)
+* [Live Events](https://youtu.be/1P2Ui6lAkrI)
+* [OSB NDI in Teams](https://youtu.be/ngLfEVU46x0)
  
 
 ## Extra Reading
