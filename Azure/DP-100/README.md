@@ -31,6 +31,7 @@ Reference:
 * [How to authenticate and authorize Python apps on Azure](https://docs.microsoft.com/en-us/azure/developer/python/azure-sdk-authenticate)
   * [Configure your local Python dev environment for Azure](https://docs.microsoft.com/en-us/azure/developer/python/configure-local-development-environment)
   * [Set up authentication for Azure Machine Learning resources and workflows](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-setup-authentication)
+* [Tutorial: Use automated machine learning to predict taxi fares](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-auto-train-models)
 
 ### Documentation
 
