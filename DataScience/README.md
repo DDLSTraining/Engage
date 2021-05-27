@@ -27,6 +27,7 @@ Support Tools:
 
 ## News
 
+* [2021-05-06: Govt to establish $50m national AI centre](https://www.innovationaus.com/govt-to-establish-50m-national-ai-centre/)
 * [2020-07-01: What is GPT-3?](https://tinkeredthinking.com/index.php?id=841)
 * [2020-06-22: What I learned from looking at 200 machine learning tools](https://huyenchip.com/2020/06/22/mlops.html)
 * [2020-06-12: Machine-learning clusters in Azure hijacked to mine cryptocurrency](https://arstechnica.com/information-technology/2020/06/machine-learning-clusters-in-azure-hijacked-to-mine-cryptocurrency/)
