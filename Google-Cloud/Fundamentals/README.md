@@ -13,6 +13,7 @@
 * [Cloud Storage: Hosting a static website](https://cloud.google.com/storage/docs/hosting-static-website)
 * [Vision API](https://cloud.google.com/vision)
 * [Google API Explorer](https://developers.google.com/apis-explorer)
+* [Anthos](https://cloud.google.com/anthos/)
 
 ## Modules
 
