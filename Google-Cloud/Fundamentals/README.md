@@ -2,6 +2,8 @@
 
 * [DDLS Qwiklabs](https://ddls.qwiklabs.com/)
 * [DDLS Google Cloud Courses](https://www.ddls.com.au/courses/google/)
+* [Google Cloud Certifications](https://cloud.google.com/certification)
+* [Google Cloud Training](https://cloud.google.com/training)
 * [Infrastructure Modernization Learning Track](https://cloud.google.com/training/cloud-infrastructure)
 * [Application Modernization Learning Track](https://cloud.google.com/training/application-development)
 
