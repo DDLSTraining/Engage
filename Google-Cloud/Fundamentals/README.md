@@ -13,6 +13,7 @@
 * [Cloud Identity](https://cloud.google.com/identity/docs/overview)
 * [Quickstart: Getting started with Cloud SDK](https://cloud.google.com/sdk/docs/quickstart)
 * [Cloud Storage: Hosting a static website](https://cloud.google.com/storage/docs/hosting-static-website)
+* [Google APIs Explorer](https://developers.google.com/apis-explorer)
 * Google AI Technologies:
   * [Vision API](https://cloud.google.com/vision)
   * [Text-to-Speech](https://cloud.google.com/text-to-speech)
