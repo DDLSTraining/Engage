@@ -13,4 +13,7 @@
 
 **Mod 6**
 * [Threat Dashboard](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L02_cw_SecDashboardtutorial.html)
+* [Threat Intelligence](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L01_flash_ThreatInteltutorial.html)
+* [Configuring Advance Threat Analytics](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L03_sort_ThreatAnalyticstutorial.html)
 * 
+
