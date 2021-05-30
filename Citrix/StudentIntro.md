@@ -5,9 +5,10 @@
 ### Questions 
 
 - What is your name?
-- Where are you dialing in from today?
+- Where are you connecting in from today?
 - What is you role at work?
-- How is Citrix a part of that role?
+- How is Citrix a part of your role?
 - What Citrix products have you had experience with?
-- How long have you worked in an IT role for?
+- Have you sat any previous Citrix courses?
+- How long have you been working in IT?
 - What takes up your time when you are not at work; (schooling, family, games, hobbies, etc.)?
