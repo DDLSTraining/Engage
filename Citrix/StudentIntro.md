@@ -10,4 +10,4 @@
 - How is Citrix a part of that role?
 - What Citrix products have you had experience with?
 - How long have you worked in an IT role for?
-- What tyake up your time when you are not at work (schooling, family, games, hobbies, etc.)?
+- What takes up your time when you are not at work; (schooling, family, games, hobbies, etc.)?
