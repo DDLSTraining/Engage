@@ -22,6 +22,7 @@
 * [AWS Quiz 3](https://amazonmr.au1.qualtrics.com/jfe/form/SV_6lOGY88On739Jid)
 * [AWS Quiz 4](https://amazonmr.au1.qualtrics.com/jfe/form/SV_3DzZczjg6FDMaXz)
 * [AWS other questions](https://amazonmr.au1.qualtrics.com/jfe/form/SV_bkIygesuUPJ6Wbj)
+* [Timeline of Amazon Web Services](https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services)
 
 ## Course Timing
 
