@@ -28,7 +28,7 @@ Whatever you decide to do, the most important thing to keep in mind when naming 
   * [Best Practices for Naming Conventions](https://www.reddit.com/r/aws/comments/6rkczi/best_practices_for_naming_conventions/)
   * [How do you decide on your server naming convention?](https://www.reddit.com/r/sysadmin/comments/6r00ko/how_do_you_decide_on_your_server_naming_convention/)
 
-## Cross-Cloud Naming Standard (BETA)
+## Cross-Cloud Naming Standard
 
 Following is a naming convention used by Grant Carthew. Grant works in AWS, Azure, and GCP and as such has adopted this naming standard to be cross-cloud compatible.
 
