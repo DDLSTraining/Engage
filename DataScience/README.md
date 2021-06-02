@@ -88,6 +88,10 @@ Support Tools:
 
 * [Pytorch-Transformers](https://github.com/huggingface/pytorch-transformers) - A library of state-of-the-art pretrained models for Natural Language Processing (NLP).
 
+### Interesting Projects
+
+* [Multi-Type-TD-TSR](https://github.com/Psarpei/Multi-Type-TD-TSR) - Extracting Tables from Document Images using a Multi-stage Pipeline for Table Detection and Table Structure Recognition.
+
 ### Tools
 
 #### Integrated Development Environments
