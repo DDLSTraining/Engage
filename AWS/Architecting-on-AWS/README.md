@@ -17,14 +17,24 @@
 * [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
 * [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 * [A Detailed Overview of AWS API Gateway](https://www.alexdebrie.com/posts/api-gateway-elements/)
+* [Timeline of Amazon Web Services](https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services)
+* [AWS Nuke](https://github.com/rebuy-de/aws-nuke)
+* [RClone](https://rclone.org/)
+* Automation:
+  * [CloudFormation](https://aws.amazon.com/cloudformation/)
+  * [Terraform](https://www.terraform.io/)
+  * For Developers:
+    * [AWS CDK](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
+    * [Pulumi](https://www.pulumi.com/)
+* [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/)
+
+## Practise Questions
+
 * [AWS Quiz 1](https://amazonmr.au1.qualtrics.com/jfe/form/SV_cBxlHT9WVfsYXrL)
 * [AWS Quiz 2](https://amazonmr.au1.qualtrics.com/jfe/form/SV_3b1fFgDyl5f1vbT)
 * [AWS Quiz 3](https://amazonmr.au1.qualtrics.com/jfe/form/SV_6lOGY88On739Jid)
 * [AWS Quiz 4](https://amazonmr.au1.qualtrics.com/jfe/form/SV_3DzZczjg6FDMaXz)
 * [AWS other questions](https://amazonmr.au1.qualtrics.com/jfe/form/SV_bkIygesuUPJ6Wbj)
-* [Timeline of Amazon Web Services](https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services)
-* [AWS Nuke](https://github.com/rebuy-de/aws-nuke)
-* [RClone](https://rclone.org/)
 
 ## Course Timing
 
