@@ -2,6 +2,7 @@
 
 ## Articles
 
+* 2021-05-03: [Introducing CloudFront Functions](https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/)
 * 2021-05-18: [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/) ([Pricing](https://aws.amazon.com/apprunner/pricing/))
 * 2021-03-18: [Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
 * 2021-02-02: [AWS PrivateLink for Amazon S3 is Now Generally Available (S3 Interface Endpoint)](https://aws.amazon.com/blogs/aws/aws-privatelink-for-amazon-s3-now-available/)
