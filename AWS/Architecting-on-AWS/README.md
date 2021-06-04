@@ -17,6 +17,9 @@
 * [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
 * [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 * [A Detailed Overview of AWS API Gateway](https://www.alexdebrie.com/posts/api-gateway-elements/)
+
+## Extras
+
 * [Timeline of Amazon Web Services](https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services)
 * [AWS Nuke](https://github.com/rebuy-de/aws-nuke)
 * [RClone](https://rclone.org/)
