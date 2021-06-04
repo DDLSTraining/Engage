@@ -27,6 +27,12 @@
     * [AWS CDK](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
     * [Pulumi](https://www.pulumi.com/)
 * [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/)
+* [Docker](https://www.docker.com/)
+  * [Docker Hub](https://hub.docker.com/)
+* [Kubernetes](https://kubernetes.io/)
+  * [Helm](https://helm.sh/)
+  * [Istio](https://istio.io/)
+* [Envoy Proxy](https://www.envoyproxy.io/)
 
 ## Practise Questions
 
