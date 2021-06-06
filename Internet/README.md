@@ -12,6 +12,7 @@ This directory contains handy generic internet tools and resources related to te
 ## Maps
 
 * [Submarine Cable Map](https://www.submarinecablemap.com/)
+  * [Submarine Cable Map 2021](https://submarine-cable-map-2021.telegeography.com/)
 * [NBN MTM Alpha: Unofficial Tech/Speed Estimates](http://nbnmtm.australiaeast.cloudapp.azure.com/)
 * [Hurricane Electric Internet Services - Global Internet Backbone 3D Map](https://he.net/3d-map/)
 * Cloud Provider Regions:
