@@ -61,7 +61,8 @@
 * [Advanced Threat Analytics](https://docs.microsoft.com/en-us/advanced-threat-analytics/install-ata-step1)
 * [Information Barriers](https://youtu.be/461LfU06RbA?t=416)
 * [Azure Analytics](https://youtu.be/T2Vpi6ph8ck)
-* [Application Guard - EndPoint Security](https://youtu.be/MJwH6Rh-npc)
+* [Attack Surface Reduction - EndPoint Security](https://youtu.be/MJwH6Rh-npc)
+* [Application Guard - EndPoint Suecurity](https://youtu.be/OFEdoCWZjaI)
 * 
 
 ## Defender
