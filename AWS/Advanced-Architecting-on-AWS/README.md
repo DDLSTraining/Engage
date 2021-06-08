@@ -2,7 +2,7 @@
 
 ## Course Links
 
-* [Courseware at eVantage by Gilmore Global](https://evantage.gilmoreglobal.com/#/user/signin)
+* [VitalSource Bookshelf](https://online.vitalsource.com)
 * [Qwiklabs](https://ddls.qwiklabs.com/)
 * [Advanced Architecting on AWS - Online Course Supplement](https://www.aws.training/Details/eLearning?id=56205)
 * [AWS Certification](https://aws.amazon.com/certification/)
