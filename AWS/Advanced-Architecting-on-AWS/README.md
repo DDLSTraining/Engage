@@ -18,6 +18,10 @@
 * [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
 * [Self-Paced Labs](https://aws.amazon.com/training/self-paced-labs/)
 
+## Extras
+
+* [Enable AWS Control Tower on existing organizations and accounts](https://docs.aws.amazon.com/controltower/latest/userguide/existing-orgs.html)
+
 ## Course Layout
 
 ### Day One
