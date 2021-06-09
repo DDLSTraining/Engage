@@ -24,6 +24,10 @@
   * [VoiceMail Hybrid](https://docs.microsoft.com/en-us/microsoftteams/set-up-phone-system-voicemail)
   * [Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/with-office-365)
   * [Teams Room Requirements](https://docs.microsoft.com/en-us/microsoftteams/rooms/with-office-365)
+  * [Custom Sensitive Information Types](https://joannecklein.com/2018/08/07/build-and-use-custom-sensitive-information-types-in-office-365/)
+  * [Content Types and Search Schema](https://joannecklein.com/2018/09/12/content-type-filters-in-modern-sharepoint/)
+  * [SharePoint Content Types in DLP](https://joannecklein.com/2018/01/25/a-sharepoint-content-type-dlp-policy/)
+  * [Creating content types](https://sharegate.com/blog/sharepoint-content-types-understand-use-create) - please also research Hub Content Type
 
   
 ## Videos
