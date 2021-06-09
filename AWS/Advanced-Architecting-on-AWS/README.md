@@ -21,6 +21,7 @@
 ## Extras
 
 * [Enable AWS Control Tower on existing organizations and accounts](https://docs.aws.amazon.com/controltower/latest/userguide/existing-orgs.html)
+* [Getting started with AWS Fargate using Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/fargate-getting-started.html)
 
 ## Course Layout
 
