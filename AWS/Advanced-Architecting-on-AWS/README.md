@@ -30,8 +30,11 @@
   * [Docker Compose](https://docs.docker.com/compose/)
   * [Podman](https://podman.io/)
   * [Podman Compose](https://github.com/containers/podman-compose)
-  * [Kubernetes](https://kubernetes.io/)
 * [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+* [Kubernetes](https://kubernetes.io/)
+  * [Helm](https://helm.sh/)
+  * [Istio](https://istio.io/)
+* [Envoy Proxy](https://www.envoyproxy.io/)
 
 ## Course Layout
 
