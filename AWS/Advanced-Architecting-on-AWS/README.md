@@ -25,10 +25,13 @@
 * Containers:
   * [Linux Containers](https://linuxcontainers.org/)
   * [Docker](https://www.docker.com/)
+    * [Create a base image](https://docs.docker.com/develop/develop-images/baseimages/)
   * [Docker Hub](https://hub.docker.com/)
   * [Docker Compose](https://docs.docker.com/compose/)
   * [Podman](https://podman.io/)
   * [Podman Compose](https://github.com/containers/podman-compose)
+  * [Kubernetes](https://kubernetes.io/)
+* [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 
 ## Course Layout
 
