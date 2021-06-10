@@ -22,6 +22,13 @@
 
 * [Enable AWS Control Tower on existing organizations and accounts](https://docs.aws.amazon.com/controltower/latest/userguide/existing-orgs.html)
 * [Getting started with AWS Fargate using Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/fargate-getting-started.html)
+* Containers:
+  * [Linux Containers](https://linuxcontainers.org/)
+  * [Docker](https://www.docker.com/)
+  * [Docker Hub](https://hub.docker.com/)
+  * [Docker Compose](https://docs.docker.com/compose/)
+  * [Podman](https://podman.io/)
+  * [Podman Compose](https://github.com/containers/podman-compose)
 
 ## Course Layout
 
