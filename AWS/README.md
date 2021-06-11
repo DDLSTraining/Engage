@@ -46,6 +46,7 @@ Service Specific Content:
 
 ## News Articles
 
+* 2021-06-09: [AWS announces the general availability of AWS Proton](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-the-general-availability-of-aws-proton/)
 * 2021-05-03: [Introducing CloudFront Functions](https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/)
 * 2021-05-18: [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/) ([Pricing](https://aws.amazon.com/apprunner/pricing/))
 * 2021-03-18: [Introducing Amazon S3 Object Lambda – Use Your Code to Process Data as It Is Being Retrieved from S3](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/)
