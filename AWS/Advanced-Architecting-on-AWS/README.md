@@ -74,12 +74,12 @@
 |Module|Duration|
 |-|-|
 |Introduction, poll, icebreaker|10|
-|Module 11: Large-Scale Applications|45|
-|Lab 5: Migrating an On-Premises NFS Share Using DataSync and Storage Gateway|60|
+|Module 11: Migrating Workloads|45|
 |Break (Coffee)|15|
 |Module 12: Optimizing Cost|55|
-|Module 13: Migrating Workloads|45|
+|Module 13: Architecting for the Edge|45|
+|Lab 5: Migrating an On-Premises NFS Share Using DataSync and Storage Gateway|60|
 |Survey, feedback, and discussion|15|
 |Break (Lunch)|60|
-|Capstone and Online Course Supplement (OCS)|20|
-|Module 14: Capstone Project|90|
+|Review Online Course Supplement (OCS)|20|
+|Module 14: Review Project|90|
