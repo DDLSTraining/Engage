@@ -35,6 +35,7 @@
   * [Helm](https://helm.sh/)
   * [Istio](https://istio.io/)
 * [Envoy Proxy](https://www.envoyproxy.io/)
+* [Introducing CloudFront Functions – Run Your Code at the Edge with Low Latency at Any Scale](https://aws.amazon.com/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/)
 
 ## Course Layout
 
