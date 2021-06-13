@@ -63,3 +63,13 @@ Service Specific Content:
 
 * 2013-11-14: [A Day in the Life of a Billion Packets (CPN401) | AWS re:Invent 2013](https://www.youtube.com/watch?v=Zd5hsL-JNY4) - VPC Creation and Function.
 * 2012-12-03: [AWS re: Invent ENT 205 - Drinking Our Own Champagne](https://www.youtube.com/watch?v=f45Uo5rw6YY)
+
+## Automation
+
+* [troposphere](https://github.com/cloudtools/troposphere) - library to create AWS CloudFormation descriptions
+* [The Serverless Application Framework](https://www.serverless.com/)
+* [Pulumi](https://www.pulumi.com/) - Modern Infrastructure as Code for Developers and Infrastructure Teams
+* [Amplify CLI](https://docs.amplify.aws/cli) - Unified toolchain to create, integrate, and manage the AWS cloud services for your app
+* [InGraph](https://github.com/lifadev/archive_ingraph) - Declarative Infrastructure Graph DSL for AWS CloudFormation
+* [CDK for Terraform](https://www.hashicorp.com/blog/cdk-for-terraform-enabling-python-and-typescript-support)
+* [Terraform](https://www.terraform.io/) - Write infrastructure as code using declarative configuration files
