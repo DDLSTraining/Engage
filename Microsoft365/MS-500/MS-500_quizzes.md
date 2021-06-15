@@ -19,15 +19,17 @@
 **Mod 7**
 
 * [Cloud Application Security Policy Quiz](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L04_match_CloudApptutorial.html)
-* 
-**Mod 8**
 
 **Mod 9**
 * [Archiving and Retention in Exchange](https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M02_L02_cw_ExchArchivingRetentiontutorial.html)
-* 
-**Mod 10**
+
 **Mod 11**
+* [DLP Policy Quiz](https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M03_L03_sort_SimpleDLPtutorial.html)
+* [Creating a Custom DLP Policy](https://user-images.githubusercontent.com/17154141/122000429-61f95d00-cde1-11eb-8d9f-def2ab2e6d02.png)
+
 **Mod 12**
+
 **Mod 13**
+
 **Mod 14**
  
