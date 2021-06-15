@@ -27,8 +27,7 @@
 * [DLP Policy Quiz](https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M03_L03_sort_SimpleDLPtutorial.html)
 * [Creating a Custom DLP Policy](https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M03_L04_match_CustomDLPtutorial.html)
 * [Creating a DLP Policy to protect documents](https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M03_L05_sort_DocumentDLPtutorial.html)
-* [Working with Policy tips![image](
-https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M03_L06_flip_PolicyTipstutorial.html)
+* [Working with Policy tips](https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M03_L06_flip_PolicyTipstutorial.html)
 
 
 **Mod 12**
