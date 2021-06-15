@@ -7,55 +7,6 @@ For reference:
 * [Configure a development environment for Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-environment)
 * [Machine Learning Server Documentation](https://docs.microsoft.com/en-us/machine-learning-server/)
 
-## Install on Windows with Scoop
-
-1. Install [VSCode](https://code.visualstudio.com/).
-   * Install the Azure Machine Learning extension.
-
-2. Open `PowerShell`.
-
-3. Install [scoop](https://scoop.sh/) using the commands below:
-
-```powershell
-iwr -useb get.scoop.sh | iex
-scoop bucket add extras
-```
-
-4. Install platform dependencies:
-
-```powershell
-scoop install azure-cli python git miniconda3
-```
-
-5. Configure the Azure CLI:
-
-```powershell
-az login
-az extension add -n azure-cli-ml
-```
-
-6. Install python dependencies:
-
-```powershell
-pip install --upgrade azureml-sdk
-pip install pandas matplotlib joblib sklearn azureml.widgets
-```
-
-7. Clone the GitHub DP100 repository:
-
-```powershell
-cd \path\to\your\project\directory
-git clone https://github.com/MicrosoftLearning/mslearn-dp100.git DP100
-```
-
-8. Get the workspace config and launch VSCode:
-
-```powershell
-cd DP100
-az ml workspace list --query '[?workspaceName==`YOUR_WORKSPACE_NAME`] | [0]' > config.json
-code .
-```
-
 ## General Installation Instructions
 
 1. Install [VSCode](https://code.visualstudio.com/).
