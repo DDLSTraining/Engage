@@ -15,4 +15,16 @@
 * [Threat Dashboard](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L02_cw_SecDashboardtutorial.html)
 * [Threat Intelligence](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L01_flash_ThreatInteltutorial.html)
 * [Configuring Advance Threat Analytics](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L03_sort_ThreatAnalyticstutorial.html)
+
+**Mod 7**
+* [Cloud Application Security Policy Quiz](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L04_match_CloudApptutorial.html)
+
+**Mod 8**
+
+**Mod 9**
+**Mod 10**
+**Mod 11**
+**Mod 12**
+**Mod 13**
+**Mod 14**
  
