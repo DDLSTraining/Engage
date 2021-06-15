@@ -51,7 +51,7 @@ Add the following bookmarks to your browser:
 
 * [Skillpipe](https://skillpipe.com/en-GB/)
 * [Azure Portal](https://portal.azure.com/)
-* [Microsoft Learning DP-100 on GitHub](https://github.com/MicrosoftLearning/DP100)
+* [Microsoft Learning DP-100 on GitHub](https://github.com/MicrosoftLearning/mslearn-dp100)
 * [Engage Repository](https://github.com/DDLSTraining/Engage)
 
 ## Workstation Setup (Optional)
