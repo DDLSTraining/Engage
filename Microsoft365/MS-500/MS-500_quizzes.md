@@ -17,8 +17,9 @@
 * [Configuring Advance Threat Analytics](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L03_sort_ThreatAnalyticstutorial.html)
 
 **Mod 7**
-* [Cloud Application Security Policy Quiz]  (https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L04_match_CloudApptutorial.html)
 
+* [Cloud Application Security Policy Quiz](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L04_match_CloudApptutorial.html)
+* 
 **Mod 8**
 
 **Mod 9**
