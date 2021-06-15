@@ -17,11 +17,13 @@
 * [Configuring Advance Threat Analytics](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L03_sort_ThreatAnalyticstutorial.html)
 
 **Mod 7**
-* [Cloud Application Security Policy Quiz](https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L04_match_CloudApptutorial.html)
+* [Cloud Application Security Policy Quiz]  (https://edxinteractivepage.blob.core.windows.net/miltstatic/MS101.1/20190329-071225302/static/CLD274x_M03_L04_match_CloudApptutorial.html)
 
 **Mod 8**
 
 **Mod 9**
+* [Archiving and Retention in Exchange](https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M02_L02_cw_ExchArchivingRetentiontutorial.html)
+* 
 **Mod 10**
 **Mod 11**
 **Mod 12**
