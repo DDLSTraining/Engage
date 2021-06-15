@@ -14,7 +14,8 @@
 * [Demonstration: Implement Multi-factor authentication](https://youtu.be/SN-J7L1na34)
 * [Describing Smart Lockout](https://youtu.be/aeuFaG8ZJnY)
 * [**Interactive Guide:** Self-service password reset](https://aka.ms/AA6xlpx)
- 
+* [Guide to MITRE attack Framework](https://www.varonis.com/blog/mitre-attck-framework-complete-guide/)
+*
 **Mod 2**
 
 * [**Interactive Guide:** Establish hybrid identity](https://www.microsoft.com/videoplayer/embed/RE44DnV)
