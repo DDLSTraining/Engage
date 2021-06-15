@@ -29,10 +29,8 @@
 * [Creating a DLP Policy to protect documents](https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M03_L05_sort_DocumentDLPtutorial.html)
 * [Working with Policy tips](https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M03_L06_flip_PolicyTipstutorial.html)
 
-
-**Mod 12**
-
-**Mod 13**
-
 **Mod 14**
- 
+* [Searching for content in the SCC](https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M05_L01_flip_SearchSCCtutorial.html)
+* [Auditing Log Investigations](https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M05_L02_fill_AuditLogstutorial.html)
+* [Managing Advanced eDiscovery](https://edxinteractivepage.blob.core.windows.net/edxpages/MS101T02-2018T3/CLD275x_M05_L03_sort_eDiscoverytutorial.html)
+* 
