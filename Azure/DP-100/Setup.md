@@ -53,7 +53,7 @@ If this is a remote session, give yourself a tick in the streaming software.
 
 Add the following bookmarks to your browser:
 
-* [Skillpipe](https://skillpipe.com/en-GB/)
+* [Skillpipe](https://skillpipe.com/)
 * [Azure Portal](https://portal.azure.com/)
 * [Microsoft Learning DP-100 on GitHub](https://github.com/MicrosoftLearning/mslearn-dp100)
 * [Engage Repository](https://github.com/DDLSTraining/Engage)
