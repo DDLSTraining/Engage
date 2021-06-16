@@ -45,6 +45,10 @@ To create an Azure subscription you need to prove you are a person and an adult.
    * Trial Account (Credit Card Required): https://azure.microsoft.com/en-us/free/
 1. Follow the steps to create your Azure account.
 
+## Let the instructor know you are ready!
+
+If this is a remote session, give yourself a tick in the streaming software.
+
 ## Bookmarks
 
 Add the following bookmarks to your browser:
