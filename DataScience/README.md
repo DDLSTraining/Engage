@@ -1,3 +1,4 @@
+
 # Data Science Resources
 
 ## Machine Learning
@@ -7,7 +8,7 @@
 * [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) - Cross-industry standard process for data mining.
 * [Team Data Science Process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) - An agile, iterative data science methodology to deliver predictive analytics solutions and intelligent applications efficiently.
 
-![Data Science Process](https://secureservercdn.net/160.153.137.170/uh6.338.myftpupload.com/wp-content/uploads/2019/05/post5header.png)
+![Data Science Process](https://user-images.githubusercontent.com/572141/122144264-74819e00-ce96-11eb-9872-05b8adddfe7a.png)
 
 ## Frameworks
 
