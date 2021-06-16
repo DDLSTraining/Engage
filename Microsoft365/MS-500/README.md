@@ -79,6 +79,10 @@
 * [Defender for Endpoint as a StandAlone Licence](https://www.infusedinnovations.com/blog/secure-intelligent-workplace/microsoft-defender-atp-standalone-is-now-available
 )
 * [Defender for Endpont Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
+* [Application Guard](https://www.youtube.com/watch?v=J7fSeYEftRE)
+* [Application Guard 2](https://youtu.be/J7fSeYEftRE)
+* [Exploit Guard](https://youtu.be/pnaYdBP35dc)
+* 
 
 
 
