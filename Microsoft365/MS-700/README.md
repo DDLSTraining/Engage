@@ -4,7 +4,7 @@
 
 
 ## Links to Docs
-  
+  * [Exam Prcatice](https://examtopics.com)
   * [Limitations in Teams](https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams)
   * [Managing MS Teams](https://github.com/MicrosoftLearning/MS-700-Managing-Microsoft-Teams)
   * [QoS for Teams](https://docs.microsoft.com/en-us/microsoftteams/qos-in-teams-clients)
