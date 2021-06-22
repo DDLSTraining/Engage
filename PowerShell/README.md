@@ -10,8 +10,9 @@
 
 ## Resources
 
+* [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell): A curated list of delightful PowerShell packages and resources.
 * [Australian Signals Directorate: Securing PowerShell in the Enterprise](https://www.cyber.gov.au/acsc/view-all-content/publications/securing-powershell-enterprise)
 * [VS Code](https://code.visualstudio.com/)
 * [Scoop](/Internet/Scoop.md)
 * [Squiggle API - for playing with Web APIs](https://api.squiggle.com.au/)
-* [365 Admin: Scripts by Terry Munro](https://www.365admin.com.au/2017/07/all-my-powershell-technet-downloads.html)
+* [365 Admin](https://www.365admin.com.au/2017/07/all-my-powershell-technet-downloads.html): Scripts by Terry Munro
