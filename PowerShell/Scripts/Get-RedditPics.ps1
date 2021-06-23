@@ -21,4 +21,4 @@ foreach ($item in $res.data.children) {
   Invoke-WebRequest -Uri $item.data.url -OutFile $path
   $count++
 }
-Write-Host -Object "Downloaded $($count) pictures.
+Write-Host -Object "Downloaded $($count) pictures."
