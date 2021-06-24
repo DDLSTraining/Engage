@@ -16,8 +16,9 @@ Notes and resources for Microsoft Office 365 and Microsoft 365 courses.
 ## Resources
 * [Microsoft 365 licensing diagrams](https://github.com/AaronDinnage/Licensing)
 * [LICENCING GUIDE](https://docs.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#microsoft-defender-for-identity)
-* [Compare Micrsoft365 Subscriptions](http://m365maps.com)
+* [Compare Microsoft365 Subscriptions](http://m365maps.com)
 * [Connect to All Office 365 Services via PShell in one step](https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-all-office-365-services-in-a-single-windows-powershell-window)
+* [Microsoft 365 Licencing Diagram](https://m365maps.com/Microsoft%20365%20Enterprise.htm)
 
 ## News
 
