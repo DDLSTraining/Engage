@@ -22,4 +22,4 @@
 
 * [Git - distributed version control system](https://git-scm.com/)
 
-![Git Cheat Sheet](/_images/git.jpg)
+![Git Cheat Sheet](/_images/git.jpeg)
