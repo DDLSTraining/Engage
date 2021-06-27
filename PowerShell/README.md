@@ -41,6 +41,7 @@
 |Lab A: Using the pipeline|
 |Module 3 continued (Lesson 3)|
 |Lab B: Filtering objects|
+|Finish 5:00 pm|
 
 ### Day 2
 
@@ -55,6 +56,7 @@
 |Module 5: Using PSProviders and PSDrives|
 |Lab: Using PSProviders and PSDrives|
 |Module 6: Querying management information by using CIM and WMI (Lessons 1 and 2)|
+|Finish 5:00 pm|
 
 ### Day 3
 
@@ -66,6 +68,7 @@
 |Lab: Working with variables|
 |Module 8: Basic scripting|
 |Lab: Basic scripting|
+|Finish 5:00 pm|
 
 ### Day 4
 
@@ -79,6 +82,7 @@
 |Lab A: Using basic remoting|
 |Module 10: Administering remote computers (Lesson 3)|
 |Lab B: Using PSSessions|
+|Finish 5:00 pm|
 
 ### Day 5
 
@@ -88,3 +92,4 @@
 |Lab: Using background jobs and scheduled jobs|
 |Module 12: Using advanced Windows PowerShell techniques|
 |Lab: Practicing advanced techniques|
+|Finish 3:00 pm|
