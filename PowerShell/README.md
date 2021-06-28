@@ -29,6 +29,7 @@
 * `Get-Member`: Alias gm
 * Variables `$Number = 55`
 * Type Conversion `[string]123`
+* Here String: `@" multi-line text "@`
 
 ## Git
 
