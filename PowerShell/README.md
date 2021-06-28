@@ -27,6 +27,7 @@
 * `Get-Module` and `Get-Module -ListAvailable`: Alias gmo
 * `Test-ComputerSecureChannel -Repair`
 * `Get-Member`: Alias gm
+* Type Conversion `[string]123`
 
 ## Git
 
