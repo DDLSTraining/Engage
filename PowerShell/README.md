@@ -19,7 +19,7 @@
 * [365 Admin](https://www.365admin.com.au/2017/07/all-my-powershell-technet-downloads.html): Scripts by Terry Munro
 * [PS scripts from Brent Denny](https://github.com/brentd09) 
 
-## Must Remember
+## Important Basics
 
 * `Get-Help`: Alias help, man
 * `Get-Command`: Alias gcm
