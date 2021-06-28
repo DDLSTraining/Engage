@@ -22,8 +22,8 @@
 ## Important Basics
 
 * `Get-Help`: Alias help, man
-* `Get-Command`: Alias gcm
 * `Get-Help about_*`
+* `Get-Command`: Alias gcm
 * `Get-Module` and `Get-Module -ListAvailable`: Alias gmo
 * `Test-ComputerSecureChannel -Repair`
 * `Get-Member`: Alias gm
