@@ -1,5 +1,6 @@
 # Microsoft PowerShell Resources
 
+* [Skillpipe Online Courseware](https://www.skillpipe.com/)
 * [PowerShell Core on GitHub](https://github.com/PowerShell/PowerShell)
 * [PowerShell Team on GitHub](https://github.com/PowerShell)
 * [PowerShell Gallery](https://www.powershellgallery.com/)
