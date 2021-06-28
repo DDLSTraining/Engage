@@ -6,7 +6,6 @@
 * [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/en-us/learning/m365-security-administrator.aspx)
 * [Exam MS-500: Microsoft 365 Security Administration](https://www.microsoft.com/en-us/learning/exam-ms-500.aspx)
 * [Exam Update](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3)
-* [Practice Exams](https://www.examtopics.com/)
 * [Additional on-line learning](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
 
 ## Extra Reading
