@@ -26,6 +26,7 @@
 * `Get-Help about_*`
 * `Get-Module` and `Get-Module -ListAvailable`: Alias gmo
 * `Test-ComputerSecureChannel -Repair`
+* `Get-Member`: Alias gm
 
 ## Git
 
