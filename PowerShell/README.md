@@ -32,7 +32,7 @@
 * Here String: `@" multi-line text "@`
 * Advanced Arrays:
   * AraryList: `$items = New-Object System.Collections.ArrayList`
-  * Generic List: `$items = System.Collections.Generic.List[<type>]`
+  * Generic List: `$items = New-Object System.Collections.Generic.List[<type>]`
 * `Format-List -Property *`: Alias fl *
 * `Sort-Object`: Alias sort
 * `Measure-Object`: Alias measure
