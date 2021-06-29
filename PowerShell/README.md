@@ -1,5 +1,5 @@
-# Microsoft PowerShell Resources
-<img src="/_images/PowerShell_Core_6.0_icon.png" width="10%"></img>
+# <img src="/_images/PowerShell_Core_6.0_icon.png" width="10%"></img> Microsoft PowerShell Resources
+
 * [Skillpipe Online Courseware](https://www.skillpipe.com/)
 * [PowerShell Core on GitHub](https://github.com/PowerShell/PowerShell)
 * [PowerShell Team on GitHub](https://github.com/PowerShell)
