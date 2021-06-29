@@ -2,9 +2,8 @@
 
 * [Skillpipe Online Courseware](https://www.skillpipe.com/)
 * [PowerShell Core on GitHub](https://github.com/PowerShell/PowerShell)
-* [PowerShell Team on GitHub](https://github.com/PowerShell)
-* [PowerShell Gallery](https://www.powershellgallery.com/)
 * [.NET Core on GitHub](https://github.com/dotnet/core)
+* [PowerShell Gallery](https://www.powershellgallery.com/)
 * [Download Companion Content for Microsoft Official Courseware (MOC)](https://www.microsoft.com/en-us/learning/companion-moc.aspx)
 * [Windows PowerShell Language Specification Version 3.0](https://www.microsoft.com/en-au/download/details.aspx?id=36389)
 * [Microsoft Terminal](https://github.com/microsoft/terminal)
