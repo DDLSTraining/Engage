@@ -33,6 +33,7 @@
 * Advanced Arrays:
   * AraryList: `$items = New-Object System.Collections.ArrayList`
   * Generic List: `$items = System.Collections.Generic.List[<type>]`
+* `Select-Object -ExpandProperty <property name>`
 
 
 ## Git
