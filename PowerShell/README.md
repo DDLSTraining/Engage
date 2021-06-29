@@ -43,6 +43,11 @@
 * `ConvertTo-Json` and `ConvertFrom-Json`
 * `ConvertTo-Html`
 
+## Exotic Cmdlets
+
+* `Group-Object`: Alias group
+* `Compare-Object`: Alias compare, diff
+
 ## Git
 
 * [Git - distributed version control system](https://git-scm.com/)
