@@ -30,6 +30,10 @@
 * Variables `$Number = 55`
 * Type Conversion `[string]123`
 * Here String: `@" multi-line text "@`
+* Advanced Arrays:
+  * AraryList: `$items = New-Object System.Collections.ArrayList`
+  * Generic List: `$items = System.Collections.Generic.List[<type>]`
+
 
 ## Git
 
