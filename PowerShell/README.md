@@ -33,9 +33,15 @@
 * Advanced Arrays:
   * AraryList: `$items = New-Object System.Collections.ArrayList`
   * Generic List: `$items = System.Collections.Generic.List[<type>]`
-* `Select-Object -ExpandProperty <property name>`
-* `Where-Object -FilterScript { $_.Property -eq $value }`
-
+* `Format-List -Property *`: Alias fl *
+* `Sort-Object`: Alias sort
+* `Measure-Object`: Alias measure
+* `Select-Object -ExpandProperty <property name>`: Alias select
+* `Where-Object -FilterScript { $_.Property -eq $value }`: Alias where, ?
+* `Foreach-Object -Process { $_.MethodName() }`: Alias foreach, %
+* `Export-Csv` and `Import-Csv`: Alias epcsv, ipcsv
+* `ConvertTo-Json` and `ConvertFrom-Json`
+* `ConvertTo-Html`
 
 ## Git
 
