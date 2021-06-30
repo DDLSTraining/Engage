@@ -19,7 +19,8 @@
 * [Scoop](/Internet/Scoop.md)
 * [Squiggle API - for playing with Web APIs](https://api.squiggle.com.au/)
 * [365 Admin](https://www.365admin.com.au/2017/07/all-my-powershell-technet-downloads.html): Scripts by Terry Munro
-* [PS scripts from Brent Denny](https://github.com/brentd09) 
+* [PS scripts from Brent Denny](https://github.com/brentd09)
+* [Neovim](https://neovim.io/) - Hyperextensible Vim-based text editor
 
 ## Important Basics
 
