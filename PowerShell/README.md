@@ -47,6 +47,7 @@
 
 * `Group-Object`: Alias group
 * `Compare-Object`: Alias compare, diff
+* `(Get-Date).ToString("yyyy-MM-dd hh:ss:mm:ms")`: [Custom date and time format strings](https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-date-and-time-format-strings)
 
 ## Git
 
