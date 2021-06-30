@@ -50,7 +50,7 @@
 * `Compare-Object`: Alias compare, diff
 * `(Get-Date).ToString("yyyy-MM-dd hh:ss:mm:ms")`: [Custom date and time format strings](https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-date-and-time-format-strings)
 * Advanced Collections:
-  * AraryList: `$items = New-Object System.Collections.ArrayList`
+  * ArrayList: `$items = New-Object System.Collections.ArrayList`
   * Generic List: `$items = New-Object System.Collections.Generic.List[<type>]`
 
 ## Git
