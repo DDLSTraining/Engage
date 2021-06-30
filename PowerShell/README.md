@@ -16,7 +16,10 @@
 * [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell): A curated list of delightful PowerShell packages and resources.
 * [Australian Signals Directorate: Securing PowerShell in the Enterprise](https://www.cyber.gov.au/acsc/view-all-content/publications/securing-powershell-enterprise)
 * [VS Code](https://code.visualstudio.com/)
-* [Scoop](/Internet/Scoop.md)
+* Package Management:
+  * [winget](https://docs.microsoft.com/en-us/windows/package-manager/winget/) - Use the winget tool to install and manage applications
+  * [Chocolatey](https://chocolatey.org/) - The Package Manager for Windows
+  * [Scoop](https://scoop.sh/) - A command-line installer for Windows
 * [Squiggle API - for playing with Web APIs](https://api.squiggle.com.au/)
 * [365 Admin](https://www.365admin.com.au/2017/07/all-my-powershell-technet-downloads.html): Scripts by Terry Munro
 * [PS scripts from Brent Denny](https://github.com/brentd09)
