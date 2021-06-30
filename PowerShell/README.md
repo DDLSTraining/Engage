@@ -23,6 +23,7 @@
 
 ## Important Basics
 
+* `Get-Alias`: Alias gal
 * `Get-Help`: Alias help, man
 * `Get-Help about_*`
 * `Get-Command`: Alias gcm
@@ -32,9 +33,6 @@
 * Variables `$Number = 55`
 * Type Conversion `[string]123`
 * Here String: `@" multi-line text "@`
-* Advanced Arrays:
-  * AraryList: `$items = New-Object System.Collections.ArrayList`
-  * Generic List: `$items = New-Object System.Collections.Generic.List[<type>]`
 * `Format-List -Property *`: Alias fl *
 * `Sort-Object`: Alias sort
 * `Measure-Object`: Alias measure
@@ -45,11 +43,14 @@
 * `ConvertTo-Json` and `ConvertFrom-Json`
 * `ConvertTo-Html`
 
-## Exotic Cmdlets
+## Advanced Tips
 
 * `Group-Object`: Alias group
 * `Compare-Object`: Alias compare, diff
 * `(Get-Date).ToString("yyyy-MM-dd hh:ss:mm:ms")`: [Custom date and time format strings](https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-date-and-time-format-strings)
+* Advanced Collections:
+  * AraryList: `$items = New-Object System.Collections.ArrayList`
+  * Generic List: `$items = New-Object System.Collections.Generic.List[<type>]`
 
 ## Git
 
