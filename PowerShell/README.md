@@ -50,6 +50,8 @@
 * `Set-Content`
 * `Add-Content`: Alias ac
 * `Clear-Content`: Alias clc
+* `Start-Sleep`: Alias sleep
+* `$Error[0]`
 
 ## Advanced Tips
 
@@ -60,6 +62,14 @@
   * ArrayList: `$items = New-Object System.Collections.ArrayList`
   * Generic List: `$items = New-Object System.Collections.Generic.List[<type>]`
 * `Test-Path`, `Join-Path`, `Split-Path`
+* `[CmdletBinding()] Param ( [Parameter(Mandatory=$true)][string]$ParamName )`
+* `[PSCustomObject]@{ Property1=Value1; Property2=Value2; }`
+* `[PSCustomObject][Ordered]@{ Property1=Value1; Property2=Value2; }`
+* `Write-Output` - Defines the script or function output
+* `Write-Host`, `Write-Information`, `Write-Warning`, `Write-Verbose`, `Write-Debug`, `Write-Error`
+* `Write-Progress`
+* `try {} catch {} finally {}`
+* `. functionname` - Dot sourcing
 
 ## Git
 
