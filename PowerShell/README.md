@@ -46,6 +46,10 @@
 * `Export-Csv` and `Import-Csv`: Alias epcsv, ipcsv
 * `ConvertTo-Json` and `ConvertFrom-Json`
 * `ConvertTo-Html`
+* `Get-Content`: Alias gc, cat, type
+* `Set-Content`
+* `Add-Content`: Alias ac
+* `Clear-Content`: Alias clc
 
 ## Advanced Tips
 
