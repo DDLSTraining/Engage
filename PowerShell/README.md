@@ -55,6 +55,7 @@
 * Advanced Collections:
   * ArrayList: `$items = New-Object System.Collections.ArrayList`
   * Generic List: `$items = New-Object System.Collections.Generic.List[<type>]`
+* `Test-Path`, `Join-Path`, `Split-Path`
 
 ## Git
 
