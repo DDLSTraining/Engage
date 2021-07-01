@@ -59,8 +59,8 @@
 * `Compare-Object`: Alias compare, diff
 * `(Get-Date).ToString("yyyy-MM-dd hh:ss:mm:ms")`: [Custom date and time format strings](https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-date-and-time-format-strings)
 * Advanced Collections:
-  * ArrayList: `$items = New-Object System.Collections.ArrayList`
-  * Generic List: `$items = New-Object System.Collections.Generic.List[<type>]`
+  * `$items = New-Object System.Collections.ArrayList` - ArrayList
+  * `$items = New-Object System.Collections.Generic.List[<type>]` - Generic List
 * `Test-Path`, `Join-Path`, `Split-Path`
 * `[CmdletBinding()] Param ( [Parameter(Mandatory=$true)][string]$ParamName )`
 * `[PSCustomObject]@{ Property1=Value1; Property2=Value2; }`
