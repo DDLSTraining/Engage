@@ -52,6 +52,9 @@
 * `Clear-Content`: Alias clc
 * `Start-Sleep`: Alias sleep
 * `$Error[0]`
+* Remoting:
+  * `Enter-PSSession`: Alias etsn
+  * `Invoke-Command`: Alias icm
 
 ## Advanced Tips
 
