@@ -83,6 +83,7 @@
   * `Wait-Job`: Alias wjb
   * `Stop-Job`: Alias spjb
   * `Remove-Job`: Alias rjb
+  * `Start-Transcript -Path log.txt`
 
 ## Git
 
