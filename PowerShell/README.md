@@ -72,7 +72,13 @@
 * `Write-Host`, `Write-Information`, `Write-Warning`, `Write-Verbose`, `Write-Debug`, `Write-Error`
 * `Write-Progress`
 * `try {} catch {} finally {}`
-* `. functionname` - Dot sourcing
+* `. FunctionOrScriptName` - Dot sourcing
+* `Start-Job`: Alias sajb
+* `Get-Job`: Alias gjb
+* `Receive-Job`: Alias rcjb
+* `Wait-Job`: Alias wjb
+* `Stop-Job`: Alias spjb
+* `Remove-Job`: Alias rjb
 
 ## Git
 
