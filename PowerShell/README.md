@@ -83,8 +83,8 @@
   * `Wait-Job`: Alias wjb
   * `Stop-Job`: Alias spjb
   * `Remove-Job`: Alias rjb
-  * `Start-Transcript -Path log.txt`
-  * `$MyInvocation.MyCommand.Path` - Inside a script prints the full file path
+* `Start-Transcript -Path log.txt`
+* `$MyInvocation.MyCommand.Path` - Inside a script prints the full file path
 
 ## Git
 
