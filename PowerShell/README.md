@@ -13,7 +13,9 @@
 
 * [PowerShell Community](https://devblogs.microsoft.com/powershell-community/)
 * [PowerShell Team Blog](https://devblogs.microsoft.com/powershell/)
-* [Regular Expression Language - Quick Reference](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference)
+* RegEx:
+  * [Regular Expression Language - Quick Reference](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference)
+  * [regex101](https://regex101.com/) - Online regular expression calculator
 * [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell): A curated list of delightful PowerShell packages and resources.
 * [Australian Signals Directorate: Securing PowerShell in the Enterprise](https://www.cyber.gov.au/acsc/view-all-content/publications/securing-powershell-enterprise)
 * [VS Code](https://code.visualstudio.com/)
