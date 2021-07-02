@@ -16,7 +16,7 @@
 param
 (
     [parameter(Mandatory = $false)]
-    [String]
+    [String[]]
     $Name
 )
 
@@ -24,7 +24,7 @@ $software = Get-CimInstance -ClassName Win32_Product | Select-Object -Property N
 
 if ($Name) {
     foreach ($n in $Name) {
-        $software = $software | Where-Object Name -like "$n"
+        $software = $software | Where-Object Name -match $n
     }
 }
 
