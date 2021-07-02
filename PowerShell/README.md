@@ -58,6 +58,7 @@
 * Remoting:
   * `Enter-PSSession`: Alias etsn
   * `Invoke-Command`: Alias icm
+* `Set-Clipboard`: Alias scb
 
 ## Advanced Tips
 
