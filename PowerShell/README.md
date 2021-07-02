@@ -73,12 +73,13 @@
 * `Write-Progress`
 * `try {} catch {} finally {}`
 * `. FunctionOrScriptName` - Dot sourcing
-* `Start-Job`: Alias sajb
-* `Get-Job`: Alias gjb
-* `Receive-Job`: Alias rcjb
-* `Wait-Job`: Alias wjb
-* `Stop-Job`: Alias spjb
-* `Remove-Job`: Alias rjb
+* Background Jobs:
+  * `Start-Job`: Alias sajb
+  * `Get-Job`: Alias gjb
+  * `Receive-Job`: Alias rcjb
+  * `Wait-Job`: Alias wjb
+  * `Stop-Job`: Alias spjb
+  * `Remove-Job`: Alias rjb
 
 ## Git
 
