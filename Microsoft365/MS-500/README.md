@@ -82,7 +82,7 @@
 * [Application Guard](https://www.youtube.com/watch?v=J7fSeYEftRE)
 * [Application Guard 2](https://youtu.be/J7fSeYEftRE)
 * [Exploit Guard](https://youtu.be/pnaYdBP35dc)
-* 
+* [Defender for Endpoint Deployment Guide](https://youtu.be/gx9jnG5tZmM)
 
 
 
