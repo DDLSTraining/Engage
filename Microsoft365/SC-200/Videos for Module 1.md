@@ -12,7 +12,7 @@
 * [**Interactive Guide:** Investigate and remediate threats with Microsoft Defender for Endpoint - 17 minutes](https://aka.ms/MSDE-IG)
 * [Microsoft Defender for Endpoint – Onboarding clients - 3 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4bGqr?rel=0&postJsllMsg=true)
 * [Role-based access control – Microsoft Defender ATP - 5 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4bJ2a?rel=0&postJsllMsg=true)
-* [Attack surface reduction – Microsoft Defender ATP - 7 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4woug?postJsllMsg=true0
+* [Attack surface reduction – Microsoft Defender ATP - 7 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4woug?postJsllMsg=true0)
 * [**Video:** Incident Investigation - 6 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4qLUV?rel=0&postJsllMsg=true)
 * [Microsoft Threat Protection – Incident management - 4 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4Bzwz?)
 * [Microsoft Defender for Endpoint: Using the new alert experience - 3 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4yiO5?rel=0&postJsllMsg=true)
