@@ -6,40 +6,23 @@
 * [**Video:**  Attack Surface Reduction explained - 6:25 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4COmV?postJsllMsg=true)
 * [**Video:**  Automated investigations - 4:34 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4CQAA?postJsllMsg=true)
 * [Microsoft Intelligent Security Graph](https://www.youtube.com/watch?v=-Q_G3yF9ZL4)
-Microsoft Cybersecurity Reference Architectures
-https://docs.microsoft.com/en-au/security/cybersecurity-reference-architecture/mcra
-https://github.com/MicrosoftDocs/security/blob/main/Downloads/microsoft-cybersecurity-reference-architectures.pptx?raw=true
-Video: Advanced Hunting Microsoft Defender - 5 minutes
-https://www.microsoft.com/en-us/videoplayer/embed/RE4COn3?postJsllMsg=true
-Interactive Guide: Investigate and remediate threats with Microsoft Defender for Endpoint(17 minutes)
-https://aka.ms/MSDE-IG
-Microsoft Defender for Endpoint – Onboarding clients - 3 minutes
-https://www.microsoft.com/en-us/videoplayer/embed/RE4bGqr?rel=0&postJsllMsg=true
-Role-based access control – Microsoft Defender ATP(5 minutes)
-https://www.microsoft.com/en-us/videoplayer/embed/RE4bJ2a?rel=0&postJsllMsg=true
-Attack surface reduction – Microsoft Defender ATP - 7 minutes
-https://www.microsoft.com/en-us/videoplayer/embed/RE4woug?postJsllMsg=true
-Video: Incident Investigation(6 minutes)
-https://www.microsoft.com/en-us/videoplayer/embed/RE4qLUV?rel=0&postJsllMsg=true
-Microsoft Threat Protection – Incident management - 4 minutes
-https://www.microsoft.com/en-us/videoplayer/embed/RE4Bzwz?
-Microsoft Defender for Endpoint: Using the new alert experience - 3 minutes
-https://www.microsoft.com/en-us/videoplayer/embed/RE4yiO5?rel=0&postJsllMsg=true
-Microsoft Threat Protection: Automated self-healing - 4:37 minutes
-https://www.microsoft.com/en-us/videoplayer/embed/RE4BzwB
-Microsoft Defender for Endpoint: Advanced hunting - 4:47 minutes
-https://www.microsoft.com/en-us/videoplayer/embed/RE4bGqo?rel=0&postJsllMsg=true
-Microsoft Defender for Endpoint: EDR in block mode - 3:42 minutes
-https://www.microsoft.com/en-us/videoplayer/embed/RE4HjW2?rel=0&postJsllMsg=true
-Microsoft Defender for Endpoint: Live response - 4 minutes
-https://www.microsoft.com/en-us/videoplayer/embed/RE4qLUW?rel=0&postJsllMsg=true
-Microsoft Defender for Endpoint: Deep analysis - 3 minutes
-https://www.microsoft.com/en-us/videoplayer/embed/RE4aAYy?rel=0&postJsllMsg=true
-Microsoft Defender for Endpoint: Conditional access - 4 minutes
-https://www.microsoft.com/en-us/videoplayer/embed/RE4byD1?rel=0&postJsllMsg=true
-Microsoft Defender for Endpoint: Unified IoCs - 4 minutes
-https://www.microsoft.com/en-us/videoplayer/embed/RE4qLVw?rel=0&postJsllMsg=true
-Video: Threat and vulnerability management: discovery & remediation
-https://www.microsoft.com/videoplayer/embed/RE4qLVs?rel=0
-Interactive Guide: Threat and Vulnerability Management - 17 minutes
-https://aka.ms/MSDE_TVM_IG
+* [Microsoft Cybersecurity Reference Architectures](https://docs.microsoft.com/en-au/security/cybersecurity-reference-architecture/mcra)
+* [Microsoft Cybersecurity Reference Architectures PowerPoints](https://github.com/MicrosoftDocs/security/blob/main/Downloads/microsoft-cybersecurity-reference-architectures.pptx?raw=true)
+* [**Video:** Advanced Hunting Microsoft Defender - 5 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4COn3?postJsllMsg=true)
+* [**Interactive Guide:** Investigate and remediate threats with Microsoft Defender for Endpoint - 17 minutes](https://aka.ms/MSDE-IG)
+* [Microsoft Defender for Endpoint – Onboarding clients - 3 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4bGqr?rel=0&postJsllMsg=true)
+* [Role-based access control – Microsoft Defender ATP - 5 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4bJ2a?rel=0&postJsllMsg=true)
+* [Attack surface reduction – Microsoft Defender ATP - 7 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4woug?postJsllMsg=true0
+* [**Video:** Incident Investigation - 6 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4qLUV?rel=0&postJsllMsg=true)
+* [Microsoft Threat Protection – Incident management - 4 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4Bzwz?)
+* [Microsoft Defender for Endpoint: Using the new alert experience - 3 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4yiO5?rel=0&postJsllMsg=true)
+* [Microsoft Threat Protection: Automated self-healing - 4:37 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4BzwB)
+* [Microsoft Defender for Endpoint: Advanced hunting - 4:47 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4bGqo?rel=0&postJsllMsg=true)
+* [Microsoft Defender for Endpoint: EDR in block mode - 3:42 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4HjW2?rel=0&postJsllMsg=true)
+* [Microsoft Defender for Endpoint: Live response - 4 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4qLUW?rel=0&postJsllMsg=true)
+* [Microsoft Defender for Endpoint: Deep analysis - 3 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4aAYy?rel=0&postJsllMsg=true)
+* [Microsoft Defender for Endpoint: Conditional access - 4 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4byD1?rel=0&postJsllMsg=true)
+* [Microsoft Defender for Endpoint: Unified IoCs - 4 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4qLVw?rel=0&postJsllMsg=true)
+* [Video: Threat and vulnerability management: discovery & remediation](https://www.microsoft.com/videoplayer/embed/RE4qLVs?rel=0)
+* [Interactive Guide: Threat and Vulnerability Management - 17 minutes](https://aka.ms/MSDE_TVM_IG)
+
