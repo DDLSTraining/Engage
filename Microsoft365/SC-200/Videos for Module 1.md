@@ -23,6 +23,6 @@
 * [Microsoft Defender for Endpoint: Deep analysis - 3 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4aAYy?rel=0&postJsllMsg=true)
 * [Microsoft Defender for Endpoint: Conditional access - 4 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4byD1?rel=0&postJsllMsg=true)
 * [Microsoft Defender for Endpoint: Unified IoCs - 4 minutes](https://www.microsoft.com/en-us/videoplayer/embed/RE4qLVw?rel=0&postJsllMsg=true)
-* [Video: Threat and vulnerability management: discovery & remediation](https://www.microsoft.com/videoplayer/embed/RE4qLVs?rel=0)
-* [Interactive Guide: Threat and Vulnerability Management - 17 minutes](https://aka.ms/MSDE_TVM_IG)
+* [**Video:** Threat and vulnerability management: discovery & remediation](https://www.microsoft.com/videoplayer/embed/RE4qLVs?rel=0)
+* [**Interactive Guide:** Threat and Vulnerability Management - 17 minutes](https://aka.ms/MSDE_TVM_IG)
 
