@@ -12,6 +12,7 @@
 * [Azure Cognitive Services: Computer Vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/)
 * [Azure - How Bots Work ](https://docs.microsoft.com/en-au/azure/bot-service/bot-builder-basics)
 * [Azure Paired Regions](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions)
+* [DB-Engines Database Ranking](https://db-engines.com)
 
 ## Modules
 
