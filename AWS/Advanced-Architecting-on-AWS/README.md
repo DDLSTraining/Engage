@@ -23,6 +23,7 @@
 * [Enable AWS Control Tower on existing organizations and accounts](https://docs.aws.amazon.com/controltower/latest/userguide/existing-orgs.html)
 * [Getting started with Client VPN](https://docs.aws.amazon.com/vpn/latest/clientvpn-user/user-getting-started.html)
 * [Working with shared AWS Outposts resources](https://docs.aws.amazon.com/outposts/latest/userguide/sharing-outposts.html)
+* [What is AWS RAM?](https://docs.aws.amazon.com/ram/latest/userguide/what-is.html)
 * [Getting started with AWS Fargate using Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/fargate-getting-started.html)
 * Containers:
   * [Linux Containers](https://linuxcontainers.org/)
