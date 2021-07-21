@@ -1,5 +1,9 @@
 # Instructors GitHub Help
 
+You will need a GitHub account and permissions to access this repository before you can continue.
+
+Talk to an active [contributor](https://github.com/DDLSTraining/Engage/graphs/contributors) to get given permissions.
+
 This page contains information on how to add or update content within the Engage repository.
 
 * [Page Content Format](#page-content-format)
@@ -92,13 +96,5 @@ Click one of the links below to add to your browser:
 * [FireFox](https://addons.mozilla.org/en-US/firefox/addon/octotree/)
 * [Chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 * [Opera](https://addons.opera.com/en/extensions/details/octotree/)
-
-## Gitpod
-
-One-Click Online IDE for GitHub
-
-As with Octotree, Gitpod is not required. If you wish to make major changes to any GitHub repository you can either clone the repository to your desktop, or try Gitpod. Gitpod allows you to edit the repository in the browser using the Visual Studio Code application.
-
-Visit [Gitpod](https://www.gitpod.io/) or install the [browser extension](https://addons.mozilla.org/en-US/firefox/addon/gitpod/).
 
 
