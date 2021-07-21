@@ -6,12 +6,20 @@ Talk to an active [contributor](https://github.com/DDLSTraining/Engage/graphs/co
 
 This page contains information on how to add or update content within the Engage repository.
 
+* [Content Warning](#content-warning)
 * [Page Content Format](#page-content-format)
 * [Edit Page Content](#edit-page-content)
 * [Create New Page](#create-new-page)
 * [Create New Directory](#create-new-directory)
 * [Delete Page](#delete-page)
 * [Octotree](#octotree)
+
+## Content Warning
+
+Keep these points in mind as you add content to this repository:
+
+* This is public. Do not add sensitive, private, or inappropriate content.
+* GitHub keeps a history of all changes. Do not add large files or images.
 
 ## Page Content Format
 
