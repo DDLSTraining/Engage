@@ -51,7 +51,7 @@ Block code with three back ticks to open the block and three to close the block.
 1. Ensure you are looking at a file in the repository and not a directory.
 1. Click the `Edit this file` button that looks like a pen 🖊️.
 1. Add or change the content using [Markdown format](https://guides.github.com/features/mastering-markdown/).
-1. Click `Commit new file` at the bottom of the browser window.
+1. Click the green `Commit changes` button at the bottom of the browser window.
 
 ## Create New Page
 
