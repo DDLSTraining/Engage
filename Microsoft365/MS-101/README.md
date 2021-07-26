@@ -6,7 +6,6 @@
 * [The New Certification tracks](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
 * [MS-101 on DDLS](https://www.ddls.com.au/courses/microsoft/office-365/microsoft-ms-101t00-microsoft-365-mobility-and-security/)
 * [MS-101 Exam Details](https://www.microsoft.com/en-us/learning/exam-ms-101.aspx)
-* [Practice Exams](https://www.examtopics.com/)
 * [Out of Hours - Intune Stuff](https://oofhours.com/category/microsoft-intune/)
 * [Common Passwords for Attack Simulator](https://github.com/jeanphorn/wordlist)
 * [Enabling Sensitvity Labels](https://docs.microsoft.com/en-au/azure/active-directory/users-groups-roles/groups-assign-sensitivity-labels)
