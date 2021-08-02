@@ -36,6 +36,7 @@
 * [Windows defender Advanced Threat Protection](https://youtu.be/qxeGa3pxIwg)
 * [Advanced Threat Protection – Windows 10 etc](https://youtu.be/HkQZR9RBbPE)
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
+* [Microsoft Threat Protection](https://docs.microsoft.com/en-us/learn/paths/m365-security-threat-protection)
 
 ## EDiscovery
 * [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
