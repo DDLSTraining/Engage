@@ -125,3 +125,4 @@
 * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
 * [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
 * [Do more with Advanced EDiscovery](https://youtu.be/-25S-Vz7u1Q)
+* [New Guide Adv EDiscovery](https://content.cloudguides.com/en-us/guides/Advanced%20eDiscovery)
