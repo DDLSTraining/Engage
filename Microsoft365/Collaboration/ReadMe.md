@@ -15,6 +15,9 @@
   * [VoiceMail Hybrid](https://docs.microsoft.com/en-us/microsoftteams/set-up-phone-system-voicemail)
   * [Supervised Chats](https://docs.microsoft.com/en-us/microsoftteams/supervise-chats-edu)
   * [Blocking Office 365 Group Creation]( https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
+  * [Permissions Matrix - Team Owners and Members](https://docs.microsoft.com/en-us/microsoftteams/assign-roles-permissions)
+  * [Permissions Matrix - Guest](https://docs.microsoft.com/en-us/microsoftteams/guest-experience)
+  * [Delegate Permissions to Create Teams](https://support.office.com/article/manage-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618)
  
  ## Sensitivity
   * [Custom Sensitive Information Types](https://joannecklein.com/2018/08/07/build-and-use-custom-sensitive-information-types-in-office-365/)
@@ -53,6 +56,8 @@
   * [Live Events](https://youtu.be/1P2Ui6lAkrI)
   * [OSB NDI in Teams](https://youtu.be/ngLfEVU46x0)
   * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
+  * [Microsoft Teams Video Training](https://support.office.com/en-us/article/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7)
+ 
 
 ## Extra Reading
 
