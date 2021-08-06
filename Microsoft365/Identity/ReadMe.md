@@ -15,6 +15,7 @@
 * [Information Barriers](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies)
 * [Assigning Roles to a Group](https://docs.microsoft.com/en-us/azure/active-directory/roles/groups-concept)
 * [Blocking O365 Group Creation](https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
+* [AD Sloud Sync - Deep Dive](https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/concept-how-it-works)
  
 ## WorkPlace Analytics  
   * [Workplace Analytics requirements]( https://docs.microsoft.com/en-us/workplace-analytics/setup/environment-requirements)
@@ -34,6 +35,11 @@
   * [Workplace Analytics -Setup](https://docs.microsoft.com/en-us/workplace-analytics/setup/set-up-workplace-analytics)
   * [Worklace Analytics - Data Analysis](https://docs.microsoft.com/en-us/Workplace-Analytics/overview/get-started)
   * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
- 
+  
+## Defender
+* [Defender for Identity (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
+* [Defender for Identity Set up](https://www.youtube.com/watch?v=rMHNJb2IXJ0&t=226s)
+* [Configuring Defender for Identity](https://youtu.be/rMHNJb2IXJ0?t=229)
+
 ## Resources
-   * [Portals](https://docs.microsoft.com/en-us/learn/modules/explore-portals/)
+* [Portals](https://docs.microsoft.com/en-us/learn/modules/explore-portals/)
