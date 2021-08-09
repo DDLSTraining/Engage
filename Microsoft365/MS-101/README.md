@@ -20,6 +20,8 @@
 * [Information Barriers](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies)
 * [Windows as a Service Resources](https://docs.microsoft.com/en-us/windows/deployment/update/waas-mobile-updates)
 * [Cloud App Security Stuff](https://docs.microsoft.com/en-us/cloud-app-security/)
+* [GitHub: Accessing Secure Score via the Graph API](https://github.com/OfficeDev/O365-Cloud-Sec-Tooling/blob/master/Securescore/README.md)
+* [Related Document: Using the Office 365 Secure Score API](https://blogs.technet.microsoft.com/office365security/using-the-office-365-secure-score-api/)
 
 ## Videos
 ## Cloud App Security
