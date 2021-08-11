@@ -10,8 +10,6 @@
 * [Common Passwords for Attack Simulator](https://github.com/jeanphorn/wordlist)
 * [Enabling Sensitvity Labels](https://docs.microsoft.com/en-au/azure/active-directory/users-groups-roles/groups-assign-sensitivity-labels)
 * [The Office 365 ATP Recommended Configuration Analyzer (ORCA)](https://github.com/cammurray/orca)
-* [Custom Sensitive Information Types](https://joannecklein.com/2018/08/07/build-and-use-custom-sensitive-information-types-in-office-365/)
-* [SharePoint Content Types in DLP](https://joannecklein.com/2018/01/25/a-sharepoint-content-type-dlp-policy/)
 * [Cloud App Security Docs](https://docs.microsoft.com/en-us/cloud-app-security/)
 * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
 * [Insider Risks](https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management-policies?view=o365-worldwide)
@@ -22,6 +20,12 @@
 * [Cloud App Security Stuff](https://docs.microsoft.com/en-us/cloud-app-security/)
 * [GitHub: Accessing Secure Score via the Graph API](https://github.com/OfficeDev/O365-Cloud-Sec-Tooling/blob/master/Securescore/README.md)
 * [Related Document: Using the Office 365 Secure Score API](https://blogs.technet.microsoft.com/office365security/using-the-office-365-secure-score-api/)
+* [Enabling Sensitvity Labels](https://docs.microsoft.com/en-au/azure/active-directory/users-groups-roles/groups-assign-sensitivity-labels)
+* [The Office 365 ATP Recommended Configuration Analyzer (ORCA)](https://github.com/cammurray/orca)
+* [Custom Sensitive Information Types](https://joannecklein.com/2018/08/07/build-and-use-custom-sensitive-information-types-in-office-365/)
+* [Content Types and Search Schema](https://joannecklein.com/2018/09/12/content-type-filters-in-modern-sharepoint/)
+* [SharePoint Content Types in DLP](https://joannecklein.com/2018/01/25/a-sharepoint-content-type-dlp-policy/)
+* [Creating content types](https://sharegate.com/blog/sharepoint-content-types-understand-use-create) - please also research Hub Content Type
 
 ## Videos
 ## Cloud App Security
