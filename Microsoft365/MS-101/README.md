@@ -55,7 +55,8 @@
 ## EDiscovery
 * [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
 * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
-
+* [Do more with Advanced EDiscovery](https://youtu.be/-25S-Vz7u1Q)
+* [New Guide Adv EDiscovery - Use Chrome](https://content.cloudguides.com/en-us/guides/Advanced%20eDiscovery)
 
 ## EndPoint Mgr/Intune
 * [Transfer Config Manager WorkLoads to Intune](https://www.anoopcnair.com/sccm-co-management-configuration-8/)
