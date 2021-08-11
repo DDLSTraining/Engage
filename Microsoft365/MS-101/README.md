@@ -36,6 +36,14 @@
 * [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
 * [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
 * [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
+* [Conditional Access App Control with CAS](https://youtu.be/CvsjM8TX81c)
+* [Session Policy in CAS](https://youtu.be/hPW3E51cIac)
+* [Block Uploads in CAS](https://youtu.be/nGg2XyQWJ4o)
+
+## Cloud App Security Training Material
+* [Microsoft Cloud App Security Demo Lab](https://docs.microsoft.com/en-us/cloud-app-security/getting-started-with-cloud-app-security)
+* [The Microsoft Cloud App Security (MCAS) Ninja Training (March 2021 Update)](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-cloud-app-security-mcas-ninja-training-march-2021/ba-p/1877343)
+
 
 ## Defender Products
 * [Advanced Threat Protection (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
