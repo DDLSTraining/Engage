@@ -45,12 +45,26 @@
 * [The Microsoft Cloud App Security (MCAS) Ninja Training (March 2021 Update)](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-cloud-app-security-mcas-ninja-training-march-2021/ba-p/1877343)
 
 
-## Defender Products
+## Defender
 * [Advanced Threat Protection (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
+* [Microsoft Threat Protection](https://docs.microsoft.com/en-us/learn/paths/m365-security-threat-protection)
+* [Defender for Identity (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
+* [Defender for Identity Set up](https://www.youtube.com/watch?v=rMHNJb2IXJ0&t=226s)
+* [Configuring Defender for Identity](https://youtu.be/rMHNJb2IXJ0?t=229)
 * [Windows defender Advanced Threat Protection](https://youtu.be/qxeGa3pxIwg)
 * [Advanced Threat Protection – Windows 10 etc](https://youtu.be/HkQZR9RBbPE)
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
-* [Microsoft Threat Protection](https://docs.microsoft.com/en-us/learn/paths/m365-security-threat-protection)
+* [Defender for Endpoint Evaluation Demo](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/evaluation-lab?view=o365-worldwide)
+* [Advanced Threat Hund Defender for Endpoint](https://youtu.be/4NQphnL0YR8)
+* [Defender for Endpoint Resources](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647
+)
+* [Defender for Endpoint as a StandAlone Licence](https://www.infusedinnovations.com/blog/secure-intelligent-workplace/microsoft-defender-atp-standalone-is-now-available
+)
+* [Defender for Endpont Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
+* [Application Guard](https://www.youtube.com/watch?v=J7fSeYEftRE)
+* [Application Guard 2](https://youtu.be/J7fSeYEftRE)
+* [Exploit Guard](https://youtu.be/pnaYdBP35dc)
+* [Defender for Endpoint Deployment Guide](https://youtu.be/gx9jnG5tZmM)
 
 ## EDiscovery
 * [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
