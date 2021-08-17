@@ -69,7 +69,7 @@
 * [Defender for Identity (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
 * [Defender for Identity Set up](https://www.youtube.com/watch?v=rMHNJb2IXJ0&t=226s)
 * [Configuring Defender for Identity](https://youtu.be/rMHNJb2IXJ0?t=229)
-* [Windows defender Advanced Threat Protection](https://youtu.be/qxeGa3pxIwg)
+* [Windows defender Advanced Threat Protection EndPoint](https://youtu.be/qxeGa3pxIwg)
 * [Advanced Threat Protection – Windows 10 etc](https://youtu.be/HkQZR9RBbPE)
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
 * [Defender for Endpoint Evaluation Demo](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/evaluation-lab?view=o365-worldwide)
