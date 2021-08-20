@@ -18,5 +18,5 @@
 * [Records Management](https://docs.microsoft.com/en-au/microsoft-365/compliance/manage-information-governance?azure-portal=true&view=o365-worldwide)
 * [What sensitive information types look for](https://docs.microsoft.com/en-au/microsoft-365/compliance/sensitive-information-type-learn-about?azure-portal=true&view=o365-worldwide)
 * [Custom sensitive information types](https://docs.microsoft.com/en-au/microsoft-365/compliance/sensitive-information-type-entity-definitions?azure-portal=true&view=o365-worldwide)
-* [Demonstration: Sensitive information types - 5 minutes](https://www.microsoft.com/videoplayer/embed/RE4yqxc)
+* [**Demonstration:** Sensitive information types - 5 minutes](https://www.microsoft.com/videoplayer/embed/RE4yqxc)
 
