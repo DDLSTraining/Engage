@@ -43,7 +43,7 @@
 * [Information protection licensing guidance](https://docs.microsoft.com/en-au/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#information-protection?azure-portal=true)
 * [Protect your enterprise data using Windows Information Protection (WIP)](https://docs.microsoft.com/en-au/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip?azure-portal=true)
 * [Configure Windows Information Protection](https://docs.microsoft.com/en-au/mem/intune/apps/windows-information-protection-policy-create?azure-portal=true)
-* [lement Azure Information Protection templates](https://docs.microsoft.com/en-au/azure/information-protection/configure-policy-templates?azure-portal=true)
+* [Implement Azure Information Protection templates](https://docs.microsoft.com/en-au/azure/information-protection/configure-policy-templates?azure-portal=true)
 * [Securing data by using Intune](https://docs.microsoft.com/en-au/mem/intune/apps/app-protection-policy?azure-portal=true)
 * [Restrict access to content by using sensitivity levels to apply encryption](https://docs.microsoft.com/en-au/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide&viewFallbackFrom=o365-worldwide%3Fazure-portal%3Dtrue)
 * [When Office 365 applies content marking and encryption](https://docs.microsoft.com/en-au/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#when-office-365-applies-content-marking-and-encryption?azure-portal=true)
