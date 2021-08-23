@@ -91,5 +91,8 @@
 * [How a retention policy works with content in place](https://docs.microsoft.com/en-au/microsoft-365/compliance/retention?view=o365-worldwide#how-a-retention-policy-works-with-content-in-place?azure-portal=true)
 * [Overview of event driven retention](https://docs.microsoft.com/en-au/microsoft-365/compliance/event-driven-retention?azure-portal=true&view=o365-worldwide)
 * [Automate event-based retention](https://docs.microsoft.com/en-au/microsoft-365/compliance/event-driven-retention?azure-portal=true&view=o365-worldwide#automate-events-by-using-a-rest-api)
+* [**Demonstration:** Records management 3 minutes](https://youtu.be/CAUDKL4FyQ8)
+* [**Demonstration:** Event driven retention 13 minutes](https://youtu.be/jSV2vKh0xNg)
+
 
 
