@@ -23,7 +23,7 @@
 ## Videos
 
 * [AAD Fed B2B](https://youtu.be/7waiCeg8AZ4)
-* 
+* [Windows Hello for Business Setup](https://youtu.be/GfYOyFMc8vA)
 * [Secure score API (JSON)](https://youtu.be/vg3QKQWVD6Y)
 * [Microsft Graph](https://youtu.be/PI9NO5rayiY)
 * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
