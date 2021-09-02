@@ -69,4 +69,4 @@
 * [Azure Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
 * [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
 * [Azure Security Specialist](https://azure.microsoft.com/en-us/overview/security/azure-security-expert-series/)
-
+* [Sentinal overview](https://www.microsoft.com/videoplayer/embed/RE4LHLR)
