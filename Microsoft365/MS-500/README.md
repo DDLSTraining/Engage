@@ -103,6 +103,19 @@
 * [Microsoft Cloud App Security Demo Lab](https://docs.microsoft.com/en-us/cloud-app-security/getting-started-with-cloud-app-security)
 * [The Microsoft Cloud App Security (MCAS) Ninja Training (March 2021 Update)](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-cloud-app-security-mcas-ninja-training-march-2021/ba-p/1877343)
 
+## You can obtain sample network logs in the CAS portal itself.
+
+Whenever you need new updated Discovery logs, all you need to do is:
+
+1.      Go to ‘Create new snapshot report’
+
+2.      Choose data source
+
+3.      Click on ‘View and verify’
+
+4.      Click on ‘Download sample log’
+
+The sample logs are updated once a week and are available for all the supported appliances.
 
 
 ## Azure Sentinal
