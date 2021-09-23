@@ -43,13 +43,15 @@
   * [Troubleshooting Teams - Qos](https://youtu.be/65rMRZ_FH_U?t=258)
   * [User Experience Skype Upgrade options](https://youtu.be/0COYetLjWmE)
   * [Enabling Sensitivity Labels](https://docs.microsoft.com/en-au/azure/active-directory/users-groups-roles/groups-assign-sensitivity-labels)
- * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
- * [Regular Expressions](https://youtu.be/sa-TUpSx1JA)
- * [Exam Prep Video - as of Jan 2020](https://www.youtube.com/watch?v=EIzyBmn6E10)
- * [Microsoft Teams Rooms setup](https://youtu.be/In-SzWX1Gtw)
-* [Webinars](https://youtu.be/9t6cggKuCGo)
-* [Live Events](https://youtu.be/1P2Ui6lAkrI)
-* [OSB NDI in Teams](https://youtu.be/ngLfEVU46x0)
+  * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
+  * [Regular Expressions](https://youtu.be/sa-TUpSx1JA)
+  * [Exam Prep Video - as of Jan 2020](https://www.youtube.com/watch?v=EIzyBmn6E10)
+  * [Microsoft Teams Rooms setup](https://youtu.be/In-SzWX1Gtw)
+  * [Webinars](https://youtu.be/9t6cggKuCGo)
+  * [Live Events](https://youtu.be/1P2Ui6lAkrI)
+  * [OSB NDI in Teams](https://youtu.be/ngLfEVU46x0)
+  * [Compliance Recording in Teams](https://myignite.microsoft.com/archives/IG19-VCE40)
+  * 
  
 
 ## Extra Reading
