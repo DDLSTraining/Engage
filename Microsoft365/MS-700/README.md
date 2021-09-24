@@ -30,6 +30,12 @@
   * [Creating content types](https://sharegate.com/blog/sharepoint-content-types-understand-use-create) - please also research Hub Content Type
   * [Supervised Chats](https://docs.microsoft.com/en-us/microsoftteams/supervise-chats-edu)
   * [Blocking Office 365 Group Creation]( https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
+
+## Compliance
+  * [Policy Based Recording](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-recording-policy)
+  * [Team Cloud Recording](https://docs.microsoft.com/en-us/MicrosoftTeams/cloud-recording)
+  * [Record a Meeting](https://support.microsoft.com/en-us/office/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24)
+  * [Compliance Recording in Teams](https://myignite.microsoft.com/archives/IG19-VCE40)
   
 ## Videos
   * [Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&feature=youtu.be&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=1356)
@@ -50,7 +56,6 @@
   * [Webinars](https://youtu.be/9t6cggKuCGo)
   * [Live Events](https://youtu.be/1P2Ui6lAkrI)
   * [OSB NDI in Teams](https://youtu.be/ngLfEVU46x0)
-  * [Compliance Recording in Teams](https://myignite.microsoft.com/archives/IG19-VCE40)
   * 
  
 
