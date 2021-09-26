@@ -7,7 +7,7 @@
 - Your experience with Microsoft server product and versions
 - Have you attended any of these Microsoft courses:
   - Storage and compute with Windows Server
-  - Netowrking with Windows Server
+  - Networking with Windows Server
   - Automating Administration with Windows PowerShell 
 - How is Active Directory, Certificates or Identity solutions used in your workplace 
 - How many years have you been working in IT professionally
