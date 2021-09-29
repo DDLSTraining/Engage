@@ -3,7 +3,7 @@
 - Open a private/incognito browser windows
 - go to [https://outlook.com](https://outlook.com)
 - Click "Create Free Account"
-- Create a unique email address prefix (Maybe something like mjackson12032021   mjackson12032021@outlook.com)
+- Create a unique email address prefix (Maybe something like mjackson12032021   mjackson12032021\@outlook.com)
 - Click Next
 - Create a strong password
 - Click Next
