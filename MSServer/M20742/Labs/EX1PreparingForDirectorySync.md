@@ -1,4 +1,5 @@
 # Build a thow away email address from outlook.com
+### These steps replace (MS20742 Module 12, Exercise 1, task 1) 
 
 1. Open a private/incognito browser windows
 1. go to [https://outlook.com](https://outlook.com)
@@ -43,4 +44,5 @@
   - do not install office 
   - accept the default domain name
 
+## Go back to the lab instructions and complete (Task 2 - Verify the Azure AD tenant and add a domain)
 ## This should complete the steps for creating a trial account for Office 365
