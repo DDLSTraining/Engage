@@ -124,6 +124,7 @@ The sample logs are updated once a week and are available for all the supported 
 * [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
 * [Sentinel Resource Centre](https://azure.microsoft.com/en-us/overview/security/azure-security-expert-series/)
 * [Sentinal overview](https://www.microsoft.com/videoplayer/embed/RE4LHLR)
+* [Sentinal To Go](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-to-go-part1-a-lab-w-prerecorded-data-amp-a-custom/ba-p/1260191)
 
 ## AutoPilot & Config Mgr
 * [Transfer Config Manager WorkLoads to Intune](https://www.anoopcnair.com/sccm-co-management-configuration-8/)
