@@ -84,6 +84,7 @@
 * [Application Guard 2](https://youtu.be/J7fSeYEftRE)
 * [Exploit Guard](https://youtu.be/pnaYdBP35dc)
 * [Defender for Endpoint Deployment Guide](https://youtu.be/gx9jnG5tZmM)
+* [Defender fpr EndPoint Eval Lab](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/evaluation-lab?view=o365-worldwide)
 
 
 
