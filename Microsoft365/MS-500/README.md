@@ -49,8 +49,8 @@
 
 ## Best Practices when an employee leaves
   * [Leaving Emplpoyees](https://docs.microsoft.com/en-us/microsoft-365/compliance/recover-an-inactive-mailbox?view=o365-worldwide)
-  * [More stuff](https://docs.microsoft.com/en-us/microsoft-365/admin/add-users/remove-former-employee?redirectSourcePath=%252fen-us%252farticle%252fRemove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1&view=o365-worldwide)
-  * [covreting Mailbox to SharedMailbox and Back](https://www.nucleustechnologies.com/blog/convert-a-user-mailbox-to-shared-a-shared-mailbox-to-user-mailbox-in-office-365/
+  * [More stuff on former employees](https://docs.microsoft.com/en-us/microsoft-365/admin/add-users/remove-former-employee?redirectSourcePath=%252fen-us%252farticle%252fRemove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1&view=o365-worldwide)
+  * [coverting Mailbox to SharedMailbox and Back](https://www.nucleustechnologies.com/blog/convert-a-user-mailbox-to-shared-a-shared-mailbox-to-user-mailbox-in-office-365/
 )
 
 ## Videos
