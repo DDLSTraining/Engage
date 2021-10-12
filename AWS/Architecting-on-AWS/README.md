@@ -1,4 +1,4 @@
-# Architecting on AWS
+# Architecting on AWS 7.0
 
 ## Course Links
 
@@ -49,45 +49,44 @@
 
 ## Day One
 
-|Module|Activity|Duration|
+|Module|Activity|Duration in Mins|
 |-|-|-|
-|0|Welcome to Architecting on AWS|30|
-|1|Introduction|35|
-|2|The Simplest Architectures|50|
-|Break||15|
-|Lab 1|Hosting a Static Website|20|
-|3|Adding a Compute Layer|60|
-|Lunch||60|
-|4|Adding a Database Layer|50|
-|Lab 2|Deploying a Web Application on AWS|30|
-|Break||15|
-|5|Networking in AWS Part 1|50|
-|Lab 3|Creating a Virtual Private Cloud|30|
+| 0|Course and student Introductionc|35|
+| 1|Architecting Fundamentals(review)|45|
+|Lab 1|Exploring AWS build tools|45|
+| 2|Account Security|65|
+| 3|Networking, part 1|65|
+| 4|Compute|75|
+|Lab 2|Build a VPC and EC2 infrastructure|60|
+|Breaks|Two 15 min breaks and 1 hour Lunch |90|
+|Total|Day 1 |465|
 
 ## Day Two
 
 |Module|Activity|Duration|
 |-|-|-|
-|6|Networking in AWS Part 2|55|
-|Break||15|
-|7|AWS Identity and Access Management (IAM)|50|
-|Lunch||60|
-|8|Elasticity, High Availability, and Monitoring|50|
-|Lab 4|Creating a Highly Available Environment|40|
-|Break||15|
-|9|Automation|40|
-|Lab 5|Automating Infrastructure Deployment with AWS CloudFormation|30|
+| |Day 1 review|20|
+| 5|Storage|90|
+| 6|database Services|70|
+|Lab 3|Build a Database Layer|30|
+| 7|Monitoring and Scaling|60|
+|Lab 4|Load Balancing and Autoscaling|30|
+| 8|Automation|30|
+| 9|Containers|40|
+|Breaks|Two 15 min breaks and 1 hour Lunch |90|
+|Total|Day 2 |460|
 
 ## Day Three
 
 |Module|Activity|Duration|
 |-|-|-|
-|10|Caching|40|
-|Break||15|
-|11|Building Decoupled Architectures|40|
-|12|Microservices and Serverless Architectures|50|
-|Lunch||60|
-|Lab 6|Implementing a Serverless Architecture with AWS Managed Services|20|
-|13|RTO/RPO and Backup Recovery Setup|40|
-|Break||15|
-|14|Optimizations and Review|50|
+| |Day 2 review|20|
+| 10|Networking, part 2|60|
+| 11|Edge Services|50|
+| 12|Serverless Architecture|45|
+|Lab 6|Building a Serverless Architecture|45|
+| 13|Backup & Recovery|45|
+|**Optional**|Capstone Lab|90|
+| |Course wind-up|15|
+|Breaks|Two 15 min breaks and 1 hour Lunch |90|
+|Total|Day 2 |415|
