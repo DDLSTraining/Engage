@@ -36,3 +36,6 @@ The choice between DynamoDB on-demand vs. provisioned capacity depends on which 
 On-demand is good for small applications or for large applications with steep and unpredictable spikes that DynamoDB Auto Scaling cannot react to fast enough. 
 
 For most other applications, provisioned capacity is likely a better option when factoring in cost.
+
+For more information see: 
+* [DynamoDB - Auto Scaling Performance and Cost Optimization](https://aws.amazon.com/blogs/database/amazon-dynamodb-auto-scaling-performance-and-cost-optimization-at-any-scale/)
