@@ -1,13 +1,16 @@
 # DynamoDB Scaling on-demand or provisioned capacity
+---
 
 Even though a DynamoDB table can technically scale to virtually any volume, there are important considerations regarding read and write capacity allocations for DynamoDB tables.
-For example, if usage exceeds the allocated capacity, the application will return errors. 
-On the other hand, if capacity is over-provisioned, you will pay more than necessary, remember the cost of a DynamoDB table can easily reach hundreds, even thousands of dollars per month. 
+
+For example, if usage exceeds the allocated capacity, the application will return errors, but if capacity is over-provisioned you will pay more than necessary, remember the cost of a DynamoDB table can easily reach hundreds, even thousands of dollars per month. 
 So, it's important to make sure capacity is allocated properly.
-First, understand the two ways DynamoDB defines capacity:
-•	Read request units. One strongly consistent read or two eventually consistent reads for a data block of up to 4 KB.
-•	Write request units. One write request for a data block of up to 1 KB.
-DynamoDB offers two types of capacity allocation: on-demand and provisioned. With on-demand capacity, pricing is based on the amount of read and write request units the application consumes throughout the month.
+
+# The two ways DynamoDB defines capacity:
+⋅⋅* Read request units. One strongly consistent read or two eventually consistent reads for a data block of up to 4 KB.
+⋅⋅* Write request units. One write request for a data block of up to 1 KB.
+
+DynamoDB offers two types of capacity allocation: **on-demand** and **provisioned**. With on-demand capacity, pricing is based on the amount of read and write request units the application consumes throughout the month.
 Application owners don't have to explicitly configure read/write capacity. DynamoDB can immediately serve all incoming read/write requests, regardless of volume -- as long as traffic doesn't exceed twice the amount of the highest recorded level. If volume exceeds this limit, capacity is eventually allocated, but it can take up to 30 minutes to be available.
 With provisioned capacity, developers assign read/write capacity units and pay based on the allocated capacity. This usage is billed hourly, regardless of how much of that capacity was consumed. If the application exceeds the provisioned capacity, AWS throttles the requests, and the application won't be able to read or write data during those periods.
 Price and use for DynamoDB on-demand vs. provisioned capacity
