@@ -26,6 +26,8 @@
 * [Content Types and Search Schema](https://joannecklein.com/2018/09/12/content-type-filters-in-modern-sharepoint/)
 * [SharePoint Content Types in DLP](https://joannecklein.com/2018/01/25/a-sharepoint-content-type-dlp-policy/)
 * [Creating content types](https://sharegate.com/blog/sharepoint-content-types-understand-use-create) - please also research Hub Content Type
+* [Nesting Group Limitations AAD](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/directory-service-limits-restrictions)
+
 
 ## Videos
 ## Cloud App Security
