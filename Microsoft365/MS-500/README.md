@@ -46,6 +46,8 @@
 * [AD Sloud Sync - Deep Dive](https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/concept-how-it-works)
 * [Managing Meeting Policies - Per User vs Organizer](https://user-images.githubusercontent.com/42951775/119470362-9bfbb400-bd8b-11eb-8de3-3c388006a72d.png)
 * [Supervised Chats](https://docs.microsoft.com/en-us/microsoftteams/supervise-chats-edu)
+* [Nesting Group Limitations AAD](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/directory-service-limits-restrictions)
+
 
 ## Best Practices when an employee leaves
   * [Leaving Emplpoyees](https://docs.microsoft.com/en-us/microsoft-365/compliance/recover-an-inactive-mailbox?view=o365-worldwide)
