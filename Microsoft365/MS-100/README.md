@@ -23,6 +23,7 @@
 * [Free/Busy time troubleshooter](https://docs.microsoft.com/en-us/exchange/troubleshoot/calendars/troubleshoot-freebusy-issues-in-exchange-hybrid)
 * [Power Apps Customising a SharePoint form](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/customize-list-form)
  * [Laura Rogers Power Hour](https://www.youtube.com/watch?v=lyRxZ560zx8&list=PLtx4MPCKmPulTidrqsBCFZqF9yJJxwExU)
+ * [Nesting Group Limitations AAD](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/directory-service-limits-restrictions)
  
 ## WorkPlace Analytics  
   * [Workplace Analytics requirements]( https://docs.microsoft.com/en-us/workplace-analytics/setup/environment-requirements)
