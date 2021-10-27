@@ -30,6 +30,7 @@
   * [Creating content types](https://sharegate.com/blog/sharepoint-content-types-understand-use-create) - please also research Hub Content Type
   * [Supervised Chats](https://docs.microsoft.com/en-us/microsoftteams/supervise-chats-edu)
   * [Blocking Office 365 Group Creation]( https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
+  * [Teams Room Setup Walkthrough](https://docs.microsoft.com/en-us/learn/modules/m365-teams-rooms-start-configure/out-of-box-experience)
 
 ## Compliance
   * [Policy Based Recording](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-recording-policy)
