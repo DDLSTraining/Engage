@@ -29,6 +29,10 @@
 **Mod 3**
 
 * [**Interactive guide:** Provide secure remote access to on-premises apps with Azure AD Application Proxy (12 minute interaction)](https://aka.ms/AADandAppProxy_InteractiveGuide)
+* [What are Azure AD Access Reviews?](https://www.youtube.com/watch?v=kDRjQQ22Wkk&t=32s)
+* [**Demonstration:** Creating Azure AD Access Reviews](https://youtu.be/zwXOulPOb7g)
+* [**Demonstration:** Enabling Azure AD Access Reviews](https://youtu.be/YF6JUL16mc4)
+* [Entitlement Management](https://www.youtube.com/watch?v=zaaKvaaYwI4)
 * [Securing mobile devices with Conditional Access](https://youtu.be/VDzvO6gszgk)
 * [**Interactive guide:** Configure Conditional Access in Azure AD](https://www.microsoft.com/videoplayer/embed/RE44laI)
 * [Conditional access with Intune](https://aka.ms/AA6xdu0) 
