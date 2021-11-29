@@ -20,6 +20,8 @@ Notes and resources for Microsoft Office 365 and Microsoft 365 courses.
 * [Connect to All Office 365 Services via PShell in one step](https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-all-office-365-services-in-a-single-windows-powershell-window)
 * [Microsoft 365 Licencing Diagram](https://m365maps.com/Microsoft%20365%20Enterprise.htm)
 * [The Periodic Table of Office 365](https://pro.jumpto365.com/@/hexatown.com/PTO365)
+* [Security & Compliance Licencing of Features](https://docs.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#compliance-manager)
+
 
 ## News
 
