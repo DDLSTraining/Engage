@@ -30,7 +30,14 @@
 
 ### Module 3
 
+* [Better Security and Performance with AWS VPN Innovations](https://youtu.be/FrhVV9nG4UM)
+* [Connectivity to AWS and hybrid AWS network architectures](https://youtu.be/eqW6CPb58gs)
+* [Deep dive on Global Connectivity with AWS Direct Connect connections in Multiple Regions and AWS Transit Gateway](https://youtu.be/7FHiGfG7H_E)
+* [DNS design using Amazon Route 53](https://youtu.be/2y_RBjDkRgY)
 * [Getting started with Client VPN](https://docs.aws.amazon.com/vpn/latest/clientvpn-user/user-getting-started.html)
+
+### Module 4
+
 * [Working with shared AWS Outposts resources](https://docs.aws.amazon.com/outposts/latest/userguide/sharing-outposts.html)
 * [What is AWS RAM?](https://docs.aws.amazon.com/ram/latest/userguide/what-is.html)
 * [Getting started with AWS Fargate using Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/fargate-getting-started.html)
