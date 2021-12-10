@@ -54,6 +54,10 @@
 
 ### Module 6
 
+* [Simplifying the Developer Experience: Build and Deploy fro Docker Straight to AWS](https://youtu.be/V88Iqdm8GkE)
+* [Getting up and running with Amazon ECS](https://youtu.be/9u_HKS_Lv6o)
+* [AWS Fargate: Are serverless containers right for you](https://youtu.be/Vtymod0nPBo)
+* [Amazon EKS on AWS Fargate Deep Dive](https://youtu.be/9tQFXEhHdn0)
 * [Getting started with AWS Fargate using Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/fargate-getting-started.html)
 * Containers:
   * [Linux Containers](https://linuxcontainers.org/)
