@@ -38,8 +38,22 @@
 
 ### Module 4
 
+* [Get on-premises access to cloud storage in minutes with AWS Storage Gateway](https://youtu.be/UPswVZ2Qm7U)
+* [Migrate and Modernize with VMware Cloud on AWS](https://youtu.be/FQ_u9KsyQyE)
+* [AWS Outposts: Cloud where you want it](https://youtu.be/VcMdq_j34dA)
 * [Working with shared AWS Outposts resources](https://docs.aws.amazon.com/outposts/latest/userguide/sharing-outposts.html)
+* [Introducing 15 new Local Zones for ultra-low latency compute across the US](https://youtu.be/VmlqP9a_Xd8)
+* [AWS Wavelength: Run apps with ultr-low latency at 5G edge](https://youtu.be/AQ-GbAFDvpM)
+
+### Module 5
+
+* [Advanced VPC design and new capabilities for Amazon VPC](https://youtu.be/tkaMmFoWwaA)
+* [VPC Endpoints & PrivateLink: Optimise for security, cost & operations](https://youtu.be/LNf8jjBt72Y)
+* [Shared VPCs, lessons learned, and best practices](https://youtu.be/I-IIbgp0Jco)
 * [What is AWS RAM?](https://docs.aws.amazon.com/ram/latest/userguide/what-is.html)
+
+### Module 6
+
 * [Getting started with AWS Fargate using Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/fargate-getting-started.html)
 * Containers:
   * [Linux Containers](https://linuxcontainers.org/)
