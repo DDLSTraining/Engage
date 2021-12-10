@@ -20,7 +20,16 @@
 
 ## Extras
 
+### Module 2
+
+* [Comparing AWS deployment tools to manage multiple accounts](https://youtu.be/n_6QTYDavrM)
+* [Best practices for securing your multi-account environment](https://youtu.be/ip5sn3z5FNg)
+* [Managing User permissions at scale with AWS SSO](https://youtu.be/aEIqeFCcK7E)
+* [Build governance at scale with AWS Control Tower](https://youtu.be/Zxrs6YXMidk)
 * [Enable AWS Control Tower on existing organizations and accounts](https://docs.aws.amazon.com/controltower/latest/userguide/existing-orgs.html)
+
+### Module 3
+
 * [Getting started with Client VPN](https://docs.aws.amazon.com/vpn/latest/clientvpn-user/user-getting-started.html)
 * [Working with shared AWS Outposts resources](https://docs.aws.amazon.com/outposts/latest/userguide/sharing-outposts.html)
 * [What is AWS RAM?](https://docs.aws.amazon.com/ram/latest/userguide/what-is.html)
