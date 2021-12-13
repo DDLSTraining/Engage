@@ -147,7 +147,38 @@
 * [Secure your Azure SQL Database](https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/)
 * [Configure security policies to manage data](https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/)
 * [Migrate your relational data stored in SQL Server to Azure SQL Database](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/)
-* 
+
+
+### Module 04 - Security Operations
+
+* [Integrate security solutions in Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-partner-integration#exporting-data-to-a-siem)
+* [Create a Log Analytics workspace in the Azure portal](https://docs.microsoft.com/en-us/azure/azure-monitor/learn/quick-create-workspace)
+* [Overview of alerts in Microsoft Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview)
+* [Create diagnostic setting to collect resource logs and metrics in Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
+* [Analyze your Azure infrastructure by using Azure Monitor logs](https://docs.microsoft.com/en-us/learn/modules/analyze-infrastructure-with-azure-monitor-logs/)
+* [Manage security operations in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-security-operations/)
+* [Design a holistic monitoring strategy on Azure](https://docs.microsoft.com/en-us/learn/modules/design-monitoring-strategy-on-azure/)
+* [Monitor and report on security events in Azure AD](https://docs.microsoft.com/en-us/learn/modules/monitor-report-aad-security-events/)
+* [Working with security policies](https://docs.microsoft.com/en-us/azure/security-center/tutorial-security-policy)
+* [Azure security policies monitored by Security Center](https://docs.microsoft.com/en-us/azure/security-center/security-center-policy-definitions)
+* [Attack Scenario](https://docs.microsoft.com/en-us/azure/security-center/security-center-just-in-time#attack-scenario)
+* [Secure your management ports with just-in-time acces](https://docs.microsoft.com/en-us/azure/security-center/security-center-just-in-time)
+* [Identify security threats with Azure Security Center](https://docs.microsoft.com/en-us/learn/modules/identify-threats-with-azure-security-center/)
+* [Resolve security threats with Azure Security Center](https://docs.microsoft.com/en-us/learn/modules/resolve-threats-with-azure-security-center)
+* [Protect your servers and VMs from brute-force and malware attacks with Azure Security Center](https://docs.microsoft.com/en-us/learn/modules/secure-vms-with-azure-security-center/)
+* [Top 5 security items to consider before pushing to production](https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/)
+* [Automatically create incidents from Microsoft security alerts](https://docs.microsoft.com/en-us/azure/sentinel/create-incidents-from-alerts)
+* [Security automation & orchestration](https://docs.microsoft.com/en-us/azure/sentinel/overview#security-automation--orchestration)
+* [**Tutorial:** Set up automated threat responses in Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/tutorial-respond-threats-playbook)
+* [Hunt for threats with Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/hunting)
+* [Introduction to threat modeling](https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/)
+* [Use a framework to identify threats and find ways to reduce or eliminate risk](https://docs.microsoft.com/en-us/learn/modules/tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/)
+* [Create a threat model using data-flow diagram elements](https://docs.microsoft.com/en-us/learn/modules/tm-create-a-threat-model-using-foundational-data-flow-diagram-elements/)
+
+
+
+
+
 
 
 
