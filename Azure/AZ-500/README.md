@@ -107,6 +107,56 @@
 * [Run Docker containers with Azure Container Instances](https://docs.microsoft.com/en-us/learn/modules/run-docker-with-azure-container-instances/)
 * [Azure Kubernetes Service Workshop](https://docs.microsoft.com/en-us/learn/modules/aks-workshop/)
 
+###  Module 03 - Data and Application Security
+
+* [About Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/general/overview)
+* [Azure Key Vault Security](https://docs.microsoft.com/en-us/azure/key-vault/general/overview-security)
+* [Get started with Key Vault certificates](https://docs.microsoft.com/en-us/azure/key-vault/certificates/certificate-scenarios)
+* [About Azure Key Vault Keys](https://docs.microsoft.com/en-us/azure/key-vault/keys/about-keys)
+* [Configure customer-managed keys with Azure Key Vault by using the Azure portal](https://docs.microsoft.com/en-us/azure/storage/common/storage-encryption-keys-portal)
+* [About Azure Key Vault Secrets](https://docs.microsoft.com/en-us/azure/key-vault/secrets/about-secrets)
+* [Introduction to securing data at rest on Azure](https://docs.microsoft.com/en-us/learn/modules/secure-data-at-rest/)
+* [Configure and manage secrets in Azure Key Vault](https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/)
+* [Manage secrets in your server apps with Azure Key Vault](https://docs.microsoft.com/en-us/learn/modules/manage-secrets-with-azure-key-vault/)
+* [Microsoft Identity Platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/about-microsoft-identity-platform)
+* [Register your app with the Microsoft identity platform](https://docs.microsoft.com/en-us/graph/auth/auth-concepts#register-your-app-with-the-microsoft-identity-platform)
+* [Microsoft Graph Permissions](https://docs.microsoft.com/en-us/graph/auth/auth-concepts#register-your-app-with-the-microsoft-identity-platform)
+* [Configure TLS mutual authentication for Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-configure-tls-mutual-auth)
+* [Authenticate apps to Azure services by using service principals and managed identities for Azure resources](https://docs.microsoft.com/en-us/learn/modules/authenticate-apps-with-managed-identities/)
+* [Secure your application by using OpenID Connect and Azure AD](https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/)
+* [Permissions and Consent Framework](https://docs.microsoft.com/en-us/learn/modules/identity-permissions-consent/)
+* [Application types in Microsoft identity](https://docs.microsoft.com/en-us/learn/modules/identity-application-types/)
+* [Authorize requests to Azure Storage](https://docs.microsoft.com/en-us/rest/api/storageservices/authorize-requests-to-azure-storage)
+* [Shared Access Signatures](https://docs.microsoft.com/en-us/rest/api/storageservices/delegate-access-with-shared-access-signature)
+* [Storage Service Encryption](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
+* [Set and manage immutability policies for Blob storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-immutability-policies-manage?tabs=azure-portal)
+* [Overview of Azure Files identity-based authentication support for SMB access](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-active-directory-overview)
+* [Core Cloud Services - Azure data storage options](https://docs.microsoft.com/en-us/learn/modules/intro-to-data-in-azure/)
+* [Create an Azure Storage account](https://docs.microsoft.com/en-us/learn/modules/create-azure-storage-account/)
+* [Store and share files in your application with Azure Files](https://docs.microsoft.com/en-us/learn/modules/store-and-share-with-azure-files/)
+* [Secure your Azure Storage account](https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/)
+* [Control access to Azure Storage with shared access signatures](https://docs.microsoft.com/en-us/learn/modules/control-access-to-azure-storage-with-sas/)
+* [Azure SQL Database and Azure SQL Data Warehouse IP firewall rules](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-firewall-configure)
+* [Azure SQL Auditing](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-auditing)
+* [Data Discovery & Classification for Azure SQL Database and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-data-discovery-and-classification)
+* [SQL Vulnerability Assessment helps you identify database vulnerabilities](https://docs.microsoft.com/en-us/azure/sql-database/sql-vulnerability-assessment)
+* [Dynamic data masking for Azure SQL Database and Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-dynamic-data-masking-get-started)
+* [Transparent data encryption for SQL Database and Azure Synapse](https://docs.microsoft.com/en-us/azure/sql-database/transparent-data-encryption-azure-sql?tabs=azure-portal)
+* [Always Encrypted: Protect sensitive data and store encryption keys in the Windows certificate store](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-always-encrypted?view=sql-server-ver15)
+* [Provision an Azure SQL database to store application data](https://docs.microsoft.com/en-us/learn/modules/provision-azure-sql-db/)
+* [Secure your Azure SQL Database](https://docs.microsoft.com/en-us/learn/modules/secure-your-azure-sql-database/)
+* [Configure security policies to manage data](https://docs.microsoft.com/en-us/learn/modules/configure-security-policies-to-manage-data/)
+* [Migrate your relational data stored in SQL Server to Azure SQL Database](https://docs.microsoft.com/en-us/learn/modules/migrate-sql-server-relational-data/)
+* 
+
+
+
+
+
+
+
+
+
 
 
 
