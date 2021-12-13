@@ -76,7 +76,39 @@
 * [Application Acceleration and Protection with Amazon CloudFront, AWS WAF, and AWS Shield](https://youtu.be/0xlwLEccRe0)
 * [Centrally Manage AWS WAF and AWS Managed Rules Using AWS Firewall Manager](https://youtu.be/u27HLad-Wi8)
 * [Introducing AWS Network Firewall](https://youtu.be/CISgqpVn75Q)
-* 
+
+### Module 9
+
+* [Do you need an AWS KMS custom key store?](https://youtu.be/0_s2pn-84O4)
+* [Achieving Security Goals with AWS CloudHSM](https://youtu.be/_gezaWmwzYY)
+* [Best Practices for Privileged Access & Secrets Management in the Cloud](https://youtu.be/TFMgT6NxKEk)
+
+### Module 10
+
+* [Achieving unparalleled scale on Amazon S3: Manage and analyze your data](https://youtu.be/piHAXFyakcU)
+* [An introduction to data lakes and analytics on AWS](https://youtu.be/V2tV4aa_x8U)
+* [Data lakes: Easily build, secure, & share with AWS Lake Formation](https://youtu.be/r5F0hvuq9kY)
+
+### Module 11
+
+* [Executing a large-scale migration to AWS](https://youtu.be/adRag6vEy8w)
+* [CloudEndure Migration Factory best practices](https://youtu.be/is7cOcNUHlw)
+* [Planning & executing your database migration to Amazon RDS for Oracle](https://youtu.be/qwoiCMwiEk0)
+
+### Module 12
+
+* [Cost allocation best practices](https://youtu.be/leDfPdXHDzs)
+* [AWS Cost Optimization: Tools and Methods to Reduce Your Spend With Us](https://youtu.be/XHwFJDw9Mec)
+* [Selecting the right Amazon EC2 instance for your workloads](https://youtu.be/q5Dn9gcmpJg)
+
+### Module 13
+
+* [Improving website performance using Amazon CloudFront](https://youtu.be/JUtM0hRoo8Q)
+* [Rendering Websites at the Edge with Lambda@Edge](https://youtu.be/RF7x4HcQ8lM)
+* [How AWS Global Accelerator improves performance](https://youtu.be/daJ2bmw_css)
+
+### Other Bits
+
 * Containers:
   * [Linux Containers](https://linuxcontainers.org/)
   * [Docker](https://www.docker.com/)
