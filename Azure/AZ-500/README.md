@@ -3,8 +3,8 @@
 ## Resources
 
 * [DDLS: Microsoft AZ-500A: Microsoft Azure Security Technologies](https://github.com/DDLSTraining/Engage/tree/master/Azure/AZ-500)
-* [AZ-101 GitHub Repository (Lab files and instructions)](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
-* [Exam AZ-101: Microsoft Azure Integration and Security](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70)
+* [AZ-500 GitHub Repository (Lab files and instructions)](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
+* [Exam AZ-500: Microsoft Azure Security Technologies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70)
 
 ## Suggested Order and Timing
 
