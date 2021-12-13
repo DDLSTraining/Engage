@@ -59,6 +59,24 @@
 * [AWS Fargate: Are serverless containers right for you](https://youtu.be/Vtymod0nPBo)
 * [Amazon EKS on AWS Fargate Deep Dive](https://youtu.be/9tQFXEhHdn0)
 * [Getting started with AWS Fargate using Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/fargate-getting-started.html)
+
+### Module 7
+
+* [Infrastructure as Code - AWS Solutions Best Practices](https://youtu.be/cKQtPZwf97s)
+* [Understanding how deployments affect application performance](https://youtu.be/O9tDtJje-EA)
+* [Test twice, deploy once: testing infrastructure codes on AWS](https://youtu.be/qlzX65SdNdQ)
+* [Manage Compliance Across Accounts with AWS CloudFormation Stacksets](https://youtu.be/ZzD9I8ur6lg)
+* [Build Applications Locally Using AWS CodeBuild](https://youtu.be/N3pW4ZCeCxA)
+* [What is the AWS CDK?](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
+* [Pulumi](https://www.pulumi.com/) - Modern Infrastructure as Code for Developers and Infrastructure Teams.
+
+### Module 8
+
+* [Protecting Your Web Application Using AWS Managed Rules for AWS WAF](https://youtu.be/ll-uvVgQ3Jg)
+* [Application Acceleration and Protection with Amazon CloudFront, AWS WAF, and AWS Shield](https://youtu.be/0xlwLEccRe0)
+* [Centrally Manage AWS WAF and AWS Managed Rules Using AWS Firewall Manager](https://youtu.be/u27HLad-Wi8)
+* [Introducing AWS Network Firewall](https://youtu.be/CISgqpVn75Q)
+* 
 * Containers:
   * [Linux Containers](https://linuxcontainers.org/)
   * [Docker](https://www.docker.com/)
@@ -68,8 +86,6 @@
   * [Podman](https://podman.io/)
   * [Podman Compose](https://github.com/containers/podman-compose)
 * IaC:
-  * [What is the AWS CDK?](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
-  * [Pulumi](https://www.pulumi.com/) - Modern Infrastructure as Code for Developers and Infrastructure Teams.
 * [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 * [Kubernetes](https://kubernetes.io/)
   * [Helm](https://helm.sh/)
