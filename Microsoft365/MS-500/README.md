@@ -81,7 +81,7 @@
 * [Advanced Threat Protection – Windows 10 etc](https://youtu.be/HkQZR9RBbPE)
 * [Windows Defender Application Control](https://youtu.be/J7fSeYEftRE)
 * [Defender for Endpoint Evaluation Demo](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/evaluation-lab?view=o365-worldwide)
-* [Advanced Threat Hund Defender for Endpoint](https://youtu.be/4NQphnL0YR8)
+* [Advanced Threat Hunt Defender for Endpoint](https://youtu.be/4NQphnL0YR8)
 * [Defender for Endpoint Resources](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647
 )
 * [Defender for Endpoint as a StandAlone Licence](https://www.infusedinnovations.com/blog/secure-intelligent-workplace/microsoft-defender-atp-standalone-is-now-available
