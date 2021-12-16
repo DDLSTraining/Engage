@@ -9,6 +9,7 @@
 ## Videos, Demos and extra information
 ## Mod 1
 * [Learn about sensitivity labels](https://docs.microsoft.com/en-au/microsoft-365/compliance/sensitivity-labels-office-apps?azure-portal=true&view=o365-worldwide)
+* [AIP Scanner for on-premises Files](https://youtu.be/1WqoceJaBnA)
 * [Overview of retention policies](https://docs.microsoft.com/en-au/microsoft-365/compliance/classifier-get-started-with?azure-portal=true&view=o365-worldwide)
 * [Overview of retention labels](https://docs.microsoft.com/en-au/microsoft-365/compliance/retention?azure-portal=true&view=o365-worldwide)
 * [Get started with trainable classifiers](https://docs.microsoft.com/en-au/microsoft-365/compliance/retention?azure-portal=true&view=o365-worldwide)
