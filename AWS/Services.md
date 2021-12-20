@@ -384,6 +384,12 @@ AWS CloudFormation provides a common language for you to describe and provision 
 
 🤔 Think of Config as deployment comparisons between what you have deployed in the cloud and what you defined your deployment to be. Helps you spot changes and review history.
 
+### AWS License Manager
+
+[AWS License Manager](https://aws.amazon.com/license-manager/) makes it easier to manage your software licenses from vendors such as Microsoft, SAP, Oracle, and IBM across AWS and on-premises environments. AWS License Manager lets administrators create customized licensing rules that mirror the terms of their licensing agreements. Administrators can use these rules to help prevent licensing violations, such as using more licenses than an agreement stipulates. Rules in AWS License Manager help prevent a licensing breach by stopping the instance from launching or by notifying administrators about the infringement.
+
+🤔 Think of AWS License Manager as a service that provides you with the flexibility and control to manage license usage to match your organizational structure and processes.
+
 ### AWS Managed Services
 
 [AWS Managed Services](https://aws.amazon.com/managed-services/) automates common activities such as change requests, monitoring, patch management, security, and backup services, and provides full-lifecycle services to provision, run, and support your infrastructure.
