@@ -574,6 +574,14 @@ Amazon Cognito lets you add user sign-up, sign-in, and access control to your we
 
 🤔 Think of Macie as a warning system to alert you to sensitive data being stored in AWS.
 
+
+### Amazon GuardDuty
+
+[Amazon GuardDuty](https://aws.amazon.com/guardduty/) is a threat detection service that continuously monitors your AWS accounts and workloads for malicious activity and delivers detailed security findings for visibility and remediation. Amazon GuardDuty identifies unusual activity within your accounts, analyzes the security relevance of the activity, and gives the context in which it was invoked. This allows a responderto determine if they should spend time on further investigation. GuardDuty findings are assigned a severity, and actions can be automated by integrating with AWS Security Hub, Amazon EventBridge, AWS Lambda, and AWS Step Functions. Amazon Detective is also tightly integrated with GuardDuty, so deep forensic and root cause investigation has never been easier.
+
+🤔 Think of GuardDuty as a Security guard that checks what enters your domain.
+
+
 ## Storage
 
 ### Amazon Simple Storage Service (S3)
