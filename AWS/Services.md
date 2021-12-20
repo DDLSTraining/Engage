@@ -414,6 +414,12 @@ AWS CloudFormation provides a common language for you to describe and provision 
 
 🤔 Think Auto Scaling as centralised control of automatic scaling for your AWS resources.
 
+### AWS Resource Access Manager (RAM)
+
+[AWS Resource Access Manager (RAM)](https://aws.amazon.com/ram/) helps you securely share your resources across AWS accounts, within your organization or organizational units (OUs) in AWS Organizations, and with IAM roles and IAM users for supported resource types. You can use AWS RAM to share transit gateways, subnets, AWS License Manager license configurations, Amazon Route 53 Resolver rules, and more resource types.
+
+🤔 Think AWS Resource Access Manager (RAM) as a service to share your resources.
+
 ### AWS Trusted Advisor
 
 [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/trustedadvisor/) is an online resource to help you reduce cost, increase performance, and improve security by optimizing your AWS environment. Trusted Advisor provides real time guidance to help you provision your resources following AWS best practices.
