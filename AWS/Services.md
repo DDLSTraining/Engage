@@ -534,6 +534,14 @@ Amazon Cognito lets you add user sign-up, sign-in, and access control to your we
 
 🗺️ Related: [Engage IAM Document](IAM.md)
 
+### AWS IAM Access Analyzer
+
+[AWS IAM Access Analyzer](https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html) helps you identify the resources in your organization and accounts, such as Amazon S3 buckets or IAM roles, shared with an external entity. This lets you identify unintended access to your resources and data, which is a security risk. IAM Access Analyzer policy validation is available at no additional cost in all commercial AWS Regions.
+
+🤔 Think of AWS IAM Access Analyzer as a web service that helps you securely control access to AWS resources
+
+
+
 ### AWS Key Management Service (KMS)
 
 [AWS Key Management Service](https://aws.amazon.com/kms/) (KMS) is a managed service that makes it easy for you to create and control the encryption keys used to encrypt your data, and uses FIPS 140-2 validated hardware security modules to protect the security of your keys. AWS Key Management Service is also integrated with AWS CloudTrail to provide you with logs of all key usage to help meet your regulatory and compliance needs.
