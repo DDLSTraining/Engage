@@ -20,6 +20,10 @@
 
 ## Extras
 
+### Module 1
+
+* [When to use an AWS S3 VPC endpoint](https://tomgregory.com/when-to-use-an-aws-s3-vpc-endpoint/)
+
 ### Module 2
 
 * [Comparing AWS deployment tools to manage multiple accounts](https://youtu.be/n_6QTYDavrM)
