@@ -31,7 +31,7 @@
   * [Supervised Chats](https://docs.microsoft.com/en-us/microsoftteams/supervise-chats-edu)
   * [Blocking Office 365 Group Creation]( https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
   * [Teams Room Setup Walkthrough](https://docs.microsoft.com/en-us/learn/modules/m365-teams-rooms-start-configure/out-of-box-experience)
-
+  * [Teams Room Interactive Guide](https://teams-rooms-interactive-guide.azureedge.net/)
 ## Compliance
   * [Policy Based Recording](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-recording-policy)
   * [Team Cloud Recording](https://docs.microsoft.com/en-us/MicrosoftTeams/cloud-recording)
@@ -60,7 +60,17 @@
   * 
  
 
-## Extra Reading
+## Teams Devices/Rooms
+  * [Teams Devices - Rooms](https://www.microsoft.com/en-au/microsoft-teams/across-devices/spaces/category/large-meeting-room/8?filterIds=&showAll=)
+  * [Teams Room Standard vs Premium Licence](https://www.becs.co.uk/microsoft-teams-rooms-standard-vs-premium/#:~:text=Microsoft%20Teams%20Rooms%20Premium%20license%20includes%20a%20proactive,your%20organization%2C%20saving%20time%20and%20cutting%20costs.%203)
+  * [Microsoft Teams Rooms setup](https://youtu.be/In-SzWX1Gtw)
+  * [Teams Room Setup Walkthrough](https://docs.microsoft.com/en-us/learn/modules/m365-teams-rooms-start-configure/out-of-box-experience)
+  * [Teams Room Interactive Guide](https://teams-rooms-interactive-guide.azureedge.net/)
+  * [Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/with-office-365)
+  * [Teams Room Requirements](https://docs.microsoft.com/en-us/microsoftteams/rooms/with-office-365)
+  * [Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/)
+  * [Deploying Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/with-office-365)
+
 
 ## Resources
    * [Teams Customer Success Kit Download](https://www.microsoft.com/en-us/download/details.aspx?id=54244)
