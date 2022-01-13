@@ -71,6 +71,9 @@
   * [Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/)
   * [Deploying Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/with-office-365)
 
+## Direct Routing
+  * [Direct Routing Walkthrough](https://direct-routing-interactive-guide.immersivelearning.online/)
+
 
 ## Resources
    * [Teams Customer Success Kit Download](https://www.microsoft.com/en-us/download/details.aspx?id=54244)
