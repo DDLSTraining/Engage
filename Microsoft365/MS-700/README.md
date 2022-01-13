@@ -72,7 +72,7 @@
   * [Deploying Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/with-office-365)
 
 ## Direct Routing
-  * [Direct Routing Walkthrough](https://direct-routing-interactive-guide.immersivelearning.online/)
+  * [Direct Routing & Call Routing Walkthrough](https://direct-routing-interactive-guide.immersivelearning.online/)
 
 
 ## Resources
