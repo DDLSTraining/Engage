@@ -32,6 +32,7 @@
   * [Blocking Office 365 Group Creation]( https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
   * [Teams Room Setup Walkthrough](https://docs.microsoft.com/en-us/learn/modules/m365-teams-rooms-start-configure/out-of-box-experience)
   * [Teams Room Interactive Guide](https://teams-rooms-interactive-guide.azureedge.net/)
+
 ## Compliance
   * [Policy Based Recording](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-recording-policy)
   * [Team Cloud Recording](https://docs.microsoft.com/en-us/MicrosoftTeams/cloud-recording)
@@ -39,7 +40,7 @@
   * [Compliance Recording in Teams](https://myignite.microsoft.com/archives/IG19-VCE40)
   
 ## Videos
-  * [Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&feature=youtu.be&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=1356)
+  
   * [Planning You Network for Teams](https://youtu.be/vi3M7ZzF2NU?list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=83)
   * [Call Quality](https://youtu.be/m6LJM2hRYhc?list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=146)
   * [Call Quality Dashboard](https://youtu.be/fyLU2IPAVRs)
@@ -73,7 +74,7 @@
 
 ## Direct Routing
   * [Direct Routing & Call Routing Walkthrough](https://direct-routing-interactive-guide.immersivelearning.online/)
-
+  * [Direct Routing -video](https://www.youtube.com/watch?v=1ASftX_Msb8&feature=youtu.be&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=1356)
 
 ## Resources
    * [Teams Customer Success Kit Download](https://www.microsoft.com/en-us/download/details.aspx?id=54244)
