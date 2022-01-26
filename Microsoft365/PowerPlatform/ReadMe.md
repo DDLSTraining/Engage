@@ -5,7 +5,7 @@
 ## Links to Docs
   * [Try-Catch](https://poszytek.eu/en/microsoft-en/office-365-en/powerautomate-en/try-catch-pattern-in-microsoft-flow/)
   * [Try,Catch, and Finally Template](https://australia.flow.microsoft.com/en-us/galleries/public/templates/e8e028c6df7b4eb786abdf510e4f1da3/try-catch-and-finally-template/)
-  * [MS Docs](https://docs.microsoft.com/en-us/power-automate/)
+  * [MS Docs - PowerAutomate](https://docs.microsoft.com/en-us/power-automate/)
   
 
 ## Videos
@@ -18,4 +18,5 @@
 
 ## Videos
    * [UI Flows](https://youtu.be/tfJggC1LzUw)
+   * [Automate Desktop](https://youtu.be/IQ_KpBC8fwo)
   
