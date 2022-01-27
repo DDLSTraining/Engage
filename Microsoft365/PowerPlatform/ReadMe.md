@@ -6,7 +6,7 @@
   * [Try-Catch](https://poszytek.eu/en/microsoft-en/office-365-en/powerautomate-en/try-catch-pattern-in-microsoft-flow/)
   * [Try,Catch, and Finally Template](https://australia.flow.microsoft.com/en-us/galleries/public/templates/e8e028c6df7b4eb786abdf510e4f1da3/try-catch-and-finally-template/)
   * [MS Docs - PowerAutomate](https://docs.microsoft.com/en-us/power-automate/)
-  
+  * [Functions](https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference)
 
 ## Videos
   * [Power Automate Videos](https://www.youtube.com/channel/UCG98S4lL7nwlN8dxSF322bA)
