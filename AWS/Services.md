@@ -193,7 +193,11 @@ If you require external signals to intervene in your processes, or you would lik
 [Kubernetes](https://kubernetes.io/) is an open source container orchestration service that has become the default choice for cross platform management and deployment.
 
 🤔 Think of EKS as a managed Kubernetes cluster. As a comparison ECS is a custom Amazon container orchestration service. Kubernetes is cross platform.
+### AWS Fargate
 
+[AWS Fargate](https://aws.amazon.com/fargate/) is a serverless, pay-as-you-go compute engine that lets you focus on building applications without managing servers. AWS Fargate is compatible with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes Service (EKS).  You should select Fargate if you want to launch containers without having to provision or manage EC2 instances. If you require greater control of your EC2 instances or broader customization options, then use ECS or EKS without Fargate.  Both ECS and EKS use containers provisioned by Fargate to automatically scale, load balance, and optimize container availability through managed scheduling, providing an easier way to build and operate containerized applications.
+
+🤔 Think of Fargate as a managed solution to run containers on Amazon's cloud computing platform without the need to manage the underlying infrastructure.
 ### Amazon Lightsail
 
 [Amazon Lightsail](https://aws.amazon.com/lightsail/features/) Virtual Private Server (VPS) enables you to experience the power and reliability of AWS without the complexity. Deploy in seconds and manage from the intuitive Lightsail management console or API.
