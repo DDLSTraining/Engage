@@ -180,11 +180,17 @@ If you require external signals to intervene in your processes, or you would lik
 
 ### Amazon Elastic Container Service (ECS)
 
-[Amazon Elastic Container Service](https://aws.amazon.com/ecs/) (ECS) is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS.
+[Amazon Elastic Container Service](https://aws.amazon.com/ecs/) (ECS)  is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS.
 
 🤔 Think of ECS as virtualized applications without managing the virtual machine instances.
 
 🌏 Scope: Region
+
+### Amazon Elastic Container Service (ECS) Anywhere
+
+[Amazon Elastic Container Service Anywhere](https://aws.amazon.com/ecs/anywhere) (ECS Anywhere) is a feature of Amazon ECS that enables you to easily run and manage container workloads on customer-managed infrastructure that is on-prem.
+
+🤔 Think of ECS Anywhere as a service to manage your hybrid footprint allowing you to run applications in both on-premises environments and the cloud with a standardized container orchestrator.
 
 ### Amazon Elastic Container Services for Kubernetes (EKS)
 
