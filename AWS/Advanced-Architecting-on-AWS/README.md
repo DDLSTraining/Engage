@@ -73,6 +73,7 @@
 * [Build Applications Locally Using AWS CodeBuild](https://youtu.be/N3pW4ZCeCxA)
 * [What is the AWS CDK?](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
 * [Pulumi](https://www.pulumi.com/) - Modern Infrastructure as Code for Developers and Infrastructure Teams.
+* [Set Up a CI/CD Pipeline on AWS](https://aws.amazon.com/getting-started/hands-on/set-up-ci-cd-pipeline/)
 
 ### Module 8
 
