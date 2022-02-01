@@ -188,7 +188,7 @@ If you require external signals to intervene in your processes, or you would lik
 
 ### Amazon Elastic Container Service (ECS) Anywhere
 
-[Amazon Elastic Container Service Anywhere](https://aws.amazon.com/ecs/anywhere) (ECS Anywhere) is a feature of Amazon ECS that enables you to easily run and manage container workloads on customer-managed infrastructure that is on-prem.
+[Amazon Elastic Container Service Anywhere](https://aws.amazon.com/ecs/anywhere) (ECS Anywhere) is a feature of Amazon ECS that enables you to easily run and manage container workloads on customer-managed infrastructure, that is on-prem.
 
 🤔 Think of ECS Anywhere as a service to manage your hybrid footprint allowing you to run applications in both on-premises environments and the cloud with a standardized container orchestrator.
 
