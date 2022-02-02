@@ -135,7 +135,7 @@ The sample logs are updated once a week and are available for all the supported 
 * [Sentinal overview](https://www.microsoft.com/videoplayer/embed/RE4LHLR)
 * [Sentinal To Go](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-to-go-part1-a-lab-w-prerecorded-data-amp-a-custom/ba-p/1260191)
 
-## AutoPilot & Config Mgr
+## InTune AutoPilot & Config Mgr
 * [Transfer Config Manager WorkLoads to Intune](https://www.anoopcnair.com/sccm-co-management-configuration-8/)
 * [Windows AutoPilot](https://youtu.be/4K4hC5NchbE)
 * [Windows AutoPilot through Business Store](https://www.microsoft.com/en-us/videoplayer/embed/3b30f2c2-a3e2-4778-aa92-f65dbc3ecf54?autoplay=false)
@@ -144,7 +144,8 @@ The sample logs are updated once a week and are available for all the supported 
 * [Config Client Roll Out](https://youtu.be/bHWRBaaVCPg)
 * [AutoPilot Walkthrough](https://youtu.be/KYVptkpsOqs)
 * [White Glove](https://youtu.be/nE5XSOBV0rI)
-
+* [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
+* 
 ## EDiscovery
 * [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
 * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
