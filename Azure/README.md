@@ -10,4 +10,5 @@ Useful resources:
 * [Azure Cloud Shell](https://shell.azure.com/) - Command line interface to manage Azure resources.
 * [Skillpipe](https://skillpipe.com/) - Online courseware for Microsoft official courses.
 * [Microsoft Learning on GitHub](https://github.com/MicrosoftLearning) - Microsoft course labs and files.
+* [Azure Services Overview](https://azurecharts.com/overview)
 
