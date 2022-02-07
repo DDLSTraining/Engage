@@ -4,14 +4,13 @@ Notes and resources for Microsoft Office 365 and Microsoft 365 courses.
 
 * [Microsoft Office 365 Portal](https://portal.office.com/)
 * [Microsoft 365 Admin Centre](https://admin.microsoft.com/)
-* [Security & Compliance Centre (protection.office.com)](https://protection.office.com)
-* [Security & Compliance Centre [Broken but in docs] (protection.microsoft.com)](https://protection.microsoft.com)
 * [Security Centre (security.microsoft.com)](https://security.microsoft.com)
 * [Compliance Centre (compliance.microsoft.com)](https://compliance.microsoft.com)
 * [Device Management](https://devicemanagement.microsoft.com/)
 * [Cloud App Security](portal.cloudappsecurity.com)
 * [Defender Security Center](https://youtu.be/h9xS7mhi1BA)
 * [Microsoft 365 Roadmap](https://www.microsoft.com/en-au/microsoft-365/roadmap)
+* [Official Free Practice Exams]( https://vladtalkstech.com/2022/01/free-practice-questions-for-select-microsoft-certifications.html?fbclid=IwAR06hKdPFQll6l6v6gSgyJmJWNp_pr6xKJsj3-HdGI-81pI6DT4r_n0t_F4)
 
 ## Resources
 * [Microsoft 365 licensing diagrams](https://github.com/AaronDinnage/Licensing)
