@@ -12,5 +12,5 @@ Useful resources:
 * [Microsoft Learning on GitHub](https://github.com/MicrosoftLearning) - Microsoft course labs and files.
 * [Azure Services Overview](https://azurecharts.com/overview) - Overview of Azure services and all of the relevant updates
 * [Official Microsoft Practice Exams](https://vladtalkstech.com/2022/01/free-practice-questions-for-select-microsoft-certifications.html?fbclid=IwAR06hKdPFQll6l6v6gSgyJmJWNp_pr6xKJsj3-HdGI-81pI6DT4r_n0t_F4)
-
+* [The new Microsoft exam renewal process](https://www.youtube.com/watch?v=ttuhmFHOTU8)
 
