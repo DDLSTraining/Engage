@@ -12,6 +12,7 @@ Notes and resources for Microsoft Office 365 and Microsoft 365 courses.
 * [Microsoft 365 Roadmap](https://www.microsoft.com/en-au/microsoft-365/roadmap)
 * [Official Free Practice Exams]( https://vladtalkstech.com/2022/01/free-practice-questions-for-select-microsoft-certifications.html?fbclid=IwAR06hKdPFQll6l6v6gSgyJmJWNp_pr6xKJsj3-HdGI-81pI6DT4r_n0t_F4)
 * [The new Microsoft exam renewal process](https://www.youtube.com/watch?v=ttuhmFHOTU8)
+* [Microsoft demo exams](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-to-microsoft-certification-exams-we-have-something-you-need/ba-p/3041520?WT.mc_id=general_newsletter-wwl)
 
 ## Resources
 * [Microsoft 365 licensing diagrams](https://github.com/AaronDinnage/Licensing)
