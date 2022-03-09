@@ -25,7 +25,7 @@
 * [When to use an AWS S3 VPC endpoint](https://tomgregory.com/when-to-use-an-aws-s3-vpc-endpoint/)
 
 ### Module 2
-
+* [AWS Organisations - core concepts](https://aws.amazon.com/organizations/faqs/#AWS_Control_Tower)
 * [Comparing AWS deployment tools to manage multiple accounts](https://youtu.be/n_6QTYDavrM)
 * [Best practices for securing your multi-account environment](https://youtu.be/ip5sn3z5FNg)
 * [Managing User permissions at scale with AWS SSO](https://youtu.be/aEIqeFCcK7E)
