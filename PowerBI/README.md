@@ -11,9 +11,9 @@ Business Intelligence Book Recommendations:
  
 Power BI links:
 * [Microsoft Power BI YouTube channel, you should subscribe to this](https://www.youtube.com/user/mspowerbi)
-* [The Power BI community, possibly the best place for all things PowerBI related](http://community.powerbi.com/ - )
+* [The Power BI community, possibly the best place for all things PowerBI related](http://community.powerbi.com/)
 * [Guy in a Cube YouTube channel, another great resource for Power BI and other BI information](	https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w)
-* [Reza Rad’s BI Blog, lots of cool tips and tricks on using Power BI and other MS BI tools](	http://radacad.com/blog - )
+* [Reza Rad’s BI Blog, lots of cool tips and tricks on using Power BI and other MS BI tools](	http://radacad.com/blog)
 * [Ways to collaborate and share Dashboards and reports](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-how-should-i-share-my-dashboard/)
 * [Q&A in Power BI – tutorials, tips and tricks on Q&A](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-q-and-a/)
 * [my favourite podcast that helps you stay up to date about Power BI](https://bifocal.show/)
