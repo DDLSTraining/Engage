@@ -21,4 +21,4 @@ Power BI links:
 * [Johns Hopkins University COVID-19 data, if you want something to play with](	https://github.com/CSSEGISandData/COVID-19)
 * [a great site showing lots of examples of how visually appealing data can be](https://informationisbeautiful.net/)
 * [how to connect to a file source stored in Teams/OneDrive/Sharepoint from Power BI Desktop](https://community.powerbi.com/t5/Power-Query/Can-t-connect-to-Sharepoint-subsites-using-PowerBI/m-p/626893/highlight/true#M21930)
-* [Power BI Design tips](o	https://www.discoverei.com/blog/top-5-power-bi-design-tips)
+* [Power BI Design tips](https://www.discoverei.com/blog/top-5-power-bi-design-tips)
