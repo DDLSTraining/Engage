@@ -25,6 +25,6 @@ Power BI links:
 * [PowerBI Blog](https://powerbi.microsoft.com/en-us/blog/)
 
 Reference:
-* [Role-Playing Dimensions[(https://youtu.be/LfVDUiU8vaU)
+* [Role-Playing Dimensions](https://youtu.be/LfVDUiU8vaU)
 * [DAX Formula Reference](https://enterprisedna.co/dax-formula-reference-guide-download/)
 * [PowerQuery M function reference](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
