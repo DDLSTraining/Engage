@@ -22,3 +22,8 @@ Power BI links:
 * [a great site showing lots of examples of how visually appealing data can be](https://informationisbeautiful.net/)
 * [how to connect to a file source stored in Teams/OneDrive/Sharepoint from Power BI Desktop](https://community.powerbi.com/t5/Power-Query/Can-t-connect-to-Sharepoint-subsites-using-PowerBI/m-p/626893/highlight/true#M21930)
 * [Power BI Design tips](https://www.discoverei.com/blog/top-5-power-bi-design-tips)
+* [PowerBI Blog](https://powerbi.microsoft.com/en-us/blog/)
+Reference:
+* [Role-Playing Dimensions[(https://youtu.be/LfVDUiU8vaU)
+* [DAX Formula Reference](https://enterprisedna.co/dax-formula-reference-guide-download/)
+* [PowerQuery M function reference](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
