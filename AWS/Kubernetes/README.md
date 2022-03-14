@@ -165,6 +165,7 @@ It's unlikely that a web app has a website as the only component in the solution
 Kubernetes pods can also contain more than one container.
 
 ![Node](_images/k8.png)
+
 If your web site uses a database, the website is packaged in the main container and the database is packaged in a supporting container. 
 For these two containers to communicate with each other, they need to run in an environment that provides a host O/S, network stack, kernel namespaces, shared memory, and volumes for persistent data. 
 The pod is the sandbox environment that provides all these services and allows the containers to share an IP address.
