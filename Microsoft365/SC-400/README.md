@@ -17,6 +17,7 @@
 * [Records Management](https://docs.microsoft.com/en-au/microsoft-365/compliance/manage-information-governance?azure-portal=true&view=o365-worldwide)
 * [What sensitive information types look for](https://docs.microsoft.com/en-au/microsoft-365/compliance/sensitive-information-type-learn-about?azure-portal=true&view=o365-worldwide)
 * [Custom sensitive information types](https://docs.microsoft.com/en-au/microsoft-365/compliance/sensitive-information-type-entity-definitions?azure-portal=true&view=o365-worldwide)
+* [Regular Expressions](https://regex101.com/)
 * [**Demonstration: Sensitive information types - 5 minutes**](https://www.microsoft.com/videoplayer/embed/RE4yqxc)
 * [**Demonstration: Trainable classifiers – 4 Minutes**](https://www.microsoft.com/videoplayer/embed/RE4yg7t)
 * [Get started with trainable classifiers](https://docs.microsoft.com/en-au/microsoft-365/compliance/classifier-get-started-with?azure-portal=true&view=o365-worldwide)
