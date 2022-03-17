@@ -25,12 +25,19 @@
 * [Creating a trainable classifier](https://docs.microsoft.com/en-au/microsoft-365/compliance/classifier-get-started-with?azure-portal=true&view=o365-worldwide)
 * [Get started with content explorer](https://docs.microsoft.com/en-au/microsoft-365/compliance/data-classification-content-explorer?azure-portal=true&view=o365-worldwide)
 * [Get started with activity explorer](https://docs.microsoft.com/en-au/microsoft-365/compliance/data-classification-activity-explorer?azure-portal=true&view=o365-worldwide)
+* [Regular Expressions for Sensitive Info Types](https://regex101.com/)
+* [Regular Expression More](https://regexone.com/)
+* [Regular Expression Help Doc](https://help.relativity.com/9.6/Content/Relativity/Regular_expressions/Searching_with_regular_expressions.htm)
 * [**Demonstration: Data classification features in the Compliance center 5 minutes**](https://www.microsoft.com/videoplayer/embed/RE4vx8x)
 * [Create custom sensitive information types with Exact Data Match based classification](https://docs.microsoft.com/en-au/microsoft-365/compliance/create-custom-sensitive-information-types-with-exact-data-match-based-classification?view=o365-worldwide&viewFallbackFrom=o365-worldwide%3Fazure-portal%3Dtrue)
 * [Create a keyword dictionary](https://docs.microsoft.com/en-au/microsoft-365/compliance/create-a-keyword-dictionary?view=o365-worldwide)
 * [AIP Scanner for on-premises Files](https://youtu.be/1WqoceJaBnA)
 * [Document FingerPrinting-Exchange](https://youtu.be/0eCKvdWxw0k)
 * [Document Fingerprinting and MCA](https://youtu.be/t2cBac1Zd8Y)
+* [Custom Sensitive Information Types](https://joannecklein.com/2018/08/07/build-and-use-custom-sensitive-information-types-in-office-365/)
+* [Content Types and Search Schema](https://joannecklein.com/2018/09/12/content-type-filters-in-modern-sharepoint/)
+* [SharePoint Content Types in DLP](https://joannecklein.com/2018/01/25/a-sharepoint-content-type-dlp-policy/)
+* [Creating content types](https://sharegate.com/blog/sharepoint-content-types-understand-use-create) - please also research Hub Content Type
 * [**Guided demonstration: Protect sensitive data 25 Minute**s](https://aka.ms/AAbfsel)
 * [What is Double Key Encryption for Microsoft 365 (DKE)](https://docs.microsoft.com/en-us/microsoft-365/compliance/double-key-encryption-overview?view=o365-worldwide)
 * [**Demonstration: Office 365 Data at Rest encryption 3 minutes**](https://www.microsoft.com/videoplayer/embed/RE4yvH4)
@@ -99,6 +106,27 @@
 * [Automate event-based retention](https://docs.microsoft.com/en-au/microsoft-365/compliance/event-driven-retention?azure-portal=true&view=o365-worldwide#automate-events-by-using-a-rest-api)
 * [**Demonstration: Records management 3 minutes**](https://youtu.be/CAUDKL4FyQ8)
 * [**Demonstration: Event driven retention 13 minutes**](https://youtu.be/jSV2vKh0xNg)
+* [Event Driven Retention](https://docs.microsoft.com/en-au/microsoft-365/compliance/event-driven-retention#how-to-set-up-event-driven-retention)
+* [Event Driven Retention - SharePoint](https://joannecklein.com/2019/02/25/automate-event-based-retention-in-office-365/)
 
+## Best Practices when an employee leaves
+  * [Leaving Emplpoyees](https://docs.microsoft.com/en-us/microsoft-365/compliance/recover-an-inactive-mailbox?view=o365-worldwide)
+  * [More stuff on former employees](https://docs.microsoft.com/en-us/microsoft-365/admin/add-users/remove-former-employee?redirectSourcePath=%252fen-us%252farticle%252fRemove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1&view=o365-worldwide)
+  * [coverting Mailbox to SharedMailbox and Back](https://www.nucleustechnologies.com/blog/convert-a-user-mailbox-to-shared-a-shared-mailbox-to-user-mailbox-in-office-365/
+)
 
+## Microsoft Defender Cloud App Security Videos
+* [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
+* [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
+* [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
+* [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
+* [Cloud App Setup](https://youtu.be/ff4AR3GIR00)
+* [Cloud App Security Demo](https://youtu.be/RxW0bpXJd9A)
+* [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
+* [Conditional Access App Control with CAS](https://youtu.be/CvsjM8TX81c)
+* [Session Policy in CAS](https://youtu.be/hPW3E51cIac)
+* [Block Uploads in CAS](https://youtu.be/nGg2XyQWJ4o)
 
+## Microsoft Defender Cloud App Security Training Material
+* [Microsoft Cloud App Security Demo Lab](https://docs.microsoft.com/en-us/cloud-app-security/getting-started-with-cloud-app-security)
+* [The Microsoft Cloud App Security (MCAS) Ninja Training (March 2021 Update)](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-cloud-app-security-mcas-ninja-training-march-2021/ba-p/1877343)
