@@ -32,6 +32,7 @@
 * [Create custom sensitive information types with Exact Data Match based classification](https://docs.microsoft.com/en-au/microsoft-365/compliance/create-custom-sensitive-information-types-with-exact-data-match-based-classification?view=o365-worldwide&viewFallbackFrom=o365-worldwide%3Fazure-portal%3Dtrue)
 * [Create a keyword dictionary](https://docs.microsoft.com/en-au/microsoft-365/compliance/create-a-keyword-dictionary?view=o365-worldwide)
 * [AIP Scanner for on-premises Files](https://youtu.be/1WqoceJaBnA)
+* [AIP Scanner](https://www.youtube.com/watch?v=1WqoceJaBnA&feature=youtu.be)
 * [Document FingerPrinting-Exchange](https://youtu.be/0eCKvdWxw0k)
 * [Document Fingerprinting and MCA](https://youtu.be/t2cBac1Zd8Y)
 * [Custom Sensitive Information Types](https://joannecklein.com/2018/08/07/build-and-use-custom-sensitive-information-types-in-office-365/)
