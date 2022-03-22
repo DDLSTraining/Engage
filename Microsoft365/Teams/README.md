@@ -25,10 +25,17 @@ As the name suggests, you can use the General channel to discuss routine and ad 
 To give order and structure to your team’s activities, you can add other channels, for example, by topic, department or project.
 
 Channels allow you to:
-- Collaborate with team members via:
-- Online conversations – known as persistent chat
-- Audio and video calls
--	Scheduled meetings
--	Impromptu meetings, with Meet now
--	Announcements – which stand out from the conversation (more later)
--	Share external emails – forward emails to your channel. Get the channel email address by selecting the ellipsis (row of three dots) beside it. 
+
+1, **Collaborate with team members via:**
+   - Online conversations – known as persistent chat
+   - Audio and video calls
+   -	Scheduled meetings
+   -	Impromptu meetings, with Meet now
+   -	Announcements – which stand out from the conversation (more later)
+   -	Share external emails – forward emails to your channel. Get the channel email address by selecting the ellipsis (row of three dots) beside it.
+  	 
+2,	**Manage Files** – access, share and edit. Files uploaded to a channel are stored in SharePoint. File size limits are 100 GB, and there’s a maximum of three folder levels deep. Files can be synced for offline access. Click the ellipsis beside your file name to reveal a drop-down menu of options, which include download, copy link (ideal for sharing with team members), and open in SharePoint. 
+
+3, **Make Announcements** – make your conversation stand out. There’s a main heading field together with a sub-heading, and you can apply a background colour or image. When starting a new conversation, click on the symbol circled below.
+
+![toolbar](_images/k1.png)
