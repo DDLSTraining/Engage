@@ -173,19 +173,28 @@ And here’s a quick tour of the Microsoft Teams user interface (UI), along with
 
 ## Teams Navigation
  
- 
+ ![toolbar](_images/k2.png)
 
- 
-Microsoft Teams Keyboard Shortcuts
-Check out these shortcuts for Windows and Mac users – Keyboard shortcuts for Microsoft Teams 
-Left Rail
+## Microsoft Teams Keyboard Shortcuts
+
+Check out these shortcuts for Windows and Mac users – [Keyboard shortcuts for Microsoft Teams[(https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-microsoft-teams-2e8e2a70-e8d8-4a19-949b-4c36dd5292d2)
+
+## Left Rail
+
 If you’re using Teams on a desktop, the ‘left rail’ is the term for the menu ribbon to the far left of your screen. On a mobile view (iOS or Android), the menu ribbon appears at the foot.
  
+ ![toolbar](_images/k3.png)
  
-App bar (desktop term)
+## App bar (desktop term)
+
 The app bar is where your pre-installed apps are. If you’re using Teams on a desktop, click on the ellipsis in the left rail to view your app bar. 
-App tray (mobile term)
+
+## App tray (mobile term)
+
 If you’re using Teams on a mobile (iOS and Android), the app tray is at the bottom of your screen. Swipe up to see your pre-installed apps. 
-Soar through your day with Microsoft Teams  
+
+## Soar through your day with Microsoft Teams  
+
 We hope this glossary cleared up any questions you might have had, but if not, you’re welcome to contact us. As you might expect, we’re a massive advocate of Teams; it helps us feel more connected during these testing times. And it enables us to successfully manage some weighty projects from our spare rooms and kitchens across the UK and worldwide.
-To pick up Microsoft Teams best practice, hacks and insights, download our free Microsoft Teams Guide which also tackles a universal need – how to improve your meetings.  
+
+To pick up Microsoft Teams best practice, hacks and insights, download a [free Microsoft Teams Guide](https://contentandcloud.com/revolutionise-your-workplace-with-microsoft-teams/) which also tackles a universal need – how to improve your meetings.  
