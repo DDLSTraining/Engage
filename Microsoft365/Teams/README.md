@@ -76,7 +76,7 @@ If you’re in a one-to-one in chat with someone outside a channel, you’ll see
 -	Files
 -	Organisation – if it’s been set up, you’ll see your organisation’s structure chart and where that person sits.
 -	Activity – a record of that person’s activity in Teams.
--	
+
 And again, you have the option of adding other tabs, which could be useful if you work with that person a lot but don’t have a formal channel. 
 
 ## Chat
@@ -91,55 +91,90 @@ And Teams enables you to access and search chat history.
 ## Private chat
 
 Private chats happen outside public channels. You can have them one-one, or with a group of people in your organisation. If you have these chats with the same person or group frequently, it might be worth creating a private channel instead. 
-Tags
+
+## Tags
+
 A tag is a way of adding an identifier to selected members of a team, enabling you to reach all of them at once.
+
 Let’s say you have a 20-strong team of marketing people, which includes four graphic designers. Create a tag for your designers and add them to it. When you want to start a chat with them,  @mention your tag in a channel or type the tag name in a new chat.
  
-Channel Meetings
+## Channel Meetings
+
 You can schedule a meeting or choose ‘Meet now’ to hold a meeting with Team members. Channel meetings are open, meaning:
-•	A channel meeting is open to every team member to join
-•	The history of the meeting – the conversation, is visible to all team members afterwards
+
+-	A channel meeting is open to every team member to join
+-	The history of the meeting – the conversation, is visible to all team members afterwards
+
 And you can choose to record the meeting; when it’s over the recording is automatically stored in Stream. You can publish the recording in the channel, get a link to email it, drop it into Yammer or embed it in a website. 
-Live Events
+
+## Live Events
+
 Live events are an extension of Teams meetings. They enable you to broadcast your video and meeting content to a large online audience. Live Events are intended for one-to-many communications.
+
 The event host leads the interactions; audience participation is primarily to view the content the host shares. As with Teams meetings, you can record the event and share it afterwards. 
-Teams Voice
+
+## Teams Voice
+
 Teams Voice is a cloud-based telephony solution in Microsoft Teams. As a complete replacement for your enterprise telephone system, it equips your business with a fully unified communications environment that travels with your users.
-For a deeper dive, check out our Microsoft Teams Voice FAQs. 
-Teams Apps
+
+For a deeper dive, check out Microsoft Teams Voice FAQs. 
+
+
+## Teams Apps
 Many of the tools your organisation relies on can be added to Teams. You can add an app as a tab in a channel, and some apps let you push content directly into Teams conversations. Explore your options by clicking the Apps icon.
+
 You can use three types of apps in Microsoft Teams:
-•	Microsoft created apps; e.g. SharePoint, Forms, Power BI.
-•	Third-party apps; e.g. Trello, ServiceNow
-•	Custom apps; e.g. self-built, or line of business apps 
-Wiki
+
+-	Microsoft created apps; e.g. SharePoint, Forms, Power BI.
+-	Third-party apps; e.g. Trello, ServiceNow
+-	Custom apps; e.g. self-built, or line of business apps 
+
+## Wiki
+
 Teams Wiki is a digital notebook where you can organise information in a more structured way. A  noisy fast-flowing Teams channel is unlikely to be the best place to house, say, a product specification change or adjustments to a business plan.
 For core, critical information your people need at their fingertips, or for getting new starters quickly up to speed, Wiki could be your logical hub.
-To learn more about Wiki, catch our blog: Microsoft Teams Hacks. 
-Teams Connectors
+
+## Teams Connectors
+
 Connectors keep your team current by giving you the means to:
-•	Push content from other places (services or URLs) into a channel and;
-•	Configure notifications, e.g. the frequency of an update
+
+-	Push content from other places (services or URLs) into a channel and;
+-	Configure notifications, e.g. the frequency of an update
+
 Teams connectors are grouped into categories, including News & Social, Analytics, and Project Management. Here are just a few examples of what you can use Teams connectors for:
-•	Updates from your Yammer network
-•	Reports from your Google Analytics account
-•	RSS feeds – receive blog posts from your favourite website
-•	Be notified when someone completes a survey using Microsoft Forms 
-Microsoft Teams Bots
+
+-	Updates from your Yammer network
+-	Reports from your Google Analytics account
+-	RSS feeds – receive blog posts from your favourite website
+-	Be notified when someone completes a survey using Microsoft Forms 
+
+## Microsoft Teams Bots
+
 Microsoft Teams enables you to choose from a list of off-the-shelf bots; computer programmes for giving your members an interactive experience.
+
 The list is almost endless – there are bots to aid productivity, provide information, run polls, crunch numbers and help meetings.
+
 You can add a bot to a tab in a Teams channel, or your members can access it using the @ function in a chat.
+
 And if you’re feeling adventurous, create your own bot. In this on-demand webinar by Content and Code (a Content+Cloud company), we show you how to create an FAQ bot for Microsoft Teams: How to Use Power Apps to Transform Your Microsoft Teams Meetings. 
-Adaptive Cards
+
+## Adaptive Cards
+
 An adaptive card is a way to share information in a Teams chat. As the name suggests, it’s highly customisable. An adaptive card can contain richly formatted text, images and graphs. And it can be interactive, e.g. with buttons and input fields.
+
 One of the neat things about adaptive cards is that you can use them across other Microsoft 365 applications, such as Outlook and bots.
-Check out this blog by one of our Microsoft MVPs (Most Valued Professionals), Steve Goodman: Creating Adaptive Cards in Microsoft Teams. 
-Teams User Interface
+
+Check out this blog by one of our Microsoft MVPs (Most Valued Professionals), Steve Goodman: Creating Adaptive Cards in Microsoft 
+Teams. 
+
+# Teams User Interface
+
 And here’s a quick tour of the Microsoft Teams user interface (UI), along with some standard UI terms. 
-Teams Navigation
+
+## Teams Navigation
  
  
-Image courtesy of Microsoft
+
  
 Microsoft Teams Keyboard Shortcuts
 Check out these shortcuts for Windows and Mac users – Keyboard shortcuts for Microsoft Teams 
