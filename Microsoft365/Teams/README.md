@@ -26,7 +26,7 @@ To give order and structure to your team’s activities, you can add other chann
 
 Channels allow you to:
 
-1, **Collaborate with team members via:**
+**1, Collaborate with team members via:**
    - Online conversations – known as persistent chat
    - Audio and video calls
    -	Scheduled meetings
@@ -34,19 +34,19 @@ Channels allow you to:
    -	Announcements – which stand out from the conversation (more later)
    -	Share external emails – forward emails to your channel. Get the channel email address by selecting the ellipsis (row of three dots) beside it.
   	 
-2,	**Manage Files** – access, share and edit. Files uploaded to a channel are stored in SharePoint. File size limits are 100 GB, and there’s a maximum of three folder levels deep. Files can be synced for offline access. Click the ellipsis beside your file name to reveal a drop-down menu of options, which include download, copy link (ideal for sharing with team members), and open in SharePoint. 
+**2,	Manage Files** – access, share and edit. Files uploaded to a channel are stored in SharePoint. File size limits are 100 GB, and there’s a maximum of three folder levels deep. Files can be synced for offline access. Click the ellipsis beside your file name to reveal a drop-down menu of options, which include download, copy link (ideal for sharing with team members), and open in SharePoint. 
 
-3, **Make Announcements** – make your conversation stand out. There’s a main heading field together with a sub-heading, and you can apply a background colour or image. When starting a new conversation, click on the symbol circled below.
+**3, Make Announcements** – make your conversation stand out. There’s a main heading field together with a sub-heading, and you can apply a background colour or image. When starting a new conversation, click on the symbol circled below.
 
 ![toolbar](_images/k1.png)
 
 Then click on ‘New conversation’ and select Announcement from the drop-down. 
 
-4, **Add Apps** – display them as tabs inside your channel or you can set them to push information into channel conversations. 
+**4, Add Apps** – display them as tabs inside your channel or you can set them to push information into channel conversations. 
 
-5, **Build a Wiki** – a way of structuring information using a digital notebook. The channel’s Wiki could contain evergreen advice for your team or be about the team. If you want, you can rename or remove Wiki. 
+**5, Build a Wiki** – a way of structuring information using a digital notebook. The channel’s Wiki could contain evergreen advice for your team or be about the team. If you want, you can rename or remove Wiki. 
 
-6, **Use Bots** – choose from the Teams App Store or create your own. More on bots later. 
+**6, Use Bots** – choose from the Teams App Store or create your own. More on bots later. 
 
 ## Standard Channels
 Most channels are **standard**, meaning they’re available to every team member. By default, all members can create standard channels. 
@@ -63,6 +63,7 @@ There a few nuances with private channels to be aware of, notably:
 
 ## Tabs
 If you think of your Teams channel as your virtual office or department, then tabs are the digital drawers of its filing cabinet. By default, each channel comes with three tabs:
+
 -	Posts – your team’s conversations
 -	Files
 -	Wiki
@@ -70,18 +71,25 @@ If you think of your Teams channel as your virtual office or department, then ta
 You can add new tabs to your channel, such as your favourite apps or even websites you frequently visit. 
 
 If you’re in a one-to-one in chat with someone outside a channel, you’ll see a different set of tabs:
+
 -	Chat
 -	Files
 -	Organisation – if it’s been set up, you’ll see your organisation’s structure chart and where that person sits.
 -	Activity – a record of that person’s activity in Teams.
+-	
 And again, you have the option of adding other tabs, which could be useful if you work with that person a lot but don’t have a formal channel. 
-Chat
+
+## Chat
 Using @mention (e.g. @general or @name), Team’s versatile online chat functionality enables you to:
-•	Chat with a group of people in your organisation
-•	Chat inside channels – with one or more team members or guest members (people outside your organisation).
-•	Chat during meetings
+
+- Chat with a group of people in your organisation
+-	Chat inside channels – with one or more team members or guest members (people outside your organisation).
+-	Chat during meetings
+
 And Teams enables you to access and search chat history. 
-Private chat
+
+## Private chat
+
 Private chats happen outside public channels. You can have them one-one, or with a group of people in your organisation. If you have these chats with the same person or group frequently, it might be worth creating a private channel instead. 
 Tags
 A tag is a way of adding an identifier to selected members of a team, enabling you to reach all of them at once.
