@@ -84,8 +84,12 @@
 * [AutoPilot Walkthrough](https://youtu.be/KYVptkpsOqs)
 * [White Glove](https://youtu.be/nE5XSOBV0rI)
 * [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
+
+##Enrolling Apple
 * [Enrolling Apple Devices](https://www.bing.com/videos/search?view=detail&mid=B95025DB56689F135BB7B95025DB56689F135BB7&q=apple&shtp=GetUrl&shid=84d5fb5c-0d12-4f19-bbb3-1d0502dd896c&shtk=SG93IFRvIEF1dG9tYXRpY2FsbHkgRW5yb2xsIEFwcGxlIERldmljZXMgaW4gSW50dW5l&shdk=TW9kZWwgY29uc3VsdGFudCBBbXkgWml0dGEgc2hvd3Mgc3RlcC1ieS1zdGVwIGhvdyB0byBlbnJvbGwgZXhpc3RpbmcgQXBwbGUgZGV2aWNlcyBpbnRvIE1pY3Jvc29mdCBJbnR1bmUgZm9yIGEgbW9yZSBjZW50cmFsaXplZCBtYW5hZ2VtZW50IGV4cGVyaWVuY2UgYW5kIGltcHJvdmVkIGVmZmljaWVuY3ku&shhk=ckKfmGPNddBeAEqj%2FpEQHafLPKKcwQ%2FQQMp8XspN1zo%3D&form=VDSHOT&shth=OVP.bbuBoPcqmkIUObGUvM0BOgEsCo)
 * [Apple DEP Process](https://docs.microsoft.com/en-us/mem/intune/enrollment/device-enrollment-program-enroll-ios#:~:text=You%20can%20set%20up%20Intune%20to%20enroll%20iOS%2FiPadOS,and%20MacBooks%20can%20be%20shipped%20directly%20to%20users.?msclkid=1f665c5eb61911ec9d727a07fe726ccd)
+* [IOS/iPadOS deviceEnrllment](https://youtu.be/gIQruL22G_Q?t=146)
+* 
 ## Sentinel
 * [Azure Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
 * [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
