@@ -90,6 +90,7 @@
 * [Apple DEP Process](https://docs.microsoft.com/en-us/mem/intune/enrollment/device-enrollment-program-enroll-ios#:~:text=You%20can%20set%20up%20Intune%20to%20enroll%20iOS%2FiPadOS,and%20MacBooks%20can%20be%20shipped%20directly%20to%20users.?msclkid=1f665c5eb61911ec9d727a07fe726ccd)
 * [IOS/iPadOS deviceEnrllment](https://youtu.be/gIQruL22G_Q?t=146)
 * [Apple Business Manager](https://youtu.be/rihqfkkaHLQ?t=87)
+* [Connecting Apple Business Manager with InTune](https://youtu.be/VHEy621jhHs?t=145)
 * 
 ## Sentinel
 * [Azure Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
