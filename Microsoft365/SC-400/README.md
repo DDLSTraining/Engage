@@ -143,6 +143,7 @@
 * [Conditional Access App Control with CAS](https://youtu.be/CvsjM8TX81c)
 * [Session Policy in CAS](https://youtu.be/hPW3E51cIac)
 * [Block Uploads in CAS](https://youtu.be/nGg2XyQWJ4o)
+* * [Cloud App Security Guided Demonstration](https://mslearn.cloudguides.com/en-us/guides/Discover,%20protect,%20and%20control%20your%20apps%20with%20Microsoft%20Cloud%20App%20Security)
 
 ## Microsoft Defender Cloud App Security Training Material
 * [Microsoft Cloud App Security Demo Lab](https://docs.microsoft.com/en-us/cloud-app-security/getting-started-with-cloud-app-security)
