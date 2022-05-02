@@ -3,10 +3,8 @@
 ## Virtual Machines
 
 * [Virtual Machine Series](https://azure.microsoft.com/en-au/pricing/details/virtual-machines/series/)
-* [Windows VM Sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes)
-* [Windows VM Pricing](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/windows/)
-* [Linux VM Sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes)
-* [Linux VM Pricing](https://azure.microsoft.com/en-au/pricing/details/virtual-machines/linux/)
+* [VM Sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes)
+* [VM Pricing](https://azure.microsoft.com/en-gb/pricing/details/virtual-machines/windows/)
 
 ## High Performance Computing
 
