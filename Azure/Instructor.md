@@ -1,9 +1,5 @@
 # Resources for the Instructor
 
-## Links
-
-* [Free ISO Creator](http://www.minidvdsoft.com/isocreator/index.html)
-
 ## Instructor Machine Setup
 
 If not using the client virtual machine `MIA-CL1` you will need the following:
