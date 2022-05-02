@@ -2,9 +2,9 @@
 
 ## Resources
 
-* [Microsoft Learning AZ-104 GitHub Repository](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator)
-* [AZ-104 on DDLS](https://www.ddls.com.au/courses/microsoft/azure/microsoft-az-103t00-microsoft-azure-administrator/)
-* [AZ-104 Exam Details](https://www.microsoft.com/en-us/learning/exam-az-103.aspx)
+* [Microsoft Learning AZ-104 GitHub Repository](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
+* [AZ-104 on DDLS](https://www.ddls.com.au/courses/microsoft-az-104t00-microsoft-azure-administrator/)
+* [AZ-104 Exam Details](https://www.microsoft.com/en-us/learning/exam-az-104.aspx)
 
 ## Timing
 
