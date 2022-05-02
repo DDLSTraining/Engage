@@ -16,7 +16,6 @@
 * [Google Container Registry](https://cloud.google.com/container-registry/)
 * [Amazon Elastic Container Registry](https://aws.amazon.com/ecr/)
 * [Docker Hub](https://hub.docker.com/)
-* [GitLab](https://docs.gitlab.com/ee/user/project/container_registry.html)
 * [Quay](https://quay.io/)
 * [JFrog](https://jfrog.com/)
 
