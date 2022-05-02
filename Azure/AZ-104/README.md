@@ -54,13 +54,13 @@ If we cover every slide, demonstration, and lab there is **more content than fou
 |-|-|-|
 |Review|Day 1 review|15|
 |Mod 4|Administer Virtual Networking|75|
-|Break||15|
+||Break|15|
 |Mod 5|Administer Intersite Connectivity|60|
 |Mod 6|Administer Network Traffic Management|30|
-|Lunch||60|
+||Lunch|60|
 |Mod 6|Administer Network Traffic Management - Continued|30|
 |Lab 4|Implement Virtual Networking|40|
-|Break||15|
+||Break|15|
 |Lab 5|Implement Intersite Connectivity|30|
 |Lab 6|Implement Traffic Management|60|
 ||Finish|5:00 ish|
