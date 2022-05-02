@@ -9,87 +9,91 @@
 
 ## Timing
 
-The content for this course is organized into Modules, Lessons, and Topics. There are 12 modules. The first six modules are considered core or foundational to Azure administration.
+The content for this course is organized into Modules, Lessons, and Topics. There are 11 modules.
 
-* M01– Azure Administration
-* M02 – Virtual Machines
-* M03 – Azure Storage
-* M04 – Virtual Networking 
-* M05 – Intersite Connectivity
-* M06 – Monitoring 
-
-The last six modules are considered feature-based content.
-
-* M07 – Data Protection
-* M08 – Network Traffic Management
-* M09 – Azure Active Directory
-* M10 – Securing Identities
-* M11 – Governance and Compliance
-* M12 – Data Services
+* Module 01 – Administer Identity
+* Module 02 – Administer Governance and Compliance
+* Module 03 – Administer Azure Resources
+* Module 04 – Administer Virtual Networking
+* Module 05 – Administer Intersite Connectivity
+* Module 06 – Administer Network Traffic Management 
+* Module 07 – Administer Azure Storage
+* Module 08 – Administer Virtual Machines
+* Module 09 – Administer PaaS Compute Options
+* Module 10 – Administer Data Protection
+* Module 11 – Administer Monitoring
 
 If we cover every slide, demonstration, and lab there is **more content than four days**. So, consider how important each lesson is to you.
 
 ## Day 1
 
-|Module|Activity|Duration|
+|Module|Activity|Duration - Mins|
 |-|-|-|
-|M00|Introductions and Setup|60|
-|M01|Azure Administration|30|
+|Mod 0|Introductions and Setup|50|
+|Mod 1|Administer Identity|40|
 |Break||15|
-|M01|Azure Administration|60|
+|Mod 1|Administer Identity - continued|60|
+|Mod 2|Administer Governance and Compliance|30|
 |Lunch||60|
-|M01|Azure Administration|50|
-|M02|Azure Virtual Machines|60|
+|Mod 2|Administer Governance and Compliance - continued|30|
+|Mod 3|Administer Azure Resources|60|
 |Break||15|
-|M02|Azure Virtual Machines|60|
-|Lab|Deploy and Manage Virtual Machines|45|
-|Lab|Virtual Machines and Scale Sets|45|
-|Finish|5:30||
+|Lab 1|Manage Azure Active Directory Identities|30|
+|Lab 2a|Manage Subscriptions and RBAC|30|
+|Lab 2b|Manage Governance via Azure Policy|30|
+|Lab 3a|Manage Azure resources by Using the Azure Portal|20|
+|Lab 3b|Manage Azure resources by Using ARM Templates|20|
+|Lab 3c|**Optional** - Manage Azure resources by Using Azure PowerShell|20|
+|Lab 3d|**Optional** - Manage Azure resources by Using Azure CLI|20|
+|Finish|5:00ish||
 
 ## Day 2
 
-|Module|Activity|Duration|
+|Module|Activity|Duration - Mins|
 |-|-|-|
-|Review||15|
-|M03|Azure Storage|60|
+|Review|Day 1 review|15|
+|Mod 4|Administer Virtual Networking|75|
 |Break||15|
-|M03|Azure Storage|60|
+|Mod 5|Administer Intersite Connectivity|60|
+|Mod 6|Administer Network Traffic Management|30|
 |Lunch||60|
-|Lab|Implement and Manage Storage|45|
-|M04|Virtual Networking|60|
+|Mod 6|Administer Network Traffic Management - Continued|30|
+|Lab 4|Implement Virtual Networking|40|
 |Break||15|
-|M04|Virtual Networking|30|
-|Lab|Configure Azure DNS|60|
-|M05|Intersite Connectivity|60|
-|Finish|5:00||
+|Lab 5|Implement Intersite Connectivity|30|
+|Lab 6|Implement Traffic Management|60|
+|Finish|5:00ish||
 
 ## Day 3
 
-|Module|Activity|Duration|
+|Module|Activity|Duration - Mins|
 |-|-|-|
-|M05|Intersite Connectivity|30|
-|Lab|VNet Peering and Service Chaining|60|
+|Review|Day 2 review|15|
+|Mod 7|Azure Storage|75|
 |Break||15|
-|M06|Monitoring|60|
+|Mod 8|Azure Virtual machines|90|
 |Lunch||60|
-|M06|Monitoring|30|
+|Mod 9|Administer Paas Compute options - App Services|60|
+|Lab 7|Manage Azure Storage|40|
 |Break||15|
-|Elected Modules and Labs|||
-|Finish|4:30||
+|Lab 8|Manage Virtual Machines|50|
+|Lab 9a|Implement Web App|30|
+|Finish|5:00ish||
 
-## Day 4 - Elected Modules
+## Day 4 
 
-Suggested Module Order:
-
-|Module|Activity|
-|-|-|
-|M09|Active Directory|
-|M10|Securing Identities|
-|M11|Governance and Compliance|
-|M08|Network Traffic Management|
-|M12|Data Services|
-|M07|Data Protection|
-
-
+|Module|Activity|Duration - Mins|
+|-|-|-|
+|Review|Day 3 review|15|
+|M09|Administer Paas Compute options - Container instances & kubernetes|60|
+|Break||15|
+|M10|Administer Data Protection|60|
+|Lunch||60|
+|M11|Administer Monitoring|50|
+|Break||15|
+|Lab 9b|Implement Azure Container Instances|20|
+|Lab 9c|Implement Azure Kubernetes Services|40||Lab 9c|Implement Azure Kubernetes Services|40|
+|Lab 10|Backup virtual machines|50|
+|Lab 11|Implement Monitoring|45|
 
 
