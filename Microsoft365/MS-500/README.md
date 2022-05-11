@@ -48,8 +48,8 @@
 * [Supervised Chats](https://docs.microsoft.com/en-us/microsoftteams/supervise-chats-edu)
 * [Nesting Group Limitations AAD](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/directory-service-limits-restrictions)
 * [Best Practices Conditional Access](https://blog.enablingtechcorp.com/azure-ad-conditional-access-baselines-and-best-practices)
-* [Trainable Claiisfiers](https://www.microsoft.com/en-us/videoplayer/embed/RWyGL7?postJsllMsg=true)
-* [Document Fingerprinting]()
+* [Trainable Classifiers](https://www.microsoft.com/en-us/videoplayer/embed/RWyGL7?postJsllMsg=true)
+* [Document Fingerprinting](https://docs.microsoft.com/en-us/microsoft-365/compliance/document-fingerprinting?msclkid=e8b36423d0ec11ecad5838df190ddabd&view=o365-worldwide)
 
 
 ## Best Practices when an employee leaves
