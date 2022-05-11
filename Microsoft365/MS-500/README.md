@@ -48,6 +48,9 @@
 * [Supervised Chats](https://docs.microsoft.com/en-us/microsoftteams/supervise-chats-edu)
 * [Nesting Group Limitations AAD](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/directory-service-limits-restrictions)
 * [Best Practices Conditional Access](https://blog.enablingtechcorp.com/azure-ad-conditional-access-baselines-and-best-practices)
+* [Trainable Claiisfiers](https://www.microsoft.com/en-us/videoplayer/embed/RWyGL7?postJsllMsg=true)
+* [Document Fingerprinting]()
+
 
 ## Best Practices when an employee leaves
   * [Leaving Emplpoyees](https://docs.microsoft.com/en-us/microsoft-365/compliance/recover-an-inactive-mailbox?view=o365-worldwide)
@@ -72,6 +75,10 @@
 * [Application Guard - EndPoint Suecurity](https://youtu.be/OFEdoCWZjaI)
 * [DLP for EndPoint](https://www.youtube.com/watch?v=XO2zMA3w1wA)
 * [AIR](https://youtu.be/4JdGUQfH0nE)
+* [Trainable Classifiers](https://www.microsoft.com/en-us/videoplayer/embed/RWyGL7?postJsllMsg=true)https://www.microsoft.com/en-us/videoplayer/embed/RWyGL7![Uploading image.png…]()
+* [Document Fingerprinting](https://docs.microsoft.com/en-us/microsoft-365/compliance/document-fingerprinting?view=o365-worldwide)
+* [Event Driven Retention](https://youtu.be/82K1yurZus4)
+
 
 ## Defender
 * [Defender for Identity (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
