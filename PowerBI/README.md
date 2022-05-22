@@ -29,9 +29,7 @@ Reference:
 * [DAX Formula Reference](https://enterprisedna.co/dax-formula-reference-guide-download/)
 * [PowerQuery M function reference](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
 
-These are the links that are in the email I send to Power BI students – they will eventually be moved to DDLS Plus 
 
- 
 
 Business Intelligence Book Recommendations: 
 
