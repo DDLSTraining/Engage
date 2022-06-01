@@ -48,7 +48,7 @@
 
 
 ## Defender
-* [Advanced Threat Protection (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
+* [Defender for Identity -Advanced Threat Protection (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
 * [Microsoft Threat Protection](https://docs.microsoft.com/en-us/learn/paths/m365-security-threat-protection)
 * [Defender for Identity (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
 * [Defender for Identity Set up](https://www.youtube.com/watch?v=rMHNJb2IXJ0&t=226s)
