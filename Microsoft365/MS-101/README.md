@@ -105,7 +105,7 @@
 * [Phishing](https://youtu.be/MCYC8kV1mmc)
 * [Secure Score](https://youtu.be/jzfpDJ9Kg-A)
 * [Secure score API (JSON)](https://youtu.be/vg3QKQWVD6Y)
-* [Microsft Graph](https://youtu.be/PI9NO5rayiY)
+* [Microsoft Graph](https://youtu.be/PI9NO5rayiY)
 * [Compliance Manager Demo](https://youtu.be/r1vs8NdSXKQ?list=PLXPr7gfUMmKyMW5RRW9kmLjX31OTwqhf5)
 
 
