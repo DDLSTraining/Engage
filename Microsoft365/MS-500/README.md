@@ -117,6 +117,8 @@
 ## Cloud App Security Training Material
 * [Microsoft Cloud App Security Demo Lab](https://docs.microsoft.com/en-us/cloud-app-security/getting-started-with-cloud-app-security)
 * [The Microsoft Cloud App Security (MCAS) Ninja Training (March 2021 Update)](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/the-microsoft-cloud-app-security-mcas-ninja-training-march-2021/ba-p/1877343)
+* [MCAS Guided Demo](https://mslearn.cloudguides.com/en-us/guides/Discover,%20protect,%20and%20control%20your%20apps%20with%20Microsoft%20Cloud%20App%20Security
+)
 
 ## You can obtain sample network logs in the CAS portal itself.
 
