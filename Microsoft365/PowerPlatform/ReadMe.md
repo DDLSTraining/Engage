@@ -1,6 +1,6 @@
 
 
-# Power Platform 365
+# Power Automate
 
 ## Links to Docs
   * [Try-Catch](https://poszytek.eu/en/microsoft-en/office-365-en/powerautomate-en/try-catch-pattern-in-microsoft-flow/)
