@@ -71,6 +71,8 @@
   * [Teams Room Requirements](https://docs.microsoft.com/en-us/microsoftteams/rooms/with-office-365)
   * [Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/)
   * [Deploying Teams Rooms](https://docs.microsoft.com/en-us/microsoftteams/rooms/with-office-365)
+  * [Teams Phone Setup](https://youtu.be/QjDiTOuqELQ)
+  * [Teams Room YeaLink Setup](https://youtu.be/qxqXXSLL-2Q)
 
 ## Direct Routing
   * [Direct Routing & Call Routing Walkthrough](https://direct-routing-interactive-guide.immersivelearning.online/)
