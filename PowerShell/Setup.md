@@ -46,7 +46,7 @@ Outlook.com||
 
 ## Learn on Demand Labs  (Optional - Ask instructor if this is needed)
 
-***A learn On Demand key would have been given to you either by email or from the instructor***
+***The learn On Demand (Skillable) key will be given to you by your instructor***
 
 1. Go to [Learn On Demand](https://ddls.learnondemand.net)
 1. Have you previously signed into ddls.learnondemand.net before?
