@@ -23,7 +23,7 @@ Outlook.com||
 ## Courseware
 
 1. Go to [Skillpipe.com](https://skillpipe.com/).
-2. Have previously registered yourself in skillpipe before 
+2. Have previously registered yourself in skillpipe before?
   - if **NO:**
     - Click ```Join now``` below the sign in button
     - Enter your name, your actual email address and password or your choice **(When registering, your own personal email address is preferred, try to avoid work email addresses)**
@@ -49,7 +49,7 @@ Outlook.com||
 ***A learn On Demand key would have been given to you either by email or from the instructor***
 
 1. Go to [Learn On Demand](https://ddls.learnondemand.net)
-1. Have you used ddls.learnondemand.net
+1. Have you previously signed into ddls.learnondemand.net before?
   - if **NO**
     - Click `Register with Training Key`  
     - Use the LearnOnDemand key you received in an email from DDLS staff or from your trainer
