@@ -24,15 +24,15 @@ Outlook.com||
 
 1. Go to [Skillpipe.com](https://skillpipe.com/).
 2. Have previously registered yourself in skillpipe before 
-- if **NO:**
-  - Click ```Join now``` below the sign in button
-  - Enter your name, your actual email address and password or your choice **(When registering, your own personal email address is preferred, try to avoid work email addresses)**
-  - ```Tick``` to agree to the terms and conditions
-  - Click ```Register```
-  - **Remember these login details** 
-- if **YES:**
-  - Login using your own email address and password
-- Now that you have registered or logged in, add your new skillpipe book:
+  - if **NO:**
+    - Click ```Join now``` below the sign in button
+    - Enter your name, your actual email address and password or your choice **(When registering, your own personal email address is preferred, try to avoid work email addresses)**
+    - ```Tick``` to agree to the terms and conditions
+    - Click ```Register```
+    - **Remember these login details** 
+  - if **YES:**
+    - Login using your own email address and password
+3. Now that you have registered or logged in, add your new skillpipe book:
   - Click ```MENU```
   - Click ```Add Course```
   - Type in your skillpipe license key
