@@ -75,7 +75,7 @@ Outlook.com||
 
 __Do not use your existing email address or previous Microsoft accounts for this next section__
 
-## You need to create a 'throw away' email address for use in the Azure part of this course. **DO NOT USE YOUR EXISTING MICROSOFT ACCOUNTS.**
+## You need to create a 'throw away' email address for use in the Azure part of this course. <BR>**DO NOT USE YOUR EXISTING MICROSOFT ACCOUNTS.**
 1. Open a **private browser** window (incognito/private)
 3. Open [Outlook.com](https://outlook.live.com/owa/).
 4. Create a new `Outlook.com` account:
