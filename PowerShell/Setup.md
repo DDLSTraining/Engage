@@ -8,7 +8,7 @@
 
 ## Learn on Demand Labs  (Optional - Ask instructor if this is needed)
 
-***A learn On Demand key would have been given to you either by email or from the instructor***
+***A learn On Demand key will be given to you by the instructor***
 
 - Go to [Learn On Demand](https://ddls.learnondemand.net)
 - If this is the first time you have used ddls.learnondemand.net
@@ -28,3 +28,8 @@
     - Otherwise **you will not** be able to launch the lab machines
   - In the Activities section, you will find your labs
   
+
+
+## Lab Instructions (Rewitten by Brent Denny)
+
+- Go to [Lab Instructions](https://github.com/brentd09/AZ040Labs/blob/main/README.md#az040labs)
