@@ -58,6 +58,8 @@
   * [Webinars](https://youtu.be/9t6cggKuCGo)
   * [Live Events](https://youtu.be/1P2Ui6lAkrI)
   * [OSB NDI in Teams](https://youtu.be/ngLfEVU46x0)
+  * [AAD Entitlement Management](https://youtu.be/zaaKvaaYwI4)
+  
   * 
  
 
