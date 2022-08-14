@@ -14,7 +14,7 @@ _Note: Use a private or incongnito browser window if you have issues with accoun
 Course Resources| Username| Password
 ---|---|---
 Skillpipe|<img width=200/>|<img width=200/>
-LearnOnDemand||
+LearnOnDemand (Skillable)||
 Outlook.com||
 
 - Use something like this table to record the credentials you will be building in the next few setup steps.
