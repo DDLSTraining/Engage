@@ -86,7 +86,7 @@ __Do not use your existing Microsoft accounts to work with the labs!__
   - Enter your actual birth date (This is important, they ask you to confirm this later)
   - Solve a puzzle (to prove you are not a robot)
   - Choose ```Yes``` to stay signed in
-5. If the puzzle will not complete correctly try creating the outlook.com account on your phone or tablet. 
+5. ***If the puzzle will not complete correctly try creating the outlook.com account on your phone or tablet. ***
 
 ## Azure Account ⚿
 
