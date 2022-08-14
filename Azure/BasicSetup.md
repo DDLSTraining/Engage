@@ -26,7 +26,7 @@ Outlook.com||
 2. Have previously registered yourself in skillpipe before 
 - if **NO:**
   - Click ```Join now``` below the sign in button
-  - Enter your name, email and password or your choice **(When registering, your own personal email address is preferred, try to avoid work email addresses)**
+  - Enter your name, email and password or your choice **(When registering, your own personal email address is preferred)**
   - ```Tick``` to agree to the terms and conditions
   - Click ```Register```
 - if **YES:**
