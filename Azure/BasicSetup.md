@@ -48,13 +48,13 @@ Outlook.com||
 ***A learn On Demand key would have been given to you either by email or from the instructor***
 
 1. Go to [Learn On Demand](https://ddls.learnondemand.net)
-1. Is this the **first time** you have used ddls.learnondemand.net
-- if **YES:**
+1. Do you have an existing account with ddls.learnondemand.net
+- if **NO:**
   - Click `Register with Training Key`  
   - Use the LearnOnDemand key you received in an email from DDLS staff or from your trainer
   - Fill in your registration details **(When registering, your own personal email address is preferred)**
   - Make sure you remember your Login ID that will be chosen for you
-- If **NO:**
+- If **YES:**
   - Click ```Sign In```
   - Use your existing Login ID and password
   - Click ```Redeem Training Key```
@@ -70,7 +70,7 @@ Outlook.com||
 
 ---
 
-## Throw away email address (This will ONLY be used for your free Azure Account) 📧
+## Create a throw away email address (This will ONLY be used for your free Azure Account) 📧
 
 __Do not use your existing Microsoft accounts to work with the labs!__
 
@@ -86,6 +86,7 @@ __Do not use your existing Microsoft accounts to work with the labs!__
   - Enter your actual birth date (This is important, they ask you to confirm this later)
   - Solve a puzzle (to prove you are not a robot)
   - Choose ```Yes``` to stay signed in
+5. If the puzzle will not complete correctly try creating the outlook.com account on your phone or tablet. 
 
 ## Azure Account ⚿
 
@@ -94,9 +95,8 @@ To create an Azure subscription you need to prove you are a person and an adult.
 1. Open a private browser window (incognito/private)
 1. Use your new `outlook.com` email address in the following steps.
 1. **DO NOT USE YOUR EXISTING MICROSOFT ACCOUNT**
-1. Use one of the following to create a free Azure account (If you are on an Azure course use the [Azure Pass](https://www.microsoftazurepass.com/) option):
+1. Use the following to create a free Azure account (If you are on an Azure course use the [Azure Pass](https://www.microsoftazurepass.com/) option):
    * **Azure Pass**: https://www.microsoftazurepass.com/ **Use this option for Azure Class**
-   * Trial Account **(Credit Card Required):** https://azure.microsoft.com/en-us/free/ ***This is not generally used in class***
 1. Follow the steps to create your Azure account.
   - Once you are at the AzurePass web site https://www.microsoftazurepass.com/
     - Click ```Start```
