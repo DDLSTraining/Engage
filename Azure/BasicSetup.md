@@ -87,7 +87,8 @@ __Do not use your existing Microsoft accounts to work with the labs!__
   - Solve a puzzle (to prove you are not a robot)
   - Choose ```Yes``` to stay signed in
 <BR>
-***If the puzzle will not complete correctly try creating the outlook.com account on your phone or tablet. ***
+  
+**If the puzzle will not complete correctly try creating the outlook.com account on your phone or tablet.**
 
 ## Azure Account ⚿
 
