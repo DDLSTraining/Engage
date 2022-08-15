@@ -22,7 +22,7 @@ Outlook.com||
 
 ## Courseware
 
-1. Go to [Skillpipe.com](https://skillpipe.com/).
+1. Go to [Skillpipe.com](https://skillpipe.com/){:target="_blank"}
 2. Have previously registered yourself in skillpipe before 
 - if **NO:**
   - Click ```Join now``` below the sign in button
