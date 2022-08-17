@@ -82,7 +82,7 @@
 * [Windows UpGrade Logs](https://youtu.be/O91NLxyEHY8)
 * [Config Client Roll Out](https://youtu.be/bHWRBaaVCPg)
 * [AutoPilot Walkthrough](https://youtu.be/KYVptkpsOqs)
-* [White Glove](https://youtu.be/nE5XSOBV0rI)
+* [Pre-Provisioned](https://youtu.be/nE5XSOBV0rI)
 * [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
 
 ## Enrolling Apple
