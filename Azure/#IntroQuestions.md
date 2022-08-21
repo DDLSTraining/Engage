@@ -1,3 +1,7 @@
+# Before we start with the course
+- Make sure you have registered with the [MY DDLS](https://my.ddls.com.au/) site
+- This will give you most of the registration codes you will need for today
+
 # Introductions - Getting to know you
 - Your name (**help us with any pronunciation issues**)
 - What location are dialling from?
