@@ -34,7 +34,7 @@ Outlook.com||
 - Now that you have registered or logged in, add your new skillpipe book:
   - Click ```MENU```
   - Click ```Add Course```
-  - Type in your skillpipe license key
+  - Type in your skillpipe license key from [https://my.ddls.com.au](https://my.ddls.com.au) (the code is in this format ####-####-####-####)
   - Click ```Redeem License Key```
   - Click ```Menu```
   - Click ```Bookshelf```
@@ -58,11 +58,11 @@ Outlook.com||
   - Click ```Sign In```
   - Use your existing Login ID and password
   - Click ```Redeem Training Key```
-  - Enter the LearnOnDemand key you received in an email from DDLS staff or from your trainer
+  - Enter the LearnOnDemand key you received from your course trainer
 - **Once you have redeemed your code**
   - Click on ```My Training```
   - Click the ```your course name```
-  - ***Click on ```View Agreement``` and then choose ```Agree``` *** 
+  - ***Click on ```View Agreement``` 
     - Otherwise **you will not** be able to launch the lab machines
   - In the Activities section, you will find your labs
 
@@ -95,7 +95,7 @@ __Do not use your existing Microsoft accounts to work with the labs!__
 To create an Azure subscription you need to prove you are a person and an adult. This is done with a credit card. If you have been supplied with an Azure Pass you can avoid the need to use a credit card:
 
 1. Open a private browser window (incognito/private)
-1. Use your new `outlook.com` email address in the following steps.
+1. Please not you must use your new `outlook.com` email address in the following steps.
 1. **DO NOT USE YOUR EXISTING MICROSOFT ACCOUNT**
 1. Use the following to create a free Azure account (If you are on an Azure course use the [Azure Pass](https://www.microsoftazurepass.com/) option):  **(Right Click to open in new tab)**
    * **Azure Pass**: https://www.microsoftazurepass.com/ **Use this option for Azure Class**
@@ -106,7 +106,7 @@ To create an Azure subscription you need to prove you are a person and an adult.
     - **Make sure** the email address listed on the web page is the **new outlook.com** email address you just setup in the previous step
       - **if it is not**, logout and login as the new outlook account on this same website before continuing 
     - Click Verify button to allow you to enter the Azure Pass Code 
-    - Enter the AzurePass Code that was emailed to you 
+    - Enter the AzurePass Code that you received from the [https://my.ddls.com.au](https://my.ddls.com.au) portal (This code starts with a Q)
     - Complete the registration process by typing in your details, including your real cell phone number 
       - (**do not give false information here as it may stop you from verifying you account later if required**)
   - This process will take a few minutes to complete  
