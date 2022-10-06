@@ -24,6 +24,7 @@ Notes and resources for Microsoft Office 365 and Microsoft 365 courses.
 * [Security & Compliance Licencing of Features](https://docs.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#compliance-manager)
 * [More licencing](https://m365maps.com/)
 * [Licensing Comparisons](https://www.infusedinnovations.com/blog/secure-modern-workplace/complete-office-365-and-microsoft-365-licensing-comparison)
+* [Licence Matrix](https://m365maps.com/matrix.htm#001000000001001000000)
 
 
 ## News
