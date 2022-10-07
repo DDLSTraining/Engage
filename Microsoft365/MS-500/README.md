@@ -8,7 +8,7 @@
 * [Exam Update](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3)
 * [Additional on-line learning](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/become-a-microsoft-defender-for-endpoint-ninja/ba-p/1515647)
 * [More Learning links](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance)
-
+* [Practice Exam](https://examtopics.com)
 ## Extra Reading
 
 * [Event Driven Retention](https://docs.microsoft.com/en-au/microsoft-365/compliance/event-driven-retention#how-to-set-up-event-driven-retention)
