@@ -13,7 +13,6 @@ _Note: Use a private or incongnito browser window if you have issues with accoun
 
 Course Resources| Username| Password
 ---|---|---
-Skillpipe|<img width=200/>|<img width=200/>
 LearnOnDemand (Skillable)||
 Outlook.com||
 
@@ -22,24 +21,8 @@ Outlook.com||
 
 ## Courseware
 
-1. Go to [Skillpipe.com](https://skillpipe.com/) **(Right Click to open in new tab)**
-2. Have previously registered yourself in skillpipe before 
-- if **NO:**
-  - Click ```Join now``` below the sign in button
-  - Enter your name, email and password or your choice **(When registering, your own personal email address is preferred)**
-  - ```Tick``` to agree to the terms and conditions
-  - Click ```Register```
-- if **YES:**
-  - Login using your email address and password
-- Now that you have registered or logged in, add your new skillpipe book:
-  - Click ```MENU```
-  - Click ```Add Course```
-  - Type in your skillpipe license key from [https://my.ddls.com.au](https://my.ddls.com.au) (the code is in this format ####-####-####-####)
-  - Click ```Redeem License Key```
-  - Click ```Menu```
-  - Click ```Bookshelf```
+1. Go to learn.microsoft.com
 
-### Congatualtions you have added your skillpipe manual
 
 ---
 
