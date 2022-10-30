@@ -108,8 +108,5 @@ To create an Azure subscription you need to prove you are a person and an adult.
 
 Add the following bookmarks to your browser:
 
-* [Skillpipe](https://skillpipe.com)
 * [Azure Portal](https://portal.azure.com/)
-* [Microsoft Learning on GitHub](https://github.com/MicrosoftLearning)
-* [Engage Azure Repository](/Azure)
 * [Learn On Demand](https://ddls.learnondemand.net)
