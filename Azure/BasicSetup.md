@@ -81,7 +81,7 @@ Outlook.com (for Azure Login)||
 To create an Azure subscription you need to prove you are a person and an adult. This is done with a credit card. If you have been supplied with an Azure Pass you can avoid the need to use a credit card:
 
 1. Open a private browser window (incognito/private)
-1. Please not you must use your new `outlook.com` email address in the following steps.
+1. You must use your new `outlook.com` email address in the following steps.
 1. **DO NOT USE YOUR EXISTING MICROSOFT ACCOUNT**
 1. Use the following to create a free Azure account (If you are on an Azure course use the [Azure Pass](https://www.microsoftazurepass.com/) option):  **(Right Click to open in new tab)**
    * **Azure Pass**: https://www.microsoftazurepass.com/ **Use this option for Azure Class**
