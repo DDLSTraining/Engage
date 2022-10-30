@@ -14,7 +14,7 @@ _Note: Use a private or incongnito browser window if you have issues with accoun
 Course Resources| Username| Password
 ---|---|---
 LearnOnDemand (Skillable)||
-Outlook.com||
+Outlook.com (for Azure Login)||
 
 - Use something like this table to record the credentials you will be building in the next few setup steps.
 - Because there are so many different resources you will use in the Azure courses its important to record these credentials
