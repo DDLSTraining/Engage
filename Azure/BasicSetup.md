@@ -90,7 +90,7 @@ To create an Azure subscription you need to prove you are a person and an adult.
     - Click ```Start```
     - Sign in to this page wit the newly created email address
     - > **Make sure** the email address listed on the web page is the **new outlook.com** email address you just setup in the previous step
-      - **if it is not**, logout and login as the new outlook account on this same website before continuing 
+    - > **if it is not**, logout and login as the new outlook account on this same website before continuing 
     - Click Verify button to allow you to enter the Azure Pass Code 
     - Enter the AzurePass Code that you received from the [https://my.ddls.com.au](https://my.ddls.com.au) portal (This code starts with a Q)
     - Complete the registration process by typing in your details, including your real cell phone number 
