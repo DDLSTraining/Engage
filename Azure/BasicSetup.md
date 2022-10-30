@@ -58,7 +58,7 @@ Outlook.com (for Azure Login)||
 
 ## Create a throw away email address (This will ONLY be used for your free Azure Account) 📧
 
-__Do not use your existing Microsoft accounts to work with the labs!__
+## Do not use your existing Microsoft accounts to work with the labs!
 
 ## You need to create a throw away email for use in Azure. **DO NOT USE YOUR EXISTING MICROSOFT ACCOUNTS.**
 1. Open a **private browser** window (incognito/private)
@@ -89,7 +89,7 @@ To create an Azure subscription you need to prove you are a person and an adult.
   - Once you are at the AzurePass web site https://www.microsoftazurepass.com/
     - Click ```Start```
     - Sign in to this page wit the newly created email address
-    - **Make sure** the email address listed on the web page is the **new outlook.com** email address you just setup in the previous step
+    - > **Make sure** the email address listed on the web page is the **new outlook.com** email address you just setup in the previous step
       - **if it is not**, logout and login as the new outlook account on this same website before continuing 
     - Click Verify button to allow you to enter the Azure Pass Code 
     - Enter the AzurePass Code that you received from the [https://my.ddls.com.au](https://my.ddls.com.au) portal (This code starts with a Q)
