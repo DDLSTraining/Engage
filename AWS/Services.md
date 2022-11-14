@@ -384,6 +384,10 @@ AWS CloudFormation provides a common language for you to describe and provision 
 * [Terraform](https://www.terraform.io/)
 * [Engage CloudFormation Document](CloudFormation.md)
 
+### AWS CloudFormation StackSets
+
+A [stackset](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/stacksets-concepts.html) extends the capability of stacks by enabling you to create, update, or delete stacks across multiple accounts and AWS Regions with a single operation. lets you create stacks in AWS accounts across regions by using a single CloudFormation template. A stack set's CloudFormation template defines all the resources in each stack. As you create the stack set, specify the template to use, in addition to any parameters and capabilities that template requires.
+
 ### AWS Systems Manager
 
 [AWS Systems Manager](https://aws.amazon.com/systems-manager/) allows you to centralize operational data from multiple AWS services and automate tasks across your AWS resources. You can create logical groups of resources such as applications, different layers of an application stack, or production versus development environments. With Systems Manager, you can select a resource group and view its recent API activity, resource configuration changes, related notifications, operational alerts, software inventory, and patch compliance status. You can also take action on each resource group depending on your operational needs.
