@@ -138,7 +138,7 @@
 |-|-|
 |Module 0: Introductions and Course Overview|30|
 |Module 1: Review Architecting Concepts|40|
-|Lab 1: Securing Amazon S3 VPC Endpoint Communications|45|
+|Lab 1: Securing Amazon S3 VPC Endpoint Communications|60|
 |Break (Coffee)|15|
 |Module 2: Single to Multiple Accounts|35|
 |Module 3: Hybrid Connectivity|45|
@@ -156,10 +156,10 @@
 |Lab 3: Application Deployment with Amazon EKS on Fargate|90|
 |Break (Coffee)|15|
 |Module 7: Continuous Integration/Continuous Delivery (CI/CD)|30|
-|Module 8: Architecting for high availability and DDoS protection|55|
+|Module 8: Architecting for high availability and DDoS protection|60|
 |Module 9: Securing Data|60|
 |Break (Lunch)|60|
-|Module 10: Large-Scale Data Stores
+|Module 10: Large-Scale Data Stores|55|
 |Break (Coffee)|15|
 |Lab 4: Setting Up a Data Lake with Lake Formation|60|
 
@@ -170,10 +170,8 @@
 |Introduction, poll, icebreaker|10|
 |Module 11: Migrating Workloads|45|
 |Break (Coffee)|15|
+|Lab 5: Migrating an on-prem NFS share using DataSync and Storage gateway|60|
 |Module 12: Optimizing Cost|55|
-|Module 13: Architecting for the Edge|45|
-|Lab 5: Migrating an On-Premises NFS Share Using DataSync and Storage Gateway|60|
-|Survey, feedback, and discussion|15|
 |Break (Lunch)|60|
-|Review Online Course Supplement (OCS)|20|
-|Module 14: Review Project|90|
+|Module 13: Architecting for the Edge|45|
+|Module 14: Review & wrap up|15|
