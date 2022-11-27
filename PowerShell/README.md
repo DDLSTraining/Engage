@@ -24,6 +24,7 @@
   * [Chocolatey](https://chocolatey.org/) - The Package Manager for Windows
   * [Scoop](https://scoop.sh/) - A command-line installer for Windows
 * [Squiggle API - for playing with Web APIs](https://api.squiggle.com.au/)
+* [Star Wars API](https://swapi.dev/)
 * [365 Admin](https://www.365admin.com.au/2017/07/all-my-powershell-technet-downloads.html): Scripts by Terry Munro
 * [PS scripts from Brent Denny](https://github.com/brentd09)
 * [Neovim](https://neovim.io/) - Hyperextensible Vim-based text editor
