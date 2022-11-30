@@ -153,7 +153,8 @@ The sample logs are updated once a week and are available for all the supported 
 * [AutoPilot Walkthrough](https://youtu.be/KYVptkpsOqs)
 * [White Glove](https://youtu.be/nE5XSOBV0rI)
 * [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
-* 
+* [Interactive Guide Remote Actions](https://www.microsoft.com/modern-desktop-productivity/endpoint-management/#/MicrosoftAzure?slide=0)
+
 ## EDiscovery
 * [Advanced eDiscovery Analytics Solutions: How to Efficiently Organize and Reduce Data for Review](https://youtu.be/dgkLkxX_YrE)
 * [EDiscovery Channel - Everything!](https://www.youtube.com/channel/UCFJbJglx-or89yg9RanFTQg/videos)
