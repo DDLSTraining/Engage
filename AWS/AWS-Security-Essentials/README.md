@@ -18,7 +18,8 @@
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
 * [Security and Compliance - Whitepapers](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-and-compliance.html)
 
-## Modules
+## Modules / Labs / Break
+![Course Timings](_images/securityessentials.png)
 
 * Security on AWS
   * Security design principles
