@@ -19,7 +19,7 @@
 * [Security and Compliance - Whitepapers](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-and-compliance.html)
 
 ## Modules / Labs / Break
-![Course Timings](_images/securityessentials.png)
+![Course Timings](_images/Security Essntials 1.2.3.png)
 
 * Security on AWS
   * Security design principles
