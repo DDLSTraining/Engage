@@ -3,7 +3,6 @@
 ## Course Links
 
 * [Courseware at eVantage by Gilmore Global](https://evantage.gilmoreglobal.com/#/user/signin)
-* [Qwiklabs](https://ddls.qwiklabs.com/)
 * [AWS Certification](https://aws.amazon.com/certification/)
 * [AWS Certified Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
 
