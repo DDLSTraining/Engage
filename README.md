@@ -1,4 +1,4 @@
-![DDLSLogo](_images/Leader_In_Corp_Training.png)
+![DDLSLogo](_images/Lumify work.png)
 # DDLS Course Engagement
 
 This repository holds notes and resources used for DDLS course delivery.
