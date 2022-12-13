@@ -2,7 +2,7 @@
 # DDLS Course Engagement
 
 This repository holds notes and resources used for Lumify Work (formally DDLS) course delivery.
-* [Website](https://www.lumifywork.com.au)
+* [New Website](https://www.lumifywork.com/en-au/)
 
 Please use it during your course and as a reference after completing the course.
 
