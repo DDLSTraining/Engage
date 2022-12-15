@@ -23,7 +23,7 @@
 ## AWS Security Essentials additional bits
 ## Module 1
 * [Overview of Amazon Web Services:](https://d1.awsstatic.com/whitepapers/aws-overview.pdf?did=wp_card&trk=wp_card) 
-* [AWS Well-Architected Framework – Security Pillar:](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf) 
+* [AWS Well-Architected Framework – Security Pillar:](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html) 
 * [AWS Cloud Adoption Framework – Security Perspective:](https://d1.awsstatic.com/whitepapers/AWS_CAF_Security_Perspective.pdf) 
 * [Introduction to AWS Security:](https://d1.awsstatic.com/whitepapers/Security/Intro_to_AWS_Security.pdf?did=wp_card&trk=wp_card) 
 * [AWS Security Incident Response Guide:](https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf?did=wp_card&trk=wp_card) 
