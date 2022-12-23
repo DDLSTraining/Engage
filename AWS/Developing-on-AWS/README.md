@@ -3,7 +3,6 @@
 ## Reference Links
 
 * [Courseware at eVantage by Gilmore Global](https://evantage.gilmoreglobal.com/#/user/signin)
-* [Qwiklabs](https://ddls.qwiklabs.com/)
 * [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/)
 
 ### Lab Links
