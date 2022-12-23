@@ -7,7 +7,7 @@
 * [Exam AZ-500: Microsoft Azure Security Technologies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70)
 * [Azure Services Overview](https://azurecharts.com/overview)
 * [Security operations self-assessment tool](https://www.microsoft.com/en-au/security/business/threat-protection/security-operations-assessment?solutionWizardResult=soc-triage:MS0xLTAtMS0xLTE=&activetab=solution-wizard:primaryr20)
-* [QuickStart Guide to Azure Sentinel](https://clouddamcdnprodep.azureedge.net/gdc/gdc8UrxYh/original)
+* [Pre-deployment activities and prerequisites for deploying Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/prerequisites)
 
 ## Suggested Order and Timing
 
