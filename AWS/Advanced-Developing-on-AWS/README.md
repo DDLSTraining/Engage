@@ -3,7 +3,6 @@
 ## Course Links
 
 * [VitalSource Bookshelf](https://online.vitalsource.com)
-* [Qwiklabs](https://ddls.qwiklabs.com/)
 * [AWS Certification](https://aws.amazon.com/certification/)
 
 ## Lab Notes
