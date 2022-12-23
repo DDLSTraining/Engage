@@ -15,7 +15,7 @@
 * [Information Barriers](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers-policies)
 * [Assigning Roles to a Group](https://docs.microsoft.com/en-us/azure/active-directory/roles/groups-concept)
 * [Blocking O365 Group Creation](https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
-* [AD Sloud Sync - Deep Dive](https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/concept-how-it-works)
+* [AD cloud Sync - Deep Dive](https://docs.microsoft.com/en-us/azure/active-directory/cloud-sync/concept-how-it-works)
  
 ## WorkPlace Analytics  
   * [Workplace Analytics requirements]( https://docs.microsoft.com/en-us/workplace-analytics/setup/environment-requirements)
