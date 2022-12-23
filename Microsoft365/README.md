@@ -1,4 +1,4 @@
-# Microsoft Office 365 and Microsoft 365
+# Microsoft 365
 
 Notes and resources for Microsoft Office 365 and Microsoft 365 courses.
 
