@@ -10,12 +10,6 @@ If using online labs follow these steps:
 1. Click on `Register with Training Key`.
 1. Enter the course training code provided by the instructor.
 
-## Courseware
-
-1. Go to [Skillpipe](https://skillpipe.com/).
-1. Register or login with your account. If registering use a personal email address.
-1. Select `Add a Course` and use the code given to you by the instructor.
-
 ### Email Address 📧
 
 __Do not use your existing Microsoft accounts to work with the labs!__
