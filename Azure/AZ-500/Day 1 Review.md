@@ -1,6 +1,5 @@
 # AZ-500
 # Review of day 1 
-* [Course Manual via Skillpipe](http://Skillpipe.com)
 * [Lab environment for 6 months](http://DDLS.LearnOnDemand.net)
 * [DDLS’s Github page](https://github.com/DDLSTraining/Engage)
 * [Microsoft Learning AZ-500 Github]( https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
@@ -49,7 +48,7 @@
 
 * **Labs** - MFA, Conditional Acess & Identity Protection
            - Azure AD Privileged Identity Management
-          - Directory Stnchronization
+           - Directory Stnchronization
          
       
 
