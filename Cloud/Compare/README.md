@@ -14,12 +14,6 @@ CochroachLabs have produced an in-depth technical performance analysis of their 
 * 2021 Cloud Report:
   * [PDF](2021-cloud-report-cockroach-labs.pdf)
   * [Website (email required)](https://www.cockroachlabs.com/guides/2021-cloud-report/)
-* 2020 Cloud Report:
-  * [PDF](2020-Cloud-Report.pdf)
-  * [Website (email required)](https://www.cockroachlabs.com/guides/2020-cloud-report/)
-* 2018 Cloud Report:
-  * [PDF](2018-Cloud-Report.pdf)
-  * [Website (email required)](https://www.cockroachlabs.com/guides/2018-cloud-report/)
 
 ## Comparison Resources
 
