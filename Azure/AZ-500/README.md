@@ -172,7 +172,7 @@
 * [Top 5 security items to consider before pushing to production](https://docs.microsoft.com/en-us/learn/modules/top-5-security-items-to-consider/)
 * [Automatically create incidents from Microsoft security alerts](https://docs.microsoft.com/en-us/azure/sentinel/create-incidents-from-alerts)
 * [Security automation & orchestration](https://docs.microsoft.com/en-us/azure/sentinel/overview#security-automation--orchestration)
-* [**Tutorial:** Set up automated threat responses in Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/tutorial-respond-threats-playbook)
+* [**Tutorial:** Use playbooks with automation rules in Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/tutorial-respond-threats-playbook)
 * [Hunt for threats with Microsoft Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/hunting)
 * [Introduction to threat modeling](https://docs.microsoft.com/en-us/learn/modules/tm-introduction-to-threat-modeling/)
 * [Use a framework to identify threats and find ways to reduce or eliminate risk](https://docs.microsoft.com/en-us/learn/modules/tm-use-a-framework-to-identify-threats-and-find-ways-to-reduce-or-eliminate-risk/)
