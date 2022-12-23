@@ -3,7 +3,6 @@
 ## Reference Links
 
 * [Courseware at eVantage by Gilmore Global](https://evantage.gilmoreglobal.com/#/user/signin)
-* [Qwiklabs](https://ddls.qwiklabs.com/)
 * [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
 
