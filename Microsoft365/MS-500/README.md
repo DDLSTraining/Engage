@@ -102,7 +102,7 @@
 
 
 
-## Cloud App Security Videos
+## Defender for Cloud Apps Videos
 * [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
 * [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
 * [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
@@ -111,7 +111,7 @@
 * [Session Policy in CAS](https://youtu.be/hPW3E51cIac)
 * [Block Uploads in CAS](https://youtu.be/nGg2XyQWJ4o)
 
-## Cloud App Security Training Material
+## Defender for Cloud Apps Training Material
 * [Get started with Microsoft Defender for Cloud Apps](https://docs.microsoft.com/en-us/cloud-app-security/getting-started-with-cloud-app-security)
 * [Microsoft Defender for Cloud Apps Ninja Training | June 2022](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-june-2022/ba-p/2751518)
 * [MCAS Guided Demo](https://mslearn.cloudguides.com/en-us/guides/Discover,%20protect,%20and%20control%20your%20apps%20with%20Microsoft%20Cloud%20App%20Security
