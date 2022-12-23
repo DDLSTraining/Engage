@@ -89,9 +89,9 @@
 * [Apple Business Manager](https://youtu.be/rihqfkkaHLQ?t=87)
 * [Connecting Apple Business Manager with InTune](https://youtu.be/VHEy621jhHs?t=145)
 * 
-## Sentinel
-* [Azure Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
-* [Azure Setup & Config](https://youtu.be/Cyd16wVwxZc)
+##  Microsoft Sentinel
+* [Microsoft Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
+* [Microsoft Sentinel Setup & Config](https://youtu.be/Cyd16wVwxZc)
 
 ## Other
 * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
