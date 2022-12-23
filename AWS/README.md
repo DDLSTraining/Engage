@@ -1,7 +1,6 @@
 # Amazon Web Services
 
 * [VitalSource Bookshelf](https://online.vitalsource.com)
-* [Qwiklabs](https://ddls.qwiklabs.com/)
 * [AWS Certification](https://aws.amazon.com/certification/)
 * [AWS Hands-on](/AWS/Hands-on)
 
