@@ -1,7 +1,6 @@
 # AZ-900 Microsoft Azure Fundamentals
 
 * [Microsoft Learning AZ-900 GitHub Repository](https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals)
-* [Skillpipe Online Courseware](https://www.skillpipe.com/)
 * [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
 * [Microsoft AZ-900 on DDLS](https://www.ddls.com.au/?s=AZ-900&post_type%5B%5D=courses)
 
