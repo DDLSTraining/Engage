@@ -30,9 +30,7 @@
 
 ## Videos
 ## Cloud App Security
-* [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
 * [Cloud App Security Guided Demonstration](https://mslearn.cloudguides.com/en-us/guides/Discover,%20protect,%20and%20control%20your%20apps%20with%20Microsoft%20Cloud%20App%20Security)
-* [Wizarding World of cloud App Security](https://youtu.be/TLm6F0pKT7E)
 * [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
 * [Cloud App Security to Protect File downloads to non managed devices](https://youtu.be/vD9C9jwDuv4)
 * [Cloud App Security](https://youtu.be/DyUmFWfJQvU)
