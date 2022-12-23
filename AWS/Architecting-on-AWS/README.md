@@ -3,7 +3,6 @@
 ## Course Links
 
 * [VitalSource Bookshelf](https://online.vitalsource.com)
-* [Qwiklabs](https://ddls.qwiklabs.com/)
 * [AWS Certification](https://aws.amazon.com/certification/)
 * [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
