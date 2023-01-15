@@ -33,7 +33,7 @@ Outlook.com (for Azure Login)||
 ***A learn On Demand key would have been given to you either by email or from the instructor***
 
 1. Go to [Learn On Demand](https://ddls.learnondemand.net) **(Right Click to open in new tab)**
-2. Your DDLS instructor will give you the LearnOnDemand Key
+2. Your Lumify-Work instructor will give you the LearnOnDemand Key
 3. Do you have an existing account with ddls.learnondemand.net
 - if **NO:**
   - Click `Register with Training Key`  
