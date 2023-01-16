@@ -103,6 +103,10 @@ To create an Azure subscription you need to prove you are a person and an adult.
 ### Congatualtions you have registered for Azure Free Pass 
 ### You now have 30 days or $100 USD for access to this account
 
+# To view how much money remains in your account
+  
+  - [Microsoft Balance for Sponsered Account](https://www.microsoftazuresponsorships.com/Balance)
+  
 ---
 
 ## Bookmarks (optional)
