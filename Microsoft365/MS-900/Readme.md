@@ -11,4 +11,5 @@
   * [Microsoft Viva Goals](https://support.microsoft.com/en-us/office/introducing-microsoft-viva-goals-bd651be7-472a-4f40-8fdd-6fcead79f3ad)
   * [Microsoft Viva Learning](https://learn.microsoft.com/en-us/viva/learning/overview-viva-learning)
   * [Microsoft Viva Topics](https://www.microsoft.com/en-au/microsoft-viva/topics?rtc=1)
-  
+  * [Microoft Viva Sales](https://www.microsoft.com/en-au/microsoft-viva/sales?rtc=1)
+  *
