@@ -12,4 +12,5 @@
   * [Microsoft Viva Learning](https://learn.microsoft.com/en-us/viva/learning/overview-viva-learning)
   * [Microsoft Viva Topics](https://www.microsoft.com/en-au/microsoft-viva/topics?rtc=1)
   * [Microoft Viva Sales](https://www.microsoft.com/en-au/microsoft-viva/sales?rtc=1)
-  *
+  * [Compare Windows 365 and Azure Virtual Desktops](https://getnerdio.com/academy/windows-365-vs-azure-virtual-desktop-avd-comparing-two-daas-products/)
+  * 
