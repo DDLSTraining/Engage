@@ -23,3 +23,4 @@ Simplify operations, meet regulatory requirements, and consolidate multiple poin
 ## More info
 
 * [Decentralized Identity and Verifiable Credentials Whitepaper](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59eMI?culture=en-au&country=au)
+* [Innovations that span Azure AD, Permissions Management, and more](https://ignite.microsoft.com/en-US/sessions/538bf946-a7bf-46dc-809f-9fbda241f918?source=sessions&culture=en-au&country=au)
