@@ -8,4 +8,7 @@
   * [Microsoft Viva Connections](https://www.microsoft.com/en-au/microsoft-viva/connections?rtc=1)  
   * [Microsoft Viva Engage](https://www.microsoft.com/en-au/microsoft-viva/engage?rtc=1)
   * [ Microsoft Viva Insights](https://learn.microsoft.com/en-us/viva/insights/personal/teams/viva-teams-app)
+  * [Microsoft Viva Goals](https://support.microsoft.com/en-us/office/introducing-microsoft-viva-goals-bd651be7-472a-4f40-8fdd-6fcead79f3ad)
+  * [Microsoft Viva Learning](https://learn.microsoft.com/en-us/viva/learning/overview-viva-learning)
+  * [Microsoft Viva Topics](https://www.microsoft.com/en-au/microsoft-viva/topics?rtc=1)
   
