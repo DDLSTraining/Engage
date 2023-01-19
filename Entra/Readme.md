@@ -19,3 +19,7 @@ Manage and help secure identities for digital workloads, such as apps and servic
 
 ### [Microsoft Entra Identity Governance - in Preview](https://www.microsoft.com/en-au/security/business/identity-access/microsoft-entra-identity-governance)
 Simplify operations, meet regulatory requirements, and consolidate multiple point solutions with a complete solution across on-premises and cloud-based user directories.
+
+## More info
+
+* [Decentralized Identity and Verifiable Credentials Whitepaper](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE59eMI?culture=en-au&country=au)
