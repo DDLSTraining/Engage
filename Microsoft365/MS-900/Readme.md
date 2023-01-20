@@ -1,5 +1,20 @@
 # MS-900 - Microsoft 365 Fundamentals
 
+## Timings for MS-900 (1 Day - no labs)
+
+|Learning Path|Activity|Duration - Mins|
+|-|-|-|
+|Intro 0|Introductions and Setup|20|
+|Learning Path 1|Describe cloud concepts|40|
+||Break|15|
+|Learning Path 2|Describe Microsoft 365 apps and services|150|
+||Lunch|60|
+|Learning Path 2- cont|Describe Microsoft 365 apps and services|150|
+|Learning Path 3|Describe Microsoft 365 Security and compliance capabilities|150|
+||Break|15|
+|Learning Path 4|Describe Microsoft 365 pricing, Licensing and support|30|
+|Summary and Finish|4:30 ish|
+
 ## Additional Information
 
 ## Links to Docs
@@ -13,4 +28,4 @@
   * [Microsoft Viva Topics](https://www.microsoft.com/en-au/microsoft-viva/topics?rtc=1)
   * [Microoft Viva Sales](https://www.microsoft.com/en-au/microsoft-viva/sales?rtc=1)
   * [Compare Windows 365 and Azure Virtual Desktops](https://getnerdio.com/academy/windows-365-vs-azure-virtual-desktop-avd-comparing-two-daas-products/)
-  * 
+  
