@@ -28,4 +28,6 @@
   * [Microsoft Viva Topics](https://www.microsoft.com/en-au/microsoft-viva/topics?rtc=1)
   * [Microoft Viva Sales](https://www.microsoft.com/en-au/microsoft-viva/sales?rtc=1)
   * [Compare Windows 365 and Azure Virtual Desktops](https://getnerdio.com/academy/windows-365-vs-azure-virtual-desktop-avd-comparing-two-daas-products/)
+  * [Microsoft Defender for Identity Ninja Training](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-identity-ninja-training/ba-p/2117904)
+  
   
