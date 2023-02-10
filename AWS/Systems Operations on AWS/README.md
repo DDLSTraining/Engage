@@ -25,6 +25,21 @@
 * [New – SaaS Lens in AWS Well-Architected Tool:](https://aws.amazon.com/blogs/aws/new-saas-lens-in-aws-well-architected-tool/)
 
 ### Module 2
+* [“What is IAM” in the AWS Identity and Access Management User Guide :](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+* [“IAM groups” in the AWS Identity and Access Management User Guide :](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html)
+* [“Policies and permissions in IAM” in the AWS Identity and Access Management User Guide :](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html)
+* [“Granting a user permissions to pass a role to an AWS service” in the AWS Identity and Access Management User Guide :](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_passrole.html)
+* [“Policy evaluation logic” in the AWS Identity and Access Management User Guide :](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html)
+* [“Get started using permissions with AWS managed policies” in the AWS Identity and Access Management User Guide :](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#bp-use-aws-defined-policies)
+* [“Multi-factor authentication” :](http://aws.amazon.com/iam/details/mfa/)
+* [“Rotate credentials regularly” in the AWS Identity and Access Management User Guide :](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html#rotate-credentials)
+* [“Understanding the report format” in the AWS Identity and Access Management User Guide  :](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_getting-report.html#id_credentials_understanding_the_report_format)
+* [“Testing IAM policies with the IAM policy simulator” :](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_testing-policies.html)
+* ["AWS global condition context keys ":](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html)
+* ["Controlling access to and for IAM users and roles using tags":](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_iam-tags.html)
+
+#### Videos
+* [Become an IAM Policy Master in 60 Minutes or Less :](https://www.youtube.com/watch?v=YQsK4MtsELU)
 
 ### Module 3
 
