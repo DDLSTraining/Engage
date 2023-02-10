@@ -67,6 +67,10 @@
 * ["Instance metadata and user data" :](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
 * ["Run commands on your Linux instance at launch" :](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html)
 
+#### Videos
+
+* [AWS Knowledge Center Live: Tagging AWS Resources :](https://www.youtube.com/watch?v=MX9DaAQS15I)
+
 ### Module 5
 
 ### Module 6
