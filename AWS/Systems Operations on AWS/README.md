@@ -19,6 +19,10 @@
 ## Extras
 
 ### Module 1
+* [AWS Well-Architected Framework:](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+* [Operational Excellence Pillar: AWS Well-Architected Framework:](https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf)
+* [AWS Well Architected Labs:](https://www.wellarchitectedlabs.com/)
+* [New – SaaS Lens in AWS Well-Architected Tool:](https://aws.amazon.com/blogs/aws/new-saas-lens-in-aws-well-architected-tool/)
 
 ### Module 2
 
