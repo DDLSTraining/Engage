@@ -75,7 +75,7 @@
 |Break (Lunch)|60 Mins|
 |Module 3: System Discovery|45 Mins|
 |Lab 1: Auditing AWS Resources with Systems Manager and AWS Config|45 Mins|
-|Module 4: Dploy and Update Resources|30 Mins|
+|Module 4: Deploy and Update Resources|30 Mins|
 |Break (Coffee)|15 Mins|
 |Module 5: Automate Resource Deployment|60 Mins|
 |Lab 2: Infrastructure as Code|50 Mins|
