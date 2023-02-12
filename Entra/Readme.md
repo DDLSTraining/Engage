@@ -13,7 +13,7 @@ Discover, remediate, and monitor permission risks across your multi cloud infras
 
 ### [Microsoft Entra Verified ID](https://www.microsoft.com/en-au/security/business/identity-access/microsoft-entra-verified-id)
 Create, issue, and verify privacy-respecting decentralized identity credentials with an identity verification solution that helps you enable more secure interactions with anyone or anything. – Verify once and use everywhere.
-  ### [Configure Verified ID](https://learn.microsoft.com/en-us/azure/active-directory/verifiable-credentials/verifiable-credentials-configure-tenant)
+  #### [Configure Verified ID](https://learn.microsoft.com/en-us/azure/active-directory/verifiable-credentials/verifiable-credentials-configure-tenant)
   
 ### [Microsoft Entra Workload Identities - in Preview](https://www.microsoft.com/en-au/security/business/identity-access/microsoft-entra-workload-identities)
 Manage and help secure identities for digital workloads, such as apps and services. Control their access to cloud resources with risk-based policies and enforcement of least-privileged access.
