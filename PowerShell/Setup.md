@@ -56,6 +56,10 @@ Outlook.com (for Azure Login)||
 
 ---
 
+# Stop here and the following steps will be performed mid week
+
+---
+
 ## Create a throw away email address (This will ONLY be used for your free Azure Account) 📧
 
 ## Do not use your existing Microsoft accounts to work with the labs!
