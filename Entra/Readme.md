@@ -10,6 +10,7 @@ Safeguard your organization with the Identity and Access Management (IAM) soluti
 
 ### [Microsoft Entra Permissions Management](https://www.microsoft.com/en-au/security/business/identity-access/microsoft-entra-permissions-management)
 Discover, remediate, and monitor permission risks across your multi cloud infrastructure with a Cloud Infrastructure Entitlement Management (CIEM) solution.
+#### [Permissions Management Training Videos](https://learn.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/training-videos)
 
 ### [Microsoft Entra Verified ID](https://www.microsoft.com/en-au/security/business/identity-access/microsoft-entra-verified-id)
 Create, issue, and verify privacy-respecting decentralized identity credentials with an identity verification solution that helps you enable more secure interactions with anyone or anything. – Verify once and use everywhere.
