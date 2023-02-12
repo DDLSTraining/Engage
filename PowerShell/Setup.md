@@ -56,7 +56,9 @@ Outlook.com (for Azure Login)||
 
 ---
 
-# Stop here and the following steps will be performed mid week
+# Stop here 
+
+## The following steps will be performed mid week
 
 ---
 
