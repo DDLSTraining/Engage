@@ -18,7 +18,10 @@ Create, issue, and verify privacy-respecting decentralized identity credentials 
   
 ### [Microsoft Entra Workload Identities - in Preview](https://www.microsoft.com/en-au/security/business/identity-access/microsoft-entra-workload-identities)
 Manage and help secure identities for digital workloads, such as apps and services. Control their access to cloud resources with risk-based policies and enforcement of least-privileged access.
+#### [Wordload Identites OverView]([https://learn.microsoft.com/en-us/azure/active-directory/develop/workload-identities-o](https://learn.microsoft.com/en-us/azure/active-directory/develop/workload-identities-overview)
 #### [Workload Identites MSLearn](https://learn.microsoft.com/th-th/azure/active-directory/identity-protection/concept-workload-identity-risk)
+#### [Workload Identites Conditional Access](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/workload-identity)
+#### [Worload Identites Identity Protection](https://learn.microsoft.com/th-th/azure/active-directory/identity-protection/concept-workload-identity-risk)
 
 ### [Microsoft Entra Identity Governance - in Preview](https://www.microsoft.com/en-au/security/business/identity-access/microsoft-entra-identity-governance)
 Simplify operations, meet regulatory requirements, and consolidate multiple point solutions with a complete solution across on-premises and cloud-based user directories.
