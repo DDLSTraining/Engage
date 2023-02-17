@@ -30,11 +30,11 @@
 * [AWS Security Documentation:](https://docs.aws.amazon.com/security/)
 * [AWS Shared Responsibility Model:](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
-## Videos
+### Videos
 * [The Fundamentals of AWS Cloud Security:](https://youtu.be/QMBkq6MrT2w)
 * [Getting Started with AWS Identity:](https://youtu.be/Zvz-qYYhvMk)
 * [How to Prepare for and Respond to Security Incidents in Your AWS Environment:](https://youtu.be/8uiO0Z5meCs)
-## Online Learning from AWS
+### Online Learning from AWS
 * [AWS Shared Responsibility Model:](https://www.aws.training/Details/Video?id=16488)
 * [AWS Security Fundamentals (Second Edition):](https://www.aws.training/Details/eLearning?id=34259) 
 * [AWS Well-Architected:](https://www.aws.training/Details/Curriculum?id=42037)
