@@ -1,7 +1,7 @@
 ## AWS Config
 AWS Config is a fully managed service that provides you with an AWS resource inventory, configuration history, and configuration change notifications to enable security and governance.
 
-With AWS Config you can discover existing AWS resources, export a complete inventory of your AWS resources with all configuration details, and determine how a resource was configured at any point in time.
+With **AWS Config** you can discover existing AWS resources, export a complete inventory of your AWS resources with all configuration details, and determine how a resource was configured at any point in time.
 
 These capabilities enable compliance auditing, security analysis, resource change tracking, and troubleshooting.  Allowing you to assess, audit and evaluate configurations of your AWS resources. Very useful for Configuration Management as part of an ITIL program.
 
@@ -17,11 +17,11 @@ Examples of Config Rules:
 *	Are **Amazon EBS** volumes encrypte?
 
 ### Configuration Items
-A Configuration Item (CI) is the configuration of a resource at a given point-in-time. 
+A **Configuration Item (CI)** is the configuration of a resource at a given point-in-time. 
 
-A CI consists of 5 sections:
+A **CI** consists of 5 sections:
 1.	Basic information about the resource that is common across different resource types (e.g., Amazon Resource Names, tags).
-2.	Configuration data specific to the resource (e.g., Amazon EC2 instance type).
+2.	Configuration data specific to the resource (e.g.,**Amazon EC2 instance type**).
 3.	Map of relationships with other resources (e.g., EC2::Volume vol-3434df43 is “attached to instance” EC2 Instance i-3432ee3a).
 4.	AWS CloudTrail event IDs that are related to this state.
 5.	Metadata that helps you identify information about the CI, such as the version of this CI, and when this CI was captured.
@@ -30,8 +30,12 @@ A CI consists of 5 sections:
 **AWS CloudTrail** records user API activity on your account and allows you to access information about this activity.
 
 **AWS Config** records point-in-time configuration details for your AWS resources as **Configuration Items (CIs)**.
-You can use an **AWS Config CI** to answer, “What did my AWS resource look like?” at a point in time.
-You can use **AWS CloudTrail** to answer, “Who made an API call to modify this resource?”.
+
+You can use an **AWS Config CI** to answer, 
+* “What did my AWS resource look like?” at a point in time.*
+
+You can use **AWS CloudTrail** to answer, 
+* “Who made an API call to modify this resource?”.*
 
 ## Charges
 With **AWS Config**, you are charged based on the number **configuration items (CIs)** recorded for supported resources in your AWS account.
