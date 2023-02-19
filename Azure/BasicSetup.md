@@ -81,15 +81,15 @@ Outlook.com (for Azure Login)||
 To create an Azure subscription you need to prove you are a person and an adult. This is done with a credit card. If you have been supplied with an Azure Pass you can avoid the need to use a credit card:
 
 1. Open a private browser window (incognito/private)
-1. You must use your new `outlook.com` email address in the following steps.
-1. **DO NOT USE YOUR EXISTING MICROSOFT ACCOUNT**
-1. Use the following to create a free Azure account (If you are on an Azure course use the [Azure Pass](https://www.microsoftazurepass.com/) option):  **(Right Click to open in new tab)**
+1. Use the following link to create a free Azure account (If you are on an Azure course use the [Azure Pass](https://www.microsoftazurepass.com/) option):  **(Open in new private browser tab)**
    * **Azure Pass**: https://www.microsoftazurepass.com/ **Use this option for Azure Class**
+1. You [must] use your new `outlook.com` email address in the following steps.
+1. **DO NOT USE YOUR EXISTING MICROSOFT ACCOUNT**
 1. Follow the steps to create your Azure account.
   - Once you are at the AzurePass web site https://www.microsoftazurepass.com/
     - Click ```Start```
-    - Sign in to this page wit the newly created email address
-    > **Make sure** the email address listed on the web page is the **new outlook.com** email address you just setup in the previous step
+    - Sign in to this page with the newly created email address
+    > **Make sure** the email address listed on the web page is the **new outlook.com** email address you just breated in the previous steps
     > **if it is not**, logout and login as the new outlook account on this same website before continuing 
     - Click "Confirm Microsoft Account" button to allow you to enter the Azure Pass Code 
     - Enter the AzurePass Code that you received from the [https://my.ddls.com.au](https://my.ddls.com.au) portal (This code starts with a Q in the "Codes/Links" section)
