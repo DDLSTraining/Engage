@@ -4,7 +4,6 @@
 ## Requirements
 
 * Modern Browser
-* Skillpipe Courseware Code
 * Azure Pass Code
 
 _Note: Use a private or incongnito browser window if you have issues with accounts being cached._ 
