@@ -80,20 +80,31 @@
 [AWS Customer Stories: Security, Identity, and Compliance](https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23security-identity-compliance&awsf.content-type=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all)
 
 # Module 7: Monitoring and Analytics
-[Management and Governance on AWS]()
-[Monitoring and Observability]()
-[Configuration, Compliance, and Auditing]()
-[AWS Management & Governance Blog]()
-[Whitepaper: AWS Governance at Scale]()
+[Management and Governance on AWS](https://aws.amazon.com/products/management-and-governance/)
+
+[Monitoring and Observability](https://aws.amazon.com/cloudops/monitoring-and-observability/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc&blog-posts-cards.sort-by=item.additionalFields.createdDate&blog-posts-cards.sort-order=desc)
+
+[Configuration, Compliance, and Auditing](https://aws.amazon.com/cloudops/compliance-and-auditing/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc&blog-posts-cards.sort-by=item.additionalFields.createdDate&blog-posts-cards.sort-order=desc)
+
+[AWS Management & Governance Blog](https://aws.amazon.com/blogs/mt/)
+
+[Whitepaper: AWS Governance at Scale](https://docs.aws.amazon.com/whitepapers/latest/aws-governance-at-scale/aws-governance-at-scale.html)
+
 
 # Module 8: Pricing and Support
-[AWS Pricing]()
-[AWS Free Tier]()
-[AWS Cost Management]()
-[Whitepaper: How AWS Pricing Works]()
-[Whitepaper: Introduction to AWS Economics]()
-[AWS Support]()
-[AWS Knowledge Center]()
+[AWS Pricing](https://aws.amazon.com/pricing/?aws-products-pricing.sort-by=item.additionalFields.productNameLowercase&aws-products-pricing.sort-order=asc&awsf.Free%20Tier%20Type=*all&awsf.tech-category=*all)
+
+[AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+
+[AWS Cost Management](https://aws.amazon.com/aws-cost-management/)
+
+[Whitepaper: How AWS Pricing Works](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/abstract-and-introduction.html)
+
+[Whitepaper: Introduction to AWS Economics](https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf)
+
+[AWS Support](https://aws.amazon.com/premiumsupport/)
+
+[AWS Knowledge Center](https://aws.amazon.com/premiumsupport/knowledge-center/)
 
 # Module 9: Migration and Innovation
 [Migration & Transfer on AWS]()
