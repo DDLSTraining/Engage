@@ -67,12 +67,17 @@
 [AWS Customer Stories: Databases](https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23databases&awsf.content-type=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all)
 
 # Module 6: Security
-[Security, Identity, and Compliance on AWS]()
-[Whitepaper: Introduction to AWS Security]()
-[Whitepaper: Amazon Web Services - Overview of Security Processes]()
-[AWS Security Blog]()
-[AWS Compliance]()
-[AWS Customer Stories: Security, Identity, and Compliance]()
+[Security, Identity, and Compliance on AWS](https://aws.amazon.com/products/security/)
+
+[Whitepaper: Introduction to AWS Security](https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/welcome.html)
+
+[Whitepaper: Amazon Web Services - Overview of Security Processes](https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview-security-processes/aws-overview-security-processes.pdf)
+
+[AWS Security Blog](https://aws.amazon.com/blogs/security/)
+
+[AWS Compliance](https://aws.amazon.com/compliance/)
+
+[AWS Customer Stories: Security, Identity, and Compliance](https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23security-identity-compliance&awsf.content-type=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all)
 
 # Module 7: Monitoring and Analytics
 [Management and Governance on AWS]()
