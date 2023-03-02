@@ -48,15 +48,23 @@
 [How Amazon VPC works]( https://docs.aws.amazon.com/vpc/latest/userguide/how-it-works.html)
 
 # Module 5: Storage and Databases
-[Cloud Storage on AWS]()
-[AWS Storage Blog]()
-[Hands-On Tutorials: Storage]()
-[AWS Customer Stories: Storage]()
-[AWS Database Migration Service]()
-[Databases on AWS]()
-[Category Deep Dive: Databases]()
-[AWS Database Blog]()
-[AWS Customer Stories: Databases]()
+[Cloud Storage on AWS](https://aws.amazon.com/products/storage/)
+
+[AWS Storage Blog](https://aws.amazon.com/blogs/storage/)
+
+[Hands-On Tutorials: Storage](https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-category=category%23storage&awsf.getting-started-content-type=content-type%23hands-on&getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-level=*all)
+
+[AWS Customer Stories: Storage](https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23storage&awsf.content-type=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all)
+
+[AWS Database Migration Service](https://aws.amazon.com/dms/)
+
+[Databases on AWS](https://aws.amazon.com/products/databases/)
+
+[Category Deep Dive: Databases](https://aws.amazon.com/getting-started/deep-dive-databases/)
+
+[AWS Database Blog](https://aws.amazon.com/blogs/database/)
+
+[AWS Customer Stories: Databases](https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23databases&awsf.content-type=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all)
 
 # Module 6: Security
 [Security, Identity, and Compliance on AWS]()
