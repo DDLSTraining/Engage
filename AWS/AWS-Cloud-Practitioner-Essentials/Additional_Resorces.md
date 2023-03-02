@@ -132,10 +132,17 @@
 [Six Advantages of Cloud Computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html)
 
 # Module 10: AWS Certified Cloud Practitioner Basics
-[AWS Certified Cloud Practitioner]()
-[Exam Guide]()
-[Sample Questions]()
-[Whitepapers and resources:]()
-[Overview of Amazon Web Services]()
-[How AWS Pricing Works]()
-[Compare AWS Support Plans]()
+[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+[Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+
+[Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
+
+## Whitepapers and resources:
+
+[Overview of Amazon Web Services](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
+
+
+[How AWS Pricing Works](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/abstract-and-introduction.html)
+
+[Compare AWS Support Plans](https://aws.amazon.com/premiumsupport/plans/)
