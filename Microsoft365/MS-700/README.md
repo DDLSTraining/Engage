@@ -32,7 +32,7 @@
   * [Creating content types](https://sharegate.com/blog/sharepoint-content-types-understand-use-create) - please also research Hub Content Type 
   * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
   * [Enabling Sensitvity Labels via PShell](https://docs.microsoft.com/en-au/azure/active-directory/users-groups-roles/groups-assign-sensitivity-labels)
-  
+  * [New Guide Adv EDiscovery - Use Chrome](https://content.cloudguides.com/en-us/guides/Advanced%20eDiscovery)
   ## Videos
   
   * [Planning You Network for Teams](https://youtu.be/vi3M7ZzF2NU?list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=83)
