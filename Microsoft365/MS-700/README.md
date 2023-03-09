@@ -40,7 +40,7 @@
   * [Call Quality Dashboard](https://youtu.be/fyLU2IPAVRs)
   * [Intro to Phone Systems](https://youtu.be/Iepnko_v0ro?list=PLZRdqpALCE18g9kdXQeHmWH43cF3VngF4)
   * [Changes to URLs via Flow](https://youtu.be/65rMRZ_FH_U?t=512)
-  * [Microsoft Planner](https://youtu.be/65rMRZ_FH_U?t=512)
+  * [Microsoft Planner](https://www.youtube.com/watch?v=To2EHXgqcJc)
   * [Information Barriers](https://youtu.be/461LfU06RbA?t=416)
   * [Troubleshooting Teams - Qos](https://youtu.be/65rMRZ_FH_U?t=258)
   * [User Experience Skype Upgrade options](https://youtu.be/0COYetLjWmE)
