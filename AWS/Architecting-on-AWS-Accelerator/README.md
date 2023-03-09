@@ -60,6 +60,7 @@
 |Lab 5|Build a serverless architecture|45|
 |12|Edge Services|60|
 | |Lunch|60|
+|Lab 6|Configure CloudFront distribution with S3|60|
 |13|Backup and recovery|40|
 |Lab 7|Build an AWS multi-tier Architecture|90|
 
@@ -69,7 +70,7 @@
 |-|-|-|
 | |Day 3 review|15|
 |14|Single to Multiple Accounts|45|
-|15|hybrid Connectivity|45|
+|15|Hybrid Connectivity|45|
 |Lab 8|Securing Amazon S# VPC endpont communications|60|
 | |Lunch|60|
 |16|Securing Data|60|
