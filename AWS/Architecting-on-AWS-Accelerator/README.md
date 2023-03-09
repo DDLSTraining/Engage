@@ -55,7 +55,7 @@
 |Module|Activity|Duration|
 |-|-|-|
 | |Day2 Review|15|
-|10|Netwroking 2|45|
+|10|Networking 2|45|
 |11|Serverless|45|
 |Lab 5|Build a serverless architecture|45|
 |12|Edge Services|60|
