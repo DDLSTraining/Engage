@@ -25,56 +25,66 @@
 
 |Module|Activity|Duration|
 |-|-|-|
-|0|Welcome to Architecting on AWS|30|
-|1|Introduction|35|
-|2|The Simplest Architectures|50|
-|Lab 1|Hosting a Static Website|45|
-|3|Adding a Compute Layer|60|
-|4|Adding a Database Layer|50|
-|Lab 2|Deploying a Web Application on AWS|60|
-|5|Networking in AWS Part 1|50|
+|0|Introduction|30|
+|1|Architecting Fundamentals|45|
+|Lab 1|Explore and interact with the AWS Console and AWS CLI|35|
+|2|Account Security|60|
+| |Lunch |60|
+|3|Networking 1|60|
+|4|Compute|75|
+|Lab 2|Build your Amazon VPC infrastructure|45|
+
 
 ## Day Two
 
 |Module|Activity|Duration|
 |-|-|-|
-|6|Networking in AWS Part 2|55|
-|Lab 3|Creating a VPC|60|
-|7|AWS Identity and Access Management (IAM)|50|
-|8|Organizations|40|
-|9|Elasticity, High Availability, and Monitoring|50|
-|Lab 4|Creating a Highly Available Environment|75|
-|10|Automation|35|
+| | Day 1 Review|15|
+|5|Storage|70|
+|6|Database Services|70|
+|Lab 3|Create a database layer in your Amazon VPC|45|
+| |Lunch |60|
+|7|Monitoring and Scaling|70|
+|Lab 4|Configure Highly Available Environment|45|
+|8|Automation|30|
+|9|Containers|40|
+
 
 ## Day Three
 
 |Module|Activity|Duration|
 |-|-|-|
-|11|Deployment Methods|40|
-|Lab 5|Automating Infrastructure Deployment with AWS CloudFormation|90|
-|12|Caching|40|
-|13|Data Security|40|
-|14|Building Decoupled Architectures|40|
-|15|Optimizations and Review|50|
+| |Day2 Review|15|
+|10|Netwroking 2|45|
+|11|Serverless|45|
+|Lab 5|Build a serverless architecture|45|
+|12|Edge Services|60|
+| |Lunch|60|
+|13|Backup and recovery|40|
+|Lab 7|Build an AWS multi-tier Architecture|90|
 
 ## Day Four
 
 |Module|Activity|Duration|
 |-|-|-|
-|16|Microservices|50|
-|17|Serverless|50|
-|Lab 6|Implementing a Serverless Architecture with AWS Managed Services|60|
-|18|Building for Resilience|45|
-|Lab 7|Amazon CloudFront and Automating WAF Rules|90|
-|19|Networking Part 3|55|
-|20|Understanding Costs|50|
+| |Day 3 review|15|
+|14|Single to Multiple Accounts|45|
+|15|hybrid Connectivity|45|
+|Lab 8|Securing Amazon S# VPC endpont communications|60|
+| |Lunch|60|
+|16|Securing Data|60|
+|17|Connecting Netwroks|40|
+|Lab 9|Configuring AWS Transit Gateway|60|
 
 
 ## Day Five
 
 |Module|Activity|Duration|
 |-|-|-|
-|21|Migration Strategies|40|
-|Lab 8|Application Deployment using AWS Fargate|45|
-|22|RTO / RPO and Backup Recovery Setup|40|
-|23|Final Review|10|
+| |Day 4 review|15|
+|18|High Availability and DDOS|60|
+|19|Migrating Workloas|45|
+|Lab 10|Migrating using DataSync and Storage gateway|60|
+| |Lunch|60|
+|20|Optimizing Cost|55|
+|21|Course Summary|20|
