@@ -19,6 +19,7 @@
 * [Regular Expressions](https://regex101.com/)
 * [**Demonstration: Sensitive information types - 5 minutes**](https://www.microsoft.com/videoplayer/embed/RE4yqxc)
 * [**Demonstration: Trainable classifiers – 4 Minutes**](https://www.microsoft.com/videoplayer/embed/RE4yg7t)
+* [Guided Demonstration - Trainable Classifiers](https://mslearn.cloudguides.com/en-us/guides/Protect%20sensitive%20data%20with%20Microsoft%20Information%20Protection)
 * [Get started with trainable classifiers](https://docs.microsoft.com/en-au/microsoft-365/compliance/classifier-get-started-with?azure-portal=true&view=o365-worldwide)
 * [Using a built-in classifier](https://docs.microsoft.com/en-au/microsoft-365/compliance/classifier-learn-about?azure-portal=true&view=o365-worldwide)
 * [Creating a trainable classifier](https://docs.microsoft.com/en-au/microsoft-365/compliance/classifier-get-started-with?azure-portal=true&view=o365-worldwide)
