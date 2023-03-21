@@ -18,9 +18,9 @@ Zero Trust – 	Verify explicitly, Least Privilege and Assume breach
      
 Defender for Office 365 – Safe Links & Attachments
 
-Dfender for Identity
+Defender for Identity
              
-Dfeneder for Endpoint
+Defender for Endpoint
              
 Threat Intelligence – Threat explorer (insights & then Recommendations)
 
