@@ -42,4 +42,4 @@
 * [Configuring Defender for Identity](https://youtu.be/rMHNJb2IXJ0?t=229)
 
 ## Resources
-* [Portals](https://docs.microsoft.com/en-us/learn/modules/explore-portals/)
+* [Power Apps portals is now Power Pages](https://docs.microsoft.com/en-us/learn/modules/explore-portals/)
