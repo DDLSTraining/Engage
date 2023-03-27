@@ -1,5 +1,5 @@
 AZ104 Labs
-# Mapping from MS Learn Modules to CloudSlicing Labs
+# Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
 |Modules | Labs |Expected_Duration|
@@ -16,6 +16,3 @@ AZ104 Labs
 |Configure Azure App Service plans<BR>Configure Azure App Service<BR>Configure Azure Container Instances<BR>Configure Azure Kubernetes Service|12.	Implement Web Apps <br>13.	Implement Azure Container Instances<br>14.	Implement Azure Kubernetes Service|40 Minutes<br>40 Minutes<br>1 Hour|
 |Configure file and folder backups<BR>Configure virtual machine backups|15.	Backup virtual machines|1 Hour|
 |Configure Azure Monitor<BR>Configure Azure alerts<BR>Configure Log Analytics<BR>Configure Azure Network Watcher|16.	Implement Monitoring|1 Hour|
-  
-
-
