@@ -17,4 +17,4 @@ AZ104 Labs
 |Configure file and folder backups<BR>Configure virtual machine backups|15.	Backup virtual machines|1 Hour|
 |Configure Azure Monitor<BR>Configure Azure alerts<BR>Configure Log Analytics<BR>Configure Azure Network Watcher|16.	Implement Monitoring|1 Hour|
 
-[^1]: These timings may nned to be modified?  
+[^1]: These timings may need to be modified?  
