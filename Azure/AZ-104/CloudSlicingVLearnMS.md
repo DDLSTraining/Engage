@@ -2,7 +2,7 @@ AZ104 Labs
 # Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
-|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs |Expected_Lab_Duration[^1]|
+|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs |Expected_Lab_Duration [^1] |
 |---|---|---|
 |Configure Azure Active Directory<BR>Configure User and Group Accounts|1.	Manage Azure Active Directory Identities |1 Hour|
 |Configure Subscriptions<br>Configure Azure Policy<br>Configure role-based access control|2.	Manage Subscriptions and RBAC / Manage Governance via Azure Policy |1 hour, 20 minutes|  
@@ -17,4 +17,4 @@ AZ104 Labs
 |Configure file and folder backups<BR>Configure virtual machine backups|15.	Backup virtual machines|1 Hour|
 |Configure Azure Monitor<BR>Configure Azure alerts<BR>Configure Log Analytics<BR>Configure Azure Network Watcher|16.	Implement Monitoring|1 Hour|
 
-[^1] These timings may nned to be modified?  
+[^1]: These timings may nned to be modified?  
