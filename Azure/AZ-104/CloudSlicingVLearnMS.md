@@ -4,9 +4,18 @@ AZ104 Labs
 
 |Modules | Labs | Duration|
 |---|---|---|
-|Configure Azure Active Directory<BR>Configure User and Group Accounts|1.	Manage Azure Active Directory Identities (Expected Duration 1 hour)|
-|Configure Subscriptions<br>Configure Azure Policy<br>Configure role-based access control|||  
+|Configure Azure Active Directory<BR>Configure User and Group Accounts|1.	Manage Azure Active Directory Identities (Expected Duration 1 hour)||
+|Configure Subscriptions<br>Configure Azure Policy<br>Configure role-based access control|2.	Manage Subscriptions and RBAC / Manage Governance via Azure Policy (Expected Duration 1 hour, 20 minutes)||  
+|Configure Subscriptions<BR>Configure Azure Policy<BR>Configure role-based access control|||
+|Configure Azure resources with tools<BR>Use Azure Resource Manager<BR>Configure resources with Azure Resource Manager templates|||
+|Configure virtual networks<BR>Configure network security groups<BR>Configure Azure Firewall<BR>Configure Azure DNS<BR>Configure Azure Virtual Network peering<BR>Configure Azure VPN Gateway<BR>Configure Azure ExpressRoute and Azure Virtual WAN<BR>Configure network routing and endpoints<BR>Configure Azure Load Balancer<BR>Configure Azure Application Gateway|||
+|Configure storage accounts<BR>Configure Azure Blob Storage<BR>Configure Azure Storage security<BR>Configure Azure Files and Azure File Sync<BR>Configure Azure Storage with tools|||
+|Configure virtual machines<BR>Configure virtual machine availability<BR>Configure virtual machine extensions|||
+|Configure Azure App Service plans<BR>Configure Azure App Service<BR>Configure Azure Container Instances<BR>Configure Azure Kubernetes Service|||
+|Configure file and folder backups<BR>Configure virtual machine backups|||
+|Configure Azure Monitor<BR>Configure Azure alerts<BR>Configure Log Analytics<BR>Configure Azure Network Watcher|||
   
+
 2.	Manage Subscriptions and RBAC / Manage Governance via Azure Policy (Expected Duration 1 hour, 20 minutes)
 3.	Manage Azure resources by Using the Azure Portal (Expected Duration 40 minutes)
 4.	Manage Azure resources by Using ARM Templates (Expected Duration 40 minutes)
@@ -29,45 +38,12 @@ Day 4
 
 
 
-Configure Subscriptions
-Configure Azure Policy
-Configure role-based access control
-
-Configure Azure resources with tools
-Use Azure Resource Manager
-Configure resources with Azure Resource Manager templates
-
-Configure virtual networks
-Configure network security groups
-Configure Azure Firewall
-Configure Azure DNS
-
-Configure Azure Virtual Network peering
-Configure Azure VPN Gateway
-Configure Azure ExpressRoute and Azure Virtual WAN
-Configure network routing and endpoints
-Configure Azure Load Balancer
-Configure Azure Application Gateway
-
-Configure storage accounts
-Configure Azure Blob Storage
-Configure Azure Storage security
-Configure Azure Files and Azure File Sync
-Configure Azure Storage with tools
-
-Configure virtual machines
-Configure virtual machine availability
-Configure virtual machine extensions
-
-Configure Azure App Service plans
-Configure Azure App Service
-Configure Azure Container Instances
-Configure Azure Kubernetes Service
-
-Configure file and folder backups
-Configure virtual machine backups
-
-Configure Azure Monitor
-Configure Azure alerts
-Configure Log Analytics
-Configure Azure Network Watcher
+|Configure Subscriptions<BR>Configure Azure Policy<BR>Configure role-based access control
+|Configure Azure resources with tools<BR>Use Azure Resource Manager<BR>Configure resources with Azure Resource Manager templates
+|Configure virtual networks<BR>Configure network security groups<BR>Configure Azure Firewall<BR>Configure Azure DNS<BR>
+|Configure Azure Virtual Network peering<BR>Configure Azure VPN Gateway<BR>Configure Azure ExpressRoute and Azure Virtual WAN<BR>Configure network routing and endpoints<BR>Configure Azure Load Balancer<BR>Configure Azure Application Gateway<BR>
+|Configure storage accounts<BR>Configure Azure Blob Storage<BR>Configure Azure Storage security<BR>Configure Azure Files and Azure File Sync<BR>Configure Azure Storage with tools
+|Configure virtual machines<BR>Configure virtual machine availability<BR>Configure virtual machine extensions
+|Configure Azure App Service plans<BR>Configure Azure App Service<BR>Configure Azure Container Instances<BR>Configure Azure Kubernetes Service
+|Configure file and folder backups<BR>Configure virtual machine backups
+|Configure Azure Monitor<BR>Configure Azure alerts<BR>Configure Log Analytics<BR>Configure Azure Network Watcher
