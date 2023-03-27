@@ -3,6 +3,7 @@
 ## Resources
 
 * [Microsoft Learning AZ-104 GitHub Repository](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
+* [](CloudSlicingVLearnMS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)
 * [AZ-104 on DDLS](https://www.ddls.com.au/courses/microsoft-az-104t00-microsoft-azure-administrator/)
 * [AZ-104 Exam Details](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
 * [Free Sample Exam Questions](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWSOFn)
