@@ -2,7 +2,7 @@ AZ104 Labs
 # Mapping from MS Learn Modules to CloudSlicing Labs
 
 
-|Modules | Labs |Expected Duration|
+|Modules | Labs |Expected_Duration|
 |---|---|---|
 |Configure Azure Active Directory<BR>Configure User and Group Accounts|1.	Manage Azure Active Directory Identities |1 Hour|
 |Configure Subscriptions<br>Configure Azure Policy<br>Configure role-based access control|2.	Manage Subscriptions and RBAC / Manage Governance via Azure Policy |1 hour, 20 minutes|  
