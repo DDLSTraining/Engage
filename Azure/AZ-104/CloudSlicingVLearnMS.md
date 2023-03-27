@@ -1,4 +1,4 @@
-# AZ104 Labs
+# AZ104
 # Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
