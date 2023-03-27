@@ -5,9 +5,7 @@ AZ104 Labs
 |Modules | Labs | Duration|
 |---|---|---|
 |Configure Azure Active Directory<BR>Configure User and Group Accounts|1.	Manage Azure Active Directory Identities (Expected Duration 1 hour)|
-|Configure Subscriptions
-Configure Azure Policy
-Configure role-based access control|||  
+|Configure Subscriptions<br>Configure Azure Policy<br>Configure role-based access control|||  
   
 2.	Manage Subscriptions and RBAC / Manage Governance via Azure Policy (Expected Duration 1 hour, 20 minutes)
 3.	Manage Azure resources by Using the Azure Portal (Expected Duration 40 minutes)
