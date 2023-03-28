@@ -73,14 +73,13 @@
 
 ## EndPoint Mgr/Intune
 * [Transfer Config Manager WorkLoads to Intune](https://www.anoopcnair.com/sccm-co-management-configuration-8/)
-* [Windows AutoPilot](https://youtu.be/4K4hC5NchbE)
-* [Windows AutoPilot through Business Store](https://www.microsoft.com/en-us/videoplayer/embed/3b30f2c2-a3e2-4778-aa92-f65dbc3ecf54?autoplay=false)
 * [Co-Management](https://youtu.be/0jsNNrQNqog)
 * [Windows UpGrade Logs](https://youtu.be/O91NLxyEHY8)
 * [Config Client Roll Out](https://youtu.be/bHWRBaaVCPg)
-* [AutoPilot Walkthrough](https://youtu.be/KYVptkpsOqs)
 * [Pre-Provisioned](https://youtu.be/nE5XSOBV0rI)
 * [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
+* [Add apps to Microsoft Intune](https://learn.microsoft.com/en-us/mem/intune/apps/apps-add)
+* [Deploy Apps](https://www.youtube.com/watch?v=FGZ7hrVBSE4)
 
 ## Enrolling Apple
 * [Enrolling Apple Devices](https://www.bing.com/videos/search?view=detail&mid=B95025DB56689F135BB7B95025DB56689F135BB7&q=apple&shtp=GetUrl&shid=84d5fb5c-0d12-4f19-bbb3-1d0502dd896c&shtk=SG93IFRvIEF1dG9tYXRpY2FsbHkgRW5yb2xsIEFwcGxlIERldmljZXMgaW4gSW50dW5l&shdk=TW9kZWwgY29uc3VsdGFudCBBbXkgWml0dGEgc2hvd3Mgc3RlcC1ieS1zdGVwIGhvdyB0byBlbnJvbGwgZXhpc3RpbmcgQXBwbGUgZGV2aWNlcyBpbnRvIE1pY3Jvc29mdCBJbnR1bmUgZm9yIGEgbW9yZSBjZW50cmFsaXplZCBtYW5hZ2VtZW50IGV4cGVyaWVuY2UgYW5kIGltcHJvdmVkIGVmZmljaWVuY3ku&shhk=ckKfmGPNddBeAEqj%2FpEQHafLPKKcwQ%2FQQMp8XspN1zo%3D&form=VDSHOT&shth=OVP.bbuBoPcqmkIUObGUvM0BOgEsCo)
@@ -88,11 +87,15 @@
 * [IOS/iPadOS deviceEnrllment](https://youtu.be/gIQruL22G_Q?t=146)
 * [Apple Business Manager](https://youtu.be/rihqfkkaHLQ?t=87)
 * [Connecting Apple Business Manager with InTune](https://youtu.be/VHEy621jhHs?t=145)
-* 
+
 ##  Microsoft Sentinel
 * [Microsoft Sentinel-Quick Start](https://youtu.be/p2BK8SAUGG0)
 * [Microsoft Sentinel Setup & Config](https://youtu.be/Cyd16wVwxZc)
-
+## AutoPilot
+* [Demostrate Autopilot deployment](https://learn.microsoft.com/en-us/windows/deployment/windows-autopilot/demonstrate-deployment-on-vm?source=recommendations)
+* [AutoPilot Walkthrough](https://youtu.be/KYVptkpsOqs)
+* [Windows AutoPilot](https://youtu.be/4K4hC5NchbE)
+* [Windows AutoPilot through Business Store](https://www.microsoft.com/en-us/videoplayer/embed/3b30f2c2-a3e2-4778-aa92-f65dbc3ecf54?autoplay=false)
 ## Other
 * [Seamless Single Sign On - PTA](https://youtu.be/PyeAC85Gm7w)
 * [Azure Analytics](https://youtu.be/T2Vpi6ph8ck)
