@@ -80,6 +80,7 @@
 * [Intune Training Videos -YouTube Channel](https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA)
 * [Add apps to Microsoft Intune](https://learn.microsoft.com/en-us/mem/intune/apps/apps-add)
 * [Deploy Apps](https://www.youtube.com/watch?v=FGZ7hrVBSE4)
+* [Intune app installation error reference](https://learn.microsoft.com/en-us/troubleshoot/mem/intune/app-management/app-install-error-codes)
 
 ## Enrolling Apple
 * [Enrolling Apple Devices](https://www.bing.com/videos/search?view=detail&mid=B95025DB56689F135BB7B95025DB56689F135BB7&q=apple&shtp=GetUrl&shid=84d5fb5c-0d12-4f19-bbb3-1d0502dd896c&shtk=SG93IFRvIEF1dG9tYXRpY2FsbHkgRW5yb2xsIEFwcGxlIERldmljZXMgaW4gSW50dW5l&shdk=TW9kZWwgY29uc3VsdGFudCBBbXkgWml0dGEgc2hvd3Mgc3RlcC1ieS1zdGVwIGhvdyB0byBlbnJvbGwgZXhpc3RpbmcgQXBwbGUgZGV2aWNlcyBpbnRvIE1pY3Jvc29mdCBJbnR1bmUgZm9yIGEgbW9yZSBjZW50cmFsaXplZCBtYW5hZ2VtZW50IGV4cGVyaWVuY2UgYW5kIGltcHJvdmVkIGVmZmljaWVuY3ku&shhk=ckKfmGPNddBeAEqj%2FpEQHafLPKKcwQ%2FQQMp8XspN1zo%3D&form=VDSHOT&shth=OVP.bbuBoPcqmkIUObGUvM0BOgEsCo)
