@@ -2,7 +2,7 @@
 # Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
-|Old_Module_No.|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs |Expected_Lab_Duration[^1] |
+|Old_Module No.|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs |Expected_Lab_Duration[^1] |
 |---|---|---|---|
 |1|Configure Azure Active Directory<BR>Configure User and Group Accounts|1.	Manage Azure Active Directory Identities |1 Hour|
 |2|Configure Subscriptions<br>Configure Azure Policy<br>Configure role-based access control|2.	Manage Subscriptions and RBAC / Manage Governance via Azure Policy |1 hour, 20 minutes|  
