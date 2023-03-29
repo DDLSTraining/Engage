@@ -21,4 +21,4 @@
 |11|Configure Azure Monitor<BR>Configure Azure alerts<BR>Configure Log Analytics<BR>Configure Azure Network Watcher|16.	Implement Monitoring|1 Hour|
 
 [^1]: These timings may need to be modified?  
-[^2]: I push these labs to the end of day 4
+[^2]: Do these labs at the end of day 4
