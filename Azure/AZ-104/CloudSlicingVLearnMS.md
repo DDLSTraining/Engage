@@ -12,8 +12,9 @@
 |6|Configure network routing and endpoints<BR>Configure Azure Load Balancer<BR>Configure Azure Application Gateway|9.	Implement Traffic Management|1 Hour|
 |7|Configure storage accounts<BR>Configure Azure Blob Storage<BR>Configure Azure Storage security<BR>Configure Azure Files and Azure File Sync<BR>Configure Azure Storage with tools|10.	Manage Azure Storage|1 Hour|
 |8|Configure virtual machines<BR>Configure virtual machine availability<BR>Configure virtual machine extensions|11.	Manage Virtual Machines|1 hour, 30 minutes|
-|9|Configure Azure App Service plans<BR>Configure Azure App Service<BR>Configure Azure Container Instances<BR>Configure Azure Kubernetes Service|12.	Implement Web Apps <br>13.	Implement Azure Container Instances<br>14.	Implement Azure Kubernetes Service|40 Minutes<br>40 Minutes<br>1 Hour|
+|9|Configure Azure App Service plans<BR>Configure Azure App Service<BR>Configure Azure Container Instances<BR>Configure Azure Kubernetes Service|12.	Implement Web Apps[^2]<br>13.	Implement Azure Container Instances<br>14.	Implement Azure Kubernetes Service|40 Minutes<br>40 Minutes<br>1 Hour|
 |10|Configure file and folder backups<BR>Configure virtual machine backups|15.	Backup virtual machines|1 Hour|
 |11|Configure Azure Monitor<BR>Configure Azure alerts<BR>Configure Log Analytics<BR>Configure Azure Network Watcher|16.	Implement Monitoring|1 Hour|
 
 [^1]: These timings may need to be modified?  
+[^2]: I push these labs to the end of the course
