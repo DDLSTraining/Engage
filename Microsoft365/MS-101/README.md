@@ -28,10 +28,17 @@
 * [Creating content types](https://sharegate.com/blog/sharepoint-content-types-understand-use-create) - please also research Hub Content Type
 * [Nesting Group Limitations AAD](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/directory-service-limits-restrictions)
 
-## Videos
+## Videos & Other
 * [**Demonstration: Sensitive information types - 5 minutes**](https://www.microsoft.com/videoplayer/embed/RE4yqxc)
 * [**Demonstration: Trainable classifiers – 4 Minutes**](https://www.microsoft.com/videoplayer/embed/RE4yg7t)
 * [Guided Demonstration - Trainable Classifiers](https://mslearn.cloudguides.com/en-us/guides/Protect%20sensitive%20data%20with%20Microsoft%20Information%20Protection)
+* [**Guided demonstration: DLP policies for Microsoft Teams**](https://teams-dlp-interactive-guide.azureedge.net/)
+* [**Video: Endpoint Data Loss Prevention (DLP) – What it is and how to set it up in Microsoft 365 8 minutes**](https://www.youtube.com/watch?v=XO2zMA3w1wA)
+* [Learn about Microsoft 365 Endpoint data loss prevention](https://docs.microsoft.com/en-us/microsoft-365/compliance/endpoint-dlp-learn-about?view=o365-worldwide)
+* [Get started with Endpoint data loss prevention](https://docs.microsoft.com/en-us/microsoft-365/compliance/endpoint-dlp-getting-started?view=o365-worldwide)
+* [Using Endpoint data loss prevention](https://docs.microsoft.com/en-us/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide)
+* [Onboarding tools and methods for Windows 10 devices](https://docs.microsoft.com/en-us/microsoft-365/compliance/dlp-configure-endpoints?view=o365-worldwide)
+* [**Guided demonstration: Endpoint DLP 30 Mins**](https://ms-endpoint-dlp.azureedge.net/)
 
 ## Cloud App Security
 * [Cloud App Security Guided Demonstration](https://mslearn.cloudguides.com/en-us/guides/Discover,%20protect,%20and%20control%20your%20apps%20with%20Microsoft%20Cloud%20App%20Security)
