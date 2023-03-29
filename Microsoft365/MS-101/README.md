@@ -29,6 +29,10 @@
 * [Nesting Group Limitations AAD](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/directory-service-limits-restrictions)
 
 ## Videos
+* [**Demonstration: Sensitive information types - 5 minutes**](https://www.microsoft.com/videoplayer/embed/RE4yqxc)
+* [**Demonstration: Trainable classifiers – 4 Minutes**](https://www.microsoft.com/videoplayer/embed/RE4yg7t)
+* [Guided Demonstration - Trainable Classifiers](https://mslearn.cloudguides.com/en-us/guides/Protect%20sensitive%20data%20with%20Microsoft%20Information%20Protection)
+
 ## Cloud App Security
 * [Cloud App Security Guided Demonstration](https://mslearn.cloudguides.com/en-us/guides/Discover,%20protect,%20and%20control%20your%20apps%20with%20Microsoft%20Cloud%20App%20Security)
 * [Combining Cloud App Security with Conditional Access](https://youtu.be/1K66pDwzaf0)
