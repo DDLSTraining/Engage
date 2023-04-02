@@ -8,7 +8,6 @@
 |1|1. Secure Azure solutions with Azure Active Directory<BR>2. Implement Hybrid identity<BR>3. Deploy Azure AD identity protection<BR>4. Configure Azure AD privileged identity management<BR>5. Design an enterprise governance strategy|1.	Role-Based Access Control<br>2. Azure Policy<br>3. Resource Manager Locks<br>4\&5. MFA, Conditional Access and AAD Identity Protection, Privileged Identity Management<br>6. Implement Directory Synchronization |1.5 Hours<br>1.5 Hours<br>1.5 Hours<br>2 Hours<br>1.5 Hours|
 |Day 2|
 |2|Implement perimeter security<BR>Configure network security<BR>Configure and manage host security|7.	Network Security Groups and Application Security Groups<br>Azure Firewall|1.5 hours<br>1.5 hours|
-
 |Day 3|
 |7|Configure storage accounts<BR>Configure Azure Blob Storage<BR>Configure Azure Storage security<BR>Configure Azure Files and Azure File Sync<BR>Configure Azure Storage with tools|10.	Manage Azure Storage|1 Hour|
 |Day 4|
