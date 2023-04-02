@@ -5,7 +5,7 @@
 |Old_Module No.|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs |Expected_Lab Duration[^1] |
 |---:|---|---|---|
 |Day 1|
-|1|Secure Azure solutions with Azure Active Directory<BR>Implement Hybrid identity<BR>Deploy Azure AD identity protection<BR>Configure Azure AD privileged identity management<BR>Design an enterprise governance strategy|1.	Role-Based Access Control<br>2. Azure Policy<br>3. Resource Manager Locks<br>4. MFA, Conditional Access and AAD Identity Protection, Privileged Identity Management<br>5. Implement Directory Synchronization |1.5 Hours<br>1.5 Hours<br>1.5 Hours<br>2 Hours<br>1.5 Hours|
+|1|1. Secure Azure solutions with Azure Active Directory<BR>2. Implement Hybrid identity<BR>3. Deploy Azure AD identity protection<BR>4. Configure Azure AD privileged identity management<BR>5. Design an enterprise governance strategy|1.	Role-Based Access Control<br>2. Azure Policy<br>3. Resource Manager Locks<br>4. MFA, Conditional Access and AAD Identity Protection, Privileged Identity Management<br>5. Implement Directory Synchronization |1.5 Hours<br>1.5 Hours<br>1.5 Hours<br>2 Hours<br>1.5 Hours|
 |Day 2|
 |4|Configure virtual networks<BR>Configure network security groups<BR>Configure Azure Firewall<BR>Configure Azure DNS|7.	Implement Virtual Networking|1 hour, 30 minutes|
 
