@@ -9,9 +9,9 @@
 |Day 2|
 ||6. [Implement perimeter security](https://learn.microsoft.com/en-us/training/modules/perimeter-security/)<BR>7. [Configure network security](https://learn.microsoft.com/en-us/training/modules/network-security/)<BR>8. [Configure and manage host security](https://learn.microsoft.com/en-us/training/modules/host-security/)|6.	Network Security Groups and Application Security Groups<br>7. Azure Firewall|1.5 hours<br>1.5 hours|
 |Day 3|
-||9. Enable Containers security<br>10. Deploy and secure Azure Key Vault<br>11. Configure application security features<br>12. Implement storage security<br>13. Configure and manage SQL database security|8. Configuring and Securing ACR and AKS<br>9. Key Vault<br>10. Securing Azure SQL Database<br>11. Service Endpoints and Securing Storage|1.5 Hour<br>1.5 Hour<br>1.5 Hour|
+||9. [Enable Containers security](https://learn.microsoft.com/en-us/training/modules/enable-containers-security/)<br>10. [Deploy and secure Azure Key Vault](https://learn.microsoft.com/en-us/training/modules/azure-key-vault/)<br>11. [Configure application security features](https://learn.microsoft.com/en-us/training/modules/application-security/)<br>12. [Implement storage security](https://learn.microsoft.com/en-us/training/modules/storage-security/)<br>13. [Configure and manage SQL database security](https://learn.microsoft.com/en-us/training/modules/sql-database-security/)|8. Configuring and Securing ACR and AKS<br>9. Key Vault<br>10. Securing Azure SQL Database<br>11. Service Endpoints and Securing Storage|1.5 Hour<br>1.5 Hour<br>1.5 Hour|
 |Day 4|
-|| 14. Configure and manage Azure Monitor<br>15. Enable and manage Microsoft Defender for Cloud<br>16. Configure and monitor Microsoft Sentinel|12. Manage Security Operations|4 Hour|
+|| 14. [Configure and manage Azure Monitor](https://learn.microsoft.com/en-us/training/modules/azure-monitor/)<br>15. [Enable and manage Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/modules/azure-security-center/)<br>16. [Configure and monitor Microsoft Sentinel](https://learn.microsoft.com/en-us/training/modules/azure-sentinel/)|12. Manage Security Operations|4 Hour|
 
 
 [^1]: These timings may need to be modified?  
