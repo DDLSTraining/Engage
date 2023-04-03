@@ -9,9 +9,9 @@
 |Day 2|
 |2|6. Implement perimeter security<BR>7. Configure network security<BR>8. Configure and manage host security|7.	Network Security Groups and Application Security Groups<br>8. Azure Firewall|1.5 hours<br>1.5 hours|
 |Day 3|
-|7|Configure storage accounts<BR>Configure Azure Blob Storage<BR>Configure Azure Storage security<BR>Configure Azure Files and Azure File Sync<BR>Configure Azure Storage with tools|10.	Manage Azure Storage|1 Hour|
+|7|Enable Containers security<br>Deploy and secure Azure Key Vault<br>Configure application security features<br>Implement storage security<br>Configure and manage SQL database security|Configuring and Securing ACR and AKS<br>Key Vault<br>Securing Azure SQL Database<br>Service Endpoints and Securing Storage|1.5 Hour<br>1.5 Hour<br>1.5 Hour|
 |Day 4|
-|10|Configure file and folder backups<BR>Configure virtual machine backups|15.	Backup virtual machines|1 Hour|
+|10| Configure and manage Azure Monitor<br>Enable and manage Microsoft Defender for Cloud<br>Configure and monitor Microsoft Sentinel|Manage Security Operations|4 Hour|
 
 
 [^1]: These timings may need to be modified?  
