@@ -2,7 +2,7 @@
 # Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
-||Microsoft_Learn_Modules | LODS_CloudSlicing_Labs (Lab Box no.) |Lab Duration[^1] |
+|Schedule|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs (Lab Box no.) |Lab Duration[^1] |
 |---:|---|---|---|
 |Day 1|1. [Secure Azure solutions with Azure Active Directory](https://learn.microsoft.com/en-us/training/modules/azure-active-directory/)<BR>2. [Implement Hybrid identity](https://learn.microsoft.com/en-us/training/modules/hybrid-identity/)<BR>3. [Deploy Azure AD identity protection](https://learn.microsoft.com/en-us/training/modules/azure-ad-identity-protection/)<BR>4. [Configure Azure AD privileged identity management](https://learn.microsoft.com/en-us/training/modules/azure-ad-privileged-identity-management/)<BR>5. [Design an enterprise governance strategy](https://learn.microsoft.com/en-us/training/modules/enterprise-governance/)|1.	Role-Based Access Control<br>2. Azure Policy<br>3. Resource Manager Locks<br>4. MFA, Conditional Access and AAD Identity Protection, Privileged Identity Management<br>5. Implement Directory Synchronization |40 Min<br>40 Min<br>40 Min<br>2.5 Hours<br>1.5 Hours|
 |Day 2|6. [Implement perimeter security](https://learn.microsoft.com/en-us/training/modules/perimeter-security/)<BR>7. [Configure network security](https://learn.microsoft.com/en-us/training/modules/network-security/)<BR>8. [Configure and manage host security](https://learn.microsoft.com/en-us/training/modules/host-security/)|6.	Network Security Groups and Application Security Groups<br>7. Azure Firewall|1.5 hours<br>1.5 hours|
