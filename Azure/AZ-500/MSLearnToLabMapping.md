@@ -2,10 +2,10 @@
 # Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
-|Old_Module No.|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs |Expected_Lab Duration[^1] |
+|Old_Module No.|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs_(Box no.) |Expected_Lab Duration[^1] |
 |---:|---|---|---|
 |Day 1|
-|1|1. Secure Azure solutions with Azure Active Directory<BR>2. Implement Hybrid identity<BR>3. Deploy Azure AD identity protection<BR>4. Configure Azure AD privileged identity management<BR>5. Design an enterprise governance strategy|1.	Role-Based Access Control<br>2. Azure Policy<br>3. Resource Manager Locks<br>4. \& 5. MFA, Conditional Access and AAD Identity Protection, Privileged Identity Management<br>6. Implement Directory Synchronization |30 Min<br>30 Min<br>1.5 Hours<br>2 Hours<br>1.5 Hours|
+|1|1. Secure Azure solutions with Azure Active Directory<BR>2. Implement Hybrid identity<BR>3. Deploy Azure AD identity protection<BR>4. Configure Azure AD privileged identity management<BR>5. Design an enterprise governance strategy|1.	Role-Based Access Control<br>2. Azure Policy<br>3. Resource Manager Locks<br>4. MFA, Conditional Access and AAD Identity Protection, Privileged Identity Management<br>5. Implement Directory Synchronization |30 Min<br>30 Min<br>1.5 Hours<br>2 Hours<br>1.5 Hours|
 |Day 2|
 |2|Implement perimeter security<BR>Configure network security<BR>Configure and manage host security|7.	Network Security Groups and Application Security Groups<br>8. Azure Firewall|1.5 hours<br>1.5 hours|
 |Day 3|
