@@ -5,7 +5,8 @@
 |Old_Module No.|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs |Expected_Lab Duration[^1] |
 |---:|---|---|---|
 |Day 1|
-|1|[Configure Azure Active Directory](https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/)<BR>[Configure User and Group Accounts](https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/)|1.	Manage Azure Active Directory Identities |1 Hour|
+|1|- [Configure Azure Active Directory](https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/)<BR>
+[Configure User and Group Accounts](https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/)|1.	Manage Azure Active Directory Identities |1 Hour|
 |2|[Configure Subscriptions](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/)<br>[Configure Azure Policy](https://learn.microsoft.com/en-us/training/modules/configure-azure-policy/)<br>[Configure role-based access control](https://learn.microsoft.com/en-us/training/modules/configure-role-based-access-control/)|2.	Manage Subscriptions and RBAC / Manage Governance via Azure Policy |1 hour, 20 minutes|  
 |3|[Configure Azure resources with tools](https://learn.microsoft.com/en-us/training/modules/configure-azure-resources-tools/)<BR>[Use Azure Resource Manager](https://learn.microsoft.com/en-us/training/modules/use-azure-resource-manager/)<BR>[Configure resources with Azure Resource Manager templates](https://learn.microsoft.com/en-us/training/modules/configure-resources-arm-templates/)|3.	Manage Azure resources by Using the Azure Portal <br>4.	Manage Azure resources by Using ARM Templates <br>5.	Manage Azure resources by Using Azure PowerShell<br>6.	Manage Azure resources by Using Azure CLI|40 minutes<br>40 minutes<br>30 minutes<br>40 Minutes|
 |Day 2|
