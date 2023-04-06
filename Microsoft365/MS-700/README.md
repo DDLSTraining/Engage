@@ -52,7 +52,8 @@
   * [Live Events](https://youtu.be/1P2Ui6lAkrI)
   * [OSB NDI in Teams](https://youtu.be/ngLfEVU46x0)
   * [AAD Entitlement Management](https://youtu.be/zaaKvaaYwI4)
-  
+  * [CART](https://www.microsoft.com/en-us/videoplayer/embed/RWQzWG?pid=ocpVideo2-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&reporting=true&market=en-us)
+  * [CART](https://support.microsoft.com/en-au/office/use-cart-captions-in-a-microsoft-teams-meeting-human-generated-captions-2dd889e8-32a8-4582-98b8-6c96cf14eb47)
  
 
 ## Teams Devices/Rooms
