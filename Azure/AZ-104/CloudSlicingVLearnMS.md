@@ -2,12 +2,12 @@
 # Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
-|Old_Module No.|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs |Expected_Lab Duration[^1] |
+|Old_Module No.|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs |Expected_Lab Duration |
 |---:|---|---|---|
 |Day 1|
 |1|- [Configure Azure Active Directory](https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/)<BR>- [Configure User and Group Accounts](https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/)|1.	Manage Azure Active Directory Identities |1 Hour|
 |2|- [Configure Subscriptions](https://learn.microsoft.com/en-us/training/modules/configure-subscriptions/)<br>- [Configure Azure Policy](https://learn.microsoft.com/en-us/training/modules/configure-azure-policy/)<br>- [Configure role-based access control](https://learn.microsoft.com/en-us/training/modules/configure-role-based-access-control/)|2.	Manage Subscriptions and RBAC / Manage Governance via Azure Policy |1 hour, 20 minutes|  
-|3|- [Configure Azure resources with tools](https://learn.microsoft.com/en-us/training/modules/configure-azure-resources-tools/)<BR>- [Use Azure Resource Manager](https://learn.microsoft.com/en-us/training/modules/use-azure-resource-manager/)<BR>- [Configure resources with Azure Resource Manager templates](https://learn.microsoft.com/en-us/training/modules/configure-resources-arm-templates/)|3.	Manage Azure resources by Using the Azure Portal <br>4.	Manage Azure resources by Using ARM Templates <br>5.	Manage Azure resources by Using Azure PowerShell<br>6.	Manage Azure resources by Using Azure CLI|40 minutes<br>40 minutes<br>30 minutes<br>40 Minutes|
+|3|- [Configure Azure resources with tools](https://learn.microsoft.com/en-us/training/modules/configure-azure-resources-tools/)<BR>- [Use Azure Resource Manager](https://learn.microsoft.com/en-us/training/modules/use-azure-resource-manager/)<BR>- [Configure resources with Azure Resource Manager templates](https://learn.microsoft.com/en-us/training/modules/configure-resources-arm-templates/)|3.	Manage Azure resources by Using the Azure Portal <br>4.	Manage Azure resources by Using ARM Templates <br>5.	Manage Azure resources by Using Azure PowerShell<br>6.	Manage Azure resources by Using Azure CLI|[^1]40 minutes<br>40 minutes<br>30 minutes<br>40 Minutes|
 |Day 2|
 |4|- [Configure virtual networks](https://learn.microsoft.com/en-us/training/modules/configure-virtual-networks/)<BR>- [Configure network security groups](https://learn.microsoft.com/en-us/training/modules/configure-network-security-groups/)<BR>- [Configure Azure Firewall](https://learn.microsoft.com/en-us/training/modules/configure-azure-firewall/)<BR>- [Configure Azure DNS](https://learn.microsoft.com/en-us/training/modules/configure-azure-dns/)|7.	Implement Virtual Networking|1 hour, 30 minutes|
 |5|- [Configure Azure Virtual Network peering](https://learn.microsoft.com/en-us/training/modules/configure-vnet-peering/)<BR>- [Configure Azure VPN Gateway](https://learn.microsoft.com/en-us/training/modules/configure-vpn-gateway/)<BR>- [Configure Azure ExpressRoute and Azure Virtual WAN](https://learn.microsoft.com/en-us/training/modules/configure-expressroute-virtual-wan/)|8.	Implement Intersite Connectivity|1 hour|
@@ -20,5 +20,5 @@
 |10|- [Configure file and folder backups](https://learn.microsoft.com/en-us/training/modules/configure-file-folder-backups/)<BR>- [Configure virtual machine backups](https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-backups/)|15.	Backup virtual machines|1 Hour|
 |11|- [Configure Azure Monitor](https://learn.microsoft.com/en-us/training/modules/configure-azure-monitor/)<BR>- [Configure Azure alerts](https://learn.microsoft.com/en-us/training/modules/configure-azure-alerts/)<BR>- [Configure Log Analytics](https://learn.microsoft.com/en-us/training/modules/configure-log-analytics/)<BR>- [Configure Azure Network Watcher](https://learn.microsoft.com/en-us/training/modules/configure-network-watcher/)|16.	Implement Monitoring|1 Hour|
 
-[^1]: These timings may need to be modified?  
+[^1]: Some of these labs may need to be done on day 2  
 [^2]: Do these labs at the end of day 4
