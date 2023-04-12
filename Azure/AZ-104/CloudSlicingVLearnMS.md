@@ -24,4 +24,4 @@
 [^2]: Do these labs at the end of day 4
 
   
-<a href="placeholder.com" target="_blank">Opens in new tab</a>  
+<a href="google.com.au" target="_blank">Opens in new tab</a>  
