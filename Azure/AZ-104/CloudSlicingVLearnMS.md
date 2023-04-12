@@ -22,3 +22,6 @@
 
 [^1]: Some of these labs may need to be done on day 2  
 [^2]: Do these labs at the end of day 4
+
+  
+<a href="placeholder.com" target="_blank">Opens in new tab</a>  
