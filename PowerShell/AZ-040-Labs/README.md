@@ -17,4 +17,6 @@
 
 # I hope you find this useful.
 
+[Click Here to access the re-written labs](https://github.com/brentd09/AZ040Labs#az-040labs)
+
 Cheers Brent Denny
