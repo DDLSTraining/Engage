@@ -13,7 +13,7 @@ LearnOnDemand (Skillable)||
 
 
 - Use something like this table to record the credentials you will be building in the next few setup steps.
-- Because there are so many different resources you will use in the Azure courses its important to record these credentials
+
 
 ## Courseware
 
