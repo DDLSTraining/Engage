@@ -50,5 +50,5 @@ LearnOnDemand (Skillable)||
 
 ### Congatualtions you have registered for your labs
 
-You can find rw-written labs for AZ-040 here: [Lab Guide](https://github.com/brentd09/AZ040Labs#az-040labs)
+You can find re-written labs for AZ-040 here: [Lab Guide](https://github.com/brentd09/AZ040Labs#az-040labs)
 
