@@ -9,7 +9,17 @@
 |3|[Understand the Windows PowerShell pipeline](https://learn.microsoft.com/en-us/training/modules/understand-windows-powershell-pipeline/)<br>[Select, sort, and measure objects using the pipeline](https://learn.microsoft.com/en-us/training/modules/select-sort-measure-objects-use-pipeline/)<br>[Filter objects out of the pipeline](https://learn.microsoft.com/en-us/training/modules/filter-objects-out-of-pipeline/)<br>[Enumerate objects in the pipeline](https://learn.microsoft.com/en-us/training/modules/enumerate-objects-pipeline/)<br>[Send and pass data as output from the pipeline](https://learn.microsoft.com/en-us/training/modules/send-pass-data-output-from-pipeline/)<br>[Pass pipeline objects](https://learn.microsoft.com/en-us/training/modules/pass-pipeline-objects/)|||
 |Day 2|
 |3|[Filter objects out of the pipeline](https://learn.microsoft.com/en-us/training/modules/filter-objects-out-of-pipeline/)<br>[Enumerate objects in the pipeline](https://learn.microsoft.com/en-us/training/modules/enumerate-objects-pipeline/)<br>[Send and pass data as output from the pipeline](https://learn.microsoft.com/en-us/training/modules/send-pass-data-output-from-pipeline/)<br>[Pass pipeline objects](https://learn.microsoft.com/en-us/training/modules/pass-pipeline-objects/)|||
-|4|[Connect with data stores using PowerShell providers](https://learn.microsoft.com/en-us/training/modules/connect-data-stores-use-powershell-providers/)<br>[Use PowerShell drives in PowerShell](https://learn.microsoft.com/en-us/training/modules/use-powershell-drives-powershell/)<br>|||
+|4|[Connect with data stores using PowerShell providers](https://learn.microsoft.com/en-us/training/modules/connect-data-stores-use-powershell-providers/)<br>[Use PowerShell drives in PowerShell](https://learn.microsoft.com/en-us/training/modules/use-powershell-drives-powershell/)|||
+|Day 3|
+|5|[Review CIM and WMI](https://learn.microsoft.com/en-us/training/modules/review-common-information-model-windows-management-instrumentation/)<br>[Query configuration information by using CIM and WMI](https://learn.microsoft.com/en-us/training/modules/query-configuration-information/)<br>[Query and manipulate repository objects by using CIM and WMI methods](https://learn.microsoft.com/en-us/training/modules/query-manipulate-repository-objects/)|||
+|6|[Manage variables in Windows PowerShell scripts](https://learn.microsoft.com/en-us/training/modules/manage-variables-windows-powershell-scripts/)<br>[Work with arrays and hash tables in Window PowerShell scripts](https://learn.microsoft.com/en-us/training/modules/work-arrays-hash-tables-window-powershell-scripts/)|||
+|Day 4|
+|7|[Create and run scripts by using Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/create-run-scripts-use-windows-powershell/)<br>[Work with scripting constructs in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/work-script-constructs-windows-powershell/)<br>[Import data in different formats for use in scripts by using Windows PowerShell cmdlets](https://learn.microsoft.com/en-us/training/modules/import-data-different-formats-for-use-scripts/)<br>[Use methods to accept user inputs in Windows PowerShell scripts](https://learn.microsoft.com/en-us/training/modules/use-methods-to-accept-user-inputs-windows-powershell-scripts/)<br>[Troubleshoot scripts and handle errors in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/troubleshoot-scripts-handle-errors-windows-powershell/)<br>[Use functions and modules in Windows PowerShell scripts](https://learn.microsoft.com/en-us/training/modules/use-functions-modules-windows-powershell-scripts/)|||
+
+
+
+
+
 
 
 []()<br>
