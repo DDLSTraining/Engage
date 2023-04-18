@@ -28,5 +28,5 @@
 
 
 
-[^1]: Despite what LODS say these labs can be saved and extended  
+[^1]: Despite what LODS say this lab can be saved and extended  
 
