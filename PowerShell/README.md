@@ -1,5 +1,6 @@
 # <img src="/_images/PowerShell_Core_6.0_icon.png" width="60"></img> Microsoft PowerShell Resources
 
+* [Mapping Learn.Microsoft.com Modules to LearnOnDemand Labs](MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)
 * [Skillpipe Online Courseware](https://www.skillpipe.com/)
 * [PowerShell Core on GitHub](https://github.com/PowerShell/PowerShell)
 * [.NET Core on GitHub](https://github.com/dotnet/core)
