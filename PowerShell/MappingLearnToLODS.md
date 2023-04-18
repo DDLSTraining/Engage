@@ -6,7 +6,7 @@
 |---:|---|---|---|
 |Day 1|
 |1|[Review Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/review-windows-powershell/)<br>[Understand the command syntax in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/understand-command-syntax-windows-powershell/)<br>[Find commands and Get-Help in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/find-commands-get-help-windows-powershell/)|||
-
+|3|[Understand the Windows PowerShell pipeline](https://learn.microsoft.com/en-us/training/modules/understand-windows-powershell-pipeline/)<br>[Select, sort, and measure objects using the pipeline](https://learn.microsoft.com/en-us/training/modules/select-sort-measure-objects-use-pipeline/)<br>[Filter objects out of the pipeline](https://learn.microsoft.com/en-us/training/modules/filter-objects-out-of-pipeline/)<br>[Enumerate objects in the pipeline](https://learn.microsoft.com/en-us/training/modules/enumerate-objects-pipeline/)<br>[Send and pass data as output from the pipeline](https://learn.microsoft.com/en-us/training/modules/send-pass-data-output-from-pipeline/)<br>[Pass pipeline objects](https://learn.microsoft.com/en-us/training/modules/pass-pipeline-objects/)|||
 
 
 |1|- [Configure Azure Active Directory](https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/)<BR>- [Configure User and Group Accounts](https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/)|1.	Manage Azure Active Directory Identities |1 Hour|
