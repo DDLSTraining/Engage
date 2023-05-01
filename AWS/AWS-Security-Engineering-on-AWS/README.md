@@ -16,7 +16,7 @@
 
 |Module|Duration|
 |-|-|
-|Day 1 Review|15|
+|Day 1 Review|15 mins|
 |Module 4: Managing secrets on AWS|120 mins|
 |Lab 3: Using AWS KMS to Encrypt Secrets in Secrets Manager|60 mins|
 |Break (Lunch)|60 mins|
@@ -37,4 +37,3 @@
 |Lab 7: Incident response|60 mins|
 |Module 14: Review & wrap up|15|
 |Day 3 - Total|7.5 hours|
-|Day 2 - Total|7.5 hours|
