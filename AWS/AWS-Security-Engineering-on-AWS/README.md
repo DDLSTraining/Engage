@@ -35,5 +35,5 @@
 |Break (Lunch)|60 mins|
 |Module 8: Responding to Threats|90 mins|
 |Lab 7: Incident response|60 mins|
-|Module 14: Review & wrap up|15|
+|Module 9: Review & wrap up|15 mins|
 |Day 3 - Total|7.5 hours|
