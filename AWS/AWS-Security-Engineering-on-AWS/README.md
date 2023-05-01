@@ -1,3 +1,12 @@
+# Course Resources
+
+## Module 1
+* [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected)
+* [AWS Managed Service Provider Program](https://aws.amazon.com/partners/programs/msp/)
+* [How to approach threat modeling](https://aws.amazon.com/blogs/security/how-to-approach-threat-modeling/)
+
+## Module 2
+
 ## Course Layout
 
 ### Day One
