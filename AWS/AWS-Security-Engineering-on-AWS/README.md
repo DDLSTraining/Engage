@@ -6,6 +6,12 @@
 * [How to approach threat modeling](https://aws.amazon.com/blogs/security/how-to-approach-threat-modeling/)
 
 ## Module 2
+* [AWS Identity Access Management - User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+* [Policy Evaluation - User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html)
+* [AWS account root user and IAM user credentials User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/security-creds.html#aws_tasks-that-require-root)
+* [AWS IAM API Reference](https://docs.aws.amazon.com/cli/latest/reference/iam/)
+* [Service Authorization Reference](https://docs.aws.amazon.com/service-authorization/latest/reference/reference.html)
+* [Designing a well-architected identity & access management solution](https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FqrQzUzDyjks%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqrQzUzDyjks&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FqrQzUzDyjks%2Fhqdefault.jpg&key=40cb30655a7f4a46adaaf18efb05db21&type=text%2Fhtml&schema=youtube)
 
 ## Course Layout
 
