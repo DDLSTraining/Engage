@@ -35,6 +35,8 @@
   * [Regular Expressions for Sensitive Info Types](https://regex101.com/)
   * [Enabling Sensitvity Labels via PShell](https://docs.microsoft.com/en-au/azure/active-directory/users-groups-roles/groups-assign-sensitivity-labels)
   * [New Guide Adv EDiscovery - Use Chrome](https://content.cloudguides.com/en-us/guides/Advanced%20eDiscovery)
+  * [MCAS Guided Demo](https://mslearn.cloudguides.com/en-us/guides/Discover,%20protect,%20and%20control%20your%20apps%20with%20Microsoft%20Cloud%20App%20Security
+)
   ## Videos
   
   * [Planning You Network for Teams](https://youtu.be/vi3M7ZzF2NU?list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=83)
