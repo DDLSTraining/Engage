@@ -22,8 +22,7 @@
   * [Live Stream](https://natechamberlain.com/2023/01/21/how-to-live-stream-a-microsoft-teams-meeting-to-youtube-without-installing-additional-software/)
   * [B2B](https://learn.microsoft.com/en-us/azure/active-directory-b2c/tutorial-create-user-flows?pivots=b2c-user-flow)
   * [Configure B2B](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/cross-tenant-access-settings-b2b-collaboration)
-
-  * 
+ 
 ## Compliance
   * [Policy Based Recording](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-recording-policy)
   * [Team Cloud Recording](https://docs.microsoft.com/en-us/MicrosoftTeams/cloud-recording)
