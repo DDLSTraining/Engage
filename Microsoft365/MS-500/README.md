@@ -78,7 +78,7 @@
 * [Trainable Classifiers](https://www.microsoft.com/en-us/videoplayer/embed/RWyGL7?postJsllMsg=true)
 * [Document Fingerprinting](https://docs.microsoft.com/en-us/microsoft-365/compliance/document-fingerprinting?view=o365-worldwide)
 * [Event Driven Retention](https://youtu.be/82K1yurZus4)
-
+* [Adaptive DLP](https://youtu.be/9GLsxvtoLWE)
 
 ## Defender
 * [Defender for Identity (Domain Controllers)](https://youtu.be/EGY2m8yU_KE)
