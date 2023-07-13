@@ -1,7 +1,6 @@
 # <img src="/_images/PowerShell_Core_6.0_icon.png" width="60"></img> Microsoft PowerShell Resources
 
 * [Mapping Learn.Microsoft.com Modules to LearnOnDemand Labs](MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)
-* [Skillpipe Online Courseware](https://www.skillpipe.com/)
 * [PowerShell Core on GitHub](https://github.com/PowerShell/PowerShell)
 * [.NET Core on GitHub](https://github.com/dotnet/core)
 * [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api/?view=netcore-3.1)
@@ -9,6 +8,19 @@
 * [Download Companion Content for Microsoft Official Courseware (MOC)](https://www.microsoft.com/en-us/learning/companion-moc.aspx)
 * [Windows PowerShell Language Specification Version 3.0](https://www.microsoft.com/en-au/download/details.aspx?id=36389)
 * [Microsoft Terminal](https://github.com/microsoft/terminal)
+
+## Securing PowerShell 
+
+* [Australian Signals Directorate: Securing PowerShell in the Enterprise](https://www.cyber.gov.au/acsc/view-all-content/publications/securing-powershell-enterprise)
+* [PowerShell Security Features](https://learn.microsoft.com/en-us/powershell/scripting/learn/security-features?view=powershell-7.3)
+
+## Speeding Up PowerShell
+
+* [Scripting Performance](https://learn.microsoft.com/en-us/powershell/scripting/dev-cross-plat/performance/script-authoring-considerations?view=powershell-7.3)
+* [Powershell Performance Tips](https://blog.ironmansoftware.com/daily-powershell/powershell-performance-tips/)
+* [Powershell Speed](https://adamtheautomator.com/powershell-speed/)
+* [Optimize Performance of ADDS Queries](https://devblogs.microsoft.com/scripting/optimize-performance-of-ad-ds-queries-via-powershell/)
+* [Powershell Multithreading](https://adamtheautomator.com/powershell-multithreading/)
 
 ## Resources
 
@@ -18,7 +30,6 @@
   * [Regular Expression Language - Quick Reference](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference)
   * [regex101](https://regex101.com/) - Online regular expression calculator
 * [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell): A curated list of delightful PowerShell packages and resources.
-* [Australian Signals Directorate: Securing PowerShell in the Enterprise](https://www.cyber.gov.au/acsc/view-all-content/publications/securing-powershell-enterprise)
 * [VS Code](https://code.visualstudio.com/)
 * Package Management:
   * [winget](https://docs.microsoft.com/en-us/windows/package-manager/winget/) - Use the winget tool to install and manage applications
