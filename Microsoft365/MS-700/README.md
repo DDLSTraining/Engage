@@ -86,6 +86,15 @@
 ## Direct Routing
   * [Direct Routing & Call Routing Walkthrough](https://direct-routing-interactive-guide.immersivelearning.online/)
   * [Direct Routing -video](https://www.youtube.com/watch?v=1ASftX_Msb8&feature=youtu.be&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl&t=1356)
+## SIP Phones & Gateway
+  * [Configure SIP Gateway](https://docs.microsoft.com/en-us/microsoftteams/sip-gateway-configure?azure-portal=true))
+  * [Ensure that SIP devices are not behind a proxy
+Open UDP ports 49152 to 53247, and TCP port 5061 for IP range 52.112.0.0/14 to 52.120.0.0/14]
+  * [Migrating Poly phnes from 3PIP Gateway to Teams Gateway](https://info.lens.poly.com/docs/import/ms-teams-gateway)
+  * [AudioCodecs Manual](https://techdocs.audiocodes.com/one-voice-operations-center-ovoc/ip-phone-manager-pro-user-manual/version-820/#IP%20Phone%20Manager%20Pro%20Administrator's%20Manual%20Ver.%207.4/Configuring%20Microsoft%20Teams%20SIP%20Gateway%20URL.htm)
+  * [Poly IP Phone Sign in to Teams SIP Gateway](https://support.poly.com/support/s/article/Using-compatible-Poly-IP-phones-to-sign-into-Microsoft-Teams-SIP-Gateway)
+  * [Common Issues when you use SIP devices with Teams](https://learn.microsoft.com/en-us/microsoftteams/troubleshoot/phone-system/sip-gateway-issues)
+  * 
 
 ## Resources
    * [Teams Customer Success Kit Download](https://www.microsoft.com/en-us/download/details.aspx?id=54244)
