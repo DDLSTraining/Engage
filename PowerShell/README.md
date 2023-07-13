@@ -12,6 +12,7 @@
 
 * [Australian Signals Directorate: Securing PowerShell in the Enterprise](https://www.cyber.gov.au/acsc/view-all-content/publications/securing-powershell-enterprise)
 * [PowerShell Security Features](https://learn.microsoft.com/en-us/powershell/scripting/learn/security-features?view=powershell-7.3)
+* [Free e-Book PowerShell Security](https://lp.scriptrunner.com/en/powershell-security-guide?banner)
 
 ## Speeding Up PowerShell
 
