@@ -44,7 +44,7 @@ LearnOnDemand (Skillable)||
   - Use your existing Login ID and password
   - Click ```Redeem Training Key```
   - Enter the LearnOnDemand key you received from your trainer
-- **Once you have redeemed your code**
+4. **Once you have redeemed your code**
   - Click on ```My Training```
   - Click the ```your course name```
   - ***Click on ```View Agreement``` 
