@@ -1,4 +1,4 @@
-# Systems Operations on AWS
+# Cloud Operations on AWS
 
 ## Course Links
 
