@@ -27,7 +27,7 @@ LearnOnDemand (Skillable)||
 
 ---
 
-## Learn on Demand Labs  (Optional - Ask instructor if this is needed)
+## Learn on Demand Labs  
 
 ***A learn On Demand key would have been given to you either by email or from the instructor***
 
