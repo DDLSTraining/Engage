@@ -3,7 +3,7 @@
 
 
 |Old_Module No.|Microsoft_Learn_Modules | [LODS_Lab_Block](https://ddls.learnondemand.net/) |
-|---:|---|---|---|
+|---:|---|---|
 |Day 1|
 |1|- [Review Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/review-windows-powershell/)<br>- [Understand the command syntax in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/understand-command-syntax-windows-powershell/)<br>- [Find commands and Get-Help in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/find-commands-get-help-windows-powershell/)|1[^1]|
 |3|- [Understand the Windows PowerShell pipeline](https://learn.microsoft.com/en-us/training/modules/understand-windows-powershell-pipeline/)<br>- [Select, sort, and measure objects using the pipeline](https://learn.microsoft.com/en-us/training/modules/select-sort-measure-objects-use-pipeline/)|1|
