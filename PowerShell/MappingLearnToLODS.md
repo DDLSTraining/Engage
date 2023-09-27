@@ -2,7 +2,7 @@
 ## Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
-|Old_Module No.|Learn.microsoft.com modules | [LODS_Lab_Block](https://ddls.learnondemand.net/) |
+|Old_Module No.|Learn.microsoft.com modules | Skillable Labs|
 |---:|---|---|
 |Day 1|
 |1|- [Review Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/review-windows-powershell/)<br>- [Understand the command syntax in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/understand-command-syntax-windows-powershell/)<br>- [Find commands and Get-Help in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/find-commands-get-help-windows-powershell/)|[Lab 1](https://ddls.learnondemand.net/)[^1]|
