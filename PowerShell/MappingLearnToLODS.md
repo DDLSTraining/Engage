@@ -1,6 +1,5 @@
-# AZ-040
-## Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
-
+# AZ-040 PowerShell Course
+## Mapping learn.microsoft.com Modules to Skillable (LODS) CloudSlicing Labs
 
 |Old_Module No.|Learn.microsoft.com modules | Skillable Labs|
 |---:|---|---|
