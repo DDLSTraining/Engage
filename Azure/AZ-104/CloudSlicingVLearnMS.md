@@ -2,7 +2,7 @@
 # Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
-|Old_Module No.|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs |Expected_Lab Duration |
+|Old No.|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs |Expected_Lab Duration |
 |---:|---|---|---|
 |Day 1|
 |1|- [Configure Azure Active Directory](https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/)<BR>- [Configure User and Group Accounts](https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/)|[***OPTIONAL*** 1.	Manage Azure Active Directory Identities](https://ddls.learnondemand.net/) |1 Hour[^1]|
