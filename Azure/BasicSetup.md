@@ -3,21 +3,6 @@
 
 ## Requirements
 
-* Modern Browser
-* Azure Pass Code
-
-_Note: Use a private or incongnito browser window if you have issues with accounts being cached._ 
-
-## Record your login details for access to course resources in a table like this
-
-Course Resources| Username| Password
----|---|---
-LearnOnDemand (Skillable)||
-
-
-- Use something like this table to record the credentials you will be building in the next few setup steps.
-- Because there are so many different resources you will use in the Azure courses its important to record these credentials
-
 ## Courseware
 
 1. Go to [my.ddls.com.au](https://my.ddls.com.au/) to locate the Microsoft Learn URL
@@ -50,6 +35,7 @@ LearnOnDemand (Skillable)||
   - ***Click on ```View Agreement``` 
     - Otherwise **you will not** be able to launch the lab machines
   - In the Activities section, you will find your labs
+5. Please remember your **Login ID** and **Password** 
 
 ### Congratulations you have registered for your labs
 
