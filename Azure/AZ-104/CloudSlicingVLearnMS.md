@@ -1,8 +1,8 @@
 # AZ104
-# Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
+# Mapping learn.microsoft.com Modules to Skillable CloudSlicing Labs
 
 
-|Old No.|Microsoft_Learn_Modules | LODS_CloudSlicing_Labs |Lab Timing HH:MM |
+|Old No.|Microsoft_Learn_Modules | Skillable_Labs |Lab Timing HH:MM |
 |---:|---|---|---|
 |***Day 1***|
 |1|- [Configure Azure Active Directory](https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/)<BR>- [Configure User and Group Accounts](https://learn.microsoft.com/en-us/training/modules/configure-user-group-accounts/)|[***OPTIONAL*** 1.	Manage Azure Active Directory Identities](https://ddls.learnondemand.net/) |01:00[^1]|
