@@ -22,4 +22,4 @@
 
 [^1]: This lab is now an optional lab
 [^2]: Some of these labs may need to be done on day 2  
-[^3]: Do these labs at the end of day 4
+[^3]: These could be done at the end of day 4 if some are not interested in them
