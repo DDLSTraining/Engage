@@ -14,7 +14,7 @@
 
 ## Learn on Demand Labs from Skillable
 
-***A learn On Demand key would have been given to you either by email or from the instructor***
+***A learn On Demand key can be found in your DDLS Portal or given to you from your instructor***
 
 1. Go to [Learn On Demand](https://ddls.learnondemand.net) **(Right Click to open in new tab)**
 2. Your Lumify-Work instructor will give you the LearnOnDemand Key
