@@ -3,9 +3,7 @@
 
 <br>
 
-|                                     |
-|---:|
-|------------------------------------------------------------------------------- [Rewritten PowerShell Labs](https://github.com/brentd09/AZ040Labs#az-040labs) |
+<div float:right><a href="https://github.com/brentd09/AZ040Labs#az-040labs" >Rewritten PowerShell Labs</a></div>
 
 <br>
 
