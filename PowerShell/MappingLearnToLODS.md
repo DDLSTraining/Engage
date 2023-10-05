@@ -3,7 +3,7 @@
 
 <br>
 
-<a href="https://github.com/brentd09/AZ040Labs#az-040labs" align='right' >Rewritten PowerShell Labs</a>
+<div dir='rtl'><a href="https://github.com/brentd09/AZ040Labs#az-040labs" >Rewritten PowerShell Labs</a></div>
 
 <br>
 
