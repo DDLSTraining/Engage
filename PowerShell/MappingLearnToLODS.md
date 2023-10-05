@@ -3,7 +3,7 @@
 
 <br>
 
-<div style='text-align:right'><a href="https://github.com/brentd09/AZ040Labs#az-040labs" >Rewritten PowerShell Labs</a></div>
+<a href="https://github.com/brentd09/AZ040Labs#az-040labs" style='float:right' >Rewritten PowerShell Labs</a>
 
 <br>
 
