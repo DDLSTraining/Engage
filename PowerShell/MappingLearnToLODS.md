@@ -1,14 +1,12 @@
 # AZ-040 PowerShell Course
 ## Mapping learn.microsoft.com Modules to Skillable (LODS) CloudSlicing Labs
 
-<br>
-
-<div dir='rtl'><a href="https://github.com/brentd09/AZ040Labs#az-040labs" >Lab Instructions</a></div>
 
 <br>
 
 |Old_Module No.|Learn.microsoft.com modules | Skillable Labs|
 |---:|---|---|
+|||[Lab Instructions](https://github.com/brentd09/AZ040Labs#az-040labs)|
 |***Day 1***|
 |1|- [Review Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/review-windows-powershell/)<br>- [Understand the command syntax in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/understand-command-syntax-windows-powershell/)<br>- [Find commands and Get-Help in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/find-commands-get-help-windows-powershell/)|[Lab 1](https://ddls.learnondemand.net/) [^1]|
 |3|- [Understand the Windows PowerShell pipeline](https://learn.microsoft.com/en-us/training/modules/understand-windows-powershell-pipeline/)<br>- [Select, sort, and measure objects using the pipeline](https://learn.microsoft.com/en-us/training/modules/select-sort-measure-objects-use-pipeline/)|[Lab 1](https://ddls.learnondemand.net/)|
