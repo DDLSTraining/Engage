@@ -3,7 +3,9 @@
 
 <br>
 
-[Rewritten PowerShell Labs](https://github.com/brentd09/AZ040Labs#az-040labs)
+| |
+|---:|
+| [Rewritten PowerShell Labs](https://github.com/brentd09/AZ040Labs#az-040labs) |
 
 <br>
 
