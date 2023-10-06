@@ -21,7 +21,9 @@
 |11|- [Configure Azure Monitor](https://learn.microsoft.com/en-us/training/modules/configure-azure-monitor/)<BR>- [Configure Azure alerts](https://learn.microsoft.com/en-us/training/modules/configure-azure-alerts/)<BR>- [Configure Log Analytics](https://learn.microsoft.com/en-us/training/modules/configure-log-analytics/)<BR>- [Configure Azure Network Watcher](https://learn.microsoft.com/en-us/training/modules/configure-network-watcher/)|[17.	Implement Monitoring](https://ddls.learnondemand.net/)|01:00|
 
 <br>
+
 [End of Course Survey](https://www.metricsthatmatter.com/dim319)
+
 <br>
 
 [^1]: This lab is now an optional lab
