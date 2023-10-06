@@ -20,6 +20,10 @@
 |10|- [Configure file and folder backups](https://learn.microsoft.com/en-us/training/modules/configure-file-folder-backups/)<BR>- [Configure virtual machine backups](https://learn.microsoft.com/en-us/training/modules/configure-virtual-machine-backups/)|[16.	Backup virtual machines](https://ddls.learnondemand.net/)|01:30|
 |11|- [Configure Azure Monitor](https://learn.microsoft.com/en-us/training/modules/configure-azure-monitor/)<BR>- [Configure Azure alerts](https://learn.microsoft.com/en-us/training/modules/configure-azure-alerts/)<BR>- [Configure Log Analytics](https://learn.microsoft.com/en-us/training/modules/configure-log-analytics/)<BR>- [Configure Azure Network Watcher](https://learn.microsoft.com/en-us/training/modules/configure-network-watcher/)|[17.	Implement Monitoring](https://ddls.learnondemand.net/)|01:00|
 
+<br>
+[End of Course Survey](https://www.metricsthatmatter.com/dim319)
+<br>
+
 [^1]: This lab is now an optional lab
 [^2]: Some of these labs may need to be done on day 2  
 [^3]: These could be done at the end of day 4 if some are not interested in them
