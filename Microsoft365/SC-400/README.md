@@ -1,6 +1,6 @@
 # SC-400 Microsoft Information Protection
 ## Course Timings
-![SC-400](_images/day1.png)
+![SC-400](_images/Day1.png)
 ## Resources
 * [Implementing MS Exact Data Match part 1](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implementing-microsoft-exact-data-match-edm-part-1/ba-p/1345360)
 * [Implementing MS Exact Data Match part 2](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implementing-microsoft-exact-data-match-edm-part-2/ba-p/1350483)
