@@ -4,8 +4,7 @@
 * [Implementing MS Exact Data Match part 1](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implementing-microsoft-exact-data-match-edm-part-1/ba-p/1345360)
 * [Implementing MS Exact Data Match part 2](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implementing-microsoft-exact-data-match-edm-part-2/ba-p/1350483)
 * [Document Fingerprinting -DLP](https://docs.microsoft.com/en-us/microsoft-365/compliance/document-fingerprinting?view=o365-worldwide)
-* [Exam Practice](https://www.examtopics.com/exams/microsoft/sc-400/)
-* 
+
 ## Videos, Demos and extra information
 ## Mod 1
 * [Learn about sensitivity labels](https://docs.microsoft.com/en-au/microsoft-365/compliance/sensitivity-labels-office-apps?azure-portal=true&view=o365-worldwide)
