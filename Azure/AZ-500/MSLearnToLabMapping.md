@@ -2,7 +2,7 @@
 # Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
-|Schedule|Microsoft_Learn_Modules | [LODS_CloudSlicing_Labs](https://ddls.learnondemand.net/) (Lab Box no.) |Lab Duration[^1] |
+| |Microsoft_Learn_Modules | [LODS_CloudSlicing_Labs](https://ddls.learnondemand.net/) (Lab Box no.) |Lab Duration[^1] |
 |---:|---|---|---|
 |Day 1|
 ||- [Secure Azure solutions with Microsoft Entra ID](https://learn.microsoft.com/en-au/training/modules/azure-active-directory/)<BR>- [Implement Hybrid identity](https://learn.microsoft.com/en-au/training/modules/hybrid-identity/)<BR>- [Deploy Microsoft Entra ID Protection](https://learn.microsoft.com/en-au/training/modules/azure-ad-identity-protection/)<BR>- [Configure Microsoft Entra Privileged Identity Management](https://learn.microsoft.com/en-au/training/modules/azure-ad-privileged-identity-management/)<BR>- [Design an enterprise governance strategy](https://learn.microsoft.com/en-au/training/modules/enterprise-governance/)|1.	Role-Based Access Control<br>2. Azure Policy<br>3. Resource Manager Locks<br>4. MFA, Conditional Access and AAD Identity Protection, Privileged Identity Management<br>5. Implement Directory Synchronization |40 Min<br>40 Min<br>40 Min<br>2.5 Hours<br>1 Hour[^2]|
