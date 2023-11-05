@@ -4,7 +4,6 @@
 
 |LearningPath |Topics Covered |Labs|
 |---|---|---|
-|Powerhsell Objects|||
 |[Find commands and Get-Help in Windows PowerShell](https://learn.microsoft.com/en-au/training/modules/find-commands-get-help-windows-powershell/)|Define modules in PowerShell<br>Find cmdlets in PowerShell<br>Use command aliases in PowerShell<br>Use Show-Command and Get-Help in PowerShell<br>Interpret the help file contents and update the local help content in PowerShell||
 |Understand the Windows PowerShell pipeline|||
 |[Select, sort, and measure objects using the pipeline](Sort and group objects by property in the pipeline<br>Measure objects in the pipeline<br>Select a set of objects in the pipeline<br>Select object properties in the pipeline<br>Create and format calculated properties in the pipeline|||
