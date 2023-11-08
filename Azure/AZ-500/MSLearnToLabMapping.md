@@ -11,7 +11,8 @@
 |Day 3|
 ||- [Deploy and secure Azure Key Vault](https://learn.microsoft.com/en-au/training/modules/azure-key-vault/)<br>- [Configure application security features](https://learn.microsoft.com/en-au/training/modules/application-security/)<br>- [Implement storage security](https://learn.microsoft.com/en-au/training/modules/storage-security/)<br>- [Configure and manage SQL database security](https://learn.microsoft.com/en-au/training/modules/sql-database-security/)|[Skillable Online_Labs](https://ddls.learnondemand.net/)<br>7. Securing Azure SQL Database<br>8. Service Endpoints and Securing Storage<br>9. Key Vault<br>|50<br>60<br>90[^3]|
 |Day 4|
-||- [Configure and manage Azure Monitor](https://learn.microsoft.com/en-au/training/modules/azure-monitor/)<br>- [Enable and manage Microsoft Defender for Cloud](https://learn.microsoft.com/en-au/training/modules/azure-security-center/)<br>- [Configure and monitor Microsoft Sentinel](https://learn.microsoft.com/en-au/training/modules/azure-sentinel/)|[Skillable Online_Labs](https://ddls.learnondemand.net/)<br>10. Azure Monitor<br>Microsoft Defender for cloud<br>, Microsoft Sentinel|360|
+||- [Configure and manage Azure Monitor](https://learn.microsoft.com/en-au/training/modules/azure-monitor/)<br>- [Enable and manage Microsoft Defender for Cloud](https://learn.microsoft.com/en-au/training/modules/azure-security-center/)<br>- [Configure and monitor Microsoft Sentinel](https://learn.microsoft.com/en-au/training/modules/azure-sentinel/)|[Skillable Online_Labs](https://ddls.learnondemand.net/)<br>10. Azure Monitor<br> 
+ Microsoft Defender for cloud<br>  Microsoft Sentinel|360|
 
 
 [^1]: These timings may need to be modified?  
