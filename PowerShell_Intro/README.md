@@ -4,6 +4,6 @@
 
 [Introduction to PowerShell](LearningPath.md)
 
-## The Demos can be found at this location
+## The demos can be found at this location
 
 [Powershell Demos](LearningPathDemos.md)
