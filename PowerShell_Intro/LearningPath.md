@@ -2,20 +2,19 @@
 
 <br>
 
-|LearningPath |Topics Covered |Labs|
-|---|---|---|
-|[Powershell Introduction](https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/)|What is PowerShell<br>Locating Commands||
-|[Discovering Command and Objects](https://learn.microsoft.com/en-us/training/modules/discover-commands/)|Using the help system<br>Discover objects||
-|[Basic Pipeline](https://learn.microsoft.com/en-us/training/modules/understand-windows-powershell-pipeline/)|Review Windows PowerShell pipeline and its output<br>Discover object members in PowerShell<br>Control the formatting of pipeline output||
-|[Command Syntax](https://learn.microsoft.com/en-us/training/modules/understand-command-syntax-windows-powershell/)|Discover the Structure of the CmdLets<br>Discover the parameters for using PowerShell cmdlets<br>Review the tab completion feature in PowerShell<br>Display the About files content in PowerShell||
-|[PowerShell Consoles and Editors](https://learn.microsoft.com/en-us/training/paths/get-started-windows-powershell/)|Get familiar with Windows PowerShell ApplicationsConfigure the Windows PowerShell console<br>Configure the Windows PowerShell Integrated Scripting Environment (ISE)<br>Use Visual Studio Code with PowerShell||
-|[Managing Variables in PowerShell](https://learn.microsoft.com/en-us/training/modules/manage-variables-windows-powershell-scripts/)|Define variables in Windows PowerShell scripts<br>Create variable names in Windows PowerShell scripts<br>Assign values and types to variables in Windows PowerShell scripts<br>Identify the methods and properties of variables in Windows PowerShell scripts<br>Use string variables and methods in Windows PowerShell scripts<br>Use date variables and methods in Windows PowerShell scripts||
-|[Accept User Input](https://learn.microsoft.com/en-us/training/modules/use-methods-to-accept-user-inputs-windows-powershell-scripts/)|Identify values that might change in Windows PowerShell scripts<br>Use the Read-Host cmdlet in Windows PowerShell scripts<br>Use the Get-Credential cmdlet in Windows PowerShell scripts<br>Use the Out-GridView cmdlet in Windows PowerShell scripts<br>Pass parameters to a Windows PowerShell script||
-
-
-
-
-
-
-
-
+|LearningPath |Topics Covered |
+|---|---|
+|[Getting to know PowerShell](https://learn.microsoft.com/en-au/training/modules/review-windows-powershell/)|Learn about Windows PowerShell<br>Get familiar with Windows PowerShell applications<br>Identify factors to install and use Windows PowerShell<br>Configure the Windows PowerShell console<br>Configure the Windows PowerShell Integrated Scripting Environment (ISE)<br>Use Visual Studio Code with PowerShell|
+|[Understand the command syntax in Windows PowerShell](https://learn.microsoft.com/en-au/training/modules/understand-command-syntax-windows-powershell/)|Discover the structure of PowerShell cmdlets<br>Discover the parameters for using PowerShell cmdlets<br>Review the tab completion feature in PowerShell<br>Display the About files content in PowerShell|
+|[Locating Commands](https://learn.microsoft.com/en-au/training/modules/introduction-to-powershell/4-cmdlets)|Get-Command|
+|[Using the help system](https://learn.microsoft.com/en-au/training/modules/discover-commands/2-help)|Get-Help|
+|[Understand the Windows PowerShell pipeline](https://learn.microsoft.com/en-au/training/modules/understand-windows-powershell-pipeline/)|Review Windows PowerShell pipeline and its output<br>Discover object members in PowerShell<br>Control the formatting of pipeline output|
+|[Selecting and Sorting](https://learn.microsoft.com/en-au/training/modules/connect-commands/2-select-data)|Object Members<br>Selecting<br>Sorting|
+|[Filter objects out of the pipeline](https://learn.microsoft.com/en-au/training/modules/filter-objects-out-of-pipeline/)|Learn about the comparison operators in PowerShell<br>Review basic filter syntax in the pipeline<br>Review advanced filter syntax in the pipeline<br>Optimize the filter performance in the pipeline|
+|[Enumerate objects in the pipeline](https://learn.microsoft.com/en-au/training/modules/enumerate-objects-pipeline/)|Learn about enumerations in the pipeline<br>Review basic syntax to enumerate objects in the pipeline<br>Review advanced syntax to enumerate objects in the pipeline|
+|[Send and pass data as output from the pipeline](https://learn.microsoft.com/en-au/training/modules/send-pass-data-output-from-pipeline/)|Write pipeline data to a file<br>Convert pipeline objects to other forms of data representation in PowerShell<br>Control additional output options in PowerShell|
+|[Manage Active Directory Domain Services using PowerShell](https://learn.microsoft.com/en-au/training/modules/manage-active-directory-domain-services-use-powershell-cmdlets/)|Manage user accounts in PowerShell<br>Manage groups and group memberships in PowerShell<br>Manage computer accounts in PowerShell<br>Manage organizational units and Active Directory objects in PowerShell|
+|[Manage variables in Windows PowerShell scripts](https://learn.microsoft.com/en-au/training/modules/manage-variables-windows-powershell-scripts/)|Define variables in Windows PowerShell scripts<br>Create variable names in Windows PowerShell scripts<br>Assign values and types to variables in Windows PowerShell scripts<br>Identify the methods and properties of variables in Windows PowerShell scripts<br>Use string variables and methods in Windows PowerShell scripts<br>Use date variables and methods in Windows PowerShell scripts|
+|[Work with arrays and hash tables in Windows PowerShell scripts](https://learn.microsoft.com/en-au/training/modules/work-arrays-hash-tables-window-powershell-scripts/)|Define an array in Windows PowerShell scripts<br>Work with array lists in Windows PowerShell scripts<br>Define hash tables in Windows PowerShell Scripts<br>Work with hash tables in Windows PowerShell scripts|
+|[Create and run scripts by using Windows PowerShell](https://learn.microsoft.com/en-au/training/modules/create-run-scripts-use-windows-powershell/)|Review Windows PowerShell scripts<br>Modify scripts in the PowerShell Gallery<br>Create scripts using Windows PowerShell<br>Review the PowerShellGet module in Windows PowerShell<br>Run scripts and set the execution policy in Windows PowerShell<br>Review Windows PowerShell and AppLocker<br>Sign the scripts digitally in Windows PowerShell|
+|[Work with scripting constructs in Windows PowerShell](https://learn.microsoft.com/en-au/training/modules/work-script-constructs-windows-powershell/)|Review and use the ForEach loop in Windows PowerShell scripts<br>Review and use the If construct in Windows PowerShell scripts<br>Review and use the Switch construct in Windows PowerShell scripts<br>Review the For construct in Windows PowerShell scripts<br>Review other loop constructs in Windows PowerShell scripts<br>Review Break and Continue in Windows PowerShell scripts|
