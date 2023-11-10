@@ -1,80 +1,77 @@
-
-
-#Getting to know PowerShell
+# Getting to know PowerShell
 
 ```PowerShell
 
 ```
-#Understand the command syntax in Windows PowerShell
-
-```PowerShell
-
-```
-
-#Locating Commands
+# Understand the command syntax in Windows PowerShell
 
 ```PowerShell
 
 ```
 
-#Using the help system
+# Locating Commands
 
 ```PowerShell
 
 ```
 
-#Understand the Windows PowerShell pipeline
+# Using the help system
 
 ```PowerShell
 
 ```
 
-#Selecting and Sorting
+# Understand the Windows PowerShell pipeline
 
 ```PowerShell
 
 ```
 
-#Filter objects out of the pipeline
+# Selecting and Sorting
 
 ```PowerShell
 
 ```
 
-#Enumerate objects in the pipeline
+# Filter objects out of the pipeline
 
 ```PowerShell
 
 ```
 
-#Send and pass data as output from the pipeline
+# Enumerate objects in the pipeline
 
 ```PowerShell
 
 ```
 
-#Manage Active Directory Domain Services using PowerShell
-
-#Manage variables in Windows PowerShell scripts
+# Send and pass data as output from the pipeline
 
 ```PowerShell
 
 ```
 
-#Work with arrays and hash tables in Windows PowerShell scripts
+# Manage Active Directory Domain Services using PowerShell
+
+# Manage variables in Windows PowerShell scripts
 
 ```PowerShell
 
 ```
 
-#Create and run scripts by using Windows PowerShell
+# Work with arrays and hash tables in Windows PowerShell scripts
 
 ```PowerShell
 
 ```
 
-#Work with scripting constructs in Windows PowerShell
+# Create and run scripts by using Windows PowerShell
 
+```PowerShell
+
+```
+
+# Work with scripting constructs in Windows PowerShell
 
 ```PowerShell
 
