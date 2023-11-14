@@ -2,7 +2,7 @@
 # Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
-| |Microsoft_Learn_Modules | (Lab Box no.) [Skillable Online_Labs](https://ddls.learnondemand.net/) (Old Lab \#)  |Lab Time (Min.)[^1] |
+| |Microsoft_Learn_Modules | Lab Box no.[Skillable Online_Labs](https://ddls.learnondemand.net/) (Old Lab \#)  |Lab Time (Min.)[^1] |
 |---:|---|---|---|
 |Day 1|
 ||- [Secure Azure solutions with Microsoft Entra ID](https://learn.microsoft.com/en-au/training/modules/azure-active-directory/)<BR>- [Implement Hybrid identity](https://learn.microsoft.com/en-au/training/modules/hybrid-identity/)<BR>- [Deploy Microsoft Entra ID Protection](https://learn.microsoft.com/en-au/training/modules/azure-ad-identity-protection/)<BR>- [Configure Microsoft Entra Privileged Identity Management](https://learn.microsoft.com/en-au/training/modules/azure-ad-privileged-identity-management/)<BR>- [Design an enterprise governance strategy](https://learn.microsoft.com/en-au/training/modules/enterprise-governance/)|[Skillable Online_Labs](https://ddls.learnondemand.net/)<br>1.	Role-Based Access Control (Lab01)<br>2. MFA and Conditional Access(Lab02)<br>Azure AD Privileged Identity Management(Lab03)<br>3. Implement Directory Synchronization(Lab04) |60<br>150 <br>60[^2]|
