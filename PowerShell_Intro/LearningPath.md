@@ -4,6 +4,7 @@
 
 |LearningPath |Topics Covered |Demos|
 |---|---|---|
+|0. [Understanding Objects](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_objects?view=powershell-7.3)|Learn about PowerShellObject|[Demos](demos/demos00.md)|
 |1. [Getting to know PowerShell](https://learn.microsoft.com/en-au/training/modules/review-windows-powershell/)|Learn about Windows PowerShell<br>Get familiar with Windows PowerShell applications<br>Identify factors to install and use Windows PowerShell<br>Configure the Windows PowerShell console<br>Configure the Windows PowerShell ISE<br>Use Visual Studio Code with PowerShell|[Demos](demos/demos01.md)|
 |2. [Understand the command syntax in Windows PowerShell](https://learn.microsoft.com/en-au/training/modules/understand-command-syntax-windows-powershell/)|Discover the structure of PowerShell cmdlets<br>Discover the parameters for using PowerShell cmdlets<br>Review the tab completion feature in PowerShell<br>Display the About files content in PowerShell|[Demos](demos/demos02.md)|
 |3. [Locating Commands](https://learn.microsoft.com/en-au/training/modules/introduction-to-powershell/4-cmdlets)|Get-Command|[Demos](demos/demos03.md)|
