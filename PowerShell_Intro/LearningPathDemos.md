@@ -1,6 +1,13 @@
 # Getting to know PowerShell
 
 ```PowerShell
+# To determine the version of PowerShell that you are using view the contents of this system variable
+$PSVersionTable
+
+# To determine what execution policy is running use the following command
+Get-ExecutionPolicy
+
+
 
 ```
 
@@ -9,6 +16,11 @@
 # Understand the command syntax in Windows PowerShell
 
 ```PowerShell
+# To list the registered verbs use the following command
+Get-Verb
+
+# Parameters can be required or optional
+
 
 ```
 
