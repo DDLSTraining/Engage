@@ -9,4 +9,4 @@ Get-ExecutionPolicy
 
 ```
 
-[Back to Topics](LearningPath.md)
+[Back to Topics](../LearningPath.md)
