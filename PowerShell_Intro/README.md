@@ -1,3 +1,4 @@
+<background-image: lumify.png>
 # Introduction to Windows PowerShell
 
 ## The topics covered in this course can be found at this location 
