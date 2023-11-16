@@ -11,4 +11,5 @@ Get-Command -Noun *FirewallRule
 Get-Command -Verb Set
 ```
 
-[Back to Topics](../LearningPath.md)
+[Back to Topics](../README.md)
+
