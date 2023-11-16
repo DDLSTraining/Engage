@@ -9,6 +9,10 @@
 
 Get-Date | Get-Member
 
+# To see the information stored in the properties
+
+Get-Date | Select-Object -Property *
+
 # One way we can access properties and methods is via the . (dot) notation
 # We will first run the command and store the output in a variable
 $CurrentDate = Get-Date
