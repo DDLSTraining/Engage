@@ -26,4 +26,4 @@ $CurrentDate.AddMonths(-6)
 
 ```
 
-[Back to Topics](../LearningPath.md)
+[Back to Topics](../README.md)
