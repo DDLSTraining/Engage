@@ -1,5 +1,4 @@
-<p style="background-image: url('./lumify.png');">
-
+-----
 
 # Introduction to Windows PowerShell
 
