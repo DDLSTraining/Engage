@@ -1,21 +1,7 @@
 
 # PowerShell AZ-040 Course Student Setup
 
-## Requirements
-
-* Modern Browser
-
-## Record your login details for access to course resources in a table like this
-
-Course Resources| Username| Password
----|---|---
-LearnOnDemand (Skillable)||
-
-
-- Use something like this table to record the credentials you will be building in the next few setup steps.
-
-
-## Courseware
+## Courseware (You should have done this already)
 
 1. Go to [my.ddls.com.au](my.ddls.com.au) to locate the Microsoft Learn URL
 3. If you have not registered at [my.ddls.com.au](my.ddls.com.au), you need to do so now.
@@ -48,7 +34,8 @@ LearnOnDemand (Skillable)||
     - Otherwise **you will not** be able to launch the lab machines
   - In the Activities section, you will find your labs
 
-### Congatualtions you have registered for your labs
+> ### **PLEASE REMEMBER your login details for skillable** ###
 
-You can find re-written labs for AZ-040 here: [Lab Guide](https://github.com/brentd09/AZ040Labs#az-040labs)
+
+- You can find re-written labs for AZ-040 here: [Lab Guide](https://github.com/brentd09/AZ040Labs#az-040labs)
 
