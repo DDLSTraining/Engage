@@ -2,7 +2,20 @@
 
 ```PowerShell
 # if example
-
+#Guess a number between 1 and 500
+$GuessThisNumber = 87
+$TooHigh = 501
+$TooLow  = 0
+do {
+  $ComputerGuess = [int](($TooHigh+$TooLow)/2)
+  if ($ComputerGuess -gt $GuessThisNumber) {$TooHigh = $ComputerGuess}
+  elseif ($ComputerGuess -lt $GuessThisNumber) {$TooLow = $ComputerGuess}
+  else {
+    Write-Host "The computer guessed the right number $ComputerGuess"
+    break
+  }
+  Write-Host "Computer is guessing $ComputerGuess"
+} until ($ComputerGuess -eq $GuessThisNumber)
 
 
 
