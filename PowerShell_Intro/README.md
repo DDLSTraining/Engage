@@ -12,8 +12,8 @@
 |4. [Using the help system](https://learn.microsoft.com/en-au/training/modules/discover-commands/2-help)|Get-Help|[Demos](demos/demos04.md)|
 |5. [Understand the Windows PowerShell pipeline](https://learn.microsoft.com/en-au/training/modules/understand-windows-powershell-pipeline/)|Review Windows PowerShell pipeline and its output<br>Discover object members in PowerShell<br>Control the formatting of pipeline output|[Demos](demos/demos05.md)|
 |6. [Selecting and Sorting](https://learn.microsoft.com/en-au/training/modules/connect-commands/2-select-data)|Selecting<br>Sorting|[Demos](demos/demos06.md)|
-|7. [Filter objects out of the pipeline](https://learn.microsoft.com/en-au/training/modules/filter-objects-out-of-pipeline/)|Learn about the comparison operators in PowerShell<br>Review basic filter syntax in the pipeline<br>Review advanced filter syntax in the pipeline<br>Optimize the filter performance in the pipeline|[Demos](demos/demos07.md)|
-|8. [Enumerate objects in the pipeline](https://learn.microsoft.com/en-au/training/modules/enumerate-objects-pipeline/)|Learn about enumerations in the pipeline<br>Review basic syntax to enumerate objects in the pipeline<br>Review advanced syntax to enumerate objects in the pipeline|[Demos](demos/demos08.md)|
+|7. [Filter objects out of the pipeline](https://learn.microsoft.com/en-au/training/modules/filter-objects-out-of-pipeline/)|Learn about the comparison operators in PowerShell<br>Review advanced filter syntax in the pipeline<br>Optimize the filter performance in the pipeline|[Demos](demos/demos07.md)|
+|8. [Enumerate objects in the pipeline](https://learn.microsoft.com/en-au/training/modules/enumerate-objects-pipeline/)|Learn about enumerations in the pipeline<br>Review advanced syntax to enumerate objects in the pipeline|[Demos](demos/demos08.md)|
 
 ## Afternoon Session
 |LearningPath |Topics Covered |Demos|
