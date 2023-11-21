@@ -6,4 +6,4 @@
 ```
 
 
-[Back to Topics](../README.md)
+[Back to Topics](../README.md#afternoon-session)
