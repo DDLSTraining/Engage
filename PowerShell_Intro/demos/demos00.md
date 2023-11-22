@@ -17,10 +17,11 @@ Get-Date | Select-Object -Property *
 # We will first run the command and store the output in a variable
 $CurrentDate = Get-Date
 
-# Now we will access a property or a method
+# Do the following to view a property of the object
 # This will display the current month's number
 $CurrentDate.Month
 
+# Do the following to execute a method against the object 
 # This will calculate the date that is exactly 6 months before the current date
 $CurrentDate.AddMonths(-6)
 
