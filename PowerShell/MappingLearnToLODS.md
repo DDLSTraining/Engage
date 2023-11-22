@@ -1,7 +1,7 @@
 # AZ-040 PowerShell Course
 ## Mapping learn.microsoft.com Modules to Skillable (LODS) CloudSlicing Labs
 
-[bit.ly/PSlabguide](https://bit.ly/PSlabguide)
+[bit.ly/PSlabguide](https://bit.ly/PSlabguide) **Shortcut Link to access this page**
 <br>
 
 |Old_Module No.|Learn.microsoft.com modules | Skillable Labs|
