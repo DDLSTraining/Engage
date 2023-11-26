@@ -1,9 +1,10 @@
 # Enumerate objects in the pipeline
 
 ```PowerShell
-# To show filenames and the amount of disk space each are using:
-Get-ChildItem -path C:\Windows -File | ForEach-Object {
-  Write-Host $_.Name is taking $_.Length bytes of disk space
+# Getting the number of lines in each file
+Get-ChildItem -Path C:\windows -Filter *.ini | ForEach-Object {
+    $Content = Get-Content $_.FullName
+    Write-Host File: $_.Name - Number of lines: $Content.Count
 }
 ```
 
