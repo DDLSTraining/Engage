@@ -24,7 +24,7 @@ New-Item -Path e:\ScriptDemo -Name Log -ItemType directory
 
 ## Script answer
 
-<details><summary>Click to see the answer</summary><Strong> 
+<details><summary>Click to see the answer</summary>
     
 ```PowerShell
 Set-location e:\ScriptDemo
@@ -35,6 +35,6 @@ Get-ChildItem -File | ForEach-Object {
   else {Write-Host $_.Name is not being moved to a sub directory}
 }
 ```
-</Strong></details> 
+</details> 
 [Back to Topics](../README.md#afternoon-session)
 
