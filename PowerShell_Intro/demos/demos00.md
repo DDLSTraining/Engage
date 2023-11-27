@@ -41,9 +41,14 @@ $Car = [PSCustomObject]@{
   Type   = 'Utility'
 }
 
+# This displays all of the Car information
 $Car
+
+# This shows the Engine Information
 $Car.Engine
 
+# This only shows the engine size in litres 
+$Car.Engine.Size
 
 
 ```
