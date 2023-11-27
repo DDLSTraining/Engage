@@ -14,6 +14,13 @@ Get-Process
 
 Get-Process -Name PowerShell
 
+# Tab completion of commands (hit the tab key to complete these commands )
+Get-Serv
+
+Get-ChildItem -Dire
+
+Get-EventLog -Logname Sec
+
 ```
 
 [Back to Topics](../README.md#morning-session)
