@@ -32,6 +32,8 @@ Get-NetFirewallRule
 
 Get-NetIPAddress
 
+Get-ADUser -filter *
+
 ```
 
 ## Advanced Demo
