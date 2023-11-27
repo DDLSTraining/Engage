@@ -14,6 +14,13 @@ New-Item -Path e:\ScriptDemo -Name Log -ItemType directory
 
 ## Create a script that moves the files into the correct sub-directories
 
+- The script needs to do the following
+  - Change the location to the e:\ScriptDemo directory
+  - Copy all the txt files into the Text sub-directory
+  - Copy all the doc files into the Doc sub-directory
+  - Copy all the log files into the Log sub-directory
+  - Report on other files that will not be moved as they do not fit the above criteria
+
 <details><summary>Click to see the answer</summary><Strong> 
     
 ```PowerShell
