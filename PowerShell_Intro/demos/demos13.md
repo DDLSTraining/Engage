@@ -13,7 +13,11 @@ New-Item -Path e:\ScriptDemo -Name Log -ItemType directory
 
 
 # Create a script that moves the files into the correct sub directories
+```
 
+<details><summary>Click to see the answer</summary><Strong> 
+    
+```PowerShell
 Set-location e:\ScriptDemo
 Get-ChildItem -File | ForEach-Object {
   if ($_.Name -like '*.txt') {Move-Item -Path $_ -Destination .\Text}
@@ -22,6 +26,6 @@ Get-ChildItem -File | ForEach-Object {
   else {Write-Host $_.Name is not being moved to a sub directory}
 }
 ```
-
+</Strong></details> 
 [Back to Topics](../README.md#afternoon-session)
 
