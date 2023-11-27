@@ -36,6 +36,7 @@ do {
   $PickNumber = 1..40 | Get-Random
   if ($PickNumber -notin $LottoNumbers) {
     $LottoNumbers += $PickNumber
+    "This is the current list of numbers $LottoNumbers" 
   }
 } while ($LottoNumbers.Count -ne 6)
 Write-Host -ForegroundColor cyan "Here are your numbers $LottoNumbers"
