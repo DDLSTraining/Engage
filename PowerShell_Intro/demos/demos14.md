@@ -2,7 +2,7 @@
 
 ```PowerShell
 # Simple array iteration using foreach
-$Colors = "Red", "Green", "Blue"
+$Colors = "Red", "Green", "Yellow"
 
 foreach ($Color in $Colors) {
   Write-Host -NoNewline "Current color is: "
