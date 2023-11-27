@@ -11,7 +11,8 @@ New-Item -Path e:\ScriptDemo -Name Log -ItemType directory
 1..3 | ForEach-Object {New-Item -Path e:\ScriptDemo -Name File$_.doc -ItemType File}
 1..3 | ForEach-Object {New-Item -Path e:\ScriptDemo -Name File$_.exe -ItemType File}
 
-Get-ChildItem -Recurse -Directory -Path e:\ScriptDemo
+# Run the next command to show the directory structure
+# Get-ChildItem -Recurse -Directory -Path e:\ScriptDemo
 ```
 
 ## Create a script that moves the files into the correct sub-directories
