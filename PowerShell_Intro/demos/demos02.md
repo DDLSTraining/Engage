@@ -14,7 +14,8 @@ Get-Process
 
 Get-Process -Name PowerShell
 
-# Tab completion of commands (hit the tab key to complete these commands )
+# Tab completion of commands
+# (At the end of each line, hit the TAB key to complete these commands )
 Get-Serv
 
 Get-ChildItem -Dire
