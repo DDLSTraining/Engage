@@ -25,6 +25,27 @@ $CurrentDate.Month
 # This will calculate the date that is exactly 6 months before the current date
 $CurrentDate.AddMonths(-6)
 
+# A more advanced demo shows how to create a set of objects and how an object can contain other objects
+$Engine = [PSCustomObject]@{
+  Size         = 3.3
+  CylnderCount = 6
+  EngineStyle  = 'VShaped'
+  FuelType     = 'Petrol'
+}
+
+$Car = [PSCustomObject]@{
+  Engine = $Engine
+  Make   = 'Ford'
+  Model  = 'F-150'
+  Color  = 'Grey'
+  Type   = 'Utility'
+}
+
+$Car
+$Car.Engine
+
+
+
 ```
 
 [Back to Topics](../README.md#morning-session)
