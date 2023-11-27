@@ -21,6 +21,9 @@ New-Item -Path e:\ScriptDemo -Name Log -ItemType directory
   - Copy all the log files into the Log sub-directory
   - Report on other files that will not be moved as they do not fit the above criteria
 
+
+## Script answer
+
 <details><summary>Click to see the answer</summary><Strong> 
     
 ```PowerShell
