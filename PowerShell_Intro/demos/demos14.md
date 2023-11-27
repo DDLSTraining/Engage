@@ -5,7 +5,8 @@
 $Colors = "Red", "Green", "Blue"
 
 foreach ($Color in $Colors) {
-    Write-Host -ForegroundColor $Color "Current color is: $Color"
+  Write-Host -NoNewline "Current color is: "
+  Write-Host -ForegroundColor $Color $Color
 }
 
 
