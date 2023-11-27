@@ -12,7 +12,7 @@ New-Item -Path e:\ScriptDemo -Name Log -ItemType directory
 1..3 | ForEach-Object {New-Item -Path e:\ScriptDemo -Name File$_.exe -ItemType File}
 ```
 
-# Create a script that moves the files into the correct sub-directories
+## Create a script that moves the files into the correct sub-directories
 
 <details><summary>Click to see the answer</summary><Strong> 
     
