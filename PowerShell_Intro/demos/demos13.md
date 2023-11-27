@@ -28,7 +28,7 @@ Set-location e:\ScriptDemo
 Get-ChildItem -File | ForEach-Object {
   if ($_.Name -like '*.txt') {Move-Item -Path $_ -Destination .\Text}
   elseif ($_.Name -like '*.log') {Move-Item -Path $_ -Destination .\Log}
-  elseif ($_.Name -like '*.Doc') {Move-Item -Path $_ -Destination .\Doc}
+  elseif ($_.Name -like '*.doc') {Move-Item -Path $_ -Destination .\Doc}
   else {Write-Host $_.Name is not being moved to a sub directory}
 }
 ```
