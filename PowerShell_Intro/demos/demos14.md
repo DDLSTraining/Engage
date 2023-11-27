@@ -1,6 +1,15 @@
 # Work with scripting constructs in Windows PowerShell
 
 ```PowerShell
+# Simple array iteration using foreach
+$Colors = "Red", "Green", "Blue"
+
+foreach ($Color in $Colors) {
+    Write-Host -ForegroundColor $Color "Current color is: $Color"
+}
+
+
+
 # if example
 #Guess a number between 1 and 500
 $GuessThisNumber = 87
