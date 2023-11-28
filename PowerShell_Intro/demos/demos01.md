@@ -16,6 +16,7 @@ Get-ExecutionPolicy
 
 ```PowerShell
 # To change the execution policy to a more restrictive policy 
+
 Set-ExecutionPolicy -ExecutionPolicy AllSigned
 ```
 
