@@ -3,6 +3,9 @@
 ## Basic Demo
 
 ```PowerShell
+# To get help "about" the concept of comparison
+Get-Help -Name About_ComparisonOperators
+
 # To show only the Service objects that are stopped:
 
 Get-Service | Where-Object Status -eq 'Stopped'
