@@ -4,6 +4,7 @@
 
 ```PowerShell
 # Simple array iteration using foreach
+
 $Colors = "Red", "Green", "Yellow"
 
 foreach ($Color in $Colors) {
@@ -27,7 +28,8 @@ Write-Host -ForegroundColor cyan "Here are your numbers $LottoNumbers"
 ## Intermediate Demo
 
 ```PowerShell
-# Do While Loop Example
+# Pick Lotto numbers using a Do While Loop, showing how the numbers build in the array
+
 $LottoNumbers = @()
 do {
   $PickNumber = 1..40 | Get-Random
@@ -44,6 +46,7 @@ Write-Host -ForegroundColor cyan "Here are your numbers $LottoNumbers"
 ```PowerShell
 # Guessing game
 #Guess a number between 1 and 500
+
 $GuessThisNumber = 87
 $TooHigh = 501
 $TooLow  = 0
