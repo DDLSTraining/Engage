@@ -36,7 +36,7 @@ Get-EventLog -Logname Sec
 ```PowerShell
 # PowerShell Commands can also have a prefix added to the noun 
 
-Get-<strong>Net</strong>FirewallRule
+Get-NetFirewallRule
 
 Get-NetIPAddress
 
