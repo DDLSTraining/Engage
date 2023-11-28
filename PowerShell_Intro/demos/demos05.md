@@ -37,7 +37,7 @@ Get-ChildItem -Path .\*.tmp | Remove-item -Whatif
 
 Get-DnsClientCache
 
-# Using Get-Member and/or Select-Object the real property names are discovered
+# Using Get-Member and/or Select-Object the reveal the actual property names in the objects
 
 Get-DnsClientCache | Get-Member
 
