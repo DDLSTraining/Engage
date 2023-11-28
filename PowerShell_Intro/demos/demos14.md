@@ -1,5 +1,7 @@
 # Work with scripting constructs in Windows PowerShell
 
+## Basic Demo
+
 ```PowerShell
 # Simple array iteration using foreach
 $Colors = "Red", "Green", "Yellow"
@@ -9,9 +11,38 @@ foreach ($Color in $Colors) {
   Write-Host -ForegroundColor $Color $Color
 }
 
+# Pick Lotto numbers using a Do Until Loop
 
+$LottoNumbers = @()
+do {
+  $PickNumber = 1..40 | Get-Random
+  if ($PickNumber -notin $LottoNumbers) {
+    $LottoNumbers += $PickNumber
+  }
+} until ($LottoNumbers.Count -eq 6)
+Write-Host -ForegroundColor cyan "Here are your numbers $LottoNumbers"
 
-# if example
+```
+
+## Intermediate Demo
+
+```PowerShell
+# Do While Loop Example
+$LottoNumbers = @()
+do {
+  $PickNumber = 1..40 | Get-Random
+  if ($PickNumber -notin $LottoNumbers) {
+    $LottoNumbers += $PickNumber
+    "This is the current list of numbers $LottoNumbers" 
+  }
+} while ($LottoNumbers.Count -ne 6)
+Write-Host -ForegroundColor cyan "Here are your numbers $LottoNumbers"
+```
+
+## Advanced Demo
+
+```PowerShell
+# Guessing game
 #Guess a number between 1 and 500
 $GuessThisNumber = 87
 $TooHigh = 501
@@ -26,30 +57,6 @@ do {
   }
   Write-Host "Computer is guessing $ComputerGuess"
 } until ($ComputerGuess -eq $GuessThisNumber)
-
-
-
-# Do Until Loop Example
-$LottoNumbers = @()
-do {
-  $PickNumber = 1..40 | Get-Random
-  if ($PickNumber -notin $LottoNumbers) {
-    $LottoNumbers += $PickNumber
-  }
-} until ($LottoNumbers.Count -eq 6)
-Write-Host -ForegroundColor cyan "Here are your numbers $LottoNumbers"
-
-
-# Do While Loop Example
-$LottoNumbers = @()
-do {
-  $PickNumber = 1..40 | Get-Random
-  if ($PickNumber -notin $LottoNumbers) {
-    $LottoNumbers += $PickNumber
-    "This is the current list of numbers $LottoNumbers" 
-  }
-} while ($LottoNumbers.Count -ne 6)
-Write-Host -ForegroundColor cyan "Here are your numbers $LottoNumbers"
 ```
 
 [Back to Topics](../README.md#afternoon-session)
