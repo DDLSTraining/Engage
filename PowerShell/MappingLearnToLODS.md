@@ -6,7 +6,7 @@
 
 |Old_Module No.|Learn.microsoft.com modules | Skillable Labs|
 |---:|---|---|
-|***Day 1***|
+|***Day 1***||[bit.ly/PSlabguide](https://bit.ly/PSlabguide)|
 |1|- [Review Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/review-windows-powershell/)<br>- [Understand the command syntax in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/understand-command-syntax-windows-powershell/)<br>- [Find commands and Get-Help in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/find-commands-get-help-windows-powershell/)|[Lab 1](https://ddls.learnondemand.net/) [^1]|
 |3|- [Understand the Windows PowerShell pipeline](https://learn.microsoft.com/en-us/training/modules/understand-windows-powershell-pipeline/)<br>- [Select, sort, and measure objects using the pipeline](https://learn.microsoft.com/en-us/training/modules/select-sort-measure-objects-use-pipeline/)|[Lab 1](https://ddls.learnondemand.net/)|
 |***Day 2***|
