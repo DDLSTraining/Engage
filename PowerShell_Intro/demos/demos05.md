@@ -7,7 +7,10 @@
 # Find all Notepad instances
 # Always check to see if a parameter can provide the input for the command, before using traditional pipelines 
 
-Get-Process -Name Notepad 
+Get-Process -Name Notepad
+
+# Discovering the object attributes from the Get-Process command
+Get-Process | Get-Member
 ```
 
 ## Intermediate Demo
