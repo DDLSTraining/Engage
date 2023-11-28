@@ -14,12 +14,6 @@ Get-Help -Name Restart-Service -ShowWindow
 
 Restart-Service -Name Spooler
 
-# Using help to learn about PowerShell concepts
-
-Get-Help -Name About*
-
-Get-Help -Name About_Objects
-
 # Tab completion of commands
 # (At the end of each line, hit the TAB key to complete these commands)
 
