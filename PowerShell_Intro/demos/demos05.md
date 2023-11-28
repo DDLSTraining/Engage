@@ -10,7 +10,14 @@
 Get-Process -Name Notepad
 
 # Discovering the object attributes from the Get-Process command
+
 Get-Process | Get-Member
+
+# Formatting the output of a command into a table and then a list
+
+Get-Service -Name Spooler, BITS | Format-Table
+
+Get-Service -Name Spooler, BITS | Format-List
 ```
 
 ## Intermediate Demo
