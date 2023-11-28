@@ -1,7 +1,8 @@
 # Create and run scripts by using Windows PowerShell
 
 ```PowerShell
-# Setting up for the demonstration
+# Setting up for the demonstration (run this before the demo)
+
 New-Item -Path e:\ -Name ScriptDemo -ItemType directory 
 New-Item -Path e:\ScriptDemo -Name Text -ItemType directory 
 New-Item -Path e:\ScriptDemo -Name Doc -ItemType directory 
