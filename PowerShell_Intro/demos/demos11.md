@@ -18,7 +18,7 @@ $MyName = 'Brent'
 
 $FireWallRules = Get-NetFirewallRule
 
-$FireWallRules
+$FireWallRules | Select-Object -Property Name, Direction, Action
 ```
 
 ## Advanced Demo
