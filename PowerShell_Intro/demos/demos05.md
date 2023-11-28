@@ -15,9 +15,9 @@ Get-Process | Get-Member
 
 # Formatting the output of a command into a table and then a list
 
-Get-Service -Name Spooler, BITS | Format-Table
+Get-Service -Name Spooler, BITS | Format-Table -Property Status, StartType, Name
 
-Get-Service -Name Spooler, BITS | Format-List
+Get-Service -Name Spooler, BITS | Format-List -Property Status, StartType, Name
 ```
 
 ## Intermediate Demo
