@@ -5,7 +5,7 @@
 ## Morning Session
 |LearningPath |Topics Covered |Demos|
 |---|---|---|
-|0. [Understanding Objects](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_objects?view=powershell-7.3)|Learn about PowerShell objects|[Demos](demo 00/demos00.md)|
+|0. [Understanding Objects](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_objects?view=powershell-7.3)|Learn about PowerShell objects|[Demo 00](demos/demos00.md)|
 |1. [Getting to know PowerShell](https://learn.microsoft.com/en-au/training/modules/review-windows-powershell/)|Learn about Windows PowerShell<br>Get familiar with Windows PowerShell applications<br>Installing and Using PowerShell<br>Use Visual Studio Code with PowerShell|[Demo 01](demos/demos01.md)|
 |2. [Understand the command syntax in Windows PowerShell](https://learn.microsoft.com/en-au/training/modules/understand-command-syntax-windows-powershell/)|Discover the structure of PowerShell cmdlets<br>Discover the parameters for using PowerShell cmdlets<br>Review the tab completion feature in PowerShell<br>Display the About files content in PowerShell|[Demo 02](demos/demos02.md)|
 |3. [Locating Commands](https://learn.microsoft.com/en-au/training/modules/introduction-to-powershell/4-cmdlets)|Get-Command|[Demos](demo 03/demos03.md)|
