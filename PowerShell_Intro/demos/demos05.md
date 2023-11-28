@@ -9,7 +9,7 @@
 
 Get-Process -Name Notepad
 
-# Discovering the object attributes from the Get-Process command
+# Discovering the object attributes created by the Get-Process command
 
 Get-Process | Get-Member
 
