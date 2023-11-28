@@ -37,5 +37,6 @@ Get-ChildItem -Path C:\windows -Filter *.ini | ForEach-Object {
 ```
 
 
-[Back to Topics](../README.md#morning-session)
+[Back to Topics](../README.md#afternoon-session)
+
 
