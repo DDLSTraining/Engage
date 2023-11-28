@@ -25,8 +25,7 @@ Set-ExecutionPolicy -ExecutionPolicy AllSigned
 # Installing VSCode will assist in creating PowerShell 7 scripts
 # Searching on the internet will discover the installer for VSCode (Visual Studio Code)
 
-Start-Process 'https://www.google.com.au/search?q=vscode'
-
+Start-Process 'https://www.google.com.au/search?q=vscode download site:code.visualstudio.com'
 ```
 
 
