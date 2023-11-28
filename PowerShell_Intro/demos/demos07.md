@@ -3,13 +3,15 @@
 ## Basic Demo
 
 ```PowerShell
-# To get help "about" the concept of comparison
+# When filtering objects, comparison operators are used to assess a condition
+# To get help "about" the concept of comparison operators
 
 Get-Help -Name About_Comparison_Operators -ShowWindow
 
 # To show only the Service objects that are stopped:
 
 Get-Service | Where-Object Status -eq 'Stopped'
+# (This basic syntax has many limitations, hence, it is not preferred)
 ```
 
 ## Intermediate Demo
