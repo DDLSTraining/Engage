@@ -33,6 +33,15 @@ Get-ChildItem -Path .\*.tmp | Remove-item -Whatif
 ## Advanced Demo
 
 ```PowerShell
+# Some commands produce output that does not reflect the actual property names
+
+Get-DnsClientCache
+
+# Using Get-Member and/or Select-Object the real property names are discovered
+
+Get-DnsClientCache | Get-Member
+
+Get-DnsClientCache | Select-Object -Property *
 
 # This passes several words to a command, the command treats the words as input
 'Bits', 'Spooler', 'w32Time' | Get-Service
