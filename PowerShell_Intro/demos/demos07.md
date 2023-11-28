@@ -1,10 +1,10 @@
-# Filter objects out of the pipeline
+ -# Filter objects out of the pipeline
 
 ## Basic Demo
 
 ```PowerShell
 # To get help "about" the concept of comparison
-Get-Help -Name About_ComparisonOperators -ShowWindow
+Get-Help -Name About_Comparison_Operators -ShowWindow
 
 # To show only the Service objects that are stopped:
 
