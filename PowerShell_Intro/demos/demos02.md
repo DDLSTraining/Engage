@@ -10,7 +10,7 @@ Get-Date
 
 Get-Service
 
-Restart-Service Spooler
+Restart-Service -Name Spooler
 
 # Tab completion of commands
 # (At the end of each line, hit the TAB key to complete these commands)
