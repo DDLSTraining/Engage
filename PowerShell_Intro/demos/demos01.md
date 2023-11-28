@@ -7,17 +7,24 @@
 
 $PSVersionTable
 
-# To determine what execution policy is running use the following command
+# PowerShell is a command line console, so commands and scripts do not need to be compiled first to run
 
-Get-ExecutionPolicy
+Get-SmbShare
+```
+
+## Intermediate Demo
+
+```PowerShell
+# Parameters can change the way that the command runs 
+Get-Service
+
+Get-Service -Name BITS
 ```
 
 ## Advanced Demo
 
 ```PowerShell
-# PowerShell is a command line console, so commands and scripts do not need to be compiled first to run
 
-Get-SmbShare
 
 # A script file can also be created to store a series of commands that can be run by calling the name of the script
 # The next command will create a script called Get-Shares.ps1
