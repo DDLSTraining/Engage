@@ -5,9 +5,11 @@
 ```PowerShell
 
 # To Select several properties from each object use the following command
+
 Get-Service | Select-Object -Property Status, StartType, Name
 
 # To sort the process objects by ID:
+
 Get-Process | Sort-Object -Property ID 
 
 ```
@@ -17,6 +19,7 @@ Get-Process | Sort-Object -Property ID
 ```PowerShell
 
 # A more advanced pipeline will filter by two properties
+
 Get-ADUser -Filter * -Properties Department |
   Sort-Object Department, Name |
   Select-Object -Property Department, Name
