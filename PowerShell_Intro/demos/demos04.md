@@ -5,6 +5,7 @@
 ```PowerShell
 
 # To learn all the parameters that are associated with the Get-Service command:
+
 Get-Help -ShowWindow -Name Get-Service
 
 # OR
@@ -19,6 +20,7 @@ Get-Help -Full -Name Get-Service
 ```PowerShell
 
 # For the help that is available online
+
 Get-Help -Online -Name Get-Process
 
 ```
