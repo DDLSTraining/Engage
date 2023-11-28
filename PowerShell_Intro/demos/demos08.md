@@ -14,7 +14,7 @@ Get-Service -Name Notepad | Stop-Service -WhatIf
 ```PowerShell
 
 # Produce 10 random numbers
-# (Not a random number between 1 and 10)
+# (This will not produce random numbers between 1 and 10)
 
 1..10 | Foreach-Object {Get-Random}
 
