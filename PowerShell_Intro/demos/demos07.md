@@ -26,9 +26,13 @@ Get-Service | Where-Object {$_.Status -eq 'Stopped'}
 ## Advanced Demo
 
 ```PowerShell
-# To show only service objects that are running and their name begins with "a"
+# To show only service objects that are running and their names begin with "a"
 
 Get-Service | Where-Object {$_.Status -eq 'Running' -and $_.Name -like "a*"}
+
+# To show only process objects that have a name greater than 10 characters or their names begin with "w"
+
+Get-Process | Where-Object {$_.Name.Length -gt 10 -or $_.Name -like "w*"}
 ```
 
 
