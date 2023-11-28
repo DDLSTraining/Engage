@@ -61,7 +61,7 @@ Get-Item -Path C:\Windows
 
 Get-Process
 
-Get-Process -Name PowerShell
+Get-Process -Name PowerShell*
 
 ```
 
