@@ -8,7 +8,7 @@
 Get-Service | Select-Object -Property Status, StartType, Name
 
 # To sort the process objects by ID:
-Get-Process | Sort-object -Property ID 
+Get-Process | Sort-Object -Property ID 
 
 ```
 
