@@ -27,7 +27,6 @@ Get-Service -Name Spooler, BITS | Format-List -Property Status, StartType, Name
 # (the -WhatIf parameter will not allow the Stop-Process to execute)
 
 Get-ChildItem -Path .\*.tmp | Remove-item -Whatif
-
 ```
 
 ## Advanced Demo
@@ -37,16 +36,13 @@ Get-ChildItem -Path .\*.tmp | Remove-item -Whatif
 
 Get-DnsClientCache
 
-# Using Get-Member and/or Select-Object the reveal the actual property names in the objects
+# Using Get-Member to reveal the actual property names in the objects
 
 Get-DnsClientCache | Get-Member
 
-Get-DnsClientCache | Select-Object -Property *
-
 # This passes several words to a command, the command treats the words as input
+
 'Bits', 'Spooler', 'w32Time' | Get-Service
-
-
 ```
 
 
