@@ -21,7 +21,7 @@ Get-Command -Noun Process
 
 ```PowerShell
 
-# Find commands that may be difficult to find
+# Some commands may be difficult to find
 # For example: Find a command that tests network connectivity
 
 Get-Command -Name *network*
