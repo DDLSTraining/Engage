@@ -6,8 +6,6 @@
 
 # Pipelines will automatically enumerate the objects to the next command
 Get-Service -Name Notepad | Stop-Service -WhatIf
-
-
 ```
 
 ## Intermediate Demo
