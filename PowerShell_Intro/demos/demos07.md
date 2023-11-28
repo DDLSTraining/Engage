@@ -1,4 +1,4 @@
- -# Filter objects out of the pipeline
+# Filter objects out of the pipeline
 
 ## Basic Demo
 
