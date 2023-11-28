@@ -29,7 +29,8 @@ Get-Command -Name *network*
 # The next step is to shorten the search criteria
 
 Get-Command -Name *net*
-# This will produce the correct command to perform the test, however, there are too many results to make this efficient
+# This will produce the correct command to perform the test, however, there are too many results 
+# and this makes it difficult to locate the correct command
 
 Get-Command -Name *net*connect*
 # This will reduce the list of commands significantly to help you identify the correct command
