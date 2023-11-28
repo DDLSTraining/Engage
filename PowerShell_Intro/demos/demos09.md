@@ -18,6 +18,9 @@ Get-Process |
 
 ```PowerShell
 
+# Save Processes as a CSV text file removing the TypeInformation
+# Type Information can prevent the simple importing of the CSV into spreadsheets and databases
+
 Get-Process | 
   Sort-Object -Property WorkingSet, Name -Descending | 
   Select-Object -Property Name, Id, WorkingSet -first 10 |
@@ -25,6 +28,7 @@ Get-Process |
   Out-File .\TopProcessList.csv
 
 # Save Processes as a JSON text file
+
 Get-Process | 
   Sort-Object -Property WorkingSet, Name -Descending | 
   Select-Object -Property Name, Id, WorkingSet -first 10 |
