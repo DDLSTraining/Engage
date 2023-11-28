@@ -23,7 +23,7 @@ $Fruits
 ```PowerShell
 # Creating an empty ArrayList
 
-[System.Collections.ArrayList]$Colors = $() 
+[System.Collections.ArrayList]$Colors = @() 
 
 # Adding elements to ArrayList
 
