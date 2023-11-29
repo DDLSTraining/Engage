@@ -1,7 +1,5 @@
 # Introduction to Windows PowerShell
 
-<br>
-
 ## Morning Session
 |LearningPath |Topics Covered |Demos|
 |---|---|---|
