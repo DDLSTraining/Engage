@@ -10,12 +10,13 @@
 |4. [Using the help system](https://learn.microsoft.com/en-au/training/modules/discover-commands/2-help)|Get-Help|[Demo 04](demos/demos04.md)|
 |5. [Understand the Windows PowerShell pipeline](https://learn.microsoft.com/en-au/training/modules/understand-windows-powershell-pipeline/)|Review Windows PowerShell pipeline and its output<br>Discover object members in PowerShell<br>Control the formatting of pipeline output|[Demo 05](demos/demos05.md)|
 |6. [Selecting and Sorting](https://learn.microsoft.com/en-au/training/modules/connect-commands/2-select-data)|Selecting<br>Sorting|[Demo 06](demos/demos06.md)|
-|7. [Filter objects out of the pipeline](https://learn.microsoft.com/en-au/training/modules/filter-objects-out-of-pipeline/)|Learn about the comparison operators in PowerShell<br>Review advanced filter syntax in the pipeline<br>Optimize the filter performance in the pipeline|[Demo 07](demos/demos07.md)|
-|8. [Enumerate objects in the pipeline](https://learn.microsoft.com/en-au/training/modules/enumerate-objects-pipeline/)|Learn about enumerations in the pipeline<br>Review advanced syntax to enumerate objects in the pipeline|[Demo 08](demos/demos08.md)|
+
 
 ## Afternoon Session
 |LearningPath |Topics Covered |Demos|
 |---|---|---|
+|7. [Filter objects out of the pipeline](https://learn.microsoft.com/en-au/training/modules/filter-objects-out-of-pipeline/)|Learn about the comparison operators in PowerShell<br>Review advanced filter syntax in the pipeline<br>Optimize the filter performance in the pipeline|[Demo 07](demos/demos07.md)|
+|8. [Enumerate objects in the pipeline](https://learn.microsoft.com/en-au/training/modules/enumerate-objects-pipeline/)|Learn about enumerations in the pipeline<br>Review advanced syntax to enumerate objects in the pipeline|[Demo 08](demos/demos08.md)|
 |9. [Send and pass data as output from the pipeline](https://learn.microsoft.com/en-au/training/modules/send-pass-data-output-from-pipeline/)|Write pipeline data to a file<br>Convert pipeline objects to other data formats<br>Control additional output options in PowerShell|[Demo 09](demos/demos09.md)|
 |10. [Manage Active Directory Domain Services using PowerShell](https://learn.microsoft.com/en-au/training/modules/manage-active-directory-domain-services-use-powershell-cmdlets/)|Manage user accounts in PowerShell<br>Manage groups and group memberships in PowerShell<br>Manage computer accounts in PowerShell<br>Manage OUs and Active Directory objects in PowerShell|[Demo 10](demos/demos10.md)|
 |11. [Manage variables in Windows PowerShell scripts](https://learn.microsoft.com/en-au/training/modules/manage-variables-windows-powershell-scripts/)|Define variables in Windows PowerShell scripts<br>Create variable names in Windows PowerShell scripts<br>Assign values and types to variables<br>Identify the methods and properties<br>Use string variables and methods PowerShell scripts<br>Use date variables and methods in PowerShell scripts|[Demo 11](demos/demos11.md)|
