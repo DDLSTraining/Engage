@@ -76,7 +76,7 @@ do {
 $AllAdUsers = Get-ADuser -Filter *
 foreach ($User in $AllAdusers) {
   if ($User.DistinguishedName -like '*CN=Users,DC=Adatum,DC=Com'){
-    Write-Host Skipping $User.Name
+    Write-Host -ForegroundColor Yellow Skipping $User.Name
   }
   else {
     $EmailAddress = $User.GivenName + '.' + $User.Surname + '@adatum.com'
