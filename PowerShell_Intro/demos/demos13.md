@@ -1,11 +1,12 @@
 # Create and run scripts by using Windows PowerShell
 
 ```PowerShell
-# Setting up for the demonstration (run this before the demo)
+# Create a script that changes all of the users in London from the Sales department to "London Sales"
 
-Start-Process "https://www.powershellgallery.com/"
-
-# Search the gallery for something you use at work
+$SalesUsers = Get-ADUser -filter * -Properties City,Department | Where-Object {$_.Department -eq 'Sales' -and $_.City -eq 'London'}
+$SalesUsers | Foreach-Object {
+  Set-ADUser -Identity $_ -Department 'London Sales'
+}
 ```
 
 
