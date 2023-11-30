@@ -66,6 +66,7 @@ do {
 
 ### The goal is to create email addresses for each Active Directory user
 - All users except those in the CN=Users,DC=Adatum,DC=Com container will get the new email address
+- Display any users that are not getting an email address on the screen in yellow
 - The email address must be in this format firstname.lastname@adatum.com (example:john.brown@adatum.com)
 - The email address must be in all lowercase letters
 - When testing this script, use -WhatIf on the appropriate command so that no changes are made
