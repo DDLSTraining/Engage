@@ -1,3 +1,15 @@
+# Search in PowerShell Gallery for a module
+
+[powershellgallery.com](https://powershellgallery.com)
+
+- Search the gallery for something that your company uses
+  - Cisco
+  - VMware
+  - SCCM
+  - Citrix
+  
+
+
 # Create and run scripts by using Windows PowerShell
 
 ```PowerShell
