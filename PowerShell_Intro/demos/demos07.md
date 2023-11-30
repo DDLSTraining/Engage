@@ -36,4 +36,4 @@ Get-Process | Where-Object {$_.Name.Length -gt 10 -or $_.Name -like "w*"}
 ```
 
 
-[Back to Topics](../README.md#morning-session)
+[Back to Topics](../README.md#afternoon-session)
