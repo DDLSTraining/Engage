@@ -88,7 +88,7 @@ foreach ($User in $AllAdusers) {
 }
 
 Get-ADUser -filter {Department -eq 'Sales'} -Properties EmailAddress
-Get-ADuser -filter {DistinguishedName -like '*cn=users,dc=adatum,dc=com'} -Properties EmailAddress
+Get-ADuser -filter {Name -eq 'Administrator'} -Properties EmailAddress
 ```
 </Strong></details> 
 
