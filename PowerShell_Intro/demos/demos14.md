@@ -62,4 +62,32 @@ do {
 } until ($ComputerGuess -eq $GuessThisNumber)
 ```
 
+## Build a Script
+
+### The goal is to create email addresses for each Active Directory user
+- All users except those in the CN=Users,DC=Adatum,DC=Com container will get the new email address
+- The email address must be in this format FirstName.LastName@adatum.com
+- When testing this script, use -WhatIf on the appropriate command so that no changes are made
+- Once satisfied that the correct users will get the email address run the script again without -WhatIf
+
+<details><summary>Click for hint</summary><Strong> 
+  
+```PowerShell
+$AllAdUsers = Get-ADuser -Filter *
+foreach ($User in $AllAdusers) {
+  if ($User.DistinguishedName -like '*CN=Users,DC=Adatum,DC=Com'){
+    Write-Host Skipping $User.Name
+  }
+  else {
+    $EmailAddress = $User.GivenName + '.' + $User.Surname + '@adatum.com'
+    Set-ADUser -Identity $User -EmailAddress $EmailAddress -WhatIf
+  }
+}
+
+```
+</Strong></details> 
+
+
+
+
 [Back to Topics](../README.md#afternoon-session)
