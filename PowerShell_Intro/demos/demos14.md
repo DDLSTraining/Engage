@@ -69,6 +69,7 @@ do {
 - The email address must be in this format FirstName.LastName@adatum.com
 - When testing this script, use -WhatIf on the appropriate command so that no changes are made
 - Once satisfied that the correct users will get the email address run the script again without -WhatIf
+- Make sure the email address was set on the relevant users 
 
 <details><summary>Click to see the answer</summary><Strong> 
   
@@ -83,6 +84,8 @@ foreach ($User in $AllAdusers) {
     Set-ADUser -Identity $User -EmailAddress $EmailAddress -WhatIf
   }
 }
+
+Get-ADUser -filter {Department -eq 'Sales'} -Properties EmailAddress
 
 ```
 </Strong></details> 
