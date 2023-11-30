@@ -70,7 +70,7 @@ do {
 - When testing this script, use -WhatIf on the appropriate command so that no changes are made
 - Once satisfied that the correct users will get the email address run the script again without -WhatIf
 
-<details><summary>Click for hint</summary><Strong> 
+<details><summary>Click to see the answer</summary><Strong> 
   
 ```PowerShell
 $AllAdUsers = Get-ADuser -Filter *
