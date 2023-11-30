@@ -71,7 +71,7 @@ do {
 - The email address must be in all lowercase letters
 - When testing this script, use -WhatIf on the appropriate command so that no changes are made
 - Once satisfied that the correct users will get the email address run the script again without -WhatIf
-- Make sure the email address was set on the relevant users 
+- Make sure the email address was set on the relevant users and not on those in the Users container
 
 <details><summary>Click to see the answer</summary><Strong> 
   
