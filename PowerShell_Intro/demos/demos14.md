@@ -87,7 +87,8 @@ foreach ($User in $AllAdusers) {
   }
 }
 
-Get-ADUser -filter {Department -eq 'Sales'} -Properties EmailAddress
+$SalesUsers = Get-ADUser -filter {Department -eq 'Sales'} -Properties EmailAddress
+$SalesUsers[0]
 Get-ADuser -filter {Name -eq 'Administrator'} -Properties EmailAddress
 ```
 </Strong></details> 
