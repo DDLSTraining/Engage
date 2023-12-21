@@ -28,7 +28,7 @@
 
 [AWS Glossary](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
 
-## Model 4: Business Value of the Cloud
+## Module 4: Business Value of the Cloud
 [FICO case study](https://aws.amazon.com/solutions/case-studies/fico/)
 
 [Coca Cola case study](https://aws.amazon.com/solutions/case-studies/coca-cola-case-study/)
@@ -70,6 +70,51 @@
 [Lyft Uses AWS Cost Management case study](https://aws.amazon.com/solutions/case-studies/lyft-cost-management/)
 
 [Aramex case study](https://aws.amazon.com/solutions/case-studies/aramex/)
+
+## Module 5: Cloud Value Framework
+[Cloud Economics Center - Understand and optimize the value of AWS](https://aws.amazon.com/economics/)
+
+[Fostering Business and Organizational Transformation to Generate Business Value with Amazon Web Services](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-BV%20IDC%202018.pdf)
+
+[Cloud Value Benchmarking Study Quantifies the Benefits of Cloud Adoption PDF](https://pages.awscloud.com/rs/112-TZM-766/images/cloud-value-benchmarking-study-quantifies-cloud-adoption-benefits.pdf)
+
+[JKOS case study](https://aws.amazon.com/solutions/case-studies/JKOS/)
+
+[msg global solutions case study](https://aws.amazon.com/solutions/case-studies/msg-global-solutions/)
+
+[Intuit - Geekwire, December 2016](http://www.geekwire.com/2016/moving-cloud-requires-attracts-scarce-expensive-talent-say-3-big-aws-users/)
+
+[AdRoll - Case Study: How AdRoll Lowers Costs with AWS](https://aws.amazon.com/solutions/case-studies/adroll-tco/)
+
+[How Live Nation Realized Business Value with AWS](https://aws.amazon.com/enterprise/executive-insights/how-live-nation-realized-business-value-with-aws/)
+
+[Cost of a data breach 2022](https://www.ibm.com/security/digital-assets/cost-data-breach-report/#/)
+
+[IDC Devops and the Cost of Downtime: Fortune 1000](https://kapost-files-prod.s3.amazonaws.com/published/54ef73ef2592468e25000438/idc-devops-and-the-cost-of-downtime-fortune-1000-best-practice-metrics-quantified.pdf)
+
+[What Is the Cost of Downtime?](https://statusgator.com/blog/2020/03/08/what-is-the-cost-of-downtime/)
+
+[AWS Customer Success Stories](https://aws.amazon.com/solutions/case-studies)
+
+[Orbis Financial case study](https://aws.amazon.com/solutions/case-studies/orbis_financial/)
+
+[Aon case study](https://aws.amazon.com/solutions/case-studies/aon/)
+
+[Dow Jones case study](https://aws.amazon.com/solutions/case-studies/dow-jones/)
+
+[Autodesk case study](https://aws.amazon.com/solutions/case-studies/autodesk/)
+
+[EC2 Spot Instance advisor](https://aws.amazon.com/ec2/spot/instance-advisor/)
+
+[AWS Pricing Calculator](https://calculator.aws/#/)
+
+[451 Research-The Carbon Reduction Opportunity of Moving to the Cloud for APAC](https://d1.awsstatic.com/institute/The%20carbon%20opportunity%20of%20moving%20to%20the%20cloud%20for%20APAC.pdf)
+
+[AWS Cloud migration business value](https://pages.awscloud.com/rs/112-TZM-766/images/AWS_Cloud_Migration_Business_Value_on_AWS_Ebook_FINAL.pdf)
+
+[Business Value on AWS whitepaper](https://pages.awscloud.com/rs/112-TZM-766/images/Business%20Value%20on%20AWS%20-%20Whitepaper%20%281%29.pdf)
+
+
 
 
 
