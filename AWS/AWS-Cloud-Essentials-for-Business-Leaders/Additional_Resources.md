@@ -1,47 +1,30 @@
-# Module 1: Introduction to Amazon Web Services# Module 1: Introduction to Amazon Web Services
-[AWS glossary](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
+# Links to additional material
 
-[Whitepaper: Overview of Amazon Web Services](https://d0.awsstatic.com/whitepapers/aws-overview.pdf)
-
-[AWS Fundamentals: Overview](https://aws.amazon.com/getting-started/cloud-essentials/)
+## Module 3: Cloud Computing
 
 [What is cloud computing?](https://aws.amazon.com/what-is-cloud-computing/)
 
-[Types of cloud computing](https://aws.amazon.com/types-of-cloud-computing/)
+[Carbon reduction opportunity of moving to AWS PDF](https://d39w7f4ix9f5s9.cloudfront.net/e3/79/42bf75c94c279c67d777f002051f/carbon-reduction-opportunity-of-moving-to-aws.pdf)
 
-[Cloud computing with AWS](https://aws.amazon.com/what-is-aws/)
+[Reducing carbon by moving to AWS](https://www.aboutamazon.com/news/sustainability/reducing-carbon-by-moving-to-aws)
 
+[Testimonials For security and compliance, customers choose AWS](https://aws.amazon.com/compliance/testimonials/?nc=sn&loc=9)
 
-# Module 2: Compute in the Cloud
-[Compute on AWS](https://aws.amazon.com/products/compute/)
+[Finra: Analytics without limits Finra's scalable and secure big data architecture part 2](https://aws.amazon.com/blogs/publicsector/analytics-without-limits-finras-scalable-and-secure-big-data-architecture-part-2/)
 
-[AWS Compute Blog](https://aws.amazon.com/blogs/compute/)
+[Zocdoc: Outgrowing our monolith](https://www.zocdoc.com/blog/)
 
-[AWS Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
+[Vodafone: Vodafone Italy tops up mobile security](https://partners.wsj.com/aws/vodafone-italy-tops-up-mobile-security/)
 
-[Hands-On Tutorials: Compute](https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-category=category%23compute&awsf.getting-started-content-type=content-type%23hands-on&getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-level=*all)
-[AWS glossary](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
+[AWS Compliance programs](https://aws.amazon.com/compliance/programs/)
 
-[Whitepaper: Overview of Amazon Web Services](https://d0.awsstatic.com/whitepapers/aws-overview.pdf)
+[Global Infrastructure and benefits of cloud computing](https://aws.amazon.com/about-aws/global-infrastructure/)
 
-[AWS Fundamentals: Overview](https://aws.amazon.com/getting-started/cloud-essentials/)
+[Regions and Availability Zones:](https://aws.amazon.com/about-aws/global-infrastructure/)
 
-[What is cloud computing?](https://aws.amazon.com/what-is-cloud-computing/)
+[AWS Partner Network](https://aws.amazon.com/partners/?nc2=h_ql_pa_ab)
 
-[Types of cloud computing](https://aws.amazon.com/types-of-cloud-computing/)
+[AWS Marketplace](https://aws.amazon.com/marketplace/?nc2=h_ql_mp_m)
 
-[Cloud computing with AWS](https://aws.amazon.com/what-is-aws/)
+[AWS Glossary](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
 
-
-# Module 2: Compute in the Cloud
-[Compute on AWS](https://aws.amazon.com/products/compute/)
-
-[AWS Compute Blog](https://aws.amazon.com/blogs/compute/)
-
-[AWS Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
-
-[Hands-On Tutorials: Compute](https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-category=category%23compute&awsf.getting-started-content-type=content-type%23hands-on&getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-level=*all)
-
-[Category Deep Dive: Serverless]( https://aws.amazon.com/getting-started/deep-dive-serverless/)
-
-[AWS Customer Stories: Serverless]( https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23serverless&awsf.content-type=*all&awsf.customer-references-industry=*all&awsf.customer-references-use-case=*all&awsf.customer-references-tech-category=*all)
