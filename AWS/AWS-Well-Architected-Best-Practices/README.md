@@ -6,8 +6,8 @@ Class Requirements:
 * [Courseware by eVantage](https://evantage.gilmoreglobal.com/)
 
 Course References:
-* [AWS Cloud Essentials for Business Leaders Course on Lumify](https://www.lumifywork.com/en-au/courses/aws-well-architected-best-practices/)
-* [AWS Cloud Essentials for Business Leaders Course on AWS](https://aws.amazon.com/training/classroom/aws-well-architected-best-practices/?ct=sec&sec=rolesol)
+* [AWS Well Architected Best Practices Course on Lumify](https://www.lumifywork.com/en-au/courses/aws-well-architected-best-practices/)
+* [AWS Well Architected Best Practices Course on AWS](https://aws.amazon.com/training/classroom/aws-well-architected-best-practices/?ct=sec&sec=rolesol)
   
 
 ## Resources
