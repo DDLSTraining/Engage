@@ -19,14 +19,20 @@ Course References:
 * [AWS Quick Starts](https://aws.amazon.com/quickstart/) ([GitHub](https://github.com/aws-quickstart/))
 
 ## Timing
-
 |Module|Name|Duration|
 |-|-|-|
-|1|Course Introduction|10 Mins|
-|2|Information Technology for Business Transformation|10 Mins|
-|3|Cloud Computing|45 Mins|
-|*|Break|15 Mins|
-|4|Business value of the Cloud|45 Mins|
-|*|Break|15 Mins|
-|5|The Cloud Value Framework|45 Mins|
-|*|Wrap up|5 Mins|
+|Module 0:| Course Introduction|20|
+|Module 1:| Well-Architected Introduction|20|
+|Module 2:| Operational Excellence|20|
+|Lab 1:| Operational Excellence|60|
+|Module 3:| Reliability|20|
+|Lab 2:| Reliability|70|
+|Module 4:| Security|20|
+|Lab 3:| Security|60|
+|Module 5:| Performance Efficiency|20|
+|Lab 4:| Performance Efficiency|40|
+|Module 6:| Cost Optimization|20|
+|Lab 5:| Cost Optimization|90|
+|Module 7:| Sustainability|10|
+||Course Summary|	10|
+
