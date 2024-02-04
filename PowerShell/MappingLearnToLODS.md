@@ -1,5 +1,6 @@
 # AZ-040 PowerShell Course
 ## Mapping learn.microsoft.com Modules to Skillable (LODS) CloudSlicing Labs
+[MS Learn site](https://learn.microsoft.com/en-au/training/courses/az-040t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=509519#study-guide)
 
 **Shortcut Link to access the rewritten lab instructions** [bit.ly/PSlabguide](https://bit.ly/PSlabguide)  
 <br>
