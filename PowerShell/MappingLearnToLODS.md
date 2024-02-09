@@ -26,6 +26,12 @@
 |Azure - 9|- [Review Azure PowerShell module](https://learn.microsoft.com/en-us/training/modules/review-azure-powershell-module/)<br>- [Review the features and tools for Azure Cloud Shell](https://learn.microsoft.com/en-us/training/modules/review-features-tools-for-azure-cloud-shell/)<br>- [Manage Azure resources with Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/manage-azure-resources-windows-powershell/)|[Lab 2](https://ddls.learnondemand.net/)|
 |MS 365 - 10|- [Manage user\, groups\, and licenses in Azure AD by using Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/manage-users-groups-licenses-azure-active-directory-use-windows-powershell/)<br>- [Manage Exchange Online by using Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/manage-exchange-online-use-windows-powershell/)<br>- [Manage SharePoint Online by using Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/manage-sharepoint-online-use-windows-powershell/)<br>- [Manage Microsoft Teams by using Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/manage-microsoft-teams-use-windows-powershell/)|[Lab 3](https://ddls.learnondemand.net/)|
 
+<br>
+
+[End of Course Survey](https://www.metricsthatmatter.com/dim319)
+
+<br>
+
 [^1]: Despite what Skillable (LearnOnDemand) says, lab block 1 can be saved, resumed and extended.  
 [^2]: One major reason we use -ErrorAction is for [Try Catch](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_try_catch_finally?view=powershell-7.4) contructs.
 [^3]: This lab is to be done only if time permits, other labs have covered most of this material
