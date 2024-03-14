@@ -1,4 +1,4 @@
-# Amazon ECS v AKS
+# Amazon ECS v EKS
 ## Amazon ECS
 Is AWS's proprietary managed container orchestration service and has the benefits of more integrated with other AWS services such as IAM, ELB, VPC... 
 ## Amazon EKS
