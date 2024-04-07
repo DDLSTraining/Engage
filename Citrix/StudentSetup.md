@@ -28,9 +28,8 @@
 
 ## Getting access to your lab environment
 
-***A learn On Demand key would have been given to you either by email or from the instructor***
+**Your DDLS instructor will give you the LearnOnDemand Key**
 
-Your DDLS instructor will give you the LearnOnDemand Key
 ## If you have an existing account with ddls.learnondemand.net
   1. Go to [Learn On Demand](https://ddls.learnondemand.net) **(Right Click to open in new tab)**
   1. Click ***Sign In***
