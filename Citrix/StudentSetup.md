@@ -30,21 +30,21 @@
 
 **Your DDLS instructor will give you the LearnOnDemand Key**
 
-## If you have an existing account with ddls.learnondemand.net
+### If you have an existing account with ddls.learnondemand.net
   1. Go to [Learn On Demand](https://ddls.learnondemand.net) **(Right Click to open in new tab)**
   1. Click ***Sign In***
   1. Use your existing Login ID and password
   1. Click ***Redeem Training Key***
   1. Enter the LearnOnDemand key you received from your trainer
     
-## If you do not have an existing account with ddls.learnondemand.net
+### If you do not have an existing account with ddls.learnondemand.net
   1. Go to [Learn On Demand](https://ddls.learnondemand.net) **(Right Click to open in new tab)**
   1. Click `Register with Training Key`  
   1. Use the LearnOnDemand key that your trainer has given you at the start of the course
   1. Fill in your registration details **(When registering, your own personal email address is preferred)**
   1. Make sure you remember your Login ID that will be chosen for you
     
-## Once you have redeemed your code
+### Once you have redeemed your code
   1. Click on ***My Training***
   1. Click the ***your course name***
   1. ***Click on ***View Agreement*** 
