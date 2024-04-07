@@ -4,26 +4,26 @@
 
 ## Registering for the Electronic Manual
 ### If you have signed into the Evantage Gilmore site previously please use these instructions
-1 Go to the [Evantage Gilmore](https://evantage.gilmoreglobal.com/) website
-2 Sign in using your existing account name and password
-3 At the top-right of the screen click on the triangle icon
-4 Click **Redeem Codes**
-5 Type the code you received from the Lumify Portal
-6 Click **Redeem** to register the electronic manual into your account
+1. Go to the [Evantage Gilmore](https://evantage.gilmoreglobal.com/) website
+2. Sign in using your existing account name and password
+3. At the top-right of the screen click on the triangle icon
+4. Click **Redeem Codes**
+5. Type the code you received from the Lumify Portal
+6. Click **Redeem** to register the electronic manual into your account
 
 ### If this is the first time you have used the Evantage Gilmore books please use these instructions
-1 Go to the [Evantage Gilmore](https://evantage.gilmoreglobal.com/) website
-1 Click on **Create an Account**
-1 *Next you have the choice* of **creating an account** or **using a Federated Login from Google or Apple**
+1. Go to the [Evantage Gilmore](https://evantage.gilmoreglobal.com/) website
+1. Click on **Create an Account**
+1. *Next you have the choice* of **creating an account** or **using a Federated Login from Google or Apple**
   - (These instructions will show you how to create an account)
-1 Type your First Name, Last Name, Email, and choose a Password
+1. Type your First Name, Last Name, Email, and choose a Password
   - (We recommend you use a personal email address)
-1 Tick the box to **Agree with Terms of Use**
-1 Sign in using your existing account name and password
-1 At the top-right of the screen click on the triangle icon
-1 Click **Redeem Codes**
-1 Type the code you received from the Lumify Portal
-1 Click **Redeem** to register the electronic manual into your account
+1. Tick the box to **Agree with Terms of Use**
+1. Sign in using your existing account name and password
+1. At the top-right of the screen click on the triangle icon
+1. Click **Redeem Codes**
+1. Type the code you received from the Lumify Portal
+1. Click **Redeem** to register the electronic manual into your account
 
 
 ## Getting access to your lab environment
