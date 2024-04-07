@@ -1,4 +1,4 @@
-# Setup Instructions
+# Citrix Class - Setup Instructions
 
 ## These instructions will help you get access to your Citrix electronic manuals and labs
 
