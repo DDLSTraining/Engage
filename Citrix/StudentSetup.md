@@ -15,9 +15,9 @@
 1. Go to the [Evantage Gilmore](https://evantage.gilmoreglobal.com/) website
 1. Click on **Create an Account**
 1. *Next you have the choice* of **creating an account** or **using a Federated Login from Google or Apple**
-  - (These instructions will show you how to create an account)
+    - (These instructions will show you how to create an account)
 1. Type your First Name, Last Name, Email, and choose a Password
-  - (We recommend you use a personal email address)
+    - (We recommend you use a personal email address)
 1. Tick the box to **Agree with Terms of Use**
 1. Sign in using your existing account name and password
 1. At the top-right of the screen click on the triangle icon
