@@ -1,6 +1,6 @@
 # Setup Instructions
 
-## These instructions will help you get access to your electronic manuals and labs
+## These instructions will help you get access to your Citrix electronic manuals and labs
 
 ## Registering for the Electronic Manual
 ### If you have signed into the Evantage Gilmore site previously please use these instructions
