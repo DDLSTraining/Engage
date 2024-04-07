@@ -51,4 +51,4 @@
       - Otherwise **you will not** be able to launch the lab machines
   1. In the Activities section, you will find your labs
 
-> ### **PLEASE REMEMBER your login details for skillable** ###
+> ### **PLEASE REMEMBER your login details for the Skillable and Evantage-Gilmore sites** ###
