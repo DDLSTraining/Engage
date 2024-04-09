@@ -3,7 +3,7 @@
 ## These instructions will help you get access to your Citrix electronic manuals and labs
 
 ## Registering for the Electronic Manual
-### If you have signed into the Evantage Gilmore site previously please use these instructions
+### If you have signed into the eVantage Gilmore site previously please use these instructions
 1. Go to the [Evantage Gilmore](https://evantage.gilmoreglobal.com/) website **(Right Click to open in new tab)**
 2. Sign in using your existing account name and password
 3. At the top-right of the screen click on the triangle icon
@@ -11,7 +11,7 @@
 5. Type the code you received from the Lumify Portal
 6. Click **Redeem** to register the electronic manual into your account
 
-### If this is the first time you have used the Evantage Gilmore books please use these instructions
+### If this is the first time you have used the eVantage Gilmore books please use these instructions
 1. Go to the [Evantage Gilmore](https://evantage.gilmoreglobal.com/) website **(Right Click to open in new tab)**
 1. Click on **Create an Account**
 1. *Next you have the choice* of **creating an account** or **using a Federated Login from Google or Apple**
@@ -51,4 +51,4 @@
       - Otherwise **you will not** be able to launch the lab machines
   1. In the Activities section, you will find your labs
 
-> ### **PLEASE REMEMBER your login details for the Skillable and Evantage-Gilmore sites** ###
+> ### **PLEASE REMEMBER your login details for the Skillable and eVantage-Gilmore sites** ###
