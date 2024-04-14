@@ -26,6 +26,6 @@
 
 <br>
 
-[^1]: This lab is to be done as homework
+[^1]: This lab is to be done as homework 
 [^2]: Some of these labs may need to be done on day 2  
 [^3]: These could be done at the end of day 4 if some are not interested in them
