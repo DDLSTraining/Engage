@@ -1,5 +1,7 @@
 # AZ-040 PowerShell Course
+
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fskillforge.com%2Fcourses%2Fautomating-administration-with-windows-powershell-az-040t00%2F&psig=AOvVaw0YDo55lqT8Gtk7eHB20ucN&ust=1714433504241000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjXgdSI5oUDFQAAAAAdAAAAABAE)
+
 ## Mapping learn.microsoft.com Modules to Skillable (LODS) CloudSlicing Labs
 [MS Learn site](https://learn.microsoft.com/en-au/training/courses/az-040t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=509519#study-guide)
 
