@@ -1,6 +1,6 @@
-# AZ-040 PowerShell Course
+# AZ-040 PowerShell Course ![](https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png)
 
-![](https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png)
+
 
 ## Mapping learn.microsoft.com Modules to Skillable (LODS) CloudSlicing Labs
 [MS Learn site](https://learn.microsoft.com/en-au/training/courses/az-040t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=509519#study-guide)
