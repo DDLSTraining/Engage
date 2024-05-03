@@ -38,4 +38,4 @@
 [^1]: Despite what Skillable (LearnOnDemand) says, lab block 1 can be saved, resumed and extended.  
 [^3]: One major reason we use -ErrorAction is for [Try Catch](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_try_catch_finally)  or [Exceptions](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-exceptions) contructs.
 [^4]: The lab for module 8 can be done on Friday morning (this will make Friday a very full day, however) 
-[^3]: This lab is to be done only if time permits, other labs have covered most of this material
+[^2]: This lab is to be done only if time permits, other labs have covered most of this material
