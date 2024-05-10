@@ -8,8 +8,19 @@
 ![MS-102](_images/MS-102Day2a.png)
 ![MS-102](_images/MS-102Day2b.png)
 ![MS-102](_images/MS-102Day2c.png)
-## Hours  Mins
+## 7 Hours 40 Mins
 ### Day 3
-![SC-400](_images/Day3.png)
+![MS-102](_images/MS-102Day2a.png)
+![MS-102](_images/MS-102Day2b.png)
+![MS-102](_images/MS-102Day2c.png)
+## 7 Hours 40 Mins
 ### Day 4
-![SC-400](_images/Day4.png)
+![MS-102](_images/MS-102Day2a.png)
+![MS-102](_images/MS-102Day2b.png)
+![MS-102](_images/MS-102Day2c.png)
+## 7 Hours 40 Mins
+### Day 5
+![MS-102](_images/MS-102Day2a.png)
+![MS-102](_images/MS-102Day2b.png)
+![MS-102](_images/MS-102Day2c.png)
+## 7 Hours 40 Mins
