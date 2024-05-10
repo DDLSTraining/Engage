@@ -2,7 +2,7 @@
 # SC-400 Microsoft Information Protection
 ## Course Timings
 ### Day 1
-![MS-102](_images/MS-102 Day1.png)
+![MS-102](_images/MS-102 Day 1.png)
 ### Day 2
 ![SC-400](_images/Day2.png)
 ### Day 3
