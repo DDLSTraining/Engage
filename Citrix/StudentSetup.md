@@ -28,7 +28,7 @@
 
 ## Getting access to your lab environment
 
-**Your DDLS instructor will give you the LearnOnDemand Key**
+**Your Lumify instructor will give you the LearnOnDemand Key**
 
 ### If you have an existing account with lumify.learnondemand.net
   1. Go to [Learn On Demand](https://lumify.learnondemand.net) **(Right Click to open in new tab)**
