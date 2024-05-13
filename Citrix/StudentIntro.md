@@ -13,10 +13,4 @@
 - How long have you been working in IT?
 - What takes up your time when you are not at work; (schooling, family, games, hobbies, etc.)?
 
-## To Register for the course
-
-- Go to [https://training.citrix.com](https://training.citrix.com)
-- Login with your Citrix Credentials
-- Go to the Course Registration URL that your trainer gave you
-- Click on the ENROL button
 
