@@ -1,4 +1,4 @@
-# Citrix Course Introductions & Registration
+# Citrix Course Introductions 
 
 ## Getting To Know You (Please tell us about you)
 
