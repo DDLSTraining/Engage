@@ -28,3 +28,4 @@
 |Interesting online content|URL|
 |---|---|
 |B2B Azure|https://www.youtube.com/watch?v=AhwrweCBdsc&t=11s|
+|B2B Prototype GitHub|https://github.com/Azure/active-directory-dotnet-graphapi-b2bportal-web|
