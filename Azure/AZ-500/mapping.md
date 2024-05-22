@@ -3,7 +3,7 @@
 
 
 | |Microsoft_Learn_Modules | [Skillable Lab](https://ddls.learnondemand.net/) |Lab Time (Min.) |
-|---:|---|---|---|
+|---:|---|---:|---:|
 |Day 1|
 ||- [Manage identities in Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/manage-identities-microsoft-entra-id/) <BR>|||
 ||- [Manage authentication by using Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/manage-authentication-microsoft-entra-id/) <BR>|||
