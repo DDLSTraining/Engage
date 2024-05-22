@@ -1,4 +1,4 @@
-# AZ104
+# [AZ104](https://learn.microsoft.com/en-gb/training/courses/az-104t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=509519#study-guide)
 # Mapping learn.microsoft.com Modules to Skillable CloudSlicing Labs
 
 
