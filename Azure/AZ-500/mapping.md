@@ -2,7 +2,7 @@
 # Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
-| |Microsoft_Learn_Modules | Lab Box no.  [Skillable Online_Labs](https://ddls.learnondemand.net/)   (Old Lab \#)  |Lab Time (Min.)[^1] |
+| |Microsoft_Learn_Modules | [Skillable Lab](https://ddls.learnondemand.net/) |Lab Time (Min.) |
 |---:|---|---|---|
 |Day 1|
 ||- [Manage identities in Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/manage-identities-microsoft-entra-id/) <BR>|||
