@@ -22,3 +22,8 @@
 |Day 4|
 ||- [Configure and manage threat protection by using Microsoft Defender for Cloud](https://learn.microsoft.com/en-gb/training/modules/microsoft-defender-cloud-threat-protection/) <BR>|||
 ||- [Configure and manage security monitoring and automation solutions](https://learn.microsoft.com/en-gb/training/modules/security-monitoring-automation-solutions/)|8|240|
+
+
+|Interesting online content|URL|
+|---|---|
+|B2B Azure|https://www.youtube.com/watch?v=AhwrweCBdsc&t=11s|
