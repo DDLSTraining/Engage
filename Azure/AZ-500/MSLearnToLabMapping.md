@@ -21,4 +21,4 @@
 |Day 4|
 ||- [Manage security posture by using Microsoft Defender for Cloud](https://learn.microsoft.com/en-gb/training/modules/microsoft-defender-cloud-security-posture/) <BR>|||
 ||- [Configure and manage threat protection by using Microsoft Defender for Cloud](https://learn.microsoft.com/en-gb/training/modules/microsoft-defender-cloud-threat-protection/) <BR>|||
-||- [Configure and manage security monitoring and automation solutions](https://learn.microsoft.com/en-gb/training/modules/security-monitoring-automation-solutions/)|08, 09, 10|240|
+||- [Configure and manage security monitoring and automation solutions](https://learn.microsoft.com/en-gb/training/modules/security-monitoring-automation-solutions/)|08 to 10|240|
