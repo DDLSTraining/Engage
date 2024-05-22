@@ -7,7 +7,7 @@
 |Day 1|
 ||- [Manage identities in Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/manage-identities-microsoft-entra-id/) <BR>|||
 ||- [Manage authentication by using Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/manage-authentication-microsoft-entra-id/) <BR>|||
-||- [Manage authorization by using Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/manage-authorization-microsoft-entra-id/) <BR>|||
+||- [Manage authorization by using Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/manage-authorization-microsoft-entra-id/) <BR>|01|60|
 ||- [Manage application access in Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/manage-application-access-microsoft-entra-id/) <BR>|||
 ||- [Plan and implement security for virtual networks](https://learn.microsoft.com/en-gb/training/modules/security-virtual-networks/) <BR>|||
 ||- [Plan and implement security for private access to Azure resources](https://learn.microsoft.com/en-gb/training/modules/security-private-access-azure-resources/) <BR>|||
