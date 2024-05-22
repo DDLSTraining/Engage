@@ -14,10 +14,10 @@
 ||- [Plan and implement security for private access to Azure resources](https://learn.microsoft.com/en-gb/training/modules/security-private-access-azure-resources/) <BR>|||
 ||- [Plan and implement security for public access to Azure resources](https://learn.microsoft.com/en-gb/training/modules/security-public-access-azure-resources/) <BR>|03|90|
 ||- [Plan and implement advanced security for compute](https://learn.microsoft.com/en-gb/training/modules/advanced-security-compute/) <BR>|04|90|
-||- [Plan and implement security for storage](https://learn.microsoft.com/en-gb/training/modules/security-storage/) <BR>|||
-|Day 3|
 ||- [Plan and implement security for Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-gb/training/modules/security-azure-sql-database-azure-sql-managed-instance/) <BR>|05|60|
-||- [Plan, implement, and manage governance for security](https://learn.microsoft.com/en-gb/training/modules/governance-security/) <BR>|06, 07|90, 90|
+|Day 3|
+||- [Plan and implement security for storage](https://learn.microsoft.com/en-gb/training/modules/security-storage/) <BR>|06|90|
+||- [Plan, implement, and manage governance for security](https://learn.microsoft.com/en-gb/training/modules/governance-security/) <BR>|07|90|
 |Day 4|
 ||- [Manage security posture by using Microsoft Defender for Cloud](https://learn.microsoft.com/en-gb/training/modules/microsoft-defender-cloud-security-posture/) <BR>|||
 ||- [Configure and manage threat protection by using Microsoft Defender for Cloud](https://learn.microsoft.com/en-gb/training/modules/microsoft-defender-cloud-threat-protection/) <BR>|||
