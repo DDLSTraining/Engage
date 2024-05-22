@@ -12,7 +12,7 @@
 ||- [Plan and implement security for virtual networks](https://learn.microsoft.com/en-gb/training/modules/security-virtual-networks/) <BR>|02|60|
 ||- [Plan and implement security for private access to Azure resources](https://learn.microsoft.com/en-gb/training/modules/security-private-access-azure-resources/) <BR>|||
 ||- [Plan and implement security for public access to Azure resources](https://learn.microsoft.com/en-gb/training/modules/security-public-access-azure-resources/) <BR>|03|90|
-||- [Plan and implement advanced security for compute](https://learn.microsoft.com/en-gb/training/modules/advanced-security-compute/) <BR>|||
+||- [Plan and implement advanced security for compute](https://learn.microsoft.com/en-gb/training/modules/advanced-security-compute/) <BR>|04|90|
 ||- [Plan and implement security for storage](https://learn.microsoft.com/en-gb/training/modules/security-storage/) <BR>|||
 ||- [Plan and implement security for Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-gb/training/modules/security-azure-sql-database-azure-sql-managed-instance/) <BR>|||
 ||- [Plan, implement, and manage governance for security](https://learn.microsoft.com/en-gb/training/modules/governance-security/) <BR>|||
