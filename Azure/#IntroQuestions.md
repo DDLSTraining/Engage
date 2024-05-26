@@ -9,7 +9,8 @@
   - Please outline whether you are in a:
     - Operations Role
     - Software Development Role
-    - DevOps Role   
+    - DevOps Role
+    - SecOps Role
 - Why are you on this Azure course?
 - Have you done any Azure courses previously?
 - How many years have you worked in a professional IT role?
