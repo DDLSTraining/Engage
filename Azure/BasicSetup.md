@@ -3,15 +3,6 @@
 
 ## Requirements
 
-## Courseware
-
-1. Go to [my.ddls.com.au](https://my.ddls.com.au/) to locate the Microsoft Learn URL
-3. If you have not registered at [my.ddls.com.au](https://my.ddls.com.au/), you need to do so now.
-4. The "Codes/Links" section of [my.ddls.com.au](https://my.ddls.com.au/) will give the URL and code you need to start this course
-
-
----
-
 ## Learn on Demand Labs from Skillable
 
 ***A learn On Demand key can be found in your DDLS Portal or given to you from your instructor***
