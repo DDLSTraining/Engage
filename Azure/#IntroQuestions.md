@@ -3,7 +3,7 @@
 - This will give you most of the registration codes you will need for this Azure course
 
 # Introductions - Getting to know you
-- Your name (**help us with any pronunciation issues**)
+- Your preferred name (**help us with any pronunciation issues**)
 - What location are dialling from?
 - What is your role at work?  
   - Please outline whether you are in a:
