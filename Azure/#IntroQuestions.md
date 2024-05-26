@@ -1,5 +1,5 @@
 # Before we start with the course
-- Make sure you have registered with the [MY DDLS](https://my.ddls.com.au/) site
+- Make sure you have registered with the [MY Lumify Work](https://my.lumifywork.com) site
 - This will give you most of the registration codes you will need for this Azure course
 
 # Introductions - Getting to know you
