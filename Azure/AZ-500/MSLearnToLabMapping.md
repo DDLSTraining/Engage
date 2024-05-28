@@ -32,3 +32,6 @@
 |---|---|
 |B2B Azure|https://www.youtube.com/watch?v=AhwrweCBdsc&t=11s|
 |B2B Prototype GitHub|https://github.com/Azure/active-directory-dotnet-graphapi-b2bportal-web|
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
