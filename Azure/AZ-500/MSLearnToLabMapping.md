@@ -23,9 +23,6 @@
 ||- [Configure and manage threat protection by using Microsoft Defender for Cloud](https://learn.microsoft.com/en-gb/training/modules/microsoft-defender-cloud-threat-protection/) <BR>|||
 ||- [Configure and manage security monitoring and automation solutions](https://learn.microsoft.com/en-gb/training/modules/security-monitoring-automation-solutions/)|8|240 <BR>(3 labs in one)|
 
-[^1]: May need to do this lab on day 2
-[^2]: May need to do this lab on day 3
-
 ---
 
 |Interesting online content|URL|
@@ -33,5 +30,5 @@
 |B2B Azure|https://www.youtube.com/watch?v=AhwrweCBdsc&t=11s|
 |B2B Prototype GitHub|https://github.com/Azure/active-directory-dotnet-graphapi-b2bportal-web|
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+[^1]: May need to do this lab on day 2
+[^2]: May need to do this lab on day 3
