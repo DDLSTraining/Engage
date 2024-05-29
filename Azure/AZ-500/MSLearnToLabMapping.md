@@ -24,8 +24,8 @@
 ||- [Configure and manage security monitoring and automation solutions](https://learn.microsoft.com/en-gb/training/modules/security-monitoring-automation-solutions/)|8|240 <BR>(three labs<BR> 8, 9 and 10)|
 
 ---
-
-[End of Course Survey](https://www.metricsthatmatter.com/dim319)
+> !IMPORTANT
+> [End of Course Survey](https://www.metricsthatmatter.com/dim319)
 
 ---
 
