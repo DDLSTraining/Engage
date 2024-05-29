@@ -25,6 +25,10 @@
 
 ---
 
+[End of Course Survey](https://www.metricsthatmatter.com/dim319)
+
+---
+
 |Interesting online content|URL|
 |---|---|
 |B2B Azure|https://www.youtube.com/watch?v=AhwrweCBdsc&t=11s|
