@@ -22,3 +22,10 @@
 |11. [Manage variables in Windows PowerShell scripts](https://learn.microsoft.com/en-au/training/modules/manage-variables-windows-powershell-scripts/)|Define variables in Windows PowerShell scripts<br>Create variable names in Windows PowerShell scripts<br>Assign values and types to variables<br>Identify the methods and properties<br>Use string variables and methods PowerShell scripts<br>Use date variables and methods in PowerShell scripts|[Demo11](demos/demos11.md)|
 |12. [Arrays and hash tables in Windows PowerShell scripts](https://learn.microsoft.com/en-au/training/modules/work-arrays-hash-tables-window-powershell-scripts/)|Define an array in Windows PowerShell scripts<br>Work with array lists in Windows PowerShell scripts<br>Define hash tables in Windows PowerShell Scripts<br>Work with hash tables in Windows PowerShell scripts|[Demo12](demos/demos12.md)|
 |13. [Work with scripting constructs in Windows PowerShell](https://learn.microsoft.com/en-au/training/modules/work-script-constructs-windows-powershell/)|Review and use the ForEach loop in PowerShell scripts<br>Review and use the If construct in scripts<br>Review other loop constructs in scripts|[Demo13](demos/demos13.md)|
+
+
+---
+> [!IMPORTANT]
+> [End of Course Survey](https://www.metricsthatmatter.com/dim319)
+
+---
