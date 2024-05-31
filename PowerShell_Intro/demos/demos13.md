@@ -44,7 +44,24 @@ Write-Host -ForegroundColor cyan "Here are your numbers $LottoNumbers"
 ## Advanced Demo
 
 ```PowerShell
+# Using the Continue command
+
+$services = Get-Service
+
+foreach ($service in $services) {
+  if ($service.Status -eq 'Running') {
+    Write-Output "Service $($service.Name) is already running. Moving to the next one."
+    continue
+  }
+  Write-Output "Service $($service.Name) is not running."
+}
+```
+
+
+```PowerShell
 # Guessing game
+# Using the Break command
+
 #Guess a number between 1 and 500
 
 $GuessThisNumber = 87
