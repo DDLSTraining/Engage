@@ -64,18 +64,28 @@ foreach ($service in $services) {
 
 #Guess a number between 1 and 500
 
-$GuessThisNumber = 87
+$GuessThisNumber = 1..500 | Get-Random
 $TooHigh = 501
 $TooLow  = 0
 do {
   $ComputerGuess = [int](($TooHigh+$TooLow)/2)
-  if ($ComputerGuess -gt $GuessThisNumber) {$TooHigh = $ComputerGuess}
-  elseif ($ComputerGuess -lt $GuessThisNumber) {$TooLow = $ComputerGuess}
+  if ($ComputerGuess -gt $GuessThisNumber) {
+    $TooHigh = $ComputerGuess
+    $LastGuessState = 'High'
+  }
+  elseif ($ComputerGuess -lt $GuessThisNumber) {
+    $TooLow = $ComputerGuess
+    $LastGuessState = 'Low'
+ }
   else {
-    Write-Host "The computer guessed the right number $ComputerGuess"
+    Write-Host -ForegroundColor 'Green' "The computer guessed the right number $ComputerGuess"
     break
   }
-  Write-Host "Computer has not guessed the number yet, it last tried this guess $ComputerGuess"
+  if ($LastGuessState -eq 'High') {$Color = 'Red'}
+  elseif ($LastGuessState -eq 'Low') {$Color = 'Yellow'}
+  else {$Color = 'Green'}
+  Write-Host -ForegroundColor $Color "Computer guessed $ComputerGuess but it was too $LastGuessState"
+  Start-Sleep -Seconds 1
 } until ($ComputerGuess -eq $GuessThisNumber)
 ```
 
