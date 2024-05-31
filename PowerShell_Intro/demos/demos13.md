@@ -75,7 +75,7 @@ do {
     Write-Host "The computer guessed the right number $ComputerGuess"
     break
   }
-  Write-Host "Computer is guessing $ComputerGuess"
+  Write-Host "Computer has not guessed the number yet, it last tried this guess $ComputerGuess"
 } until ($ComputerGuess -eq $GuessThisNumber)
 ```
 
