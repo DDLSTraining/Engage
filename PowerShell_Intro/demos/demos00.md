@@ -1,6 +1,6 @@
 # Understanding PowerShell Objects
 
-## Practical Example
+## Practical Examples
 
 ![ObjectPic](../pics/PSObjectLesson.jpg)
 
@@ -9,6 +9,21 @@
 ---
 
 <BR>
+
+## Mobile Phone
+
+- Properties
+  - Manufacturer
+  - Model
+  - Color
+  - InternetCapabilities
+  - OperatingSystem
+- Methods
+  - Call
+  - InstallApp
+  - RunApp
+  - On
+  - Off
 
 ![CellPhone](../pics/cellphone.jpg)  
 
