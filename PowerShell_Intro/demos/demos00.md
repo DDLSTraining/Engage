@@ -2,7 +2,7 @@
 
 ## Practical Example
 
-![Practial example of objects](https://github.com/DDLSTraining/Engage/blob/master/PowerShell_Intro/Pictures/PSObjectLesson.jpg)
+![pics/PSObjectLesson.jpg)
 
 
 ## Basic Demo
