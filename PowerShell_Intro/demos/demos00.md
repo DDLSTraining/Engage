@@ -1,5 +1,10 @@
 # Understanding PowerShell Objects
 
+## Practical Example
+
+![Practial example of objects](../pictures/PSOjectLesson.jpg)
+
+
 ## Basic Demo
 
 ```PowerShell
