@@ -2,7 +2,7 @@
 
 ## Practical Example
 
-![./pics/PSObjectLesson.jpg)
+![/../pics/PSObjectLesson.jpg)
 
 
 ## Basic Demo
