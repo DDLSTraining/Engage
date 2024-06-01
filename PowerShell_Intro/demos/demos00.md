@@ -2,7 +2,7 @@
 
 ## Practical Example
 
-![ObjectPic](/../pics/PSObjectLesson.jpg)
+![ObjectPic](../pics/PSObjectLesson.jpg)
 
 
 ## Basic Demo
