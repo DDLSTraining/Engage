@@ -2,7 +2,7 @@
 
 ## Practical Example
 
-![ObjectPic](https://github.com/DDLSTraining/Engage/blob/master/PowerShell_Intro/pics/PSObjectLesson.jpg)
+![ObjectPic](/../pics/PSObjectLesson.jpg)
 
 
 ## Basic Demo
