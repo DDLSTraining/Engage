@@ -2,6 +2,35 @@
 
 ## Practical Examples
 
+## Car Manufacturer
+### Produces a car as output from the factory
+
+## Car
+
+- Properties
+  - Make
+  - Model
+  - Color
+  - Engine
+  - Year
+  - NumberOfDoors
+- Methods
+  - Start
+  - Stop
+  - Accelerate
+  - Brake
+  - Turn
+ 
+## The Engine however is also an object
+
+- Properties
+  - Type
+  - PistonSize
+  - CrankShaft
+- Methods
+  - PumpFuel
+  - SparkFuel  
+
 ![ObjectPic](../pics/PSObjectLesson.jpg)
 
 <BR>
