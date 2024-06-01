@@ -3,6 +3,10 @@
 ## Practical Example
 
 ![ObjectPic](../pics/PSObjectLesson.jpg)
+<BR>
+---
+<BR>
+![ObjectPic](../pics/cellphone.jpg)
 
 
 ## Basic Demo
