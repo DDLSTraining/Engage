@@ -9,6 +9,7 @@
   - Storage and compute with Windows Server
   - Networking with Windows Server
   - Windows PowerShell 
-- How is Active Directory, Certificates or Identity solutions used in your workplace 
+- How is Active Directory, Certificates or Identity solutions used in your workplace
+- Do you have a hybrid cloud environment 
 - How many years have you been working in IT professionally
 - What takes up your time outside of work:  family, hobbies, cars, etc.
