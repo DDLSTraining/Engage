@@ -8,7 +8,7 @@
 - Have you attended any of these Microsoft courses:
   - Storage and compute with Windows Server
   - Networking with Windows Server
-  - Automating Administration with Windows PowerShell 
+  - Windows PowerShell 
 - How is Active Directory, Certificates or Identity solutions used in your workplace 
 - How many years have you been working in IT professionally
 - What takes up your time outside of work:  family, hobbies, cars, etc.
