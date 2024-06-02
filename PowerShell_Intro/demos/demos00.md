@@ -5,6 +5,8 @@
 ## Car Manufacturer
 ### Produces a car as output from the factory
 
+![ObjectPic](../pics/PSObjectLesson.jpg)
+
 ## Car
 
 - Properties
@@ -31,7 +33,7 @@
   - PumpFuel
   - SparkFuel  
 
-![ObjectPic](../pics/PSObjectLesson.jpg)
+
 
 <BR>
 
@@ -40,6 +42,8 @@
 <BR>
 
 ## Mobile Phone
+
+![CellPhone](../pics/cellphone.jpg)  
 
 - Properties
   - Manufacturer
@@ -54,7 +58,7 @@
   - On
   - Off
 
-![CellPhone](../pics/cellphone.jpg)  
+
 
 
 ## Basic Demo
