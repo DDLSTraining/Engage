@@ -10,10 +10,12 @@
 
 ## Lab 12 
 
-> [!WARNING]
+> [!NOTE]
 > With changes to the free trials for MS365 subscriptions from Microsoft, this lab is no longer viable
 > as the free trail now asks for payment methods, so it appears the once the trial period ends (after 30 days)
-> the subscription will convert into a paid account
+> the subscription will convert into a paid account <BR>
+> Now that Entra ID has replaced Azure AD the instructions are no longer up to date
+
 
 ## Here are some resources that explain Entra ID, Entra Connect
 
