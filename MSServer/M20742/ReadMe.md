@@ -2,7 +2,7 @@
 
 # Lab issues
 > [!IMPORTANT]
-> Now that the labs are provided by Skillable it is important to have the students follow the lab instructions
+> Now that the labs are provided by Skillable it is important to have the students follow the lab steps
 > provided in the online lab instructions.
 > Some PowerShell code is required for the course, the code is in the instructions but is not able to be
 > directly added into the labs, hence it is important to teach the students how to paste text from the host to
