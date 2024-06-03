@@ -11,7 +11,7 @@
 ## Lab 12 
 
 > [!WARNING]
-> With changes to the free trials for MS365 subscriptions from Microsoft this lab is no longer viable
+> With changes to the free trials for MS365 subscriptions from Microsoft, this lab is no longer viable
 > as the free trail now asks for payment methods, so it appears the once the trial period ends (after 30 days)
 > the subscription will convert into a paid account
 
