@@ -1,7 +1,7 @@
 
 
 # Lab issues
-> [!IMPOIRTANT]
+> [!IMPORTANT]
 > Now that the labs are provided by Skillable it is important to have the students follow the lab instructions
 > provided in the online lab instructions.
 > Some PowerShell code is required for the course, the code is in the instructions but is not able to be
