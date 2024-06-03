@@ -1,8 +1,9 @@
 # Lab 12 
 
 > [!WARNING]
-> With changes to the free trials this lab is no longer viable as the free trail now asks for payment methods
-> and this means that the once trials that end after the 30 days, now converts into a paid account
+> With changes to the free trials for MS365 subscriptions from Microsoft this lab is no longer viable
+> as the free trail now asks for payment methods meaning that the once trials that end after the 30 days
+> it now converts into a paid account
 
 ## Here are some resources that explain Entra ID, Entra Connect
 
