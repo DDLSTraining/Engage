@@ -4,7 +4,7 @@
 > [!IMPORTANT]
 > With the labs provided by Skillable it is important to follow the lab steps provided in the online Skillable instructions.
 > Some PowerShell code is required for the course, the code is found in the instructions but is not able to be
-> directly added into the labs.
+> directly added into the labs. <BR>
 > Use the **lightning bolt** on the top left corner > **paste text** > **paste clipboard text** 
 > to copy and paste information into the lab.
 
