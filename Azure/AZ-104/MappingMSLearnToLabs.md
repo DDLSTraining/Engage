@@ -3,7 +3,7 @@
 
 
 
-|Day|# of Modules|Learning Path| Skillable Labs| Lab Timing |
+||# of Modules|Learning Path| Skillable Labs| Lab Timing |
 |---|---:|---|---|---|
 |***Day 1***|
 ||5|[Prerequisites for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-administrator-prerequisites/) | ||
