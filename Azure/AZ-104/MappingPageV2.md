@@ -4,7 +4,7 @@
 
 
 |Day|# of Modules|Learning Path| Skillable Labs| Lab Timing |
-|---|---|---|---|---|
+|---|---:|---|---|---|
 |***Day 1***|
 ||5|[Prerequisites for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-administrator-prerequisites/) | ||
 ||8|[Manage identities and governance in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-identities-governance/) | [Labs 1 - 4](https://lumify.learnondemand.net/)||
