@@ -12,9 +12,9 @@
 ||11|[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/) | [Labs 5 - 7](https://lumify.learnondemand.net/)||
 |***Day 3***|
 ||7|[Implement and manage storage in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-storage/) | [Lab 8](https://lumify.learnondemand.net/)||
-||2/8|[Deploy and manage Azure compute resources](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-compute-resources/) | ||
+||8|[Deploy and manage Azure compute resources](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-compute-resources/) | ||
 |***Day 4***|
-||6/8|[**Continued** Deploy and manage Azure compute resources](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-compute-resources/) | [Labs 9 - 12](https://lumify.learnondemand.net/)||
+||-|[**Continued** Deploy and manage Azure compute resources](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-compute-resources/) | [Labs 9 - 12](https://lumify.learnondemand.net/)||
 ||8|[Monitor and back up Azure resources](https://learn.microsoft.com/en-gb/training/paths/az-104-monitor-backup-resources/) | [Labs 13 - 14](https://lumify.learnondemand.net/)||
 <br>
 
