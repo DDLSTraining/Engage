@@ -3,15 +3,19 @@
 
 
 
-|Learning Path| Skillable Labs| Lab Timing |
-|---|---|---|
+|# of Modules|Learning Path| Skillable Labs| Lab Timing |
+|---|---|---|---|
 |***Day 1***|
-|[Prerequisites for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-administrator-prerequisites/) | ||
-|[Manage identities and governance in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-identities-governance/) | [Labs 1 - 4](https://lumify.learnondemand.net/)||
-|[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/) | [Labs 5 - 7](https://lumify.learnondemand.net/)||
-|[Implement and manage storage in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-storage/) | [Lab 8](https://lumify.learnondemand.net/)||
-|[Deploy and manage Azure compute resources](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-compute-resources/) | [Labs 9 - 12](https://lumify.learnondemand.net/)||
-|[Monitor and back up Azure resources](https://learn.microsoft.com/en-gb/training/paths/az-104-monitor-backup-resources/) | [Labs 13 - 14](https://lumify.learnondemand.net/)||
+|5|[Prerequisites for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-administrator-prerequisites/) | ||
+|8|[Manage identities and governance in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-identities-governance/) | [Labs 1 - 4](https://lumify.learnondemand.net/)||
+|***Day 2***|
+|11|[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/) | [Labs 5 - 7](https://lumify.learnondemand.net/)||
+|***Day 3***|
+|7|[Implement and manage storage in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-storage/) | [Lab 8](https://lumify.learnondemand.net/)||
+|8|[Deploy and manage Azure compute resources](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-compute-resources/) | ||
+|***Day 4***|
+|8|[**Continued** Deploy and manage Azure compute resources](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-compute-resources/) | [Labs 9 - 12](https://lumify.learnondemand.net/)||
+|8|[Monitor and back up Azure resources](https://learn.microsoft.com/en-gb/training/paths/az-104-monitor-backup-resources/) | [Labs 13 - 14](https://lumify.learnondemand.net/)||
 <br>
 
 ---
