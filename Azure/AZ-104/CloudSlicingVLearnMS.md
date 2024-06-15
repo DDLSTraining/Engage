@@ -7,6 +7,11 @@
 |---|---:|---|---|---|
 |***Day 1***|
 ||5|[Prerequisites for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-administrator-prerequisites/) | ||
+|||  - Use Azure Resource Manager |||
+|||  - Introduction to Azure Cloud Shell |||
+|||  - Introduction to Bash |||
+|||  - Introduction to PowerShell |||
+|||  - Configure resources with Azure Resource Manager templates |||
 ||8|[Manage identities and governance in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-identities-governance/) | [Labs 1 - 4](https://lumify.learnondemand.net/)||
 |***Day 2***|
 ||11|[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/) | [Labs 5 - 7](https://lumify.learnondemand.net/)||
