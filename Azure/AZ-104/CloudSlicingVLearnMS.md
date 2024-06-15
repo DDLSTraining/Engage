@@ -22,7 +22,7 @@
 ||  - Secure your Azure resources with Azure role-based access control (Azure RBAC) |||
 ||  - Allow users to reset their password with Microsoft Entra self-service password reset |[Labs 1 - 4](https://lumify.learnondemand.net/)||
 |**2**|
-||[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/) | [Labs 5 - 7](https://lumify.learnondemand.net/)||
+||[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/) | ||
 ||  - Configure virtual networks |||
 ||  - Configure network security groups |||
 ||  - Configure Azure Virtual Network peering |||
@@ -35,7 +35,7 @@
 ||  - Manage and control traffic flow in your Azure deployment with routes |||
 ||  - Improve application scalability and resiliency by using Azure Load Balancer |[Labs 5 - 7](https://lumify.learnondemand.net/)||
 |**3**|
-||[Implement and manage storage in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-storage/) | [Lab 8](https://lumify.learnondemand.net/)||
+||[Implement and manage storage in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-storage/) | ||
 ||  - Configure storage accounts |||
 ||  - Configure Azure Blob Storage |||
 ||  - Configure Azure Storage security |||
@@ -54,7 +54,7 @@
 ||  - Host a web application with Azure App Service |||
 |**4**|
 ||***Continued***| [Labs 9 - 12](https://lumify.learnondemand.net/)||
-||[Monitor and back up Azure resources](https://learn.microsoft.com/en-gb/training/paths/az-104-monitor-backup-resources/) | [Labs 13 - 14](https://lumify.learnondemand.net/)||
+||[Monitor and back up Azure resources](https://learn.microsoft.com/en-gb/training/paths/az-104-monitor-backup-resources/) | ||
 ||  - Introduction to Azure Backup |||
 ||  - Configure virtual machine backups |||
 ||  - Configure Azure Monitor |||
