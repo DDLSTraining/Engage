@@ -4,7 +4,7 @@
 
 
 |Day|Learning Path| Skillable Labs| Lab Timing |
-|---|---|---|---|
+|---:|---|---|---|
 |**1**|
 ||[Prerequisites for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-administrator-prerequisites/) | ||
 ||  - Use Azure Resource Manager |||
