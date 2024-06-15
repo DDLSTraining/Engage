@@ -12,7 +12,7 @@
 ||  - Introduction to Bash |||
 ||  - Introduction to PowerShell |||
 ||  - Configure resources with Azure Resource Manager templates |||
-||[Manage identities and governance in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-identities-governance/) | [Labs 1 - 4](https://lumify.learnondemand.net/)||
+||[Manage identities and governance in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-identities-governance/) | ||
 ||  - Understand Microsoft Entra ID |||
 ||  - Configure user and group accounts |||
 ||  - Configure subscriptions |||
@@ -20,7 +20,7 @@
 ||  - Configure role-based access control |||
 ||  - Create Azure users and groups in Microsoft Entra ID |||
 ||  - Secure your Azure resources with Azure role-based access control (Azure RBAC) |||
-||  - Allow users to reset their password with Microsoft Entra self-service password reset |||
+||  - Allow users to reset their password with Microsoft Entra self-service password reset |[Labs 1 - 4](https://lumify.learnondemand.net/)||
 |**2**|
 ||[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/) | [Labs 5 - 7](https://lumify.learnondemand.net/)||
 ||  - Configure virtual networks |||
@@ -33,7 +33,7 @@
 ||  - Distribute your services across Azure virtual networks and integrate them by using virtual network peering |||
 ||  - Host your domain on Azure DNS |||
 ||  - Manage and control traffic flow in your Azure deployment with routes |||
-||  - Improve application scalability and resiliency by using Azure Load Balancer |||
+||  - Improve application scalability and resiliency by using Azure Load Balancer |[Labs 5 - 7](https://lumify.learnondemand.net/)||
 |**3**|
 ||[Implement and manage storage in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-storage/) | [Lab 8](https://lumify.learnondemand.net/)||
 ||  - Configure storage accounts |||
@@ -42,7 +42,7 @@
 ||  - Configure Azure Files and Azure File Sync |||
 ||  - Create an Azure Storage account |||
 ||  - Control access to Azure Storage with shared access signatures |||
-||  - Upload, download, and manage data with Azure Storage Explorer |||
+||  - Upload, download, and manage data with Azure Storage Explorer |[Lab 8](https://lumify.learnondemand.net/)||
 ||[Deploy and manage Azure compute resources](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-compute-resources/) | ||
 ||  - Configure virtual machines |||
 ||  - Configure virtual machine availability |||
@@ -62,7 +62,7 @@
 ||  - Configure Network Watcher |||
 ||  - Improve incident response with Azure Monitor alerts |||
 ||  - Analyze your Azure infrastructure by using Azure Monitor logs |||
-||  - Monitor your Azure virtual machines with Azure Monitor |||
+||  - Monitor your Azure virtual machines with Azure Monitor |[Labs 13 - 14](https://lumify.learnondemand.net/)||
 <br>
 
 ---
