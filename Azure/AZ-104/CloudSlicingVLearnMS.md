@@ -15,8 +15,8 @@
 ||[Manage identities and governance in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-identities-governance/) | ||
 ||  - Understand Microsoft Entra ID |||
 ||  - Configure user and group accounts |||
-||  - Configure subscriptions |LabBlobk 1||
-||  - Configure Azure Policy |LabBlobk 3||
+||  - Configure subscriptions |LabBlock 1||
+||  - Configure Azure Policy |LabBlock 3||
 ||  - Configure role-based access control |||
 ||  - Create Azure users and groups in Microsoft Entra ID |||
 ||  - Secure your Azure resources with Azure role-based access control (Azure RBAC) |LabBlock 2||
