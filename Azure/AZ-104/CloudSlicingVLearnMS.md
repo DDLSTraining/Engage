@@ -17,7 +17,7 @@
 ||  - Configure user and group accounts |||
 ||  - Configure subscriptions |LabBlobk 1||
 ||  - Configure Azure Policy |LabBlobk 3||
-||  - Configure role-based access control |LabBlock 2||
+||  - Configure role-based access control |||
 ||  - Create Azure users and groups in Microsoft Entra ID |||
 ||  - Secure your Azure resources with Azure role-based access control (Azure RBAC) |LabBlock 2||
 ||  - Allow users to reset their password with Microsoft Entra self-service password reset |[LabBlock 1 - 4](https://lumify.learnondemand.net/)|180 min|
