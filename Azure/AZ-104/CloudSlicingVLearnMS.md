@@ -33,7 +33,7 @@
 ||  - Distribute your services across Azure virtual networks and integrate them by using virtual network peering |||
 ||  - Host your domain on Azure DNS |||
 ||  - Manage and control traffic flow in your Azure deployment with routes |||
-||  - Improve application scalability and resiliency by using Azure Load Balancer |[LabBlock 5 - 7](https://lumify.learnondemand.net/)||
+||  - Improve application scalability and resiliency by using Azure Load Balancer |[LabBlock 5 - 7](https://lumify.learnondemand.net/)|180 min|
 |**3**|
 ||[Implement and manage storage in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-storage/) | ||
 ||  - Configure storage accounts |||
@@ -42,7 +42,7 @@
 ||  - Configure Azure Files and Azure File Sync |||
 ||  - Create an Azure Storage account |||
 ||  - Control access to Azure Storage with shared access signatures |||
-||  - Upload, download, and manage data with Azure Storage Explorer |[LabBlock 8](https://lumify.learnondemand.net/)||
+||  - Upload, download, and manage data with Azure Storage Explorer |[LabBlock 8](https://lumify.learnondemand.net/)|70 min|
 ||[Deploy and manage Azure compute resources](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-compute-resources/) | ||
 ||  - Configure virtual machines |||
 ||  - Configure virtual machine availability |||
@@ -53,7 +53,7 @@
 ||  - Create a Windows virtual machine in Azure |||
 ||  - Host a web application with Azure App Service |||
 |**4**|
-||***Continued***| [Labs 9 - 12](https://lumify.learnondemand.net/)||
+||***Continued***| [LabBlock 9 - 12](https://lumify.learnondemand.net/)|150 min|
 ||[Monitor and back up Azure resources](https://learn.microsoft.com/en-gb/training/paths/az-104-monitor-backup-resources/) | ||
 ||  - Introduction to Azure Backup |||
 ||  - Configure virtual machine backups |||
@@ -62,7 +62,7 @@
 ||  - Configure Network Watcher |||
 ||  - Improve incident response with Azure Monitor alerts |||
 ||  - Analyze your Azure infrastructure by using Azure Monitor logs |||
-||  - Monitor your Azure virtual machines with Azure Monitor |[LabBlock 13 - 14](https://lumify.learnondemand.net/)||
+||  - Monitor your Azure virtual machines with Azure Monitor |[LabBlock 13 - 14](https://lumify.learnondemand.net/)|150 min|
 <br>
 
 ---
