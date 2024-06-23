@@ -20,7 +20,7 @@
 ||  - Configure role-based access control |||
 ||  - Create Azure users and groups in Microsoft Entra ID |||
 ||  - Secure your Azure resources with Azure role-based access control (Azure RBAC) |||
-||  - Allow users to reset their password with Microsoft Entra self-service password reset |[LabBlock 1 - 4](https://lumify.learnondemand.net/)|180 min|
+||  - Allow users to reset their password with Microsoft Entra self-service password reset |[LabBlock 1-4](https://lumify.learnondemand.net/)|180 min|
 |**2**|
 ||[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/) | ||
 ||  - Configure virtual networks |||
@@ -33,7 +33,7 @@
 ||  - Distribute your services across Azure virtual networks and integrate them by using virtual network peering |||
 ||  - Host your domain on Azure DNS |||
 ||  - Manage and control traffic flow in your Azure deployment with routes |||
-||  - Improve application scalability and resiliency by using Azure Load Balancer |[LabBlock 5 - 7](https://lumify.learnondemand.net/)|180 min|
+||  - Improve application scalability and resiliency by using Azure Load Balancer |[LabBlock 5-7](https://lumify.learnondemand.net/)|180 min|
 |**3**|
 ||[Implement and manage storage in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-storage/) | ||
 ||  - Configure storage accounts |||
@@ -53,7 +53,7 @@
 ||  - Create a Windows virtual machine in Azure |||
 ||  - Host a web application with Azure App Service |[LabBlock 9](https://lumify.learnondemand.net/)|70 min|
 |**4**|
-||***Labs Continued***| [LabBlock 10 - 12](https://lumify.learnondemand.net/)|70 min|
+||***Labs Continued***| [LabBlock 10-12](https://lumify.learnondemand.net/)|70 min|
 ||[Monitor and back up Azure resources](https://learn.microsoft.com/en-gb/training/paths/az-104-monitor-backup-resources/) | ||
 ||  - Introduction to Azure Backup |||
 ||  - Configure virtual machine backups |||
@@ -62,7 +62,7 @@
 ||  - Configure Network Watcher |||
 ||  - Improve incident response with Azure Monitor alerts |||
 ||  - Analyze your Azure infrastructure by using Azure Monitor logs |||
-||  - Monitor your Azure virtual machines with Azure Monitor |[LabBlock 13 - 14](https://lumify.learnondemand.net/)|150 min|
+||  - Monitor your Azure virtual machines with Azure Monitor |[LabBlock 13-14](https://lumify.learnondemand.net/)|150 min|
 <br>
 
 ---
