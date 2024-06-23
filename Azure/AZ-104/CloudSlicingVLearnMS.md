@@ -51,9 +51,9 @@
 ||  - Configure Azure Container Instances |||
 ||  - Manage virtual machines with the Azure CLI |||
 ||  - Create a Windows virtual machine in Azure |||
-||  - Host a web application with Azure App Service |||
+||  - Host a web application with Azure App Service |[LabBlock 9](https://lumify.learnondemand.net/)|70 min|
 |**4**|
-||***Continued***| [LabBlock 9 - 12](https://lumify.learnondemand.net/)|150 min|
+||***Labs Continued***| [LabBlock 10 - 12](https://lumify.learnondemand.net/)|70 min|
 ||[Monitor and back up Azure resources](https://learn.microsoft.com/en-gb/training/paths/az-104-monitor-backup-resources/) | ||
 ||  - Introduction to Azure Backup |||
 ||  - Configure virtual machine backups |||
