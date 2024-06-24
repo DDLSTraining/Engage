@@ -8,7 +8,7 @@
 ***A learn On Demand key can be found in your DDLS Portal or given to you from your instructor***
 
 1. Go to [Skillable - Learn On Demand](https://ddls.learnondemand.net) **(Right Click to open in new tab)**
-2. Your Lumify-Work instructor will give you the LearnOnDemand Key
+2. Your Lumify-Work instructor will give you the Skillable Registration Key
 3. Do you have an existing account with **lumify.learnondemand.net**?
   - if **NO:**
     - Click `Register with Training Key`  
