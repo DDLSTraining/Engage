@@ -27,12 +27,12 @@
 ||    - [Configure virtual networks](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-networks/) |||
 ||    - [Configure network security groups](https://learn.microsoft.com/en-gb/training/modules/configure-network-security-groups/) |||
 ||    - [Configure Azure Virtual Network peering](https://learn.microsoft.com/en-gb/training/modules/configure-vnet-peering/) |6||
+||    - [Distribute your services across Azure virtual networks and integrate them by using virtual network peering](https://learn.microsoft.com/en-gb/training/modules/integrate-vnets-with-vnet-peering/) |||
 ||    - [Configure network routing and endpoints](https://learn.microsoft.com/en-gb/training/modules/configure-network-routing-endpoints/) |||
+||    - [Manage and control traffic flow in your Azure deployment with routes](https://learn.microsoft.com/en-gb/training/modules/control-network-traffic-flow-with-routes/) |||
 ||    - [Configure Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/configure-azure-load-balancer/) |||
 ||    - [Configure Azure Application Gateway](https://learn.microsoft.com/en-gb/training/modules/configure-azure-application-gateway/) |7||
 ||    - [Design an IP addressing schema for your Azure deployment](https://learn.microsoft.com/en-gb/training/modules/design-ip-addressing-for-azure/) |||
-||    - [Distribute your services across Azure virtual networks and integrate them by using virtual network peering](https://learn.microsoft.com/en-gb/training/modules/integrate-vnets-with-vnet-peering/) |||
-||    - [Manage and control traffic flow in your Azure deployment with routes](https://learn.microsoft.com/en-gb/training/modules/control-network-traffic-flow-with-routes/) |||
 ||    - [Improve application scalability and resiliency by using Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/improve-app-scalability-resiliency-with-load-balancer/) |[LabBlock 5 - 7](https://lumify.learnondemand.net/)|180 min|
 |**3**|
 ||**[Implement and manage storage in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-storage/)** | ||
