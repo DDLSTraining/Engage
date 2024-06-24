@@ -62,7 +62,7 @@
 ||    - [Configure Network Watcher](https://learn.microsoft.com/en-gb/training/modules/configure-network-watcher/) |||
 ||    - [Improve incident response with Azure Monitor alerts](https://learn.microsoft.com/en-gb/training/modules/incident-response-with-alerting-on-azure/) |||
 ||    - [Analyze your Azure infrastructure by using Azure Monitor logs](https://learn.microsoft.com/en-gb/training/modules/analyze-infrastructure-with-azure-monitor-logs/) |||
-||    - [Monitor your Azure virtual machines with Azure Monitor](https://learn.microsoft.com/en-gb/training/modules/monitor-azure-vm-using-diagnostic-data/) |14 [LabBlock 13 - 14](https://lumify.learnondemand.net/)|150 min|
+||    - [Monitor your Azure virtual machines with Azure Monitor](https://learn.microsoft.com/en-gb/training/modules/monitor-azure-vm-using-diagnostic-data/) |[LabBlock 13 - 14](https://lumify.learnondemand.net/) 14 |150 min|
 <br>
 
 ---
