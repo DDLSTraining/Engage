@@ -11,7 +11,7 @@
 ||  - [Introduction to Azure Cloud Shell](https://learn.microsoft.com/en-gb/training/modules/intro-to-azure-cloud-shell/) |||
 ||  - [Introduction to Bash](https://learn.microsoft.com/en-gb/training/modules/bash-introduction/) |||
 ||  - [Introduction to PowerShell](https://learn.microsoft.com/en-gb/training/modules/introduction-to-powershell/) |||
-||  - [Configure resources with Azure Resource Manager templates(https://learn.microsoft.com/en-gb/training/modules/configure-resources-arm-templates/) |||
+||  - [Configure resources with Azure Resource Manager templates](https://learn.microsoft.com/en-gb/training/modules/configure-resources-arm-templates/) |||
 ||**[Manage identities and governance in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-identities-governance/)** | ||
 ||  - [Understand Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/understand-azure-active-directory/) |||
 ||  - [Configure user and group accounts](https://learn.microsoft.com/en-gb/training/modules/configure-user-group-accounts/) |||
