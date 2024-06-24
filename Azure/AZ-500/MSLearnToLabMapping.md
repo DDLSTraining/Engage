@@ -25,10 +25,9 @@
 
 ---
 > [!IMPORTANT]
-> [End of Course Survey](https://www.metricsthatmatter.com/dim319)
-> 
-> In the course list search for your trainers last name and pick the relevant course to survey
-
+> [End of Course Survey](https://my.lumifywork.com)
+>
+> In the Lumify Portal - Codes/Links/Comments -  Course Evaluation Survey URL
 ---
 
 |Interesting online content|URL|
