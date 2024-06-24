@@ -23,17 +23,17 @@
 ||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |[LabBlock 1 - 4](https://lumify.learnondemand.net/) 4|180 min|
 |**2**|
 ||**Configure and manage virtual networks for Azure administrators** | ||
-||    - [Host your domain on Azure DNS](https://learn.microsoft.com/en-gb/training/modules/host-domain-azure-dns/) |5||
 ||    - [Configure virtual networks](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-networks/) |||
 ||    - [Configure network security groups](https://learn.microsoft.com/en-gb/training/modules/configure-network-security-groups/) |||
-||    - [Configure Azure Virtual Network peering](https://learn.microsoft.com/en-gb/training/modules/configure-vnet-peering/) |6||
+||    - [Host your domain on Azure DNS](https://learn.microsoft.com/en-gb/training/modules/host-domain-azure-dns/) |5||
+||    - [Configure Azure Virtual Network peering](https://learn.microsoft.com/en-gb/training/modules/configure-vnet-peering/) |||
 ||    - [Distribute your services across Azure virtual networks and integrate them by using virtual network peering](https://learn.microsoft.com/en-gb/training/modules/integrate-vnets-with-vnet-peering/) |||
 ||    - [Configure network routing and endpoints](https://learn.microsoft.com/en-gb/training/modules/configure-network-routing-endpoints/) |||
-||    - [Manage and control traffic flow in your Azure deployment with routes](https://learn.microsoft.com/en-gb/training/modules/control-network-traffic-flow-with-routes/) |||
+||    - [Manage and control traffic flow in your Azure deployment with routes](https://learn.microsoft.com/en-gb/training/modules/control-network-traffic-flow-with-routes/) |6||
 ||    - [Configure Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/configure-azure-load-balancer/) |||
+||    - [Improve application scalability and resiliency by using Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/improve-app-scalability-resiliency-with-load-balancer/) |||
 ||    - [Configure Azure Application Gateway](https://learn.microsoft.com/en-gb/training/modules/configure-azure-application-gateway/) |7||
-||    - [Design an IP addressing schema for your Azure deployment](https://learn.microsoft.com/en-gb/training/modules/design-ip-addressing-for-azure/) |||
-||    - [Improve application scalability and resiliency by using Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/improve-app-scalability-resiliency-with-load-balancer/) |[LabBlock 5 - 7](https://lumify.learnondemand.net/)|180 min|
+||    - [Design an IP addressing schema for your Azure deployment](https://learn.microsoft.com/en-gb/training/modules/design-ip-addressing-for-azure/) |[LabBlock 5 - 7](https://lumify.learnondemand.net/)|180 min|
 |**3**|
 ||**Implement and manage storage in Azure** | ||
 ||    - [Configure storage accounts](https://learn.microsoft.com/en-gb/training/modules/configure-storage-accounts/) |||
