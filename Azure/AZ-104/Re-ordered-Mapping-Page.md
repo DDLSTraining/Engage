@@ -3,7 +3,7 @@
 
 
 
-|Day|Learning Path| Skillable Labs Blocks| Lab Timing |
+|Day|Learning Path| Skillable Lab Blocks| Lab Timing |
 |---:|---|---:|---|
 |**1**|
 ||**[Prerequisites for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-administrator-prerequisites/)** | ||
