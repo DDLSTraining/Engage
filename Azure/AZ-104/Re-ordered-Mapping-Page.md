@@ -32,8 +32,8 @@
 ||    - [Manage and control traffic flow in your Azure deployment with routes](https://learn.microsoft.com/en-gb/training/modules/control-network-traffic-flow-with-routes/) |6||
 ||    - [Configure Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/configure-azure-load-balancer/) |||
 ||    - [Improve application scalability and resiliency by using Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/improve-app-scalability-resiliency-with-load-balancer/) |||
-||    - [Configure Azure Application Gateway](https://learn.microsoft.com/en-gb/training/modules/configure-azure-application-gateway/) |7||
-||    - [Design an IP addressing schema for your Azure deployment](https://learn.microsoft.com/en-gb/training/modules/design-ip-addressing-for-azure/) |[LabBlock 5 - 7](https://lumify.learnondemand.net/)|180 min|
+||    - [Configure Azure Application Gateway](https://learn.microsoft.com/en-gb/training/modules/configure-azure-application-gateway/) |||
+||    - [Design an IP addressing schema for your Azure deployment](https://learn.microsoft.com/en-gb/training/modules/design-ip-addressing-for-azure/) |[LabBlock 5 - 7](https://lumify.learnondemand.net/) 7|180 min|
 |**3**|
 ||**Implement and manage storage in Azure** | ||
 ||    - [Configure storage accounts](https://learn.microsoft.com/en-gb/training/modules/configure-storage-accounts/) |||
