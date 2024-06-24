@@ -20,7 +20,7 @@
 ||    - [Configure subscriptions](https://learn.microsoft.com/en-gb/training/modules/configure-subscriptions/) |||
 ||    - [Configure Azure Policy](https://learn.microsoft.com/en-gb/training/modules/configure-azure-policy/) |3||
 ||    - [Configure resources with Azure Resource Manager templates](https://learn.microsoft.com/en-gb/training/modules/configure-resources-arm-templates/) |||
-||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |4 [LabBlock 1 - 4](https://lumify.learnondemand.net/)|180 min|
+||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |[LabBlock 1 - 4](https://lumify.learnondemand.net/) 4|180 min|
 |**2**|
 ||**[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/)** | ||
 ||    - [Configure virtual networks](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-networks/) |||
