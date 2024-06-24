@@ -14,19 +14,18 @@
 ||**[Manage identities and governance in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-identities-governance/)** | ||
 ||    - [Understand Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/understand-azure-active-directory/) |||
 ||    - [Configure user and group accounts](https://learn.microsoft.com/en-gb/training/modules/configure-user-group-accounts/) |1||
-||    - [Configure subscriptions](https://learn.microsoft.com/en-gb/training/modules/configure-subscriptions/) |||
+||    - [Create Azure users and groups in Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/create-users-and-groups-in-azure-active-directory/) |||
 ||    - [Configure role-based access control](https://learn.microsoft.com/en-gb/training/modules/configure-role-based-access-control/) |||
 ||    - [Secure your Azure resources with Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/en-gb/training/modules/secure-azure-resources-with-rbac/) |2||
+||    - [Configure subscriptions](https://learn.microsoft.com/en-gb/training/modules/configure-subscriptions/) |||
 ||    - [Configure Azure Policy](https://learn.microsoft.com/en-gb/training/modules/configure-azure-policy/) |3||
-||    - [Create Azure users and groups in Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/create-users-and-groups-in-azure-active-directory/) |||
-||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/)
+||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |[LabBlock 1 - 4](https://lumify.learnondemand.net/)|180 min|
 ||    - [Configure resources with Azure Resource Manager templates](https://learn.microsoft.com/en-gb/training/modules/configure-resources-arm-templates/) |4||
- |[LabBlock 1 - 4](https://lumify.learnondemand.net/)|180 min|
 |**2**|
 ||**[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/)** | ||
 ||    - [Configure virtual networks](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-networks/) |||
-||    - [Host your domain on Azure DNS](https://learn.microsoft.com/en-gb/training/modules/host-domain-azure-dns/) |5||
 ||    - [Configure network security groups](https://learn.microsoft.com/en-gb/training/modules/configure-network-security-groups/) |||
+||    - [Host your domain on Azure DNS](https://learn.microsoft.com/en-gb/training/modules/host-domain-azure-dns/) |5||
 ||    - [Configure Azure Virtual Network peering](https://learn.microsoft.com/en-gb/training/modules/configure-vnet-peering/) |6||
 ||    - [Configure network routing and endpoints](https://learn.microsoft.com/en-gb/training/modules/configure-network-routing-endpoints/) |||
 ||    - [Configure Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/configure-azure-load-balancer/) |||
