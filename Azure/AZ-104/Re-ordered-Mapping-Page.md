@@ -19,8 +19,8 @@
 ||    - [Secure your Azure resources with Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/en-gb/training/modules/secure-azure-resources-with-rbac/) |2||
 ||    - [Configure subscriptions](https://learn.microsoft.com/en-gb/training/modules/configure-subscriptions/) |||
 ||    - [Configure Azure Policy](https://learn.microsoft.com/en-gb/training/modules/configure-azure-policy/) |3||
-||    - [Configure resources with Azure Resource Manager templates](https://learn.microsoft.com/en-gb/training/modules/configure-resources-arm-templates/) |4||
-||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |[LabBlock 1 - 4](https://lumify.learnondemand.net/)|180 min|
+||    - [Configure resources with Azure Resource Manager templates](https://learn.microsoft.com/en-gb/training/modules/configure-resources-arm-templates/) |||
+||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |4 [LabBlock 1 - 4](https://lumify.learnondemand.net/)|180 min|
 |**2**|
 ||**[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/)** | ||
 ||    - [Configure virtual networks](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-networks/) |||
@@ -61,8 +61,8 @@
 ||    - [Configure Log Analytics](https://learn.microsoft.com/en-gb/training/modules/configure-log-analytics/) |||
 ||    - [Configure Network Watcher](https://learn.microsoft.com/en-gb/training/modules/configure-network-watcher/) |||
 ||    - [Improve incident response with Azure Monitor alerts](https://learn.microsoft.com/en-gb/training/modules/incident-response-with-alerting-on-azure/) |||
-||    - [Analyze your Azure infrastructure by using Azure Monitor logs](https://learn.microsoft.com/en-gb/training/modules/analyze-infrastructure-with-azure-monitor-logs/) |14||
-||    - [Monitor your Azure virtual machines with Azure Monitor](https://learn.microsoft.com/en-gb/training/modules/monitor-azure-vm-using-diagnostic-data/) |[LabBlock 13 - 14](https://lumify.learnondemand.net/)|150 min|
+||    - [Analyze your Azure infrastructure by using Azure Monitor logs](https://learn.microsoft.com/en-gb/training/modules/analyze-infrastructure-with-azure-monitor-logs/) |||
+||    - [Monitor your Azure virtual machines with Azure Monitor](https://learn.microsoft.com/en-gb/training/modules/monitor-azure-vm-using-diagnostic-data/) |14 [LabBlock 13 - 14](https://lumify.learnondemand.net/)|150 min|
 <br>
 
 ---
