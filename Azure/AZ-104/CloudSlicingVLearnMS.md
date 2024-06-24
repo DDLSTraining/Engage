@@ -20,7 +20,7 @@
 ||  - [Configure role-based access control](https://learn.microsoft.com/en-gb/training/modules/configure-role-based-access-control/) |||
 ||  - [Create Azure users and groups in Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/create-users-and-groups-in-azure-active-directory/) |||
 ||  - [Secure your Azure resources with Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/en-gb/training/modules/secure-azure-resources-with-rbac/) |||
-||  - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |[LabBlock 1-4](https://lumify.learnondemand.net/)|180 min|
+||  - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |[LabBlock 1 - 4](https://lumify.learnondemand.net/)|180 min|
 |**2**|
 ||**[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/)** | ||
 ||  - [Configure virtual networks](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-networks/) |||
@@ -33,7 +33,7 @@
 ||  - [Distribute your services across Azure virtual networks and integrate them by using virtual network peering](https://learn.microsoft.com/en-gb/training/modules/integrate-vnets-with-vnet-peering/) |||
 ||  - [Host your domain on Azure DNS](https://learn.microsoft.com/en-gb/training/modules/host-domain-azure-dns/) |||
 ||  - [Manage and control traffic flow in your Azure deployment with routes](https://learn.microsoft.com/en-gb/training/modules/control-network-traffic-flow-with-routes/) |||
-||  - [Improve application scalability and resiliency by using Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/improve-app-scalability-resiliency-with-load-balancer/) |[LabBlock 5-7](https://lumify.learnondemand.net/)|180 min|
+||  - [Improve application scalability and resiliency by using Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/improve-app-scalability-resiliency-with-load-balancer/) |[LabBlock 5 - 7](https://lumify.learnondemand.net/)|180 min|
 |**3**|
 ||**[Implement and manage storage in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-storage/)** | ||
 ||  - [Configure storage accounts](https://learn.microsoft.com/en-gb/training/modules/configure-storage-accounts/) |||
@@ -53,7 +53,7 @@
 ||  - [Create a Windows virtual machine in Azure](https://learn.microsoft.com/en-gb/training/modules/create-windows-virtual-machine-in-azure/) |||
 ||  - [Host a web application with Azure App Service](https://learn.microsoft.com/en-gb/training/modules/host-a-web-app-with-azure-app-service/) |[LabBlock 9](https://lumify.learnondemand.net/)|70 min|
 |**4**|
-||***Labs Continued***| [LabBlock 10-12](https://lumify.learnondemand.net/)|70 min|
+||***Labs Continued***| [LabBlock 10 - 12](https://lumify.learnondemand.net/)|70 min|
 ||**[Monitor and back up Azure resources](https://learn.microsoft.com/en-gb/training/paths/az-104-monitor-backup-resources/)** | ||
 ||  - [Introduction to Azure Backup](https://learn.microsoft.com/en-gb/training/modules/intro-to-azure-backup/) |||
 ||  - [Configure virtual machine backups](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-machine-backups/) |||
@@ -62,7 +62,7 @@
 ||  - [Configure Network Watcher](https://learn.microsoft.com/en-gb/training/modules/configure-network-watcher/) |||
 ||  - [Improve incident response with Azure Monitor alerts](https://learn.microsoft.com/en-gb/training/modules/incident-response-with-alerting-on-azure/) |||
 ||  - [Analyze your Azure infrastructure by using Azure Monitor logs](https://learn.microsoft.com/en-gb/training/modules/analyze-infrastructure-with-azure-monitor-logs/) |||
-||  - [Monitor your Azure virtual machines with Azure Monitor](https://learn.microsoft.com/en-gb/training/modules/monitor-azure-vm-using-diagnostic-data/) |[LabBlock 13-14](https://lumify.learnondemand.net/)|150 min|
+||  - [Monitor your Azure virtual machines with Azure Monitor](https://learn.microsoft.com/en-gb/training/modules/monitor-azure-vm-using-diagnostic-data/) |[LabBlock 13 - 14](https://lumify.learnondemand.net/)|150 min|
 <br>
 
 ---
