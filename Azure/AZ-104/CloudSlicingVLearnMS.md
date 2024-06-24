@@ -67,7 +67,7 @@
 
 ---
 > [!IMPORTANT]
-> [Lumify Portal](https://my.lumifywork.com)
+> [End of Course Survey](https://my.lumifywork.com)
 >
 > In the Lumify Portal - Codes/Links/Comments -  Course Evaluation Survey URL
 ---
