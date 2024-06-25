@@ -46,11 +46,11 @@
 ||**Deploy and manage Azure compute resources** | ||
 ||    - [Configure virtual machines](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-machines/) |||
 ||    - [Configure virtual machine availability](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-machine-availability/) |||
+||    - [Manage virtual machines with the Azure CLI](https://learn.microsoft.com/en-gb/training/modules/manage-virtual-machines-with-azure-cli/) |||
+||    - [Create a Windows virtual machine in Azure](https://learn.microsoft.com/en-gb/training/modules/create-windows-virtual-machine-in-azure/) |||
 ||    - [Configure Azure App Service plans](https://learn.microsoft.com/en-gb/training/modules/configure-app-service-plans/) |||
 ||    - [Configure Azure App Service](https://learn.microsoft.com/en-gb/training/modules/configure-azure-app-services/) |||
 ||    - [Configure Azure Container Instances](https://learn.microsoft.com/en-gb/training/modules/configure-azure-container-instances/) |||
-||    - [Manage virtual machines with the Azure CLI](https://learn.microsoft.com/en-gb/training/modules/manage-virtual-machines-with-azure-cli/) |||
-||    - [Create a Windows virtual machine in Azure](https://learn.microsoft.com/en-gb/training/modules/create-windows-virtual-machine-in-azure/) |||
 ||    - [Host a web application with Azure App Service](https://learn.microsoft.com/en-gb/training/modules/host-a-web-app-with-azure-app-service/) |[LabBlock 9](https://lumify.learnondemand.net/)|70 min|
 |**4**|
 ||***Labs Continued***| [LabBlock 10 - 12](https://lumify.learnondemand.net/)|70 min|
