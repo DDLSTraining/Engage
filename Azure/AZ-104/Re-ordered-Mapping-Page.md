@@ -62,7 +62,9 @@
 ||    - [Host a web application with Azure App Service](https://learn.microsoft.com/en-gb/training/modules/host-a-web-app-with-azure-app-service/) |||
 ||    - ***Lab: Manage Virtual Machines***|[LabBlock 9](https://lumify.learnondemand.net/)||
 |**4**|
-||***Labs Continued***| [LabBlock 10 - 12](https://lumify.learnondemand.net/)|70 min|
+||    - ***Lab: Implement Web Apps***|[LabBlock 10](https://lumify.learnondemand.net/)||
+||    - ***Lab: Implement Azure_Container Instances***|[LabBlock 11](https://lumify.learnondemand.net/)||
+||    - ***Lab: Implement Azure Container Apps***|[LabBlock 12](https://lumify.learnondemand.net/)||
 ||**Monitor and back up Azure resources** | ||
 ||    - [Introduction to Azure Backup](https://learn.microsoft.com/en-gb/training/modules/intro-to-azure-backup/) |||
 ||    - [Configure virtual machine backups](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-machine-backups/) |13||
@@ -71,7 +73,9 @@
 ||    - [Configure Network Watcher](https://learn.microsoft.com/en-gb/training/modules/configure-network-watcher/) |||
 ||    - [Improve incident response with Azure Monitor alerts](https://learn.microsoft.com/en-gb/training/modules/incident-response-with-alerting-on-azure/) |||
 ||    - [Analyze your Azure infrastructure by using Azure Monitor logs](https://learn.microsoft.com/en-gb/training/modules/analyze-infrastructure-with-azure-monitor-logs/) |||
-||    - [Monitor your Azure virtual machines with Azure Monitor](https://learn.microsoft.com/en-gb/training/modules/monitor-azure-vm-using-diagnostic-data/) |[LabBlock 13 - 14](https://lumify.learnondemand.net/) 14 |150 min|
+||    - [Monitor your Azure virtual machines with Azure Monitor](https://learn.microsoft.com/en-gb/training/modules/monitor-azure-vm-using-diagnostic-data/) |||
+||    - ***Lab: Implement Data Protection***|[LabBlock 13](https://lumify.learnondemand.net/)||
+||    - ***Lab: Implement Monitoring***|[LabBlock 14](https://lumify.learnondemand.net/)||
 <br>
 
 ---
