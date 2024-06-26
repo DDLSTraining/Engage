@@ -13,14 +13,18 @@
 ||    - [Introduction to PowerShell](https://learn.microsoft.com/en-gb/training/modules/introduction-to-powershell/) |||
 ||**Manage identities and governance in Azure** | ||
 ||    - [Understand Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/understand-azure-active-directory/) |||
-||    - [Configure user and group accounts](https://learn.microsoft.com/en-gb/training/modules/configure-user-group-accounts/) |1||
+||    - [Configure user and group accounts](https://learn.microsoft.com/en-gb/training/modules/configure-user-group-accounts/) |||
+|| Lab: Manage Entra ID Identities|[LabBlock 1](https://lumify.learnondemand.net/)||
 ||    - [Create Azure users and groups in Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/create-users-and-groups-in-azure-active-directory/) |||
 ||    - [Configure role-based access control](https://learn.microsoft.com/en-gb/training/modules/configure-role-based-access-control/) |||
-||    - [Secure your Azure resources with Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/en-gb/training/modules/secure-azure-resources-with-rbac/) |2||
+||    - [Secure your Azure resources with Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/en-gb/training/modules/secure-azure-resources-with-rbac/) |||
+|| Lab: Manage Subscriptions and RBAC|[LabBlock 2](https://lumify.learnondemand.net/)||
 ||    - [Configure subscriptions](https://learn.microsoft.com/en-gb/training/modules/configure-subscriptions/) |||
 ||    - [Configure Azure Policy](https://learn.microsoft.com/en-gb/training/modules/configure-azure-policy/) |3||
+|| Lab: Manage Governance via Azure Policy|[LabBlock 3](https://lumify.learnondemand.net/)||
 ||    - [Configure resources with Azure Resource Manager templates](https://learn.microsoft.com/en-gb/training/modules/configure-resources-arm-templates/) |||
-||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |[LabBlock 1 - 4](https://lumify.learnondemand.net/) 4|180 min|
+||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) ||180 min|
+|| Lab: Manage Azure Resources by Using ARM Templates|[LabBlock 4](https://lumify.learnondemand.net/)||
 |**2**|
 ||**Configure and manage virtual networks for Azure administrators** | ||
 ||    - [Configure virtual networks](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-networks/) |||
