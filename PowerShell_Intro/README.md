@@ -1,4 +1,5 @@
 # Introduction to Windows PowerShell
+[Microsoft Learn Modules](https://learn.microsoft.com/en-au/collections/n5dxbd4j12m0jy)
 
 ## Morning Session
 |LearningPath |Topics Covered |Demos|
