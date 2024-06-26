@@ -20,24 +20,27 @@
 ||    - [Secure your Azure resources with Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/en-gb/training/modules/secure-azure-resources-with-rbac/) |||
 ||    - ***Lab: Manage Subscriptions and RBAC***|[LabBlock 2](https://lumify.learnondemand.net/)||
 ||    - [Configure subscriptions](https://learn.microsoft.com/en-gb/training/modules/configure-subscriptions/) |||
-||    - [Configure Azure Policy](https://learn.microsoft.com/en-gb/training/modules/configure-azure-policy/) |3||
+||    - [Configure Azure Policy](https://learn.microsoft.com/en-gb/training/modules/configure-azure-policy/) |||
 ||    - ***Lab: Manage Governance via Azure Policy***|[LabBlock 3](https://lumify.learnondemand.net/)||
 ||    - [Configure resources with Azure Resource Manager templates](https://learn.microsoft.com/en-gb/training/modules/configure-resources-arm-templates/) |||
-||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) ||180 min|
+||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |||
 ||    - ***Lab: Manage Azure Resources by Using ARM Templates***|[LabBlock 4](https://lumify.learnondemand.net/)||
 |**2**|
 ||**Configure and manage virtual networks for Azure administrators** | ||
 ||    - [Configure virtual networks](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-networks/) |||
 ||    - [Configure network security groups](https://learn.microsoft.com/en-gb/training/modules/configure-network-security-groups/) |||
-||    - [Host your domain on Azure DNS](https://learn.microsoft.com/en-gb/training/modules/host-domain-azure-dns/) |5||
+||    - [Host your domain on Azure DNS](https://learn.microsoft.com/en-gb/training/modules/host-domain-azure-dns/) |||
+||    - ***Lab: Implement Virtual Networking***|[LabBlock 5](https://lumify.learnondemand.net/)||
 ||    - [Configure Azure Virtual Network peering](https://learn.microsoft.com/en-gb/training/modules/configure-vnet-peering/) |||
 ||    - [Distribute your services across Azure virtual networks and integrate them by using virtual network peering](https://learn.microsoft.com/en-gb/training/modules/integrate-vnets-with-vnet-peering/) |||
 ||    - [Configure network routing and endpoints](https://learn.microsoft.com/en-gb/training/modules/configure-network-routing-endpoints/) |||
-||    - [Manage and control traffic flow in your Azure deployment with routes](https://learn.microsoft.com/en-gb/training/modules/control-network-traffic-flow-with-routes/) |6||
+||    - [Manage and control traffic flow in your Azure deployment with routes](https://learn.microsoft.com/en-gb/training/modules/control-network-traffic-flow-with-routes/) |||
+||    - ***Lab: Implement Intersite Connectivity***|[LabBlock 6](https://lumify.learnondemand.net/)||
 ||    - [Configure Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/configure-azure-load-balancer/) |||
 ||    - [Improve application scalability and resiliency by using Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/improve-app-scalability-resiliency-with-load-balancer/) |||
 ||    - [Configure Azure Application Gateway](https://learn.microsoft.com/en-gb/training/modules/configure-azure-application-gateway/) |||
-||    - [Design an IP addressing schema for your Azure deployment](https://learn.microsoft.com/en-gb/training/modules/design-ip-addressing-for-azure/) |[LabBlock 5 - 7](https://lumify.learnondemand.net/) 7|180 min|
+||    - [Design an IP addressing schema for your Azure deployment](https://learn.microsoft.com/en-gb/training/modules/design-ip-addressing-for-azure/) |||
+||    - ***Lab: Implement Network Traffic Management***|[LabBlock 7](https://lumify.learnondemand.net/)||
 |**3**|
 ||**Implement and manage storage in Azure** | ||
 ||    - [Configure storage accounts](https://learn.microsoft.com/en-gb/training/modules/configure-storage-accounts/) |||
@@ -46,7 +49,8 @@
 ||    - [Configure Azure Files and Azure File Sync](https://learn.microsoft.com/en-gb/training/modules/configure-azure-files-file-sync/) |||
 ||    - [Create an Azure Storage account](https://learn.microsoft.com/en-gb/training/modules/create-azure-storage-account/) |||
 ||    - [Control access to Azure Storage with shared access signatures](https://learn.microsoft.com/en-gb/training/modules/control-access-to-azure-storage-with-sas/) |||
-||    - [Upload, download, and manage data with Azure Storage Explorer](https://learn.microsoft.com/en-gb/training/modules/upload-download-and-manage-data-with-azure-storage-explorer/) |[LabBlock 8](https://lumify.learnondemand.net/)|70 min|
+||    - [Upload, download, and manage data with Azure Storage Explorer](https://learn.microsoft.com/en-gb/training/modules/upload-download-and-manage-data-with-azure-storage-explorer/) |||
+||    - ***Lab: Manage Azure Storage***|[LabBlock 8](https://lumify.learnondemand.net/)||
 ||**Deploy and manage Azure compute resources** | ||
 ||    - [Configure virtual machines](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-machines/) |||
 ||    - [Configure virtual machine availability](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-machine-availability/) |||
@@ -55,7 +59,8 @@
 ||    - [Configure Azure App Service plans](https://learn.microsoft.com/en-gb/training/modules/configure-app-service-plans/) |||
 ||    - [Configure Azure App Service](https://learn.microsoft.com/en-gb/training/modules/configure-azure-app-services/) |||
 ||    - [Configure Azure Container Instances](https://learn.microsoft.com/en-gb/training/modules/configure-azure-container-instances/) |||
-||    - [Host a web application with Azure App Service](https://learn.microsoft.com/en-gb/training/modules/host-a-web-app-with-azure-app-service/) |[LabBlock 9](https://lumify.learnondemand.net/)|70 min|
+||    - [Host a web application with Azure App Service](https://learn.microsoft.com/en-gb/training/modules/host-a-web-app-with-azure-app-service/) |||
+||    - ***Lab: Manage Virtual Machines***|[LabBlock 9](https://lumify.learnondemand.net/)||
 |**4**|
 ||***Labs Continued***| [LabBlock 10 - 12](https://lumify.learnondemand.net/)|70 min|
 ||**Monitor and back up Azure resources** | ||
