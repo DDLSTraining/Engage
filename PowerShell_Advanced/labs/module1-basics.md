@@ -1,7 +1,7 @@
 ---
 lab:
-    title: 'Lab: Configuring Windows PowerShell, and finding and running commands' 
-    module: 'Module 1: Getting Started with Windows PowerShell'
+    title: 'Lab: Discovering Objects' 
+    module: 'Module 1: PowerShell Basics'
 --- 
 
 <!--
@@ -24,22 +24,24 @@ lab:
 
 
 
-# Lab: Configuring Windows PowerShell, and finding and running commands
+# Lab: Discovering Objects
 
 ## Scenario
 
-You're an administrator who'll use Windows PowerShell to automate many administrative tasks. You must ensure that you can successfully start the correct Windows PowerShell host applications and configure them for future use by customizing their appearance.
+You have been asked to discover what is inside a PowerShell object and you have been asked to use the Get-Member command to display the membership of the object produced by the following commands:
 
-You're also preparing to complete several administrative tasks by using Windows PowerShell. You need to discover commands that you'll use to perform those tasks, run several commands to begin performing those tasks, and learn about new Windows PowerShell features that'll enable you to complete those tasks.
+Get-Service
+Get-Process
+Get-Date
 
 ## Objectives
 
 After completing this lab, you'll be able to:
 
-- **OPTIONAL** Open and configure the Windows PowerShell console application.
-- **OPTIONAL** Open and configure the Windows PowerShell ISE application.
-- Find and run Windows PowerShell commands.
-- Use Windows PowerShell Help and About topics to learn new shell concepts and techniques.
+- Use Get-Member to discover the type of object produced by a command
+- Use Get-Member to discover which Methods are in a PowerShell Object
+- Use Get-Member to discover which Properties are in a PowerShell Object
+
 
 ## Estimated time: 60 minutes
 
@@ -61,17 +63,60 @@ Password: **Pa55w.rd**
 
 1. Repeat these steps for **LON-CL1**.
 
-## \[OPTIONAL] Exercise 1: Configuring the Windows PowerShell console application
+##  Exercise 1: Find the types of objects produced by these commands: Get-Service, Get-Process, Get-Date
 
 ### Exercise scenario 1
 
-To customize Windows PowerShell, you need to first make changes to the console. In this exercise, you'll open the Windows PowerShell console application and configure its appearance and layout.
+To discover the type of objects produced from the Get-Service command you will need to pipeline the commands into the Get-Member command and then look for the TypeName value
 
-The main tasks for this exercise are:
+    <details><summary>Click for hint</summary><Strong> 
 
-1. Start the console application as Administrator, and pin the Windows PowerShell icon to the taskbar.
-1. Configure the Windows PowerShell console application.
-1. Start a shell transcript.
+    ``` 
+    # How do you pipeline the result of the first command into another command
+    # Inspecting the results of the Get-Member command what is the TypeName of the object 
+    ```
+    </Strong></details> 
+    <details><summary>Click to see the answer</summary><Strong> 
+    
+    ```
+    Get-Service | Get-Member
+    ```
+    </Strong></details> 
+
+To discover the type of objects produced from the Get-Process command you will need to pipeline the commands into the Get-Member command and then look for the TypeName value
+
+    <details><summary>Click for hint</summary><Strong> 
+
+    ``` 
+    # How do you pipeline the result of the first command into another command
+    # Inspecting the results of the Get-Member command what is the TypeName of the object 
+    ```
+    </Strong></details> 
+    <details><summary>Click to see the answer</summary><Strong> 
+    
+    ```
+    Get-Process | Get-Member
+    ```
+    </Strong></details> 
+
+To discover the type of objects produced from the Get-Date command you will need to pipeline the commands into the Get-Member command and then look for the TypeName value
+
+    <details><summary>Click for hint</summary><Strong> 
+
+    ``` 
+    # How do you pipeline the result of the first command into another command
+    # Inspecting the results of the Get-Member command what is the TypeName of the object 
+    ```
+    </Strong></details> 
+    <details><summary>Click to see the answer</summary><Strong> 
+    
+    ```
+    Get-Date | Get-Member
+    ```
+    </Strong></details> 
+    
+
+
 
 ### Task 1: Start the console application as Administrator, and pin the Windows PowerShell icon to the taskbar
 
