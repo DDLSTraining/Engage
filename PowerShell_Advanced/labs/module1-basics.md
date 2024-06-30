@@ -5,18 +5,21 @@ lab:
 --- 
 
 <!--
-    <details><summary>Click for hint</summary><Strong> 
 
-    ``` 
-    HINT
-    ```
-    </Strong></details> 
-    <details><summary>Click to see the answer</summary><Strong> 
+<details><summary>Click for hint</summary><Strong> 
+
+``` 
+HINT
+```
+</Strong></details> 
+<details><summary>Click to see the answer</summary><Strong> 
     
-    ```
-    ANSWER
-    ```
-    </Strong></details> 
+```
+ANSWER
+```
+</Strong></details> 
+
+
 -->
 
 
@@ -85,35 +88,35 @@ Get-Service | Get-Member
 
 To discover the type of objects produced from the Get-Process command you will need to pipeline the commands into the Get-Member command and then look for the TypeName value
 
-    <details><summary>Click for hint</summary><Strong> 
+<details><summary>Click for hint</summary><Strong> 
 
-    ``` 
-    # How do you pipeline the result of the first command into another command
-    # Inspecting the results of the Get-Member command what is the TypeName of the object 
-    ```
-    </Strong></details> 
-    <details><summary>Click to see the answer</summary><Strong> 
+```
+# How do you pipeline the result of the first command into another command
+# Inspecting the results of the Get-Member command what is the TypeName of the object 
+```
+</Strong></details> 
+<details><summary>Click to see the answer</summary><Strong> 
     
-    ```
-    Get-Process | Get-Member
-    ```
-    </Strong></details> 
+```
+Get-Process | Get-Member
+```
+</Strong></details> 
 
 To discover the type of objects produced from the Get-Date command you will need to pipeline the commands into the Get-Member command and then look for the TypeName value
 
-    <details><summary>Click for hint</summary><Strong> 
+<details><summary>Click for hint</summary><Strong> 
 
-    ``` 
-    # How do you pipeline the result of the first command into another command
-    # Inspecting the results of the Get-Member command what is the TypeName of the object 
-    ```
-    </Strong></details> 
-    <details><summary>Click to see the answer</summary><Strong> 
+``` 
+# How do you pipeline the result of the first command into another command
+# Inspecting the results of the Get-Member command what is the TypeName of the object 
+```
+</Strong></details> 
+<details><summary>Click to see the answer</summary><Strong> 
     
-    ```
-    Get-Date | Get-Member
-    ```
-    </Strong></details> 
+```
+Get-Date | Get-Member
+```
+</Strong></details> 
     
 
 
