@@ -82,7 +82,7 @@ To discover the type of objects produced from the Get-Service command you will n
 <details><summary>Click to see the answer</summary><Strong> 
  
 ```
-Get-Service | Get-Member
+Get-Service | Get-Member #TypeName: System.ServiceProcess.ServiceController
 ```
 </Strong></details> 
 
@@ -98,7 +98,7 @@ To discover the type of objects produced from the Get-Process command you will n
 <details><summary>Click to see the answer</summary><Strong> 
     
 ```
-Get-Process | Get-Member
+Get-Process | Get-Member  # TypeName: System.Diagnostics.Process
 ```
 </Strong></details> 
 
@@ -114,7 +114,7 @@ To discover the type of objects produced from the Get-Date command you will need
 <details><summary>Click to see the answer</summary><Strong> 
     
 ```
-Get-Date | Get-Member
+Get-Date | Get-Member  # TypeName: System.DateTime
 ```
 </Strong></details> 
     
