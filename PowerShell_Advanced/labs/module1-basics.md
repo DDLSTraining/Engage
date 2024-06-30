@@ -76,7 +76,7 @@ To discover the type of objects produced from the Get-Service command you will n
 
 ``` 
 # How do you pipeline the result of the first command into another command
-# Inspecting the results of the Get-Member command what is the TypeName of the object 
+# Inspecting the results of the Get-Member command, what is the TypeName of the object 
 ```
 </Strong></details> 
 <details><summary>Click to see the answer</summary><Strong> 
@@ -94,7 +94,7 @@ To discover the type of objects produced from the Get-Process command you will n
 
 ```
 # How do you pipeline the result of the first command into another command
-# Inspecting the results of the Get-Member command what is the TypeName of the object 
+# Inspecting the results of the Get-Member command, what is the TypeName of the object 
 ```
 </Strong></details> 
 <details><summary>Click to see the answer</summary><Strong> 
@@ -112,7 +112,7 @@ To discover the type of objects produced from the Get-Date command you will need
 
 ``` 
 # How do you pipeline the result of the first command into another command
-# Inspecting the results of the Get-Member command what is the TypeName of the object 
+# Inspecting the results of the Get-Member command, what is the TypeName of the object 
 ```
 </Strong></details> 
 <details><summary>Click to see the answer</summary><Strong> 
