@@ -25,15 +25,15 @@
 ||**[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/)** | ||
 ||    - [Configure virtual networks](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-networks/) |||
 ||    - [Configure network security groups](https://learn.microsoft.com/en-gb/training/modules/configure-network-security-groups/) |||
-||    - [Configure Azure Virtual Network peering](https://learn.microsoft.com/en-gb/training/modules/configure-vnet-peering/) |[Lab 6](https://lumify.learnondemand.net/)||
+||    - [Configure Azure Virtual Network peering](https://learn.microsoft.com/en-gb/training/modules/configure-vnet-peering/) |[Lab 6](https://lumify.learnondemand.net/)|70 min|
 ||    - [Configure network routing and endpoints](https://learn.microsoft.com/en-gb/training/modules/configure-network-routing-endpoints/) |||
 ||    - [Configure Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/configure-azure-load-balancer/) |||
-||    - [Configure Azure Application Gateway](https://learn.microsoft.com/en-gb/training/modules/configure-azure-application-gateway/) |[Lab 7](https://lumify.learnondemand.net/)||
+||    - [Configure Azure Application Gateway](https://learn.microsoft.com/en-gb/training/modules/configure-azure-application-gateway/) |[Lab 7](https://lumify.learnondemand.net/)|70 min|
 ||    - [Design an IP addressing schema for your Azure deployment](https://learn.microsoft.com/en-gb/training/modules/design-ip-addressing-for-azure/) |||
 ||    - [Distribute your services across Azure virtual networks and integrate them by using virtual network peering](https://learn.microsoft.com/en-gb/training/modules/integrate-vnets-with-vnet-peering/) |||
-||    - [Host your domain on Azure DNS](https://learn.microsoft.com/en-gb/training/modules/host-domain-azure-dns/) |[Lab 5](https://lumify.learnondemand.net/)||
+||    - [Host your domain on Azure DNS](https://learn.microsoft.com/en-gb/training/modules/host-domain-azure-dns/) |[Lab 5](https://lumify.learnondemand.net/)|70 min|
 ||    - [Manage and control traffic flow in your Azure deployment with routes](https://learn.microsoft.com/en-gb/training/modules/control-network-traffic-flow-with-routes/) |||
-||    - [Improve application scalability and resiliency by using Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/improve-app-scalability-resiliency-with-load-balancer/) |[Labs 5 - 7](https://lumify.learnondemand.net/)|180 min|
+||    - [Improve application scalability and resiliency by using Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/improve-app-scalability-resiliency-with-load-balancer/) |||
 |**3**|
 ||**[Implement and manage storage in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-storage/)** | ||
 ||    - [Configure storage accounts](https://learn.microsoft.com/en-gb/training/modules/configure-storage-accounts/) |||
@@ -56,13 +56,13 @@
 ||***Labs Continued***| [Labs 10 - 12](https://lumify.learnondemand.net/)|70 min|
 ||**[Monitor and back up Azure resources](https://learn.microsoft.com/en-gb/training/paths/az-104-monitor-backup-resources/)** | ||
 ||    - [Introduction to Azure Backup](https://learn.microsoft.com/en-gb/training/modules/intro-to-azure-backup/) |||
-||    - [Configure virtual machine backups](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-machine-backups/) |[Lab 13](https://lumify.learnondemand.net/)||
+||    - [Configure virtual machine backups](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-machine-backups/) |[Lab 13](https://lumify.learnondemand.net/)|70 min|
 ||    - [Configure Azure Monitor](https://learn.microsoft.com/en-gb/training/modules/configure-azure-monitor/) |||
 ||    - [Configure Log Analytics](https://learn.microsoft.com/en-gb/training/modules/configure-log-analytics/) |||
 ||    - [Configure Network Watcher](https://learn.microsoft.com/en-gb/training/modules/configure-network-watcher/) |||
 ||    - [Improve incident response with Azure Monitor alerts](https://learn.microsoft.com/en-gb/training/modules/incident-response-with-alerting-on-azure/) |||
-||    - [Analyze your Azure infrastructure by using Azure Monitor logs](https://learn.microsoft.com/en-gb/training/modules/analyze-infrastructure-with-azure-monitor-logs/) |[Lab 14](https://lumify.learnondemand.net/)||
-||    - [Monitor your Azure virtual machines with Azure Monitor](https://learn.microsoft.com/en-gb/training/modules/monitor-azure-vm-using-diagnostic-data/) |[Labs 13 - 14](https://lumify.learnondemand.net/)|150 min|
+||    - [Analyze your Azure infrastructure by using Azure Monitor logs](https://learn.microsoft.com/en-gb/training/modules/analyze-infrastructure-with-azure-monitor-logs/) |||
+||    - [Monitor your Azure virtual machines with Azure Monitor](https://learn.microsoft.com/en-gb/training/modules/monitor-azure-vm-using-diagnostic-data/) |[Lab 14](https://lumify.learnondemand.net/)|60 min|
 <br>
 
 ---
