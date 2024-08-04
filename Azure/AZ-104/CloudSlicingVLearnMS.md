@@ -19,8 +19,8 @@
 ||    - [Configure Azure Policy](https://learn.microsoft.com/en-gb/training/modules/configure-azure-policy/) |[Lab 3](https://lumify.learnondemand.net/)|45 min|
 ||    - [Configure role-based access control](https://learn.microsoft.com/en-gb/training/modules/configure-role-based-access-control/) |||
 ||    - [Create Azure users and groups in Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/create-users-and-groups-in-azure-active-directory/) |||
-||    - [Secure your Azure resources with Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/en-gb/training/modules/secure-azure-resources-with-rbac/) |[Lab 2](https://lumify.learnondemand.net/)|45 min|
-||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |||
+||    - [Secure your Azure resources with Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/en-gb/training/modules/secure-azure-resources-with-rbac/) |||
+||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |[Lab 2](https://lumify.learnondemand.net/)|45 min|
 |**2**|
 ||**[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/)** | ||
 ||    - [Configure virtual networks](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-networks/) |||
