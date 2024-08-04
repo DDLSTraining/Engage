@@ -11,16 +11,16 @@
 ||    - [Introduction to Azure Cloud Shell](https://learn.microsoft.com/en-gb/training/modules/intro-to-azure-cloud-shell/) |||
 ||    - [Introduction to Bash](https://learn.microsoft.com/en-gb/training/modules/bash-introduction/) |||
 ||    - [Introduction to PowerShell](https://learn.microsoft.com/en-gb/training/modules/introduction-to-powershell/) |||
-||    - [Configure resources with Azure Resource Manager templates](https://learn.microsoft.com/en-gb/training/modules/configure-resources-arm-templates/) |[Lab 4](https://lumify.learnondemand.net/)||
+||    - [Configure resources with Azure Resource Manager templates](https://learn.microsoft.com/en-gb/training/modules/configure-resources-arm-templates/) |[Lab 4](https://lumify.learnondemand.net/)|70 min|
 ||**[Manage identities and governance in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-identities-governance/)** | ||
 ||    - [Understand Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/understand-azure-active-directory/) |||
-||    - [Configure user and group accounts](https://learn.microsoft.com/en-gb/training/modules/configure-user-group-accounts/) |[Lab 1](https://lumify.learnondemand.net/)||
+||    - [Configure user and group accounts](https://learn.microsoft.com/en-gb/training/modules/configure-user-group-accounts/) |[Lab 1](https://lumify.learnondemand.net/)|45 min|
 ||    - [Configure subscriptions](https://learn.microsoft.com/en-gb/training/modules/configure-subscriptions/) |||
-||    - [Configure Azure Policy](https://learn.microsoft.com/en-gb/training/modules/configure-azure-policy/) |[Lab 3](https://lumify.learnondemand.net/)||
+||    - [Configure Azure Policy](https://learn.microsoft.com/en-gb/training/modules/configure-azure-policy/) |[Lab 3](https://lumify.learnondemand.net/)|45 min|
 ||    - [Configure role-based access control](https://learn.microsoft.com/en-gb/training/modules/configure-role-based-access-control/) |||
 ||    - [Create Azure users and groups in Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/create-users-and-groups-in-azure-active-directory/) |||
-||    - [Secure your Azure resources with Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/en-gb/training/modules/secure-azure-resources-with-rbac/) |[Lab 2](https://lumify.learnondemand.net/)||
-||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |[Labs 1 - 4](https://lumify.learnondemand.net/)|180 min|
+||    - [Secure your Azure resources with Azure role-based access control (Azure RBAC)](https://learn.microsoft.com/en-gb/training/modules/secure-azure-resources-with-rbac/) |[Lab 2](https://lumify.learnondemand.net/)|45 min|
+||    - [Allow users to reset their password with Microsoft Entra self-service password reset](https://learn.microsoft.com/en-gb/training/modules/allow-users-reset-their-password/) |||
 |**2**|
 ||**[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/)** | ||
 ||    - [Configure virtual networks](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-networks/) |||
