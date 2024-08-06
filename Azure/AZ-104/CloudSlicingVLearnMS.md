@@ -25,13 +25,13 @@
 ||**[Configure and manage virtual networks for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-virtual-networks/)** | ||
 ||    - [Configure virtual networks](https://learn.microsoft.com/en-gb/training/modules/configure-virtual-networks/) |||
 ||    - [Configure network security groups](https://learn.microsoft.com/en-gb/training/modules/configure-network-security-groups/) |||
-||    - [Configure Azure Virtual Network peering](https://learn.microsoft.com/en-gb/training/modules/configure-vnet-peering/) |[Lab 6](https://lumify.learnondemand.net/)|70 min|
+||    - [Configure Azure Virtual Network peering](https://learn.microsoft.com/en-gb/training/modules/configure-vnet-peering/) |[Lab 5-6](https://lumify.learnondemand.net/)|150 min|
 ||    - [Configure network routing and endpoints](https://learn.microsoft.com/en-gb/training/modules/configure-network-routing-endpoints/) |||
 ||    - [Configure Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/configure-azure-load-balancer/) |||
 ||    - [Configure Azure Application Gateway](https://learn.microsoft.com/en-gb/training/modules/configure-azure-application-gateway/) |[Lab 7](https://lumify.learnondemand.net/)|70 min|
 ||    - [Design an IP addressing schema for your Azure deployment](https://learn.microsoft.com/en-gb/training/modules/design-ip-addressing-for-azure/) |||
 ||    - [Distribute your services across Azure virtual networks and integrate them by using virtual network peering](https://learn.microsoft.com/en-gb/training/modules/integrate-vnets-with-vnet-peering/) |||
-||    - [Host your domain on Azure DNS](https://learn.microsoft.com/en-gb/training/modules/host-domain-azure-dns/) |[Lab 5](https://lumify.learnondemand.net/)|70 min|
+||    - [Host your domain on Azure DNS](https://learn.microsoft.com/en-gb/training/modules/host-domain-azure-dns/) |||
 ||    - [Manage and control traffic flow in your Azure deployment with routes](https://learn.microsoft.com/en-gb/training/modules/control-network-traffic-flow-with-routes/) |||
 ||    - [Improve application scalability and resiliency by using Azure Load Balancer](https://learn.microsoft.com/en-gb/training/modules/improve-app-scalability-resiliency-with-load-balancer/) |||
 |**3**|
