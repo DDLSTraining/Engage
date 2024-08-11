@@ -3,9 +3,9 @@
 
 ## Courseware (You should have done this already)
 
-1. Go to [my.ddls.com.au](my.ddls.com.au) to locate the Microsoft Learn URL
-3. If you have not registered at [my.ddls.com.au](my.ddls.com.au), you need to do so now.
-4. The "Codes/Links" section of [my.ddls.com.au](my.ddls.com.au) will give the URL and code you need to start this course
+1. Go to [my.lumify.com.au](my.lumify.com.au) to locate the Microsoft Learn URL
+3. If you have not registered at [my.lumify.com.au](my.ddls.com.au), you need to do so now.
+4. The "Codes/Links" section of [my.lumify.com.au](my.ddls.com.au) will give the URL and code you need to start this course
 
 
 ---
@@ -14,7 +14,7 @@
 
 ***A learn On Demand key would have been given to you either by email or from the instructor***
 
-1. Go to [Learn On Demand](https://ddls.learnondemand.net) **(Right Click to open in new tab)**
+1. Go to [Learn On Demand](https://lumify.learnondemand.net) **(Right Click to open in new tab)**
 2. Your DDLS instructor will give you the LearnOnDemand Key
 3. Do you have an existing account with ddls.learnondemand.net
   - if **NO:**
