@@ -434,22 +434,20 @@ terminology.
 **Fine tuning** -- labelled data to train for specific tasks input
 output pairs (practice tests with answers)
 
-**Fine Tuning options: 4 methods**
+**Fine Tuning options / methods**
 
-**Instruction tuning** -- data set of instructions and corresponding
-outputs (**labelled**)
+- **Instruction tuning** -- data set of instructions and corresponding
+outputs (**labelled**) Prompt-response pairs
 
-Prompt-response pairs
+- **Continuous Pre-Training** -- **unlabeled** data or specific topics
 
-**Continuous Pre-Training** -- **unlabeled** data or specific topics
+- **Transfer Learning** -- extend with additional knowledge
 
-**Transfer Learning** -- extend with additional knowledge
+- **Domain adaptation fine-tuning -** Adapting Models for specific domains
 
-**Domain adaptation fine-tuning -** Adapting Models for specific domains
+- **RAG --** add extra data (cost)
 
-**RAG --** add extra data (cost)
-
-**Prompt engineering -**
+- **Prompt engineering**
 
 **Underfitting -** Does not identify the relationships in training data,
 leads to low accuracy on both training and testing data.
