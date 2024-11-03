@@ -1,6 +1,6 @@
 # Please tell the class a little about you and your background
 
-- Your name
+- Your name (Help us with the correct pronoucation of your name, if needed)
 - Your role at work
 - How many years have you worked professionally in IT,
   - Tell us a little of your background in IT
