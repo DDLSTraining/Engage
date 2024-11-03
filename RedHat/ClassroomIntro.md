@@ -2,13 +2,15 @@
 
 - Your name
 - Your role at work
-- What is your level of experience with Linux and especially Red Hat Enterprise Linux
-- What versions of Red Hat have you worked with
+- How many years have you worked professionally in IT,
+  - Tell us a little of your background in IT
+- What is your level of experience with
+  - Linux in general
+  - Red Hat Enterprise Linux
+    - What versions of Red Hat have you worked with
 - What are some of the main reasons for attending this course
 - Have you sat any previous Red Hat courses before
-  - if so which courses
-- How many years have you worked professionally in IT,
-  - tell us a little of your background in IT
+  - If so which courses
 - What takes up your time after work
   - Family
   - Hobbies
