@@ -10,7 +10,7 @@ Manual - [https://www.vitalsource.com/en-au/](https://www.vitalsource.com/en-au/
 Lab Instructions - [https://www.vitalsource.com/en-au/](https://www.vitalsource.com/en-au/)  
 AWS Skillbuilder - [https://explore.skillbuilder.aws/learn](https://explore.skillbuilder.aws/learn)  
 Security Engineering on AWS Online Course Supplement  
-Student Portal  [https://my.lumifywork.com/](https://my.lumifywork.com/) 
+Student Portal  [https://my.lumifywork.com/](https://my.lumifywork.com/)  
 GitHub [https://github.com/DDLSTraining/Engage](https://github.com/DDLSTraining/Engage)
 
 **Mod 1 – Security Overview**
