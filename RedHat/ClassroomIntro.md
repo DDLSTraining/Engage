@@ -5,7 +5,7 @@
 - How many years have you worked professionally in IT,
   - Tell us a little of your background in IT
 - What is your level of experience with
-  - Linux in general
+  - Linux / UNIX in general
   - Red Hat Enterprise Linux
     - What versions of Red Hat have you worked with
 - What are some of the main reasons for attending this course
