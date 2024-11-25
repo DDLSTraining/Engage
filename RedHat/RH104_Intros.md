@@ -8,7 +8,7 @@
   - if so, tell us what you have done
 - What other operating systems have you worked with
 - What are some of the main reasons for attending this course
-- Have you done any other instructor led training courses before  
+- Have you attended any other instructor-led training courses previously  
 - What takes up your time after work
   - Family
   - Hobbies
