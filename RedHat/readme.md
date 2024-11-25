@@ -1,1 +1,1 @@
-# Read me doc
+# This is for pre-course information  
