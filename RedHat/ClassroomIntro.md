@@ -1,11 +1,11 @@
 # Red Hat Labs
 
 > [!Important]
-> https://rol.redhat.com/rol/app/
-> This website will give you access to the labs and various resources
-> Labs
-> Survey
-> Training manual 
+> https://rol.redhat.com/rol/app/ <br>
+> This website will give you access to the labs and various resources <br>
+> Labs <br>
+> Survey <br>
+> Training manual  <br>
 
 # Webex Reminder
 
