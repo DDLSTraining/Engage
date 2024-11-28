@@ -1,3 +1,8 @@
+# Webex Reminder
+
+- Please record or bookmark the Webex meeting URL so that you can get into the course again
+  
+
 # Please tell the class a little about you and your background
 
 - Your name (Help us with the correct pronoucation of your name, if needed)
