@@ -1,6 +1,6 @@
 # Webex Reminder
 
-> [Note!]
+> [Note]
 > Please record or bookmark the Webex meeting URL so that you can get into the course again
   
 
