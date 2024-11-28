@@ -1,6 +1,7 @@
 # Webex Reminder
 
-- Please record or bookmark the Webex meeting URL so that you can get into the course again
+> [Note!]
+> Please record or bookmark the Webex meeting URL so that you can get into the course again
   
 
 # Please tell the class a little about you and your background
