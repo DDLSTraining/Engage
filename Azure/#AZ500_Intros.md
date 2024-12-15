@@ -8,7 +8,7 @@
 - Your preferred name (**help us with any pronunciation issues**)
 - What location are dialling from?
 - What is your role at work?  
-  - Please outline whether you are in a:
+  - **Please outline whether you are in a:**
     - Operations Role
     - Software Development Role
     - DevOps Role
