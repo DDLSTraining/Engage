@@ -12,7 +12,7 @@
 |Day 2|
 ||- [Plan and implement security for virtual networks](https://learn.microsoft.com/en-us/training/modules/security-virtual-networks/) <BR>|2||
 ||- [Plan and implement security for private access to Azure resources](https://learn.microsoft.com/en-us/training/modules/security-private-access-azure-resources/) <BR>|||
-||- [Plan and implement security for public access to Azure resources](https://learn.microsoft.com/en-us/training/modules/security-public-access-azure-resources/) <BR>|||
+||- [Plan and implement security for public access to Azure resources](https://learn.microsoft.com/en-us/training/modules/security-public-access-azure-resources/) <BR>|3||
 |Day 3|
 ||- [Plan and implement advanced security for compute](https://learn.microsoft.com/en-us/training/modules/advanced-security-compute/) <BR>|||
 ||- [Plan and implement security for storage](https://learn.microsoft.com/en-us/training/modules/security-storage/) <BR>|||
