@@ -16,12 +16,10 @@
 |Day 3|
 ||- [Plan and implement advanced security for compute](https://learn.microsoft.com/en-us/training/modules/advanced-security-compute/) <BR>|||
 ||- [Plan and implement security for storage](https://learn.microsoft.com/en-us/training/modules/security-storage/) <BR>|||
-||- [Plan and implement security for Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-us/training/modules/security-azure-sql-database-azure-sq
-l-managed-instance/) <BR>|||
+||- [Plan and implement security for Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-us/training/modules/security-azure-sql-database-azure-sql-managed-instance/) <BR>|||
 |Day 4|
 ||- [Plan, implement, and manage governance for security](https://learn.microsoft.com/en-us/training/modules/governance-security/) <BR>|||
 ||- [Manage security posture by using Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/modules/microsoft-defender-cloud-security-posture/) <BR>|||
-||- [Configure and manage threat protection by using Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/modules/microsoft-defender-cloud-threat-protectio
-n/) <BR>|||
+||- [Configure and manage threat protection by using Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/modules/microsoft-defender-cloud-threat-protection/) <BR>|||
 ||- [Configure and manage security monitoring and automation solutions](https://learn.microsoft.com/en-us/training/modules/security-monitoring-automation-solutions/) <BR>|||
 
