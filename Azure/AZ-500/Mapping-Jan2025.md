@@ -21,4 +21,4 @@
 ||- [Plan, implement, and manage governance for security](https://learn.microsoft.com/en-us/training/modules/governance-security/) <BR>|7|80|
 ||- [Manage security posture by using Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/modules/microsoft-defender-cloud-security-posture/) <BR>|||
 ||- [Configure and manage threat protection by using Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/modules/microsoft-defender-cloud-threat-protection/) <BR>|||
-||- [Configure and manage security monitoring and automation solutions](https://learn.microsoft.com/en-us/training/modules/security-monitoring-automation-solutions/) <BR>|8|120|
+||- [Configure and manage security monitoring and automation solutions](https://learn.microsoft.com/en-us/training/modules/security-monitoring-automation-solutions/) <BR>|8|300|
