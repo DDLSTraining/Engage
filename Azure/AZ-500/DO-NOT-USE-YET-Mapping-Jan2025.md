@@ -4,7 +4,8 @@
 
 || Microsoft_Learn_Modules | [SKillable Lab](https://lumify.learnondemand.net/ Block Number|Lab Time (Min)|
 |---:|---|---:|---:|
-|Day 1|||- [Manage identities in Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/manage-identities-microsoft-entra-id/) <BR>|||
+|Day 1|
+||- [Manage identities in Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/manage-identities-microsoft-entra-id/) <BR>|||
 ||- [Manage authentication by using Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/manage-authentication-microsoft-entra-id/) <BR>|||
 ||- [Manage authorization by using Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/manage-authorization-microsoft-entra-id/) <BR>|||
 ||- [Manage application access in Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/manage-application-access-microsoft-entra-id/) <BR>|||
