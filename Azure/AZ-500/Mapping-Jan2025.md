@@ -2,7 +2,7 @@
 # Mapping learn.microsoft.com Modules to LODS CloudSlicing Labs
 
 
-|| Microsoft_Learn_Modules | [SKillable Lab](https://lumify.learnondemand.net/) <BR> Block Number|Lab Time (Min)|
+|| Microsoft_Learn_Modules | [Skillable Lab](https://lumify.learnondemand.net/) <BR> Block Number|Lab Time (Min)|
 |---:|---|---:|---:|
 |Day 1|
 ||- [Manage identities in Microsoft Entra ID](https://learn.microsoft.com/en-us/training/modules/manage-identities-microsoft-entra-id/) <BR>|||
