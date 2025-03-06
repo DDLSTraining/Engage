@@ -1,8 +1,8 @@
-##Supervised Learning Methods
+## Supervised Learning Methods
 **Linear Learner** is a type of machine learning model used for tasks like **regression** or **classification**, where the relationship between the input features and the output label is assumed to be linear. Essentially, a linear learner tries to find a linear mapping between input variables (features) and the target variable (label) based on a training dataset.
 
 ### How it works:
-A linear model predicts the target variable (let’s say \( y \)) as a linear combination of the input features (\( x_1, x_2, ..., x_n \)):
+A linear model predicts the target variable (letâ€™s say \( y \)) as a linear combination of the input features (\( x_1, x_2, ..., x_n \)):
 
 \[
 y = w_1 x_1 + w_2 x_2 + ... + w_n x_n + b
@@ -118,14 +118,14 @@ XGBoost is widely known for its speed, performance, and efficiency, especially o
 
 1. **Gradient Boosting**:
    - **Gradient boosting** is an ensemble learning method that builds a model by iteratively adding decision trees (or other weak learners). Each tree is trained to correct the errors (residuals) of the previous tree.
-   - In each iteration, the algorithm minimizes a **loss function** (e.g., mean squared error for regression or log loss for classification) using gradient descent. The goal is to improve the overall model’s performance by focusing on where the model makes the biggest errors.
+   - In each iteration, the algorithm minimizes a **loss function** (e.g., mean squared error for regression or log loss for classification) using gradient descent. The goal is to improve the overall modelâ€™s performance by focusing on where the model makes the biggest errors.
 
 2. **Ensemble of Trees**:
    - XGBoost creates an ensemble of decision trees, where each tree tries to predict the residuals or errors of the previous trees in the model. This iterative process continues until a pre-defined number of trees is built or the performance reaches an optimal point.
    
 3. **Boosting** vs **Bagging**:
    - In **boosting**, models (or trees) are built sequentially, with each new model correcting the errors of the previous one. This makes boosting algorithms like XGBoost prone to overfitting on noisy datasets if not tuned carefully.
-   - In **bagging** (like Random Forest), trees are built independently and their results are averaged, which reduces variance but doesn’t focus on correcting errors like boosting does.
+   - In **bagging** (like Random Forest), trees are built independently and their results are averaged, which reduces variance but doesnâ€™t focus on correcting errors like boosting does.
 
 ### Key Features of XGBoost:
 1. **Gradient Boosting with Regularization**:
