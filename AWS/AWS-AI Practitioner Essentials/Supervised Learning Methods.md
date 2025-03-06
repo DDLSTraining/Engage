@@ -65,6 +65,7 @@ Where:
 #### Explanation:
 - The first two terms represent a **linear model** that captures individual feature effects and their corresponding weights.
 - The second term is where the magic of Factorization Machines lies: it represents the **pairwise interactions** between features. The vectors \( v_i \) and \( v_j \) are learned representations (latent factors) that allow the model to capture interactions without explicitly needing to compute all pairwise feature combinations.
+## Factorization Machines
 
 ### Advantages of Factorization Machines:
 1. **Efficient Handling of Sparse Data**:
@@ -110,6 +111,9 @@ Where:
 
 ### Conclusion:
 Factorization Machines are a powerful and efficient model that can handle high-dimensional, sparse data, capturing interactions between features without explicitly constructing interaction terms. They are especially popular in recommendation systems and any domain where feature interactions play an important role, and they offer a good balance between performance and interpretability in many real-world applications.
+
+## XGBoost
+
 **XGBoost** (Extreme Gradient Boosting) is a powerful machine learning algorithm used for supervised learning tasks, particularly in **regression** and **classification**. It is an implementation of **gradient boosting**, a technique that builds a strong predictive model by combining multiple weak learners (usually decision trees) in an iterative fashion.
 
 XGBoost is widely known for its speed, performance, and efficiency, especially on large-scale datasets. It's a popular choice in machine learning competitions (like those hosted on Kaggle) because of its accuracy and scalability.
@@ -199,6 +203,9 @@ Where:
 
 ### Conclusion:
 **XGBoost** is an incredibly powerful machine learning algorithm based on **gradient boosting**. It combines **speed**, **accuracy**, and **efficiency**, making it one of the most popular algorithms in supervised learning, especially for large and complex datasets. By offering robust regularization, the ability to handle missing data, and support for parallelization, XGBoost is a go-to model for many real-world problems, especially in competitive machine learning scenarios.
+
+## K-Nearest Neighbors (K-NN)
+
 **K-Nearest Neighbors (K-NN)** is a simple, yet powerful, algorithm used in supervised learning for both **classification** and **regression** tasks. It is based on the concept of **instance-based learning**, where the model makes predictions based on the proximity (distance) of data points to each other.
 
 ### Key Concepts of K-Nearest Neighbors:
