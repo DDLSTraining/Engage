@@ -16,7 +16,7 @@
 
 1. Go to [Learn On Demand](https://lumify.learnondemand.net) **(Right Click to open in new tab)**
 2. Your DDLS instructor will give you the LearnOnDemand Key
-3. Do you have an existing account with ddls.learnondemand.net
+3. Do you have an existing account with lumify.learnondemand.net
   - if **NO:**
     - Click `Register with Training Key`  
     - Use the LearnOnDemand key that your trainer has given you at the start of the course
