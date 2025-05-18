@@ -7,9 +7,9 @@
 
 | Important Sites | Links |
 |---:|---|
-| Microsoft Learn AZ-040 | [MS Learn site](https://learn.microsoft.com/en-us/training/courses/az-040t00) |
-| Lab Instructions | [bit.ly/PSlabguide](https://bit.ly/PSlabguide) |
-| Online Labs | https://lumify.learnondemand.net/ |
+| Microsoft Learn AZ-040 | [[MS Learn site](https://learn.microsoft.com/en-us/training/courses/az-040t00)](https://learn.microsoft.com/en-us/training/courses/az-040t00) |
+| Lab Instructions | [[bit.ly/PSlabguide](https://bit.ly/PSlabguide)](https://bit.ly/PSlabguide) |
+| Online Labs | [https://lumify.learnondemand.net](https://lumify.learnondemand.net/) |
 <br>
 
 |Learning Path|Learn.microsoft.com modules | Skillable Labs|
