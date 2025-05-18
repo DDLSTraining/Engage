@@ -9,7 +9,7 @@
 **Shortcut Link to access the rewritten lab instructions** [bit.ly/PSlabguide](https://bit.ly/PSlabguide)  
 <br>
 
-|Old_Module No.|Learn.microsoft.com modules | Skillable Labs|
+|Learning Path|Learn.microsoft.com modules | Skillable Labs|
 |---:|---|---|
 |***Day 1***||[bit.ly/PSlabguide](https://bit.ly/PSlabguide)|
 |1|- [Review Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/review-windows-powershell/)<br>- [Understand the command syntax in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/understand-command-syntax-windows-powershell/)<br>- [Find commands and Get-Help in Windows PowerShell](https://learn.microsoft.com/en-us/training/modules/find-commands-get-help-windows-powershell/)|[Lab Block 1](https://lumify.learnondemand.net/) [^1]|
