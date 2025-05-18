@@ -1,5 +1,6 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png) 
-# AZ-040 PowerShell Course 
+# Automating Administration with PowerShell
+## Course AZ-040T00-A: Automating Administration with PowerShell
 
 
 ## Mapping learn.microsoft.com Modules to Skillable (LODS) CloudSlicing Labs
