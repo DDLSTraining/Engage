@@ -4,9 +4,11 @@
 
 ## Mapping learn.microsoft.com Modules to Skillable (LODS) CloudSlicing Labs
 <!--- [MS Learn site](https://learn.microsoft.com/en-au/training/courses/az-040t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=509519#study-guide) --->
-[MS Learn site](https://learn.microsoft.com/en-us/training/courses/az-040t00)
 
-**Shortcut Link to access the rewritten lab instructions** [bit.ly/PSlabguide](https://bit.ly/PSlabguide)  
+|---:|---|
+| Microsoft Learn AZ-040 | [MS Learn site](https://learn.microsoft.com/en-us/training/courses/az-040t00) |
+| Lab Instructions | [bit.ly/PSlabguide](https://bit.ly/PSlabguide) |
+| Online Labs | https://lumify.learnondemand.net/ |
 <br>
 
 |Learning Path|Learn.microsoft.com modules | Skillable Labs|
