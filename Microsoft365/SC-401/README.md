@@ -14,7 +14,6 @@
 * [Document Fingerprinting -DLP](https://docs.microsoft.com/en-us/microsoft-365/compliance/document-fingerprinting?view=o365-worldwide)
 
 ## Videos, Demos and extra information
-## Mod 1
 * [Learn about sensitivity labels](https://docs.microsoft.com/en-au/microsoft-365/compliance/sensitivity-labels-office-apps?azure-portal=true&view=o365-worldwide)
 * [Overview of retention policies](https://docs.microsoft.com/en-au/microsoft-365/compliance/classifier-get-started-with?azure-portal=true&view=o365-worldwide)
 * [Overview of retention labels](https://docs.microsoft.com/en-au/microsoft-365/compliance/retention?azure-portal=true&view=o365-worldwide)
@@ -76,8 +75,6 @@
 * [Understanding the Azure Information Protection unified labeling scanner - AIP | Microsoft Docs](https://docs.microsoft.com/en-au/azure/information-protection/deploy-aip-scanner?azure-portal=true)
 * [**Video: Microsoft Information Protection in SharePoint, OneDrive, and Teams. Part 1: Overview 19 minute**](https://www.youtube.com/watch?v=QDbOkIrt1S4)
 * [**Video: Discover and protect your on-premises data using Microsoft Information Protection 11 minutes**](https://www.youtube.com/watch?v=D8kyAlbstws)
-
-## Mod 2
 * [Overview of data loss prevention](https://docs.microsoft.com/en-us/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide)
 * [Microsoft 365 licensing guidance for security & compliance | Microsoft Docs](https://docs.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 * [**Video: Understanding and maximizing the value of Microsoft’s DLP Approach 15 Minutes**](https://www.youtube.com/watch?v=aI3OYUNhKnw)
@@ -93,8 +90,6 @@
 * [**Guided demonstration: Endpoint DLP 30 Mins**](https://ms-endpoint-dlp.azureedge.net/)
 * [**Video: Protect your sensitive data in the cloud with Microsoft's CASB 2 minutes**](https://www.youtube.com/watch?v=a6lK3TVVW-M)
 * [Configure and view alerts for DLP policies](https://docs.microsoft.com/en-us/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide)
-
-## Mod 3
 * [Overview of retention policies](https://docs.microsoft.com/en-au/microsoft-365/compliance/retention?azure-portal=true&view=o365-worldwide)
 * [Retention policy precedence](https://docs.microsoft.com/en-au/microsoft-365/compliance/retention?view=o365-worldwide#the-principles-of-retention-or-what-takes-precedence?azure-portal=true)
 * [Overview of retention labels](https://docs.microsoft.com/en-au/microsoft-365/compliance/retention?azure-portal=true&view=o365-worldwide)
@@ -138,7 +133,5 @@
 * [Get started with Microsoft Defender for Cloud Apps](https://docs.microsoft.com/en-us/cloud-app-security/getting-started-with-cloud-app-security)
 * [Microsoft Defender for Cloud Apps Ninja Training | June 2022](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-defender-for-cloud-apps-ninja-training-june-2022/ba-p/2751518))
 
-
 ## EDiscovery
-
 * [New Guide Adv EDiscovery - Use Chrome](https://content.cloudguides.com/en-us/guides/Advanced%20eDiscovery)
