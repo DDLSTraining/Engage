@@ -1,13 +1,13 @@
 # SC-401 Information Security Administrator
 ## Course Timings
 ### Day 1
-![SC-400](_images/Day1.png)
+![SC-401](_images/Day1.png)
 ### Day 2
-![SC-400](_images/Day2.png)
+![SC-401](_images/Day2.png)
 ### Day 3
-![SC-400](_images/Day3.png)
+![SC-401](_images/Day3.png)
 ### Day 4
-![SC-400](_images/Day4.png)
+![SC-401](_images/Day4.png)
 ## Resources
 * [Implementing MS Exact Data Match part 1](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implementing-microsoft-exact-data-match-edm-part-1/ba-p/1345360)
 * [Implementing MS Exact Data Match part 2](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/implementing-microsoft-exact-data-match-edm-part-2/ba-p/1350483)
