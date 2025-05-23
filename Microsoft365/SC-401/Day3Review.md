@@ -49,8 +49,7 @@ Adaptive Protection
 **Learning Path 4: Protect data in AI environments with Microsoft
 Purview**
 
-![](media/image1.png){width="1.6933333333333334in"
-height="1.6784722222222221in"}
+![](media/image1.png)
 
 | Fairness             |
 |----------------------|
