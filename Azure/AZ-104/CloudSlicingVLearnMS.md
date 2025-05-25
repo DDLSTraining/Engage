@@ -7,7 +7,7 @@
 |---:|---|---:|---|
 |**1**|
 ||**[Prerequisites for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-administrator-prerequisites/)** | ||
-|| Lab Topic: ARM Templates   |[Lab 4](https://lumify.learnondemand.net/)|70 min|
+|| **Lab Topic:** ARM Templates   |[Lab 4](https://lumify.learnondemand.net/)|70 min|
 ||**[Manage identities and governance in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-identities-governance/)** | ||
 ||    - [Understand Microsoft Entra ID](https://learn.microsoft.com/en-gb/training/modules/understand-azure-active-directory/) |||
 ||    - [Configure user and group accounts](https://learn.microsoft.com/en-gb/training/modules/configure-user-group-accounts/) |[Lab 1](https://lumify.learnondemand.net/)|45 min|
