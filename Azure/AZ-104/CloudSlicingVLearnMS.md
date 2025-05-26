@@ -9,7 +9,7 @@
 ||**[Prerequisites for Azure administrators](https://learn.microsoft.com/en-gb/training/paths/az-104-administrator-prerequisites/)** | ||
 || **Lab Topic:** ARM Templates   |[Lab 4](https://lumify.learnondemand.net/)|70 min|
 ||**[Manage identities and governance in Azure](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-identities-governance/)** | ||
-|| **Lab Topic:** Manage Microsoft Entra ID Identities (Requires MFA - Lab Optional)  |[Lab 1](https://lumify.learnondemand.net/)|45 min|
+|| Lab Topic: Manage Microsoft Entra ID Identities **(Requires MFA - Lab Optional)**  |[Lab 1](https://lumify.learnondemand.net/)|45 min|
 || **Lab Topic:** Manage Subscriptions and RBAC |[Lab 2](https://lumify.learnondemand.net/)|45 min|
 || **Lab Topic:** Manage Governance via Azure Policy |[Lab 3](https://lumify.learnondemand.net/)|45 min|
 |**2**|
