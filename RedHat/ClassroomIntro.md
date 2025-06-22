@@ -3,10 +3,7 @@
 > [!Important]
 > https://rol.redhat.com/rol/app/ <br>
 > This website will give you access to the labs and various resources <br>
-> Labs <br>
-> Survey <br>
-> Training manual  <br>
-
+> Labs, Survey, Training manual  <br>
 
 # Please tell the class a little about you and your background
 
