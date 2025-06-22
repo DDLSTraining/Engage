@@ -1,10 +1,3 @@
-# Red Hat Labs
-
-> [!Important]
-> https://rol.redhat.com/rol/app/ <br>
-> This website will give you access to the labs and various resources <br>
-> Labs, Survey, Training manual  <br>
-
 # Please tell the class a little about you and your background
 
 - Your name (Help us with the correct pronoucation of your name, if needed)
