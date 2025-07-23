@@ -23,9 +23,9 @@
 ||**[Deploy and manage Azure compute resources](https://learn.microsoft.com/en-gb/training/paths/az-104-manage-compute-resources/)** | ||
 || **Lab Topic:** Manage Virtual Machines |[Lab 9](https://lumify.learnondemand.net/)|70 min|
 |**4**|
-|| **Lab Topic:** Implement Web Apps| [Labs 10](https://lumify.learnondemand.net/)|20 min|
-|| **Lab Topic:** Implement Azure Container Instances  | [Labs 11](https://lumify.learnondemand.net/)|20 min|
-|| **Lab Topic:** Implement Azure Container Apps| [Labs 12](https://lumify.learnondemand.net/)|30 min|
+|| **Lab Topic:** Implement Web Apps| [Lab 10](https://lumify.learnondemand.net/)|20 min|
+|| **Lab Topic:** Implement Azure Container Instances  | [Lab 11](https://lumify.learnondemand.net/)|20 min|
+|| **Lab Topic:** Implement Azure Container Apps| [Lab 12](https://lumify.learnondemand.net/)|30 min|
 ||**[Monitor and back up Azure resources](https://learn.microsoft.com/en-gb/training/paths/az-104-monitor-backup-resources/)** | ||
 || **Lab Topic:** Implement Data Protection |[Lab 13](https://lumify.learnondemand.net/)|70 min|
 || **Lab Topic:** Implement Monitoring |[Lab 14](https://lumify.learnondemand.net/)|60 min|
