@@ -9,7 +9,7 @@
 
 **ChatGPT:** [**https://auth.openai.com/log-in-or-create-account**](https://auth.openai.com/log-in-or-create-account)
 
-**Nana Banana: part of Gemini AI** [**https://nanabanana.ai/home**](https://nanabanana.ai/home)
+**Nana Banana: part of Gemini AI** [**https://gemini.google.com/app**](https://gemini.google.com/app)
 
 **HeyGen** [**https://www.heygen.com/**](https://www.heygen.com/)
 
