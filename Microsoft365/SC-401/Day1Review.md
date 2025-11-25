@@ -2,15 +2,13 @@
 
 **Day 1 Review**
 
-My.lumifywork.com
+* [Lumify Student Portal My.lumifywork.com](https://my.lumifywork.com)
 
-Lumify Hub
+* [Labs - Lumify.LearnonDemand.net](https://lumify.learnondemand.net)
 
-Lumify.LearnonDemand.net
+* [Github DDLS Engage](https://https://github.com/DDLSTraining/Engage)
 
-Github DDLS Engage
-
-Github Microsoft Learning SC-401
+* [Github Microsoft Learning SC-401](https://github.com/MicrosoftLearning/SC-401T00-Information-Security-Administrator)
 
 Exam SC-401
 
@@ -66,3 +64,5 @@ Document Fingerprint
 Exercise 1: Manage Compliance Roles
 
 Exercise 2: Manage sensitive information types
+
+Exercise 3:  
