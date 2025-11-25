@@ -1,4 +1,4 @@
-# SC-401 Microsoft Information Protection
+# SC-401 Information Security Administrator
 ## Course Timings
 ### Day 1
 ![SC-400](_images/Day1.png)
